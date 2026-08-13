@@ -1,4 +1,8 @@
 <header class="masthead">
+	{{ with .Params.years }}<p class="masthead__years">{{ . }}</p>{{ end }}
 	<h1 class="masthead__title">{{ .Title }}</h1>
 	{{ with .Description }}<p class="masthead__description">{{ . | markdownify }}</p>{{ end }}
+	{{ with .Params.context }}
+		<p class="case-page__where"><span class="label"><span>Contexte</span></span> {{ . }}</p>
+	{{ end }}
 </header>

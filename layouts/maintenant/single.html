@@ -2,10 +2,10 @@
 <article class="page month">
 
 	<header class="month__head">
-		<p class="month__when">
+		<h1 class="month__when">
 			<span class="month__name">{{ .Params.monthName | strings.FirstUpper }}</span>
 			<span class="month__year">{{ .Params.year }}</span>
-		</p>
+		</h1>
 		{{ with partial "tally.html" . }}
 			{{ $tally := . }}
 			<dl class="tally">

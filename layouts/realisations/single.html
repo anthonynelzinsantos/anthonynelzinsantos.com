@@ -1,15 +1,10 @@
 {{ define "main" }}
 <article class="page case-page">
-	<header class="masthead">
-		<p class="masthead__years">{{ .Params.years }}</p>
-		<h1 class="masthead__title">{{ .Title }}</h1>
-		{{ with .Description }}<p class="masthead__description">{{ . }}</p>{{ end }}
-		{{ with .Params.context }}<p class="case-page__where"><span class="label"><span>Contexte</span></span> {{ . }}</p>{{ end }}
-	</header>
+	{{ partial "masthead.html" . }}
 
 	{{ if .Params.wip }}
 		<p class="wip">
-			Cette étude de cas est en chantier&nbsp;: le dispositif existe, son récit
+			Cette étude de cas est en chantier&#8239;: le dispositif existe, son récit
 			pas encore. <a href="mailto:anthony@nelzin.fr">Écrivez-moi</a> si vous
 			voulez que je la raconte de vive voix en attendant.
 		</p>

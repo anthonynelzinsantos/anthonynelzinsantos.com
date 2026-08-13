@@ -7,6 +7,7 @@
 	--muted: #6f6673;
 	--rule: #d5cfd6;
 	--on-red: #f6f5f1;
+	--accent: #5D1239;
 
 	--serif: Charter, "Bitstream Charter", "Sitka Text", Cambria, "Hoefler Text", Georgia, serif;
 	--sans: Verdana, Geneva, "DejaVu Sans", sans-serif;
@@ -40,6 +41,7 @@
 		--muted: #968b9b;
 		--rule: #332b38;
 		--on-red: #17121b;
+		--accent: #D06299;
 	}
 }
 
@@ -80,7 +82,7 @@ summary,
 	z-index: 20;
 	padding: var(--scale-xs) var(--scale-m);
 	background: var(--red);
-	color: var(--chalk);
+	color: var(--on-red);
 	font-family: var(--mono);
 	font-size: var(--scale-xs);
 	text-decoration: none;
@@ -117,7 +119,7 @@ summary,
 	font-size: var(--scale-xs);
 	letter-spacing: .22em;
 	text-transform: uppercase;
-	opacity: .72;
+	opacity: .8;
 }
 .spine__inner .logo { transform: rotate(90deg); }
 .spine:hover .spine__name { text-decoration: underline; text-underline-offset: .3em; }
@@ -169,6 +171,16 @@ summary,
 	background: var(--rule);
 }
 .label a { color: inherit; }
+
+/* ------------------------------------------------------------ meta */
+
+.card__meta,
+.masthead__years,
+.role__years {
+	font-family: var(--mono);
+	font-size: var(--scale-s);
+	color: var(--accent);
+}
 
 /* ----------------------------------------------------------- links */
 
@@ -245,8 +257,8 @@ summary,
 .card:hover, .card:focus-visible {
 	background: var(--plum);
 	color: var(--chalk);
-	outline: none;
 }
+.card:hover { outline: none; }
 
 .card__logo {
 	width: 2.75rem;
@@ -256,11 +268,6 @@ summary,
 	background: var(--chalk);
 	padding: .3rem;
 	object-fit: contain;
-}
-.card__meta {
-	font-family: var(--mono);
-	font-size: var(--scale-s);
-	color: var(--plum);
 }
 .card__title { font-size: var(--scale-l); letter-spacing: -.015em; }
 .card__what {
@@ -288,12 +295,12 @@ summary,
 .card__flag::before { content: "◊\00a0"; color: var(--red); }
 .card__arrow { font-family: var(--mono); opacity: 0; transition: opacity .12s; }
 
-.card:hover .card__meta,
-.card:hover .card__what,
-.card:hover .card__where,
-.card:hover .card__flag { color: inherit; opacity: .85; }
-.card:hover .card__flag::before { color: inherit; }
-.card:hover .card__arrow { opacity: 1; }
+:is(.card:hover, .card:focus-visible) :is(.card__meta, .card__what, .card__where, .card__flag) {
+	color: inherit;
+	opacity: .85;
+}
+:is(.card:hover, .card:focus-visible) .card__flag::before { color: inherit; }
+:is(.card:hover, .card:focus-visible) .card__arrow { opacity: 1; }
 
 /* --------------------------------------------------- month preview */
 
@@ -303,13 +310,7 @@ summary,
 /* -------------------------------------------------------- masthead */
 
 .masthead { margin-bottom: var(--scale-3xl); }
-.masthead__years {
-	margin: 0 0 var(--scale-xs);
-	font-family: var(--mono);
-	font-size: var(--scale-s);
-	color: var(--plum);
-	letter-spacing: .1em;
-}
+.masthead__years { margin: 0 0 var(--scale-xs); letter-spacing: .1em; }
 .masthead__title {
 	margin: 0;
 	max-width: var(--measure);
@@ -343,9 +344,6 @@ summary,
 	display: flex;
 	flex-wrap: wrap;
 	gap: .35rem;
-	font-family: var(--mono);
-	font-size: var(--scale-s);
-	color: var(--plum);
 	line-height: 1.4;
 }
 .role__dash { color: var(--rule); }
@@ -371,6 +369,23 @@ summary,
 	border-bottom: 1px solid var(--rule);
 }
 .words li::before { content: "— "; color: var(--red); }
+
+.case-page__where {
+	margin: var(--scale-m) 0 0;
+	font-size: var(--scale-s);
+	color: var(--muted);
+}
+.case-page__where .label { display: inline-flex; margin: 0 .5rem 0 0; }
+.case-page__where .label::after { display: none; }
+
+.wip {
+	max-width: var(--measure);
+	margin-top: var(--scale-l);
+	padding: var(--scale-m) var(--scale-l);
+	border-left: 3px solid var(--red);
+	background: color-mix(in srgb, var(--plum) 7%, transparent);
+	font-size: var(--scale-m);
+}
 
 /* ---------------------------------------------------------- months */
 
@@ -410,7 +425,7 @@ summary,
 	font-size: var(--scale-xs);
 	letter-spacing: .18em;
 	text-transform: uppercase;
-	opacity: .72;
+	opacity: .8;
 }
 
 .month__body { max-width: var(--measure); }
@@ -632,7 +647,7 @@ summary,
 	font-size: var(--scale-xs);
 	text-align: center;
 }
-.viewer__index { opacity: .6; font-variant-numeric: tabular-nums; }
+.viewer__index { opacity: .8; font-variant-numeric: tabular-nums; }
 .viewer__caption { font-family: var(--sans); font-size: var(--scale-s); }
 .viewer__caption em { font-style: italic; }
 
