@@ -13,6 +13,7 @@
 	<link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
 	<meta name="theme-color" content="#5D1239">
 	{{ with .OutputFormats.Get "rss" }}<link rel="alternate" type="application/rss+xml" href="{{ .RelPermalink }}" title="{{ $.Site.Title }}">{{ end }}
+	<script src="https://tinylytics.app/embed/tnt2Mj6UWXsrwjds-u5H.js" defer></script>
 </head>
 <body class="{{ if .IsHome }}is-home{{ end }}">
 
