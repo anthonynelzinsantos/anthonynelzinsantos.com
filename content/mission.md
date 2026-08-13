@@ -1,8 +1,7 @@
 ---
 title: "Ma mission"
 summary: "Comprenez mes motivations et mes valeurs."
-description: "Concevoir des systèmes pédagogiques robustes, qui apprennent à apprendre."
-standfirst: "Je conçois des dispositifs pédagogiques innovants qui transforment les savoirs complexes en apprentissages accessibles."
+description: "Je conçois des dispositifs pédagogiques innovants qui transforment les savoirs complexes en apprentissages accessibles."
 skills: ["Apprentissage", "Transmission", "Adaptabilité", "Solutions concrètes", "Créativité"]
 expertise: ["Dispositifs innovants", "Méthodologie du savoir", "Organisation de la connaissance", "Documentation", "Normes rédactionnelles"]
 ---
@@ -20,7 +19,7 @@ dispositifs pédagogiques qui permettent de maintenir la qualité dans la durée
 Ces systèmes transforment les bonnes pratiques en standards reproductibles et
 adaptables.
 
-J’aime concevoir des programmes de formation qui « apprennent à apprendre » pour
+J’aime concevoir des programmes de formation qui « apprennent à apprendre » pour
 générer des retombées durables. Mon objectif est de créer des dispositifs qui
 facilitent l’autonomisation des apprenants, répondent à leurs besoins réels, et
 leur donnent la confiance nécessaire pour créer leurs propres solutions.

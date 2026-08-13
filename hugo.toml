@@ -54,8 +54,8 @@ enableEmoji = true
 
 [markup.goldmark.extensions.typographer]
   disable = false
-  leftDoubleQuote  = "«&nbsp;"
-  rightDoubleQuote = "&nbsp;»"
+  leftDoubleQuote  = "«&#8239;"
+  rightDoubleQuote = "&#8239;»"
 
 [outputs]
   home = ["HTML", "RSS"]

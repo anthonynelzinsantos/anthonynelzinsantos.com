@@ -2,8 +2,7 @@
 title: "Mon parcours"
 layout: "parcours"
 summary: "Découvrez mon parcours professionnel et mes expériences pédagogiques."
-description: "Seize ans d’enseignement, d’édition et de journalisme technologique."
-standfirst: "Seize ans passés à faire tenir ensemble l’enseignement, l’édition et le journalisme technologique."
+description: "La pédagogie comme fil rouge d’expériences diverses et variées."
 sections:
   - heading: "Apave"
     roles:
@@ -12,7 +11,7 @@ sections:
         start: "2026"
         end: ""
         points:
-          - "Responsable du pôle « Création multimédia » du service « Ingénierie et innovation pédagogiques » (S2iP)."
+          - "Responsable du pôle « Création multimédia » du service « Ingénierie et innovation pédagogiques » (S2iP)."
           - "Management d’une équipe de neuf personnes."
           - "Gestion de projets de formation pour des clients grands comptes."
           - "Chef de projets pédagogiques."
@@ -58,7 +57,7 @@ sections:
         end: "2025"
         points:
           - "Rédaction de livres, de dossiers, de reportages et d’interviews."
-          - "Réorganisation des méthodes de travail."
+          - "Réorganisation des méthodes de travail de la rédaction."
           - "Conception d’une campagne de sociofinancement ayant permis de lever 120 000 €."
           - "Conception et rédaction en chef des guides d’achat."
           - "Conception et rédaction en chef du magazine de MacGeneration."
@@ -79,7 +78,7 @@ sections:
         end: "2021"
         points:
           - "Rédaction d’articles, de tests, de reportages et d’interviews."
-          - "Conception de l’offre premium « Club iGen »."
+          - "Conception de l’offre premium « Club iGen »."
           - "Conception d’une campagne de sociofinancement ayant permis de lever plus de 165 000 €."
           - "Conception de l’identité graphique de MacGeneration."
           - "Gestion d’une communauté d’entraide comptant plus de 150 000 membres et 15 modérateurs."
@@ -105,6 +104,7 @@ sections:
         start: "2005"
         end: "2009"
         points:
-          - "Conception d’un site de tutoriels vidéo."
+          - "Conception du premier site de tutoriels vidéo en France."
+          - "Graphisme et communication d’entreprise"
           - "Intégration WordPress, Drupal et Joomla."
 ---

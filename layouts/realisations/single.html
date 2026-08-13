@@ -3,7 +3,7 @@
 	<header class="masthead">
 		<p class="masthead__years">{{ .Params.years }}</p>
 		<h1 class="masthead__title">{{ .Title }}</h1>
-		{{ with .Params.subtitle }}<p class="masthead__standfirst">{{ . }}</p>{{ end }}
+		{{ with .Description }}<p class="masthead__description">{{ . }}</p>{{ end }}
 		{{ with .Params.context }}<p class="case-page__where"><span class="label"><span>Contexte</span></span> {{ . }}</p>{{ end }}
 	</header>
 

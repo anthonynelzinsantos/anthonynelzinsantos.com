@@ -19,15 +19,15 @@
 	{{ end }}
 
 	{{ with .Params.projects }}
-		<ul class="projects">
+		<ul class="cards">
 			{{ range . }}
-				<li class="project">
-					<a href="{{ .url }}">
-						<span class="project__name">{{ .name }}</span>
-						<span class="project__what">{{ .what }}</span>
-						<span class="project__url">{{ replaceRE `^https?://|/$` "" .url }}</span>
-					</a>
-				</li>
+				{{ partial "card.html" (dict
+					"url" .url
+					"icon" .icon
+					"meta" .years
+					"title" .name
+					"what" .what
+					"where" (replaceRE `^https?://|/$` "" .url)) }}
 			{{ end }}
 		</ul>
 	{{ end }}

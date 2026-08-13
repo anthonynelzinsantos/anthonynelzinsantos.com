@@ -1,0 +1,19 @@
+<li>
+	<a class="card" href="{{ .url }}">
+		{{ with .icon }}
+			{{ with resources.Get . }}
+				{{ $logo := . }}
+				{{ if eq $logo.MediaType.SubType "png" }}
+					{{ $logo = $logo.Fill "120x120 png" }}
+				{{ end }}
+				<img class="card__logo" src="{{ $logo.RelPermalink }}" alt="" width="60" height="60" loading="lazy" decoding="async">
+			{{ end }}
+		{{ end }}
+		{{ with .meta }}<span class="card__meta">{{ . }}</span>{{ end }}
+		<span class="card__title">{{ .title }}</span>
+		{{ with .what }}<span class="card__what">{{ . }}</span>{{ end }}
+		{{ with .where }}<span class="card__where">{{ . }}</span>{{ end }}
+		{{ with .flag }}<span class="card__flag">{{ . }}</span>{{ end }}
+		{{ if .arrow }}<span class="card__arrow" aria-hidden="true">→</span>{{ end }}
+	</a>
+</li>

@@ -14,7 +14,7 @@ photos:
   "2608-4.jpg": "Les vélos sont rarement attachés à Anvers, et quand ils le sont, c’est seulement pour arrêter les gens honnêtes."
   "2608-5.jpg": "La restauration de *L’adoration des mages* de Pierre Paul Rubens au KSMKA."
   "2608-6.jpg": "Le plafond du dernier étage du KSMKA."
-  "2608-7.jpg": "« Baissez la tête en entrant. »"
+  "2608-7.jpg": "« Baissez la tête en entrant. »"
   "2608-8.jpg": "À l’église Saint-Charles Borromée."
   "2608-9.jpg": "Quand soudain…"
   "2608-10.jpg": "Au pied du MAS."

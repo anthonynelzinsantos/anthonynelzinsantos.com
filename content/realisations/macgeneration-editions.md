@@ -1,6 +1,6 @@
 ---
 title: "MacGeneration Éditions"
-subtitle: "réinventer le manuel informatique"
+description: "Réinventer le manuel informatique"
 years: "2011-2023"
 context: "MacGeneration"
 weight: 70

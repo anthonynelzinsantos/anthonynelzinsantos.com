@@ -6,15 +6,17 @@
 
 {{ $expanded := .Site.GetPage "/maintenant" }}
 <nav class="index" aria-label="Sommaire">
-	{{ range .Site.Menus.main }}
-		{{ if ne .Page $expanded }}
-			<a class="entry" href="{{ .URL }}">
-				<span class="entry__title">{{ .Name }}</span>
-				<span class="entry__what">{{ .Page.Params.summary }}</span>
-				<span class="entry__arrow" aria-hidden="true">→</span>
-			</a>
+	<ul class="cards">
+		{{ range .Site.Menus.main }}
+			{{ if ne .Page $expanded }}
+				{{ partial "card.html" (dict
+					"url" .URL
+					"title" .Name
+					"what" .Page.Params.summary
+					"arrow" true) }}
+			{{ end }}
 		{{ end }}
-	{{ end }}
+	</ul>
 </nav>
 
 {{ with $expanded }}

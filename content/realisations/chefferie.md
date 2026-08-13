@@ -1,6 +1,6 @@
 ---
 title: "Chefferie"
-subtitle: "apprendre l’encadrement dans un cadre bienveillant"
+description: "Apprendre l’encadrement dans un cadre bienveillant"
 years: "2023-2025"
 context: "Université Lumière Lyon 2"
 weight: 10
