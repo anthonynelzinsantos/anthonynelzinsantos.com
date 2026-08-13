@@ -76,11 +76,18 @@
 			if (img) { img.src = img.dataset.src; delete img.dataset.src; }
 		};
 		const at = () => Math.round(rail.scrollLeft / rail.clientWidth);
+		let startX = 0, startY = 0, shift = 0, axis = null, swiped = false;
+		const settle = () => {
+			rail.style.transition = '';
+			rail.style.transform = '';
+			box.style.opacity = '';
+		};
 		const loadAround = (i) => { for (const j of [i, i - 1, i + 1]) if (views[j]) load(views[j]); };
 
 		for (const thumb of document.querySelectorAll('.gallery__thumb')) {
 			thumb.onclick = () => {
 				const i = Number(thumb.dataset.index);
+				settle();
 				loadAround(i);
 				box.showModal();
 				goTo(i, false);
@@ -89,7 +96,10 @@
 		}
 		rail.addEventListener('scroll', () => loadAround(at()), { passive: true });
 		box.querySelector('.viewer__close').onclick = () => box.close();
-		box.onclick = (e) => { if (!e.target.closest('img, button')) box.close(); };
+		box.onclick = (e) => {
+			if (swiped) { swiped = false; return; }
+			if (!e.target.closest('img, button')) box.close();
+		};
 		rail.onkeydown = (e) => {
 			const step = { ArrowLeft: -1, ArrowRight: 1 }[e.key];
 			if (!step) return;
@@ -98,6 +108,48 @@
 			if (i >= 0 && i < views.length) goTo(i, true);
 		};
 		addEventListener('resize', () => { if (box.open) goTo(at(), false); });
+
+
+		box.addEventListener('touchstart', (e) => {
+			if (e.touches.length !== 1) return;
+			startX = e.touches[0].clientX;
+			startY = e.touches[0].clientY;
+			shift = 0;
+			axis = null;
+			rail.style.transition = 'none';
+		}, { passive: true });
+
+		box.addEventListener('touchmove', (e) => {
+			if (e.touches.length !== 1) return;
+			const dx = e.touches[0].clientX - startX;
+			const dy = e.touches[0].clientY - startY;
+			if (!axis && Math.max(Math.abs(dx), Math.abs(dy)) > 8) {
+				axis = Math.abs(dy) > Math.abs(dx) ? 'y' : 'x';
+			}
+			if (axis !== 'y' || dy <= 0) return;
+			e.preventDefault();
+			shift = dy;
+			swiped = true;
+			rail.style.transform = `translateY(${shift}px)`;
+			box.style.opacity = String(Math.max(0.3, 1 - shift / 500));
+		}, { passive: false });
+
+		const release = () => {
+			if (axis !== 'y') return;
+			axis = null;
+			if (shift > 110) {
+				rail.style.transition = 'transform .2s ease-out';
+				rail.style.transform = 'translateY(100dvh)';
+				box.style.opacity = '0';
+				setTimeout(() => box.close(), 180);
+				return;
+			}
+			rail.style.transition = 'transform .2s ease-out';
+			rail.style.transform = '';
+			box.style.opacity = '';
+		};
+		box.addEventListener('touchend', release);
+		box.addEventListener('touchcancel', release);
 	}
 }
 </script>
