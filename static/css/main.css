@@ -643,7 +643,6 @@ summary,
 
 @media (min-width: 761px) {
 	.cards { display: grid; grid-template-columns: 1fr 1fr; }
-	.cards li:nth-child(2) { border-top: 1px solid var(--rule); }
 	.cards li:nth-child(odd) { border-right: 1px solid var(--rule); }
 	.cards li:nth-child(odd) .card { padding-right: var(--scale-2xl); }
 	.cards li:nth-child(even) .card { padding-left: var(--scale-2xl); }
