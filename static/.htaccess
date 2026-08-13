@@ -1,0 +1,189 @@
+# ═════════════════════════════════════════════════════════════════════
+#  1. Hardening
+# ═════════════════════════════════════════════════════════════════════
+
+# Don't reveal Apache version or OS in error pages and headers.
+ServerSignature Off
+
+# No directory listing if an index file is missing — show 403 instead.
+Options -Indexes
+
+# Disallow following symlinks to anything the request didn't already
+# match (defence against symlink-race attacks on shared hosting).
+Options +SymLinksIfOwnerMatch
+
+# Deny TRACE/TRACK (cross-site tracing). Tested and found ineffective on
+# Apache 2.4: TRACE is answered by the core before .htaccess rewriting
+# runs, and the real control, TraceEnable Off, is server-config only.
+# Kept because it costs nothing and works on some setups — ask the host
+# for TraceEnable Off if it matters. Apache never echoes the request
+# body, and browsers refuse TRACE from script, so XST is not reachable.
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REQUEST_METHOD} ^(TRACE|TRACK)$
+    RewriteRule .* - [F,L]
+</IfModule>
+
+# Block access to dotfiles (.git, .env, .htaccess itself, .DS_Store…).
+<FilesMatch "^\.">
+    Require all denied
+</FilesMatch>
+
+# Block access to build/config/backup files. Note that .xml is NOT in
+# this list: index.xml and sitemap.xml have to be served.
+<FilesMatch "(?i)\.(bak|backup|swp|swo|tmp|orig|save|old|log|sql|sql\.gz|tar|tar\.gz|zip|rar|7z|toml|yaml|yml|ini|conf|config|json|lock|mjs)$">
+    Require all denied
+</FilesMatch>
+
+# Block hostile probes for WordPress/PHP admin paths so they 403 fast
+# rather than burning bandwidth on 404 pages.
+<IfModule mod_rewrite.c>
+    RewriteRule ^(wp-admin|wp-login|wp-content|wp-includes|xmlrpc\.php|administrator|phpmyadmin|phpinfo\.php) - [F,L,NC]
+</IfModule>
+
+# ═════════════════════════════════════════════════════════════════════
+#  2. Security headers
+# ═════════════════════════════════════════════════════════════════════
+
+<IfModule mod_headers.c>
+
+    # ── HSTS ──────────────────────────────────────────────────────────
+    Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+
+    # ── MIME-type sniffing ────────────────────────────────────────────
+    Header always set X-Content-Type-Options "nosniff"
+
+    # ── Referrer ──────────────────────────────────────────────────────
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+
+    # ── Permissions-Policy ────────────────────────────────────────────
+    Header always set Permissions-Policy "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=(), interest-cohort=()"
+
+    # ── Content-Security-Policy ───────────────────────────────────────
+    # 'unsafe-inline' is required twice here: the viewer script is inline
+    # in baseof.html, and the record table sets its density through an
+    # inline style attribute on every cell.
+    Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://tinylytics.app; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://tinylytics.app; font-src 'self'; connect-src 'self' https://tinylytics.app; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'; upgrade-insecure-requests"
+
+    # ── Legacy clickjacking header (still useful for old browsers) ────
+    Header always set X-Frame-Options "DENY"
+
+    # ── Cross-Origin isolation ────────────────────────────────────────
+    Header always set Cross-Origin-Opener-Policy "same-origin"
+    Header always set Cross-Origin-Resource-Policy "same-origin"
+
+    # Remove headers that leak server info.
+    Header always unset X-Powered-By
+    Header always unset Server
+
+</IfModule>
+
+# ═════════════════════════════════════════════════════════════════════
+#  3. Compression — Brotli where available, gzip otherwise
+# ═════════════════════════════════════════════════════════════════════
+
+<IfModule mod_brotli.c>
+    AddOutputFilterByType BROTLI_COMPRESS text/html text/css text/plain text/xml
+    AddOutputFilterByType BROTLI_COMPRESS text/javascript application/javascript application/x-javascript
+    AddOutputFilterByType BROTLI_COMPRESS application/json application/ld+json application/manifest+json
+    AddOutputFilterByType BROTLI_COMPRESS application/xml application/rss+xml application/atom+xml
+    AddOutputFilterByType BROTLI_COMPRESS image/svg+xml image/x-icon
+</IfModule>
+
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml
+    AddOutputFilterByType DEFLATE text/javascript application/javascript application/x-javascript
+    AddOutputFilterByType DEFLATE application/json application/ld+json application/manifest+json
+    AddOutputFilterByType DEFLATE application/xml application/rss+xml application/atom+xml
+    AddOutputFilterByType DEFLATE image/svg+xml image/x-icon
+</IfModule>
+
+# AVIF and JPEG are already compressed — running them through gzip
+# costs CPU and gains nothing.
+<IfModule mod_headers.c>
+    <FilesMatch "\.(html|css|js|svg|xml|webmanifest)$">
+        Header append Vary Accept-Encoding
+    </FilesMatch>
+</IfModule>
+
+# ═════════════════════════════════════════════════════════════════════
+#  4. Caching — long for image variants, short for HTML and feeds
+# ═════════════════════════════════════════════════════════════════════
+
+<IfModule mod_expires.c>
+    ExpiresActive On
+
+    ExpiresDefault                          "access plus 1 hour"
+
+    ExpiresByType text/html                 "access plus 5 minutes"
+
+    ExpiresByType application/rss+xml       "access plus 30 minutes"
+    ExpiresByType application/atom+xml      "access plus 30 minutes"
+    ExpiresByType application/xml           "access plus 30 minutes"
+    ExpiresByType text/xml                  "access plus 1 day"
+
+    ExpiresByType image/jpeg                "access plus 1 year"
+    ExpiresByType image/png                 "access plus 1 year"
+    ExpiresByType image/webp                "access plus 1 year"
+    ExpiresByType image/avif                "access plus 1 year"
+    ExpiresByType image/svg+xml             "access plus 1 month"
+    ExpiresByType image/x-icon              "access plus 1 year"
+
+    ExpiresByType application/manifest+json "access plus 1 week"
+
+    ExpiresByType text/css                  "access plus 1 week"
+    ExpiresByType application/javascript    "access plus 1 week"
+</IfModule>
+
+<IfModule mod_headers.c>
+    # Hugo's processed images follow name_hu_HASH.ext. They are
+    # content-addressed and safe to cache forever.
+    <FilesMatch "_hu_[a-f0-9]+(_[0-9a-z]+)?\.(jpg|jpeg|png|webp|avif)$">
+        Header set Cache-Control "public, max-age=31536000, immutable"
+    </FilesMatch>
+
+    # HTML and feeds revalidate.
+    <FilesMatch "\.(html|xml)$">
+        Header set Cache-Control "public, max-age=300, must-revalidate"
+    </FilesMatch>
+</IfModule>
+
+# ═════════════════════════════════════════════════════════════════════
+#  5. ETag — let Cache-Control drive freshness
+# ═════════════════════════════════════════════════════════════════════
+
+<IfModule mod_headers.c>
+    Header unset ETag
+</IfModule>
+FileETag None
+
+# ═════════════════════════════════════════════════════════════════════
+#  6. MIME types Apache sometimes mis-serves
+# ═════════════════════════════════════════════════════════════════════
+
+<IfModule mod_mime.c>
+    AddType image/svg+xml           .svg .svgz
+    AddType image/webp              .webp
+    AddType image/avif              .avif
+    AddType application/manifest+json .webmanifest
+    AddCharset utf-8 .html .css .js .xml .svg .txt .webmanifest
+</IfModule>
+
+AddDefaultCharset utf-8
+
+# ═════════════════════════════════════════════════════════════════════
+#  7. Redirects
+# ═════════════════════════════════════════════════════════════════════
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    RewriteRule ^rss/?$  /index.xml [R=301,L]
+    RewriteRule ^feed/?$ /index.xml [R=301,L]
+</IfModule>
+
+# ═════════════════════════════════════════════════════════════════════
+#  8. Pretty 404
+# ═════════════════════════════════════════════════════════════════════
+
+ErrorDocument 404 /404.html

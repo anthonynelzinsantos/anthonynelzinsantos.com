@@ -1,0 +1,12 @@
+{{ define "main" }}
+<article class="page">
+	<header class="masthead">
+		<h1 class="masthead__title">Erreur 404</h1>
+		<p class="masthead__description">Cette page est introuvable.</p>
+	</header>
+	<div class="prose">
+		<p>Vous pouvez <a href="{{ "/" | relURL }}">retourner à l’accueil</a> ou parcourir <a href="{{ "/maintenant/" | relURL }}">l’historique des pages «&#8239;maintenant&#8239;»</a>.
+		</p>
+	</div>
+</article>
+{{ end }}
