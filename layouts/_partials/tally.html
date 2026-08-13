@@ -1,0 +1,12 @@
+{{ $tally := .Params.tally | default dict }}
+{{ $photos := len (.Resources.ByType "image") }}
+{{ if $photos }}
+	{{ $tally = merge $tally (dict "photos" $photos) }}
+{{ else }}
+	{{ $kept := dict }}
+	{{ range $key, $value := $tally }}
+		{{ if ne $key "photos" }}{{ $kept = merge $kept (dict $key $value) }}{{ end }}
+	{{ end }}
+	{{ $tally = $kept }}
+{{ end }}
+{{ return $tally }}

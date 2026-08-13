@@ -1,0 +1,74 @@
+{
+  "albums": [],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2018-06-02",
+      "date": "2018-06-02",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2018-06-03",
+      "date": "2018-06-03",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2018-06-10",
+      "date": "2018-06-10",
+      "count": 3
+    },
+    {
+      "title": "contributions du 2018-06-11",
+      "date": "2018-06-11",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2018-06-12",
+      "date": "2018-06-12",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2018-06-13",
+      "date": "2018-06-13",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2018-06-17",
+      "date": "2018-06-17",
+      "count": 6
+    },
+    {
+      "title": "contributions du 2018-06-18",
+      "date": "2018-06-18",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2018-06-19",
+      "date": "2018-06-19",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2018-06-21",
+      "date": "2018-06-21",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2018-06-26",
+      "date": "2018-06-26",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2018-06-27",
+      "date": "2018-06-27",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2018-06-30",
+      "date": "2018-06-30",
+      "count": 4
+    }
+  ]
+}

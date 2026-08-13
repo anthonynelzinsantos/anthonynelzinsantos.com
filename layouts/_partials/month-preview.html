@@ -1,0 +1,12 @@
+{{ $month := .month }}
+<section class="preview{{ with .modifier }} preview--{{ . }}{{ end }}">
+	{{ with .section }}
+		<p class="label">
+			<span><a href="{{ .RelPermalink }}">{{ .Title }}</a></span>
+		</p>
+	{{ end }}
+	{{ partial "month-article.html" (dict
+		"page" $month
+		"heading" true
+		"link" (dict "url" .linkURL "text" .linkText)) }}
+</section>

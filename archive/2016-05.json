@@ -1,0 +1,191 @@
+{
+  "albums": [
+    {
+      "title": "The Blue Room",
+      "artist": "Madeleine Peyroux",
+      "source": "https://www.last.fm/music/Madeleine+Peyroux/The+Blue+Room",
+      "date": "2016-05-01",
+      "tracks": 10
+    },
+    {
+      "title": "Greatest Hits of the 20th Century",
+      "artist": "Béla Fleck and the Flecktones",
+      "source": "https://www.last.fm/music/B%C3%A9la+Fleck+and+the+Flecktones/Greatest+Hits+of+the+20th+Century",
+      "date": "2016-05-09",
+      "tracks": 11
+    },
+    {
+      "title": "Letters From Sinners & Strangers",
+      "artist": "Eilen Jewell",
+      "source": "https://www.last.fm/music/Eilen+Jewell/Letters+From+Sinners+%26+Strangers",
+      "date": "2016-05-09",
+      "tracks": 3
+    },
+    {
+      "title": "Bach",
+      "artist": "Nelson Freire",
+      "source": "https://www.last.fm/music/Nelson+Freire/Bach",
+      "date": "2016-05-10",
+      "tracks": 22
+    },
+    {
+      "title": "Call It What It Is",
+      "artist": "Ben Harper & The Innocent Criminals",
+      "source": "https://www.last.fm/music/Ben+Harper+%26+The+Innocent+Criminals/Call+It+What+It+Is",
+      "date": "2016-05-10",
+      "tracks": 11
+    },
+    {
+      "title": "Letters From Sinners & Strangers",
+      "artist": "Eilen Jewell",
+      "source": "https://www.last.fm/music/Eilen+Jewell/Letters+From+Sinners+%26+Strangers",
+      "date": "2016-05-10",
+      "tracks": 9
+    },
+    {
+      "title": "Moanin' (The Rudy Van Gelder Edition)",
+      "artist": "Art Blakey",
+      "source": "https://www.last.fm/music/Art+Blakey/Moanin'+(The+Rudy+Van+Gelder+Edition)",
+      "date": "2016-05-10",
+      "tracks": 3
+    },
+    {
+      "title": "Americano",
+      "artist": "Leonard Bernstein",
+      "source": "https://www.last.fm/music/Leonard+Bernstein/Americano",
+      "date": "2016-05-11",
+      "tracks": 3
+    },
+    {
+      "title": "Americano",
+      "artist": "Earl Scruggs",
+      "source": "https://www.last.fm/music/Earl+Scruggs/Americano",
+      "date": "2016-05-11",
+      "tracks": 3
+    },
+    {
+      "title": "Jan Johansson In Hamburg With Georg Riedel",
+      "artist": "Jan Johansson",
+      "source": "https://www.last.fm/music/Jan+Johansson/Jan+Johansson+In+Hamburg+With+Georg+Riedel",
+      "date": "2016-05-11",
+      "tracks": 13
+    },
+    {
+      "title": "Change of Pace",
+      "artist": "Greyhounds",
+      "source": "https://www.last.fm/music/Greyhounds/Change+of+Pace",
+      "date": "2016-05-12",
+      "tracks": 13
+    },
+    {
+      "title": "Greatest Hits of the 20th Century",
+      "artist": "Béla Fleck and the Flecktones",
+      "source": "https://www.last.fm/music/B%C3%A9la+Fleck+and+the+Flecktones/Greatest+Hits+of+the+20th+Century",
+      "date": "2016-05-12",
+      "tracks": 12
+    },
+    {
+      "title": "Riding With the King",
+      "artist": "Eric Clapton",
+      "date": "2016-05-12",
+      "tracks": 12,
+      "source": "https://www.last.fm/music/Eric+Clapton/Riding+With+the+King"
+    },
+    {
+      "title": "Take Me To The Alley",
+      "artist": "Gregory Porter",
+      "source": "https://www.last.fm/music/Gregory+Porter/Take+Me+To+The+Alley",
+      "date": "2016-05-13",
+      "tracks": 12
+    },
+    {
+      "title": "This Path Tonight",
+      "artist": "Graham Nash",
+      "source": "https://www.last.fm/music/Graham+Nash/This+Path+Tonight",
+      "date": "2016-05-13",
+      "tracks": 9
+    },
+    {
+      "title": "Now Playing Herbie Hancock",
+      "artist": "Herbie Hancock",
+      "source": "https://www.last.fm/music/Herbie+Hancock/Now+Playing+Herbie+Hancock",
+      "date": "2016-05-15",
+      "tracks": 4
+    },
+    {
+      "title": "All Around the World",
+      "artist": "Little Willie John",
+      "source": "https://www.last.fm/music/Little+Willie+John/All+Around+the+World",
+      "date": "2016-05-18",
+      "tracks": 16
+    },
+    {
+      "title": "Spirit of the Century",
+      "artist": "The Blind Boys Of Alabama",
+      "source": "https://www.last.fm/music/The+Blind+Boys+Of+Alabama/Spirit+of+the+Century",
+      "date": "2016-05-18",
+      "tracks": 7
+    },
+    {
+      "title": "Spirit of the Century",
+      "artist": "The Blind Boys Of Alabama",
+      "source": "https://www.last.fm/music/The+Blind+Boys+Of+Alabama/Spirit+of+the+Century",
+      "date": "2016-05-19",
+      "tracks": 12
+    },
+    {
+      "title": "Dyens: Guitar Music",
+      "artist": "Roland Dyens",
+      "source": "https://www.last.fm/music/Roland+Dyens/Dyens%3A+Guitar+Music",
+      "date": "2016-05-20",
+      "tracks": 4
+    },
+    {
+      "title": "I Still Do",
+      "artist": "Eric Clapton",
+      "source": "https://www.last.fm/music/Eric+Clapton/I+Still+Do",
+      "date": "2016-05-23",
+      "tracks": 16
+    },
+    {
+      "title": "Nashville",
+      "artist": "Solomon Burke",
+      "source": "https://www.last.fm/music/Solomon+Burke/Nashville",
+      "date": "2016-05-25",
+      "tracks": 13
+    },
+    {
+      "title": "George Gershwin - Rhapsody in Blue",
+      "artist": "George Gershwin",
+      "source": "https://www.last.fm/music/George+Gershwin/George+Gershwin+-+Rhapsody+in+Blue",
+      "date": "2016-05-26",
+      "tracks": 18
+    },
+    {
+      "title": "Afrodeezia",
+      "artist": "Marcus Miller",
+      "source": "https://www.last.fm/music/Marcus+Miller/Afrodeezia",
+      "date": "2016-05-27",
+      "tracks": 10
+    },
+    {
+      "title": "George Gershwin - Rhapsody in Blue",
+      "artist": "George Gershwin",
+      "source": "https://www.last.fm/music/George+Gershwin/George+Gershwin+-+Rhapsody+in+Blue",
+      "date": "2016-05-27",
+      "tracks": 7
+    },
+    {
+      "title": "I Still Do",
+      "artist": "Eric Clapton",
+      "date": "2016-05-31",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Eric+Clapton/I+Still+Do"
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

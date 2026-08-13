@@ -1,0 +1,268 @@
+{
+  "albums": [
+    {
+      "title": "Born To Play Guitar",
+      "artist": "Buddy Guy",
+      "source": "https://www.last.fm/music/Buddy+Guy/Born+To+Play+Guitar",
+      "date": "2016-04-01",
+      "tracks": 8
+    },
+    {
+      "title": "Duke Elegant",
+      "artist": "Dr. John",
+      "source": "https://www.last.fm/music/Dr.+John/Duke+Elegant",
+      "date": "2016-04-05",
+      "tracks": 3
+    },
+    {
+      "title": "Nathan East",
+      "artist": "Nathan East",
+      "source": "https://www.last.fm/music/Nathan+East/Nathan+East",
+      "date": "2016-04-05",
+      "tracks": 14
+    },
+    {
+      "title": "Duke Elegant",
+      "artist": "Dr. John",
+      "source": "https://www.last.fm/music/Dr.+John/Duke+Elegant",
+      "date": "2016-04-06",
+      "tracks": 9
+    },
+    {
+      "title": "Live at the Village Vanguard",
+      "artist": "Christian McBride Trio",
+      "date": "2016-04-06",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/Christian+McBride+Trio/Live+at+the+Village+Vanguard"
+    },
+    {
+      "title": "Night Train",
+      "artist": "Oscar Peterson Trio",
+      "source": "https://www.last.fm/music/Oscar+Peterson+Trio/Night+Train",
+      "date": "2016-04-06",
+      "tracks": 17
+    },
+    {
+      "title": "Francisco Tárrega: Obras Para Guitarra",
+      "artist": "Francisco Tárrega",
+      "source": "https://www.last.fm/music/Francisco+T%C3%A1rrega/Francisco+T%C3%A1rrega%3A+Obras+Para+Guitarra",
+      "date": "2016-04-07",
+      "tracks": 21
+    },
+    {
+      "title": "Changes",
+      "artist": "Charles Bradley",
+      "source": "https://www.last.fm/music/Charles+Bradley/Changes",
+      "date": "2016-04-08",
+      "tracks": 11
+    },
+    {
+      "title": "Francisco Tárrega: Obras Para Guitarra",
+      "artist": "Francisco Tárrega",
+      "source": "https://www.last.fm/music/Francisco+T%C3%A1rrega/Francisco+T%C3%A1rrega%3A+Obras+Para+Guitarra",
+      "date": "2016-04-08",
+      "tracks": 9
+    },
+    {
+      "title": "Fun Machine",
+      "artist": "Lake Street Dive",
+      "source": "https://www.last.fm/music/Lake+Street+Dive/Fun+Machine",
+      "date": "2016-04-08",
+      "tracks": 6
+    },
+    {
+      "title": "My World",
+      "artist": "Lisa Simone",
+      "source": "https://www.last.fm/music/Lisa+Simone/My+World",
+      "date": "2016-04-08",
+      "tracks": 12
+    },
+    {
+      "title": "Side Pony",
+      "artist": "Lake Street Dive",
+      "source": "https://www.last.fm/music/Lake+Street+Dive/Side+Pony",
+      "date": "2016-04-08",
+      "tracks": 31
+    },
+    {
+      "title": "Turbulence",
+      "artist": "Michel Portal",
+      "source": "https://www.last.fm/music/Michel+Portal/Turbulence",
+      "date": "2016-04-08",
+      "tracks": 6
+    },
+    {
+      "title": "Bad Self Portraits",
+      "artist": "Lake Street Dive",
+      "source": "https://www.last.fm/music/Lake+Street+Dive/Bad+Self+Portraits",
+      "date": "2016-04-09",
+      "tracks": 11
+    },
+    {
+      "title": "Roots",
+      "artist": "The Rosenberg Trio",
+      "source": "https://www.last.fm/music/The+Rosenberg+Trio/Roots",
+      "date": "2016-04-12",
+      "tracks": 13
+    },
+    {
+      "title": "I Know I've Been Changed",
+      "artist": "Aaron Neville",
+      "source": "https://www.last.fm/music/Aaron+Neville/I+Know+I've+Been+Changed",
+      "date": "2016-04-13",
+      "tracks": 18
+    },
+    {
+      "title": "Fun Machine",
+      "artist": "Lake Street Dive",
+      "date": "2016-04-14",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Lake+Street+Dive/Fun+Machine"
+    },
+    {
+      "title": "Gouache",
+      "artist": "Jacky Terrasson",
+      "source": "https://www.last.fm/music/Jacky+Terrasson/Gouache",
+      "date": "2016-04-14",
+      "tracks": 10
+    },
+    {
+      "title": "I Know I've Been Changed",
+      "artist": "Aaron Neville",
+      "source": "https://www.last.fm/music/Aaron+Neville/I+Know+I've+Been+Changed",
+      "date": "2016-04-14",
+      "tracks": 6
+    },
+    {
+      "title": "Jazz at the Pawnshop",
+      "artist": "Arne Domnérus",
+      "source": "https://www.last.fm/music/Arne+Domn%C3%A9rus/Jazz+at+the+Pawnshop",
+      "date": "2016-04-14",
+      "tracks": 9
+    },
+    {
+      "title": "Roots",
+      "artist": "The Rosenberg Trio",
+      "source": "https://www.last.fm/music/The+Rosenberg+Trio/Roots",
+      "date": "2016-04-15",
+      "tracks": 9
+    },
+    {
+      "title": "At Work",
+      "artist": "Géraldine Laurent",
+      "source": "https://www.last.fm/music/G%C3%A9raldine+Laurent/At+Work",
+      "date": "2016-04-16",
+      "tracks": 9
+    },
+    {
+      "title": "3 concertos de guitare & Jeux interdits",
+      "artist": "Joaquín Rodrigo",
+      "source": "https://www.last.fm/music/Joaqu%C3%ADn+Rodrigo/3+concertos+de+guitare+%26+Jeux+interdits",
+      "date": "2016-04-18",
+      "tracks": 3
+    },
+    {
+      "title": "3 concertos de guitare & Jeux interdits",
+      "artist": "Heitor Villa-Lobos",
+      "source": "https://www.last.fm/music/Heitor+Villa-Lobos/3+concertos+de+guitare+%26+Jeux+interdits",
+      "date": "2016-04-19",
+      "tracks": 3
+    },
+    {
+      "title": "Al Di Meola Collection",
+      "artist": "Al Di Meola",
+      "source": "https://www.last.fm/music/Al+Di+Meola/Al+Di+Meola+Collection",
+      "date": "2016-04-19",
+      "tracks": 6
+    },
+    {
+      "title": "Paco De Lucia, Al Di Meola, John McLaughlin",
+      "artist": "Paco de Lucía",
+      "source": "https://www.last.fm/music/Paco+de+Luc%C3%ADa/Paco+De+Lucia%2C+Al+Di+Meola%2C+John+McLaughlin",
+      "date": "2016-04-19",
+      "tracks": 5
+    },
+    {
+      "title": "Fun Machine",
+      "artist": "Lake Street Dive",
+      "date": "2016-04-20",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Lake+Street+Dive/Fun+Machine"
+    },
+    {
+      "title": "Paco De Lucia, Al Di Meola, John McLaughlin",
+      "artist": "Paco de Lucía",
+      "source": "https://www.last.fm/music/Paco+de+Luc%C3%ADa/Paco+De+Lucia%2C+Al+Di+Meola%2C+John+McLaughlin",
+      "date": "2016-04-20",
+      "tracks": 4
+    },
+    {
+      "title": "The Folk Singer",
+      "artist": "Muddy Waters",
+      "source": "https://www.last.fm/music/Muddy+Waters/The+Folk+Singer",
+      "date": "2016-04-20",
+      "tracks": 14
+    },
+    {
+      "title": "The Folk Singer",
+      "artist": "Muddy Waters",
+      "date": "2016-04-21",
+      "tracks": 5,
+      "source": "https://www.last.fm/music/Muddy+Waters/The+Folk+Singer"
+    },
+    {
+      "title": "Fun Machine",
+      "artist": "Lake Street Dive",
+      "date": "2016-04-22",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Lake+Street+Dive/Fun+Machine"
+    },
+    {
+      "title": "Fun Machine",
+      "artist": "Lake Street Dive",
+      "date": "2016-04-23",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Lake+Street+Dive/Fun+Machine"
+    },
+    {
+      "title": "Fun Machine",
+      "artist": "Lake Street Dive",
+      "date": "2016-04-26",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Lake+Street+Dive/Fun+Machine"
+    },
+    {
+      "title": "Heigh Ho",
+      "artist": "Blake Mills",
+      "source": "https://www.last.fm/music/Blake+Mills/Heigh+Ho",
+      "date": "2016-04-26",
+      "tracks": 12
+    },
+    {
+      "title": "The Folk Singer",
+      "artist": "Muddy Waters",
+      "date": "2016-04-26",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/Muddy+Waters/The+Folk+Singer"
+    },
+    {
+      "title": "Breathless",
+      "artist": "Terence Blanchard",
+      "source": "https://www.last.fm/music/Terence+Blanchard/Breathless",
+      "date": "2016-04-27",
+      "tracks": 13
+    },
+    {
+      "title": "Hollie Stephenson",
+      "artist": "HOLLIE STEPHENSON",
+      "source": "https://www.last.fm/music/HOLLIE+STEPHENSON/Hollie+Stephenson",
+      "date": "2016-04-28",
+      "tracks": 12
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

@@ -1,0 +1,156 @@
+{
+  "albums": [
+    {
+      "title": "Clychau Dibon",
+      "artist": "Catrin Finch",
+      "source": "https://www.last.fm/music/Catrin+Finch/Clychau+Dibon",
+      "date": "2016-09-01",
+      "tracks": 7
+    },
+    {
+      "title": "Gentlemen, I Neglected To Inform You You Will Not Be Getting Paid",
+      "artist": "Charlie Hunter",
+      "source": "https://www.last.fm/music/Charlie+Hunter/Gentlemen%2C+I+Neglected+To+Inform+You+You+Will+Not+Be+Getting+Paid",
+      "date": "2016-09-02",
+      "tracks": 6
+    },
+    {
+      "title": "Good Stuff",
+      "artist": "Eric Bibb",
+      "source": "https://www.last.fm/music/Eric+Bibb/Good+Stuff",
+      "date": "2016-09-02",
+      "tracks": 12
+    },
+    {
+      "title": "Nikki",
+      "artist": "Nikki Yanofsky",
+      "source": "https://www.last.fm/music/Nikki+Yanofsky/Nikki",
+      "date": "2016-09-05",
+      "tracks": 14
+    },
+    {
+      "title": "Openness",
+      "artist": "Henrik Freischlader Trio",
+      "source": "https://www.last.fm/music/Henrik+Freischlader+Trio/Openness",
+      "date": "2016-09-07",
+      "tracks": 3
+    },
+    {
+      "title": "Out Here",
+      "artist": "Christian McBride",
+      "date": "2016-09-13",
+      "tracks": 5,
+      "source": "https://www.last.fm/music/Christian+McBride/Out+Here"
+    },
+    {
+      "title": "Tokyo Adagio",
+      "artist": "Charlie Haden",
+      "source": "https://www.last.fm/music/Charlie+Haden/Tokyo+Adagio",
+      "date": "2016-09-13",
+      "tracks": 3
+    },
+    {
+      "title": "Blues and Ballads",
+      "artist": "Brad Mehldau Trio",
+      "source": "https://www.last.fm/music/Brad+Mehldau+Trio/Blues+and+Ballads",
+      "date": "2016-09-14",
+      "tracks": 7
+    },
+    {
+      "title": "Out Here",
+      "artist": "Christian McBride",
+      "date": "2016-09-14",
+      "tracks": 4,
+      "source": "https://www.last.fm/music/Christian+McBride/Out+Here"
+    },
+    {
+      "title": "Saturday Morning",
+      "artist": "Ahmad Jamal",
+      "source": "https://www.last.fm/music/Ahmad+Jamal/Saturday+Morning",
+      "date": "2016-09-14",
+      "tracks": 3
+    },
+    {
+      "title": "Gershwin: Rhapsody in Blue, Piano Concerto, Variations on \"I Got Rhythm\" & Preludes",
+      "artist": "George Gershwin",
+      "source": "https://www.last.fm/music/George+Gershwin/Gershwin%3A+Rhapsody+in+Blue%2C+Piano+Concerto%2C+Variations+on+%22I+Got+Rhythm%22+%26+Preludes",
+      "date": "2016-09-17",
+      "tracks": 10
+    },
+    {
+      "title": "Out Here",
+      "artist": "Christian McBride",
+      "date": "2016-09-17",
+      "tracks": 9,
+      "source": "https://www.last.fm/music/Christian+McBride/Out+Here"
+    },
+    {
+      "title": "Steve Reich: Double Sextet, Radio Rewrite",
+      "artist": "Steve Reich",
+      "source": "https://www.last.fm/music/Steve+Reich/Steve+Reich%3A+Double+Sextet%2C+Radio+Rewrite",
+      "date": "2016-09-17",
+      "tracks": 8
+    },
+    {
+      "title": "Nearness",
+      "artist": "Brad Mehldau",
+      "source": "https://www.last.fm/music/Brad+Mehldau/Nearness",
+      "date": "2016-09-18",
+      "tracks": 7
+    },
+    {
+      "title": "Fun Machine",
+      "artist": "Lake Street Dive",
+      "date": "2016-09-19",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Lake+Street+Dive/Fun+Machine"
+    },
+    {
+      "title": "Talé",
+      "artist": "Salif Keita",
+      "source": "https://www.last.fm/music/Salif+Keita/Tal%C3%A9",
+      "date": "2016-09-20",
+      "tracks": 5
+    },
+    {
+      "title": "This is Jazz 30: The Dirty Dozen Brass Band",
+      "artist": "The Dirty Dozen Brass Band",
+      "source": "https://www.last.fm/music/The+Dirty+Dozen+Brass+Band/This+is+Jazz+30%3A+The+Dirty+Dozen+Brass+Band",
+      "date": "2016-09-20",
+      "tracks": 14
+    },
+    {
+      "title": "Unplugged",
+      "artist": "Larry Carlton",
+      "source": "https://www.last.fm/music/Larry+Carlton/Unplugged",
+      "date": "2016-09-20",
+      "tracks": 4
+    },
+    {
+      "title": "Shai Maestro Trio",
+      "artist": "Shai Maestro",
+      "source": "https://www.last.fm/music/Shai+Maestro/Shai+Maestro+Trio",
+      "date": "2016-09-21",
+      "tracks": 12
+    },
+    {
+      "title": "Fun Machine",
+      "artist": "Lake Street Dive",
+      "source": "https://www.last.fm/music/Lake+Street+Dive/Fun+Machine",
+      "date": "2016-09-22",
+      "tracks": 5
+    },
+    {
+      "title": "Shai Maestro Trio",
+      "artist": "Shai Maestro",
+      "source": "https://www.last.fm/music/Shai+Maestro/Shai+Maestro+Trio",
+      "date": "2016-09-22",
+      "tracks": 7
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

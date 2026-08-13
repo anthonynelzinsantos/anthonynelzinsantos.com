@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>{{ if .IsHome }}{{ .Site.Title }} — {{ .Site.Params.tagline }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
+	<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.baseline }}{{ end }}">
+	<meta name="color-scheme" content="light dark">
+	<link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+	<link rel="icon" href="{{ "icon.svg" | relURL }}" type="image/svg+xml">
+	<link rel="icon" href="{{ "favicon-32.png" | relURL }}" sizes="32x32">
+	<link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}">
+	<link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
+	<meta name="theme-color" content="#5D1239">
+	{{ with .OutputFormats.Get "rss" }}<link rel="alternate" type="application/rss+xml" href="{{ .RelPermalink }}" title="{{ $.Site.Title }}">{{ end }}
+</head>
+<body class="{{ if .IsHome }}is-home{{ end }}">
+
+<a class="skip" href="#content">Aller au contenu</a>
+
+<a class="spine" href="{{ "/" | relURL }}" aria-label="Accueil">
+	<span class="spine__inner">
+		{{ partial "logo.html" . }}
+		<span class="spine__name">Anthony&nbsp;Nelzin-Santos</span>
+	</span>
+</a>
+
+<main class="content" id="content" tabindex="-1">
+	{{ block "main" . }}{{ end }}
+</main>
+
+<footer class="footer">
+	<div class="footer__grid">
+		<div class="footer__who">
+			<p class="footer__name">{{ .Site.Title }}</p>
+			<p class="footer__trade">{{ .Site.Params.tagline }}</p>
+		</div>
+		<nav class="footer__nav" aria-label="Sections">
+			{{ range .Site.Menus.main }}
+				<a href="{{ .URL }}"{{ if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }} aria-current="page"{{ end }}>{{ .Name }}</a>
+			{{ end }}
+		</nav>
+		<ul class="footer__contacts">
+			{{ range .Site.Params.contacts }}<li><a href="{{ .url }}" rel="me">{{ .name }}</a></li>{{ end }}
+		</ul>
+	</div>
+	<p class="footer__colophon">Fabriqué à Lyon avec <a href="https://gohugo.io/">Hugo</a>. Hébergé à Genève <a href="https://www.infomaniak.com/goto/fr/hosting.web?utm_term=5fd3bff1d1501">par Infomaniak</a>. Distribué sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr">Creative Commons BY-NC-SA 4.0</a>.</p>
+</footer>
+
+<script>
+{
+	const manifesto = document.querySelector('.manifesto');
+	if (manifesto) {
+		const sync = () => document.body.classList.toggle(
+			'past-manifesto', manifesto.getBoundingClientRect().bottom <= 0);
+		addEventListener('scroll', sync, { passive: true });
+		addEventListener('resize', sync, { passive: true });
+		sync();
+	}
+}
+{
+	const box = document.querySelector('.viewer');
+	const rail = box && box.querySelector('.viewer__rail');
+	if (rail) {
+		const views = [...rail.children];
+		const goTo = (i, smooth) => rail.scrollTo({
+			left: rail.clientWidth * i, behavior: smooth ? 'smooth' : 'instant',
+		});
+		const load = (view) => {
+			for (const el of view.querySelectorAll('[data-srcset]')) {
+				el.srcset = el.dataset.srcset;
+				delete el.dataset.srcset;
+			}
+			const img = view.querySelector('img[data-src]');
+			if (img) { img.src = img.dataset.src; delete img.dataset.src; }
+		};
+		const at = () => Math.round(rail.scrollLeft / rail.clientWidth);
+		const loadAround = (i) => { for (const j of [i, i - 1, i + 1]) if (views[j]) load(views[j]); };
+
+		for (const thumb of document.querySelectorAll('.gallery__thumb')) {
+			thumb.onclick = () => {
+				const i = Number(thumb.dataset.index);
+				loadAround(i);
+				box.showModal();
+				goTo(i, false);
+				rail.focus({ preventScroll: true });
+			};
+		}
+		rail.addEventListener('scroll', () => loadAround(at()), { passive: true });
+		box.querySelector('.viewer__close').onclick = () => box.close();
+		box.onclick = (e) => { if (!e.target.closest('img, button')) box.close(); };
+		rail.onkeydown = (e) => {
+			const step = { ArrowLeft: -1, ArrowRight: 1 }[e.key];
+			if (!step) return;
+			e.preventDefault();
+			const i = at() + step;
+			if (i >= 0 && i < views.length) goTo(i, true);
+		};
+		addEventListener('resize', () => { if (box.open) goTo(at(), false); });
+	}
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,446 @@
+{
+  "albums": [
+    {
+      "title": "But Who's Gonna Play the Melody?",
+      "artist": "Christian McBride & Edgar Meyer",
+      "source": "https://www.last.fm/music/Christian+McBride+%26+Edgar+Meyer/But+Who's+Gonna+Play+the+Melody%3F",
+      "date": "2024-04-03",
+      "tracks": 15
+    },
+    {
+      "title": "Small Variations of the Previous Day",
+      "artist": "Louis Matute",
+      "source": "https://www.last.fm/music/Louis+Matute/Small+Variations+of+the+Previous+Day",
+      "date": "2024-04-03",
+      "tracks": 10
+    },
+    {
+      "title": "But Who's Gonna Play the Melody?",
+      "artist": "Christian McBride & Edgar Meyer",
+      "date": "2024-04-04",
+      "tracks": 45,
+      "source": "https://www.last.fm/music/Christian+McBride+%26+Edgar+Meyer/But+Who's+Gonna+Play+the+Melody%3F"
+    },
+    {
+      "title": "Smiling",
+      "artist": "Mark Lockheart",
+      "source": "https://www.last.fm/music/Mark+Lockheart/Smiling",
+      "date": "2024-04-04",
+      "tracks": 9
+    },
+    {
+      "title": "Piece of Mind",
+      "artist": "Simon Denizart",
+      "source": "https://www.last.fm/music/Simon+Denizart/Piece+of+Mind",
+      "date": "2024-04-05",
+      "tracks": 11
+    },
+    {
+      "title": "Speak, Moment",
+      "artist": "Dave Harrington, Max Jaffe & Patrick Shiroishi",
+      "source": "https://www.last.fm/music/Dave+Harrington%2C+Max+Jaffe+%26+Patrick+Shiroishi/Speak%2C+Moment",
+      "date": "2024-04-05",
+      "tracks": 9
+    },
+    {
+      "title": "Stuck In the Middle With You (Rerecorded Version) - EP",
+      "artist": "Stealers Wheel",
+      "source": "https://www.last.fm/music/Stealers+Wheel/Stuck+In+the+Middle+With+You+(Rerecorded+Version)+-+EP",
+      "date": "2024-04-05",
+      "tracks": 8
+    },
+    {
+      "title": "Ba Yo",
+      "artist": "Yusan",
+      "source": "https://www.last.fm/music/Yusan/Ba+Yo",
+      "date": "2024-04-06",
+      "tracks": 4
+    },
+    {
+      "title": "But Who's Gonna Play the Melody?",
+      "artist": "Christian McBride & Edgar Meyer",
+      "date": "2024-04-08",
+      "tracks": 29,
+      "source": "https://www.last.fm/music/Christian+McBride+%26+Edgar+Meyer/But+Who's+Gonna+Play+the+Melody%3F"
+    },
+    {
+      "title": "Chill Night",
+      "artist": "Glimlip, Hoogway & softy",
+      "source": "https://www.last.fm/music/Glimlip%2C+Hoogway+%26+softy/Chill+Night",
+      "date": "2024-04-08",
+      "tracks": 19
+    },
+    {
+      "title": "Clay",
+      "artist": "Johannes Bigge Trio",
+      "source": "https://www.last.fm/music/Johannes+Bigge+Trio/Clay",
+      "date": "2024-04-08",
+      "tracks": 21
+    },
+    {
+      "title": "People Please",
+      "artist": "Sam Fribush, Charlie Hunter & Calvin Napper",
+      "source": "https://www.last.fm/music/Sam+Fribush%2C+Charlie+Hunter+%26+Calvin+Napper/People+Please",
+      "date": "2024-04-08",
+      "tracks": 17
+    },
+    {
+      "title": "Piece of Mind",
+      "artist": "Simon Denizart",
+      "source": "https://www.last.fm/music/Simon+Denizart/Piece+of+Mind",
+      "date": "2024-04-08",
+      "tracks": 4
+    },
+    {
+      "title": "But Who's Gonna Play the Melody?",
+      "artist": "Christian McBride & Edgar Meyer",
+      "date": "2024-04-09",
+      "tracks": 28,
+      "source": "https://www.last.fm/music/Christian+McBride+%26+Edgar+Meyer/But+Who's+Gonna+Play+the+Melody%3F"
+    },
+    {
+      "title": "Closer Than We Think",
+      "artist": "Dayna Stephens",
+      "source": "https://www.last.fm/music/Dayna+Stephens/Closer+Than+We+Think",
+      "date": "2024-04-09",
+      "tracks": 19
+    },
+    {
+      "title": "Smiling",
+      "artist": "Mark Lockheart",
+      "date": "2024-04-10",
+      "tracks": 8,
+      "source": "https://www.last.fm/music/Mark+Lockheart/Smiling"
+    },
+    {
+      "title": "The Jazz Meurkengers",
+      "artist": "Hendrik Meurkens",
+      "source": "https://www.last.fm/music/Hendrik+Meurkens/The+Jazz+Meurkengers",
+      "date": "2024-04-10",
+      "tracks": 3
+    },
+    {
+      "title": "But Who's Gonna Play the Melody?",
+      "artist": "Christian McBride & Edgar Meyer",
+      "date": "2024-04-11",
+      "tracks": 15,
+      "source": "https://www.last.fm/music/Christian+McBride+%26+Edgar+Meyer/But+Who's+Gonna+Play+the+Melody%3F"
+    },
+    {
+      "title": "The Jazz Meurkengers",
+      "artist": "Hendrik Meurkens",
+      "source": "https://www.last.fm/music/Hendrik+Meurkens/The+Jazz+Meurkengers",
+      "date": "2024-04-11",
+      "tracks": 6
+    },
+    {
+      "title": "Jeu",
+      "artist": "Louise Jallu",
+      "source": "https://www.last.fm/music/Louise+Jallu/Jeu",
+      "date": "2024-04-12",
+      "tracks": 3
+    },
+    {
+      "title": "Jeu",
+      "artist": "Louise Jallu",
+      "source": "https://www.last.fm/music/Louise+Jallu/Jeu",
+      "date": "2024-04-16",
+      "tracks": 5
+    },
+    {
+      "title": "Cadair Idris",
+      "artist": "Awen Ensemble",
+      "source": "https://www.last.fm/music/Awen+Ensemble/Cadair+Idris",
+      "date": "2024-04-18",
+      "tracks": 3
+    },
+    {
+      "title": "Dissensation",
+      "artist": "Benjamin Samuels",
+      "source": "https://www.last.fm/music/Benjamin+Samuels/Dissensation",
+      "date": "2024-04-18",
+      "tracks": 19
+    },
+    {
+      "title": "Who Killed AI?",
+      "artist": "Kenny Garrett & Svoy",
+      "source": "https://www.last.fm/music/Kenny+Garrett+%26+Svoy/Who+Killed+AI%3F",
+      "date": "2024-04-18",
+      "tracks": 13
+    },
+    {
+      "title": "Every Now And Then",
+      "artist": "Cory Weeds & Champian Fulton",
+      "source": "https://www.last.fm/music/Cory+Weeds+%26+Champian+Fulton/Every+Now+And+Then",
+      "date": "2024-04-19",
+      "tracks": 17
+    },
+    {
+      "title": "Seems",
+      "artist": "Kelly Green",
+      "source": "https://www.last.fm/music/Kelly+Green/Seems",
+      "date": "2024-04-19",
+      "tracks": 9
+    },
+    {
+      "title": "THE TORTURED POETS DEPARTMENT",
+      "artist": "Taylor Swift",
+      "source": "https://www.last.fm/music/Taylor+Swift/THE+TORTURED+POETS+DEPARTMENT",
+      "date": "2024-04-19",
+      "tracks": 16
+    },
+    {
+      "title": "Aldebaran",
+      "artist": "Kathrine Windfeld",
+      "source": "https://www.last.fm/music/Kathrine+Windfeld/Aldebaran",
+      "date": "2024-04-22",
+      "tracks": 15
+    },
+    {
+      "title": "Heartland Radio",
+      "artist": "Remy Le Boeuf",
+      "source": "https://www.last.fm/music/Remy+Le+Boeuf/Heartland+Radio",
+      "date": "2024-04-22",
+      "tracks": 13
+    },
+    {
+      "title": "Plays",
+      "artist": "Nicole Glover",
+      "source": "https://www.last.fm/music/Nicole+Glover/Plays",
+      "date": "2024-04-22",
+      "tracks": 15
+    },
+    {
+      "title": "Stepping Stones",
+      "artist": "Sean Fyfe",
+      "source": "https://www.last.fm/music/Sean+Fyfe/Stepping+Stones",
+      "date": "2024-04-22",
+      "tracks": 15
+    },
+    {
+      "title": "Surge Of Silence",
+      "artist": "David Friedman, Tilo Weber & Oliver Potratz",
+      "source": "https://www.last.fm/music/David+Friedman%2C+Tilo+Weber+%26+Oliver+Potratz/Surge+Of+Silence",
+      "date": "2024-04-22",
+      "tracks": 17
+    },
+    {
+      "title": "Feels Like Home (feat. Adam King & Joel Barford)",
+      "artist": "Vasilis Xenopoulos & Paul Edis",
+      "source": "https://www.last.fm/music/Vasilis+Xenopoulos+%26+Paul+Edis/Feels+Like+Home+(feat.+Adam+King+%26+Joel+Barford)",
+      "date": "2024-04-24",
+      "tracks": 15
+    },
+    {
+      "title": "Life, at the Village Vanguard (Live)",
+      "artist": "Gilad Hekselman",
+      "source": "https://www.last.fm/music/Gilad+Hekselman/Life%2C+at+the+Village+Vanguard+(Live)",
+      "date": "2024-04-24",
+      "tracks": 8
+    },
+    {
+      "title": "Night Birds",
+      "artist": "Sara Serpa & Andre Matos",
+      "source": "https://www.last.fm/music/Sara+Serpa+%26+Andre+Matos/Night+Birds",
+      "date": "2024-04-24",
+      "tracks": 12
+    },
+    {
+      "title": "Red Hot & Ra : The Magic City",
+      "artist": "Red Hot Org & Meshell Ndegeocello",
+      "source": "https://www.last.fm/music/Red+Hot+Org+%26+Meshell+Ndegeocello/Red+Hot+%26+Ra+%3A+The+Magic+City",
+      "date": "2024-04-24",
+      "tracks": 17
+    },
+    {
+      "title": "Adrian Younge: Music & Soundtracks (DJ Mix)",
+      "artist": "Adrian Younge & Ali Shaheed Muhammad",
+      "source": "https://www.last.fm/music/Adrian+Younge+%26+Ali+Shaheed+Muhammad/Adrian+Younge%3A+Music+%26+Soundtracks+(DJ+Mix)",
+      "date": "2024-04-25",
+      "tracks": 3
+    },
+    {
+      "title": "Bottommost",
+      "artist": "Guilhem Flouzat & Isabel Sörling",
+      "source": "https://www.last.fm/music/Guilhem+Flouzat+%26+Isabel+S%C3%B6rling/Bottommost",
+      "date": "2024-04-25",
+      "tracks": 7
+    },
+    {
+      "title": "Live At The Scala Theatre",
+      "artist": "Eric Bibb",
+      "source": "https://www.last.fm/music/Eric+Bibb/Live+At+The+Scala+Theatre",
+      "date": "2024-04-25",
+      "tracks": 10
+    },
+    {
+      "title": "The Sky Will Still Be There Tomorrow",
+      "artist": "Charles Lloyd",
+      "source": "https://www.last.fm/music/Charles+Lloyd/The+Sky+Will+Still+Be+There+Tomorrow",
+      "date": "2024-04-25",
+      "tracks": 12
+    },
+    {
+      "title": "THE TORTURED POETS DEPARTMENT",
+      "artist": "Taylor Swift",
+      "source": "https://www.last.fm/music/Taylor+Swift/THE+TORTURED+POETS+DEPARTMENT",
+      "date": "2024-04-25",
+      "tracks": 15
+    },
+    {
+      "title": "Life, at the Village Vanguard (Live)",
+      "artist": "Gilad Hekselman, Eric Harland & Shai Maestro",
+      "source": "https://www.last.fm/music/Gilad+Hekselman%2C+Eric+Harland+%26+Shai+Maestro/Life%2C+at+the+Village+Vanguard+(Live)",
+      "date": "2024-04-29",
+      "tracks": 3
+    },
+    {
+      "title": "Life, at the Village Vanguard (Live)",
+      "artist": "Gilad Hekselman",
+      "date": "2024-04-29",
+      "tracks": 22,
+      "source": "https://www.last.fm/music/Gilad+Hekselman/Life%2C+at+the+Village+Vanguard+(Live)"
+    },
+    {
+      "title": "One Deep River",
+      "artist": "Mark Knopfler",
+      "source": "https://www.last.fm/music/Mark+Knopfler/One+Deep+River",
+      "date": "2024-04-29",
+      "tracks": 23
+    },
+    {
+      "title": "Resonance",
+      "artist": "Boris Blank",
+      "source": "https://www.last.fm/music/Boris+Blank/Resonance",
+      "date": "2024-04-29",
+      "tracks": 16
+    },
+    {
+      "title": "The Sky Will Still Be There Tomorrow",
+      "artist": "Charles Lloyd",
+      "source": "https://www.last.fm/music/Charles+Lloyd/The+Sky+Will+Still+Be+There+Tomorrow",
+      "date": "2024-04-29",
+      "tracks": 6
+    },
+    {
+      "title": "1978",
+      "artist": "José James",
+      "source": "https://www.last.fm/music/Jos%C3%A9+James/1978",
+      "date": "2024-04-30",
+      "tracks": 17
+    },
+    {
+      "title": "Hittin' It",
+      "artist": "Mike Clement",
+      "source": "https://www.last.fm/music/Mike+Clement/Hittin'+It",
+      "date": "2024-04-30",
+      "tracks": 17
+    },
+    {
+      "title": "Report to Keftiu (feat. Jonas Östholm, Martin Höper & Jon Fält)",
+      "artist": "Andreas Hourdakis",
+      "source": "https://www.last.fm/music/Andreas+Hourdakis/Report+to+Keftiu+(feat.+Jonas+%C3%96stholm%2C+Martin+H%C3%B6per+%26+Jon+F%C3%A4lt)",
+      "date": "2024-04-30",
+      "tracks": 13
+    },
+    {
+      "title": "Sensual (feat. Omar Hakim)",
+      "artist": "Rachel Z",
+      "source": "https://www.last.fm/music/Rachel+Z/Sensual+(feat.+Omar+Hakim)",
+      "date": "2024-04-30",
+      "tracks": 9
+    },
+    {
+      "title": "Silent, Listening",
+      "artist": "Fred Hersch",
+      "source": "https://www.last.fm/music/Fred+Hersch/Silent%2C+Listening",
+      "date": "2024-04-30",
+      "tracks": 21
+    }
+  ],
+  "books": [
+    {
+      "title": "Le problème à trois corps",
+      "author": "Cixin Liu",
+      "rating": 5,
+      "date": "2024-04-04"
+    },
+    {
+      "title": "Life in Code: A Personal History of Technology",
+      "author": "Ellen Ullman",
+      "date": "2024-04-07"
+    },
+    {
+      "title": "La Forêt sombre",
+      "author": "Cixin Liu",
+      "rating": 4,
+      "date": "2024-04-09"
+    },
+    {
+      "title": "Death's End",
+      "author": "Cixin Liu",
+      "rating": 3,
+      "date": "2024-04-11"
+    },
+    {
+      "title": "Burn Book",
+      "author": "Kara Swisher",
+      "date": "2024-04-12"
+    },
+    {
+      "title": "Good Omens",
+      "author": "Terry Pratchett, Neil Gaiman",
+      "date": "2024-04-19"
+    },
+    {
+      "title": "Un mois à Sienne",
+      "author": "Hisham Matar",
+      "date": "2024-04-29"
+    }
+  ],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2024-04-04",
+      "date": "2024-04-04",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2024-04-06",
+      "date": "2024-04-06",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2024-04-09",
+      "date": "2024-04-09",
+      "count": 3
+    },
+    {
+      "title": "contributions du 2024-04-11",
+      "date": "2024-04-11",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2024-04-17",
+      "date": "2024-04-17",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2024-04-19",
+      "date": "2024-04-19",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2024-04-20",
+      "date": "2024-04-20",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2024-04-21",
+      "date": "2024-04-21",
+      "count": 3
+    }
+  ]
+}

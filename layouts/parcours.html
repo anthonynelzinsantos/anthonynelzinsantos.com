@@ -1,0 +1,31 @@
+{{ define "main" }}
+<article class="page">
+	{{ partial "masthead.html" . }}
+
+	{{ range .Params.sections }}
+		<section class="block">
+			<p class="label"><span>{{ .heading }}</span></p>
+			{{ range .roles }}
+				<article class="role">
+					<p class="role__years">
+						{{ if .end }}
+							<span>{{ .start }}</span><span class="role__dash" aria-hidden="true">–</span><span>{{ .end }}</span>
+						{{ else }}
+							<span class="role__ongoing">depuis&nbsp;{{ .start }}</span>
+						{{ end }}
+					</p>
+					<div class="role__body">
+						<h2 class="role__position">{{ .position }}</h2>
+						<p class="role__org">{{ .org }}{{ with .place }} <span class="role__place">({{ . }})</span>{{ end }}</p>
+						<ul class="role__points">
+							{{ range .points }}<li>{{ . | markdownify }}</li>{{ end }}
+						</ul>
+					</div>
+				</article>
+			{{ end }}
+		</section>
+	{{ end }}
+
+	{{ with .Content }}<div class="prose">{{ . }}</div>{{ end }}
+</article>
+{{ end }}

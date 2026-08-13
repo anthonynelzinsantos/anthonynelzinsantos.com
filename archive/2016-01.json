@@ -1,0 +1,135 @@
+{
+  "albums": [
+    {
+      "title": "Sylva",
+      "artist": "Snarky Puppy",
+      "source": "https://www.last.fm/music/Snarky+Puppy/Sylva",
+      "date": "2016-01-05",
+      "tracks": 7
+    },
+    {
+      "title": "Abbey Road (Remastered)",
+      "artist": "The Beatles",
+      "source": "https://www.last.fm/music/The+Beatles/Abbey+Road+(Remastered)",
+      "date": "2016-01-06",
+      "tracks": 16
+    },
+    {
+      "title": "The Beatles (Remastered)",
+      "artist": "The Beatles",
+      "source": "https://www.last.fm/music/The+Beatles/The+Beatles+(Remastered)",
+      "date": "2016-01-06",
+      "tracks": 17
+    },
+    {
+      "title": "Begin the Beguine",
+      "artist": "New York Trio",
+      "source": "https://www.last.fm/music/New+York+Trio/Begin+the+Beguine",
+      "date": "2016-01-08",
+      "tracks": 7
+    },
+    {
+      "title": "Rhythm & Blues",
+      "artist": "Buddy Guy",
+      "source": "https://www.last.fm/music/Buddy+Guy/Rhythm+%26+Blues",
+      "date": "2016-01-08",
+      "tracks": 4
+    },
+    {
+      "title": "Almah",
+      "artist": "Avishai Cohen",
+      "source": "https://www.last.fm/music/Avishai+Cohen/Almah",
+      "date": "2016-01-13",
+      "tracks": 7
+    },
+    {
+      "title": "Au pays d'Alice... (Instrumental Version)",
+      "artist": "Ibrahim Maalouf",
+      "source": "https://www.last.fm/music/Ibrahim+Maalouf/Au+pays+d'Alice...+(Instrumental+Version)",
+      "date": "2016-01-13",
+      "tracks": 15
+    },
+    {
+      "title": "Almah",
+      "artist": "Avishai Cohen",
+      "source": "https://www.last.fm/music/Avishai+Cohen/Almah",
+      "date": "2016-01-14",
+      "tracks": 3
+    },
+    {
+      "title": "Song Song Song",
+      "artist": "Baptiste Trotignon",
+      "source": "https://www.last.fm/music/Baptiste+Trotignon/Song+Song+Song",
+      "date": "2016-01-14",
+      "tracks": 6
+    },
+    {
+      "title": "Nothin But Love",
+      "artist": "Robert Cray",
+      "source": "https://www.last.fm/music/Robert+Cray/Nothin+But+Love",
+      "date": "2016-01-15",
+      "tracks": 4
+    },
+    {
+      "title": "Song, song, song",
+      "artist": "Baptiste Trotignon",
+      "date": "2016-01-15",
+      "tracks": 5,
+      "source": "https://www.last.fm/music/Baptiste+Trotignon/Song%2C+song%2C+song"
+    },
+    {
+      "title": "Greatest Hits",
+      "artist": "Simon & Garfunkel",
+      "source": "https://www.last.fm/music/Simon+%26+Garfunkel/Greatest+Hits",
+      "date": "2016-01-19",
+      "tracks": 4
+    },
+    {
+      "title": "Smile",
+      "artist": "Jacky Terrasson",
+      "source": "https://www.last.fm/music/Jacky+Terrasson/Smile",
+      "date": "2016-01-20",
+      "tracks": 14
+    },
+    {
+      "title": "70 Strong",
+      "artist": "Steve Gadd Band",
+      "source": "https://www.last.fm/music/Steve+Gadd+Band/70+Strong",
+      "date": "2016-01-21",
+      "tracks": 3
+    },
+    {
+      "title": "Smile",
+      "artist": "Jacky Terrasson",
+      "source": "https://www.last.fm/music/Jacky+Terrasson/Smile",
+      "date": "2016-01-26",
+      "tracks": 13
+    },
+    {
+      "title": "Two Friends, One Century of Music (Live)",
+      "artist": "Caetano Veloso",
+      "source": "https://www.last.fm/music/Caetano+Veloso/Two+Friends%2C+One+Century+of+Music+(Live)",
+      "date": "2016-01-27",
+      "tracks": 28
+    },
+    {
+      "title": "The Steep Anthology",
+      "artist": "Branford Marsalis",
+      "source": "https://www.last.fm/music/Branford+Marsalis/The+Steep+Anthology",
+      "date": "2016-01-29",
+      "tracks": 6
+    },
+    {
+      "title": "Träumerei",
+      "artist": "Trio X of Sweden",
+      "source": "https://www.last.fm/music/Trio+X+of+Sweden/Tr%C3%A4umerei",
+      "date": "2016-01-31",
+      "tracks": 5
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

@@ -1,0 +1,58 @@
+{
+  "albums": [
+    {
+      "title": "Weather Report",
+      "artist": "Weather Report",
+      "source": "https://www.last.fm/music/Weather+Report/Weather+Report",
+      "date": "2014-01-01",
+      "tracks": 3
+    },
+    {
+      "title": "Live At The Fillmore East 1970",
+      "artist": "Neil Young & Crazy Horse",
+      "source": "https://www.last.fm/music/Neil+Young+%26+Crazy+Horse/Live+At+The+Fillmore+East+1970",
+      "date": "2014-01-03",
+      "tracks": 3
+    },
+    {
+      "title": "Accidental Powercut 2",
+      "artist": "Fiona Bevan",
+      "source": "https://www.last.fm/music/Fiona+Bevan/Accidental+Powercut+2",
+      "date": "2014-01-04",
+      "tracks": 3
+    },
+    {
+      "title": "Accidental Powercut 3",
+      "artist": "Tinashe",
+      "source": "https://www.last.fm/music/Tinashe/Accidental+Powercut+3",
+      "date": "2014-01-04",
+      "tracks": 3
+    },
+    {
+      "title": "Saturday Morning: La Buissone Studio Sessions",
+      "artist": "Ahmad Jamal",
+      "source": "https://www.last.fm/music/Ahmad+Jamal/Saturday+Morning%3A+La+Buissone+Studio+Sessions",
+      "date": "2014-01-15",
+      "tracks": 14
+    },
+    {
+      "title": "Les amants parallèles",
+      "artist": "Vincent Delerm",
+      "source": "https://www.last.fm/music/Vincent+Delerm/Les+amants+parall%C3%A8les",
+      "date": "2014-01-17",
+      "tracks": 13
+    },
+    {
+      "title": "Give The People What They Want",
+      "artist": "Sharon Jones & The Dap-Kings",
+      "source": "https://www.last.fm/music/Sharon+Jones+%26+The+Dap-Kings/Give+The+People+What+They+Want",
+      "date": "2014-01-30",
+      "tracks": 10
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

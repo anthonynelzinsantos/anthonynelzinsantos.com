@@ -1,0 +1,157 @@
+{
+  "albums": [
+    {
+      "title": "Fourth Generation",
+      "artist": "Juan Chiavassa",
+      "source": "https://www.last.fm/music/Juan+Chiavassa/Fourth+Generation",
+      "date": "2025-11-06",
+      "tracks": 10
+    },
+    {
+      "title": "Jazz Mood (Remastered 2025)",
+      "artist": "Yusef Lateef",
+      "source": "https://www.last.fm/music/Yusef+Lateef/Jazz+Mood+(Remastered+2025)",
+      "date": "2025-11-07",
+      "tracks": 9
+    },
+    {
+      "title": "Love in the Modern World",
+      "artist": "Daniel Santiago",
+      "source": "https://www.last.fm/music/Daniel+Santiago/Love+in+the+Modern+World",
+      "date": "2025-11-07",
+      "tracks": 13
+    },
+    {
+      "title": "Phylipe Nunes Araújo",
+      "artist": "Phylipe Nunes Araújo",
+      "source": "https://www.last.fm/music/Phylipe+Nunes+Ara%C3%BAjo/Phylipe+Nunes+Ara%C3%BAjo",
+      "date": "2025-11-07",
+      "tracks": 20
+    },
+    {
+      "title": "Libertango",
+      "artist": "Astor Piazzolla",
+      "source": "https://www.last.fm/music/Astor+Piazzolla/Libertango",
+      "date": "2025-11-09",
+      "tracks": 8
+    },
+    {
+      "title": "By All Means",
+      "artist": "Aaron Parks",
+      "source": "https://www.last.fm/music/Aaron+Parks/By+All+Means",
+      "date": "2025-11-12",
+      "tracks": 7
+    },
+    {
+      "title": "LUX",
+      "artist": "ROSALÍA",
+      "source": "https://www.last.fm/music/ROSAL%C3%8DA/LUX",
+      "date": "2025-11-12",
+      "tracks": 15
+    },
+    {
+      "title": "A Charlie Brown Christmas",
+      "artist": "Cyrus Chestnut",
+      "source": "https://www.last.fm/music/Cyrus+Chestnut/A+Charlie+Brown+Christmas",
+      "date": "2025-11-14",
+      "tracks": 14
+    },
+    {
+      "title": "One Weird Trick",
+      "artist": "Galina Juritz",
+      "source": "https://www.last.fm/music/Galina+Juritz/One+Weird+Trick",
+      "date": "2025-11-14",
+      "tracks": 13
+    },
+    {
+      "title": "Town Talk",
+      "artist": "Erik von Spreckelsen",
+      "source": "https://www.last.fm/music/Erik+von+Spreckelsen/Town+Talk",
+      "date": "2025-11-14",
+      "tracks": 7
+    }
+  ],
+  "books": [
+    {
+      "title": "La Chute du British museum",
+      "author": "David Lodge",
+      "rating": 4,
+      "date": "2025-11-02"
+    },
+    {
+      "title": "Le Comte de Monte-Cristo (Bibliothèque de la Pléiade)",
+      "author": "Alexandre Dumas",
+      "rating": 5,
+      "date": "2025-11-30"
+    }
+  ],
+  "films": [
+    {
+      "title": "Mickey 17",
+      "year": 2025,
+      "rating": 2,
+      "source": "https://boxd.it/bEFKJB",
+      "date": "2025-11-09",
+      "director": "Bong Joon Ho"
+    },
+    {
+      "title": "The Woman in Cabin 10",
+      "year": 2025,
+      "rating": 1,
+      "source": "https://boxd.it/bEN4p1",
+      "date": "2025-11-09",
+      "director": "Simon Stone"
+    },
+    {
+      "title": "A House of Dynamite",
+      "year": 2025,
+      "rating": 4,
+      "source": "https://boxd.it/bFGorh",
+      "date": "2025-11-10",
+      "director": "Kathryn Bigelow"
+    },
+    {
+      "title": "Maria",
+      "year": 2024,
+      "rating": 2,
+      "source": "https://boxd.it/bOGd2L",
+      "date": "2025-11-23",
+      "director": "Pablo Larraín"
+    },
+    {
+      "title": "A Minecraft Movie",
+      "year": 2025,
+      "rating": 2,
+      "source": "https://boxd.it/bSCWgV",
+      "date": "2025-11-29",
+      "director": "Jared Hess"
+    },
+    {
+      "title": "The Count of Monte Cristo",
+      "year": 2024,
+      "rating": 3,
+      "source": "https://boxd.it/bTg7sB",
+      "date": "2025-11-30",
+      "director": "Alexandre de La Patellière, Matthieu Delaporte"
+    }
+  ],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2025-11-15",
+      "date": "2025-11-15",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2025-11-19",
+      "date": "2025-11-19",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2025-11-25",
+      "date": "2025-11-25",
+      "count": 8
+    }
+  ]
+}

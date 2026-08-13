@@ -1,0 +1,387 @@
+{
+  "albums": [
+    {
+      "title": "Gipsy unity",
+      "artist": "Angelo Debarre",
+      "source": "https://www.last.fm/music/Angelo+Debarre/Gipsy+unity",
+      "date": "2015-08-01",
+      "tracks": 6
+    },
+    {
+      "title": "Cage: Piano Works",
+      "artist": "John Cage",
+      "source": "https://www.last.fm/music/John+Cage/Cage%3A+Piano+Works",
+      "date": "2015-08-03",
+      "tracks": 29
+    },
+    {
+      "title": "Electric Religion",
+      "artist": "Matthew Curry and the Fury",
+      "date": "2015-08-04",
+      "tracks": 10,
+      "source": "https://www.last.fm/music/Matthew+Curry+and+the+Fury/Electric+Religion"
+    },
+    {
+      "title": "Elegant Gypsy",
+      "artist": "Al Di Meola",
+      "source": "https://www.last.fm/music/Al+Di+Meola/Elegant+Gypsy",
+      "date": "2015-08-04",
+      "tracks": 4
+    },
+    {
+      "title": "Jazz Impressions Of Japan",
+      "artist": "The Dave Brubeck Quartet",
+      "source": "https://www.last.fm/music/The+Dave+Brubeck+Quartet/Jazz+Impressions+Of+Japan",
+      "date": "2015-08-04",
+      "tracks": 8
+    },
+    {
+      "title": "Liquid Spirit",
+      "artist": "Gregory Porter",
+      "source": "https://www.last.fm/music/Gregory+Porter/Liquid+Spirit",
+      "date": "2015-08-04",
+      "tracks": 3
+    },
+    {
+      "title": "Wynton Marsalis & Eric Clapton Play the Blues: Live from Jazz at Lincoln Center",
+      "artist": "Wynton Marsalis & Eric Clapton",
+      "source": "https://www.last.fm/music/Wynton+Marsalis+%26+Eric+Clapton/Wynton+Marsalis+%26+Eric+Clapton+Play+the+Blues%3A+Live+from+Jazz+at+Lincoln+Center",
+      "date": "2015-08-04",
+      "tracks": 8
+    },
+    {
+      "title": "Beethoven — Mass in C",
+      "artist": "London Symphony Orchestra / Sir Colin Davis",
+      "source": "https://www.last.fm/music/London+Symphony+Orchestra+%2F+Sir+Colin+Davis/Beethoven%C2%A0%E2%80%94%C2%A0Mass+in+C",
+      "date": "2015-08-05",
+      "tracks": 6
+    },
+    {
+      "title": "A Twist Of Rit",
+      "artist": "Lee Ritenour",
+      "source": "https://www.last.fm/music/Lee+Ritenour/A+Twist+Of+Rit",
+      "date": "2015-08-07",
+      "tracks": 8
+    },
+    {
+      "title": "After Midnight (Remastered)",
+      "artist": "Nat King Cole",
+      "source": "https://www.last.fm/music/Nat+King+Cole/After+Midnight+(Remastered)",
+      "date": "2015-08-07",
+      "tracks": 25
+    },
+    {
+      "title": "Born To Play Guitar",
+      "artist": "Buddy Guy",
+      "source": "https://www.last.fm/music/Buddy+Guy/Born+To+Play+Guitar",
+      "date": "2015-08-07",
+      "tracks": 14
+    },
+    {
+      "title": "Water For Your Soul",
+      "artist": "Joss Stone",
+      "source": "https://www.last.fm/music/Joss+Stone/Water+For+Your+Soul",
+      "date": "2015-08-07",
+      "tracks": 14
+    },
+    {
+      "title": "Adventures In Jazzland",
+      "artist": "Jeff Healey",
+      "source": "https://www.last.fm/music/Jeff+Healey/Adventures+In+Jazzland",
+      "date": "2015-08-08",
+      "tracks": 15
+    },
+    {
+      "title": "Born To Play Guitar",
+      "artist": "Buddy Guy",
+      "date": "2015-08-08",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/Buddy+Guy/Born+To+Play+Guitar"
+    },
+    {
+      "title": "Coming Home",
+      "artist": "Leon Bridges",
+      "date": "2015-08-08",
+      "tracks": 10,
+      "source": "https://www.last.fm/music/Leon+Bridges/Coming+Home"
+    },
+    {
+      "title": "Get Up!",
+      "artist": "Ben Harper / Charlie Musselwhite",
+      "date": "2015-08-08",
+      "tracks": 10,
+      "source": "https://www.last.fm/music/Ben+Harper+%2F+Charlie+Musselwhite/Get+Up!"
+    },
+    {
+      "title": "Out to Lunch!",
+      "artist": "Eric Dolphy",
+      "source": "https://www.last.fm/music/Eric+Dolphy/Out+to+Lunch!",
+      "date": "2015-08-08",
+      "tracks": 5
+    },
+    {
+      "title": "Plays And Sings Bossa Nova",
+      "artist": "Luiz Bonfa",
+      "source": "https://www.last.fm/music/Luiz+Bonfa/Plays+And+Sings+Bossa+Nova",
+      "date": "2015-08-08",
+      "tracks": 13
+    },
+    {
+      "title": "Solo Piano",
+      "artist": "Gonzales",
+      "source": "https://www.last.fm/music/Gonzales/Solo+Piano",
+      "date": "2015-08-08",
+      "tracks": 17
+    },
+    {
+      "title": "Time Out",
+      "artist": "The Dave Brubeck Quartet",
+      "source": "https://www.last.fm/music/The+Dave+Brubeck+Quartet/Time+Out",
+      "date": "2015-08-08",
+      "tracks": 7
+    },
+    {
+      "title": "All Is Well",
+      "artist": "Lisa Simone",
+      "source": "https://www.last.fm/music/Lisa+Simone/All+Is+Well",
+      "date": "2015-08-10",
+      "tracks": 9
+    },
+    {
+      "title": "Pärt: Piano Music",
+      "artist": "Arvo Pärt",
+      "source": "https://www.last.fm/music/Arvo+P%C3%A4rt/P%C3%A4rt%3A+Piano+Music",
+      "date": "2015-08-10",
+      "tracks": 26
+    },
+    {
+      "title": "Recuerdos de Tárrega",
+      "artist": "Anders Clemens Øien",
+      "source": "https://www.last.fm/music/Anders+Clemens+%C3%98ien/Recuerdos+de+T%C3%A1rrega",
+      "date": "2015-08-10",
+      "tracks": 5
+    },
+    {
+      "title": "Sing Into My Mouth",
+      "artist": "Iron & Wine",
+      "source": "https://www.last.fm/music/Iron+%26+Wine/Sing+Into+My+Mouth",
+      "date": "2015-08-10",
+      "tracks": 12
+    },
+    {
+      "title": "Abbey Road",
+      "artist": "The Beatles",
+      "date": "2015-08-12",
+      "tracks": 16,
+      "source": "https://www.last.fm/music/The+Beatles/Abbey+Road"
+    },
+    {
+      "title": "All is Well",
+      "artist": "Interprètes Divers",
+      "source": "https://www.last.fm/music/Interpr%C3%A8tes+Divers/All+is+Well",
+      "date": "2015-08-12",
+      "tracks": 5
+    },
+    {
+      "title": "All Is Well",
+      "artist": "Lisa Simone",
+      "date": "2015-08-12",
+      "tracks": 14,
+      "source": "https://www.last.fm/music/Lisa+Simone/All+Is+Well"
+    },
+    {
+      "title": "Born To Play Guitar",
+      "artist": "Buddy Guy",
+      "date": "2015-08-12",
+      "tracks": 14,
+      "source": "https://www.last.fm/music/Buddy+Guy/Born+To+Play+Guitar"
+    },
+    {
+      "title": "Somethin' Else",
+      "artist": "Cannonball Adderley",
+      "source": "https://www.last.fm/music/Cannonball+Adderley/Somethin'+Else",
+      "date": "2015-08-12",
+      "tracks": 6
+    },
+    {
+      "title": "The Alternate Rubber Soul (2003 Edition)",
+      "artist": "The Beatles",
+      "source": "https://www.last.fm/music/The+Beatles/The+Alternate+Rubber+Soul+(2003+Edition)",
+      "date": "2015-08-12",
+      "tracks": 29
+    },
+    {
+      "title": "Water For Your Soul",
+      "artist": "Joss Stone",
+      "date": "2015-08-12",
+      "tracks": 8,
+      "source": "https://www.last.fm/music/Joss+Stone/Water+For+Your+Soul"
+    },
+    {
+      "title": "Rafael Aguirre: Guitar Recital",
+      "artist": "Rafael Aguirre",
+      "source": "https://www.last.fm/music/Rafael+Aguirre/Rafael+Aguirre%3A+Guitar+Recital",
+      "date": "2015-08-14",
+      "tracks": 12
+    },
+    {
+      "title": "A Twist Of Rit",
+      "artist": "Lee Ritenour",
+      "date": "2015-08-18",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/Lee+Ritenour/A+Twist+Of+Rit"
+    },
+    {
+      "title": "All is Well",
+      "artist": "Interprètes Divers",
+      "date": "2015-08-18",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/Interpr%C3%A8tes+Divers/All+is+Well"
+    },
+    {
+      "title": "All Is Well",
+      "artist": "Lisa Simone",
+      "date": "2015-08-18",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/Lisa+Simone/All+Is+Well"
+    },
+    {
+      "title": "Sing Into My Mouth",
+      "artist": "Iron & Wine",
+      "source": "https://www.last.fm/music/Iron+%26+Wine/Sing+Into+My+Mouth",
+      "date": "2015-08-18",
+      "tracks": 12
+    },
+    {
+      "title": "A Twist Of Rit",
+      "artist": "Lee Ritenour",
+      "source": "https://www.last.fm/music/Lee+Ritenour/A+Twist+Of+Rit",
+      "date": "2015-08-19",
+      "tracks": 5
+    },
+    {
+      "title": "All is Well",
+      "artist": "Interprètes Divers",
+      "date": "2015-08-19",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/Interpr%C3%A8tes+Divers/All+is+Well"
+    },
+    {
+      "title": "All Is Well",
+      "artist": "Lisa Simone",
+      "date": "2015-08-19",
+      "tracks": 14,
+      "source": "https://www.last.fm/music/Lisa+Simone/All+Is+Well"
+    },
+    {
+      "title": "All is Well",
+      "artist": "Interprètes Divers",
+      "source": "https://www.last.fm/music/Interpr%C3%A8tes+Divers/All+is+Well",
+      "date": "2015-08-20",
+      "tracks": 3
+    },
+    {
+      "title": "All Is Well",
+      "artist": "Lisa Simone",
+      "date": "2015-08-20",
+      "tracks": 8,
+      "source": "https://www.last.fm/music/Lisa+Simone/All+Is+Well"
+    },
+    {
+      "title": "Nina Revisited... A Tribute To Nina Simone",
+      "artist": "Lauryn Hill",
+      "source": "https://www.last.fm/music/Lauryn+Hill/Nina+Revisited...+A+Tribute+To+Nina+Simone",
+      "date": "2015-08-22",
+      "tracks": 6
+    },
+    {
+      "title": "Born To Play Guitar",
+      "artist": "Buddy Guy",
+      "date": "2015-08-23",
+      "tracks": 14,
+      "source": "https://www.last.fm/music/Buddy+Guy/Born+To+Play+Guitar"
+    },
+    {
+      "title": "Boys & Girls",
+      "artist": "Alabama Shakes",
+      "source": "https://www.last.fm/music/Alabama+Shakes/Boys+%26+Girls",
+      "date": "2015-08-23",
+      "tracks": 12
+    },
+    {
+      "title": "Sing Into My Mouth",
+      "artist": "Iron And Wine / Ben Bridwell",
+      "source": "https://www.last.fm/music/Iron+And+Wine+%2F+Ben+Bridwell/Sing+Into+My+Mouth",
+      "date": "2015-08-23",
+      "tracks": 12
+    },
+    {
+      "title": "Sound & Color",
+      "artist": "Alabama Shakes",
+      "source": "https://www.last.fm/music/Alabama+Shakes/Sound+%26+Color",
+      "date": "2015-08-23",
+      "tracks": 7
+    },
+    {
+      "title": "Stan Getz and The Oscar Peterson Trio",
+      "artist": "Stan Getz / The Oscar Peterson Trio",
+      "source": "https://www.last.fm/music/Stan+Getz+%2F+The+Oscar+Peterson+Trio/Stan+Getz+and+The+Oscar+Peterson+Trio",
+      "date": "2015-08-23",
+      "tracks": 11
+    },
+    {
+      "title": "We Get Requests",
+      "artist": "The Oscar Peterson Trio",
+      "date": "2015-08-23",
+      "tracks": 10,
+      "source": "https://www.last.fm/music/The+Oscar+Peterson+Trio/We+Get+Requests"
+    },
+    {
+      "title": "All Is Well",
+      "artist": "Lisa Simone",
+      "date": "2015-08-25",
+      "tracks": 14,
+      "source": "https://www.last.fm/music/Lisa+Simone/All+Is+Well"
+    },
+    {
+      "title": "Coming Home",
+      "artist": "Leon Bridges",
+      "source": "https://www.last.fm/music/Leon+Bridges/Coming+Home",
+      "date": "2015-08-25",
+      "tracks": 10
+    },
+    {
+      "title": "Water For Your Soul",
+      "artist": "Joss Stone",
+      "source": "https://www.last.fm/music/Joss+Stone/Water+For+Your+Soul",
+      "date": "2015-08-25",
+      "tracks": 14
+    },
+    {
+      "title": "Electric Religion",
+      "artist": "Matthew Curry and the Fury",
+      "source": "https://www.last.fm/music/Matthew+Curry+and+the+Fury/Electric+Religion",
+      "date": "2015-08-29",
+      "tracks": 10
+    },
+    {
+      "title": "If I Don't Got You",
+      "artist": "Matthew Curry and the Fury",
+      "source": "https://www.last.fm/music/Matthew+Curry+and+the+Fury/If+I+Don't+Got+You",
+      "date": "2015-08-29",
+      "tracks": 9
+    },
+    {
+      "title": "The Lake Poets",
+      "artist": "The Lake Poets",
+      "source": "https://www.last.fm/music/The+Lake+Poets/The+Lake+Poets",
+      "date": "2015-08-29",
+      "tracks": 12
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

@@ -1,0 +1,49 @@
+{
+  "albums": [],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2022-01-01",
+      "date": "2022-01-01",
+      "count": 33
+    },
+    {
+      "title": "contributions du 2022-01-02",
+      "date": "2022-01-02",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2022-01-04",
+      "date": "2022-01-04",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2022-01-10",
+      "date": "2022-01-10",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2022-01-16",
+      "date": "2022-01-16",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2022-01-22",
+      "date": "2022-01-22",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2022-01-29",
+      "date": "2022-01-29",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2022-01-30",
+      "date": "2022-01-30",
+      "count": 1
+    }
+  ]
+}

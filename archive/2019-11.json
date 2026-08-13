@@ -1,0 +1,49 @@
+{
+  "albums": [],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2019-11-12",
+      "date": "2019-11-12",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2019-11-16",
+      "date": "2019-11-16",
+      "count": 8
+    },
+    {
+      "title": "contributions du 2019-11-17",
+      "date": "2019-11-17",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2019-11-18",
+      "date": "2019-11-18",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2019-11-19",
+      "date": "2019-11-19",
+      "count": 4
+    },
+    {
+      "title": "contributions du 2019-11-21",
+      "date": "2019-11-21",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2019-11-27",
+      "date": "2019-11-27",
+      "count": 3
+    },
+    {
+      "title": "contributions du 2019-11-28",
+      "date": "2019-11-28",
+      "count": 2
+    }
+  ]
+}

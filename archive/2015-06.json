@@ -1,0 +1,156 @@
+{
+  "albums": [
+    {
+      "title": "Little Secret",
+      "artist": "Nikki Yanofsky",
+      "source": "https://www.last.fm/music/Nikki+Yanofsky/Little+Secret",
+      "date": "2015-06-04",
+      "tracks": 16
+    },
+    {
+      "title": "Currency of Man (The Artist's Cut)",
+      "artist": "Melody Gardot",
+      "source": "https://www.last.fm/music/Melody+Gardot/Currency+of+Man+(The+Artist's+Cut)",
+      "date": "2015-06-09",
+      "tracks": 15
+    },
+    {
+      "title": "Wilder Mind     [ Deluxe ]",
+      "artist": "Mumford & Sons",
+      "source": "https://www.last.fm/music/Mumford+%26+Sons/Wilder+Mind+++++%5B+Deluxe+%5D",
+      "date": "2015-06-09",
+      "tracks": 14
+    },
+    {
+      "title": "How Big, How Blue, How Beautiful (Deluxe)",
+      "artist": "Florence + the Machine",
+      "source": "https://www.last.fm/music/Florence+%2B+the+Machine/How+Big%2C+How+Blue%2C+How+Beautiful+(Deluxe)",
+      "date": "2015-06-10",
+      "tracks": 18
+    },
+    {
+      "title": "Little Secret",
+      "artist": "Nikki Yanofsky",
+      "date": "2015-06-11",
+      "tracks": 12,
+      "source": "https://www.last.fm/music/Nikki+Yanofsky/Little+Secret"
+    },
+    {
+      "title": "Little Secret",
+      "artist": "Nikki Yanofsky",
+      "date": "2015-06-12",
+      "tracks": 12,
+      "source": "https://www.last.fm/music/Nikki+Yanofsky/Little+Secret"
+    },
+    {
+      "title": "MTV Unplugged",
+      "artist": "Florence + the Machine",
+      "source": "https://www.last.fm/music/Florence+%2B+the+Machine/MTV+Unplugged",
+      "date": "2015-06-15",
+      "tracks": 11
+    },
+    {
+      "title": "Lungs",
+      "artist": "Florence + the Machine",
+      "source": "https://www.last.fm/music/Florence+%2B+the+Machine/Lungs",
+      "date": "2015-06-16",
+      "tracks": 13
+    },
+    {
+      "title": "Friday Night In San Francisco",
+      "artist": "Al Di Meola",
+      "source": "https://www.last.fm/music/Al+Di+Meola/Friday+Night+In+San+Francisco",
+      "date": "2015-06-17",
+      "tracks": 4
+    },
+    {
+      "title": "Land of the Midnight Sun",
+      "artist": "Al Di Meola",
+      "source": "https://www.last.fm/music/Al+Di+Meola/Land+of+the+Midnight+Sun",
+      "date": "2015-06-17",
+      "tracks": 7
+    },
+    {
+      "title": "Passion, Grace & Fire",
+      "artist": "Paco De Lucia",
+      "source": "https://www.last.fm/music/Paco+De+Lucia/Passion%2C+Grace+%26+Fire",
+      "date": "2015-06-17",
+      "tracks": 5
+    },
+    {
+      "title": "Land of the Midnight Sun",
+      "artist": "Al Di Meola",
+      "source": "https://www.last.fm/music/Al+Di+Meola/Land+of+the+Midnight+Sun",
+      "date": "2015-06-18",
+      "tracks": 6
+    },
+    {
+      "title": "Born and Raised",
+      "artist": "John Mayer",
+      "source": "https://www.last.fm/music/John+Mayer/Born+and+Raised",
+      "date": "2015-06-22",
+      "tracks": 9
+    },
+    {
+      "title": "Friday Night In San Francisco",
+      "artist": "Al Di Meola",
+      "source": "https://www.last.fm/music/Al+Di+Meola/Friday+Night+In+San+Francisco",
+      "date": "2015-06-22",
+      "tracks": 5
+    },
+    {
+      "title": "Currency of Man (The Artist's Cut)",
+      "artist": "Melody Gardot",
+      "source": "https://www.last.fm/music/Melody+Gardot/Currency+of+Man+(The+Artist's+Cut)",
+      "date": "2015-06-23",
+      "tracks": 10
+    },
+    {
+      "title": "Dear Companion",
+      "artist": "Meg Baird",
+      "source": "https://www.last.fm/music/Meg+Baird/Dear+Companion",
+      "date": "2015-06-29",
+      "tracks": 11
+    },
+    {
+      "title": "Mississippi to Sahara",
+      "artist": "Faris",
+      "source": "https://www.last.fm/music/Faris/Mississippi+to+Sahara",
+      "date": "2015-06-29",
+      "tracks": 8
+    },
+    {
+      "title": "Whiplash (Original Motion Picture Soundtrack)",
+      "artist": "Justin Hurwitz, Tim Simonec",
+      "source": "https://www.last.fm/music/Justin+Hurwitz%2C+Tim+Simonec/Whiplash+(Original+Motion+Picture+Soundtrack)",
+      "date": "2015-06-29",
+      "tracks": 4
+    },
+    {
+      "title": "Whiplash (Original Motion Picture Soundtrack)",
+      "artist": "Justin Hurwitz",
+      "source": "https://www.last.fm/music/Justin+Hurwitz/Whiplash+(Original+Motion+Picture+Soundtrack)",
+      "date": "2015-06-29",
+      "tracks": 3
+    },
+    {
+      "title": "King Of The Delta Blues Singers",
+      "artist": "Robert Johnson",
+      "source": "https://www.last.fm/music/Robert+Johnson/King+Of+The+Delta+Blues+Singers",
+      "date": "2015-06-30",
+      "tracks": 5
+    },
+    {
+      "title": "Little Secret",
+      "artist": "Nikki Yanofsky",
+      "date": "2015-06-30",
+      "tracks": 13,
+      "source": "https://www.last.fm/music/Nikki+Yanofsky/Little+Secret"
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

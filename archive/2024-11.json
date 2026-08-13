@@ -1,0 +1,791 @@
+{
+  "albums": [
+    {
+      "title": "Earth Stories",
+      "artist": "Cyrus Chestnut",
+      "source": "https://www.last.fm/music/Cyrus+Chestnut/Earth+Stories",
+      "date": "2024-11-04",
+      "tracks": 11
+    },
+    {
+      "title": "Refract",
+      "artist": "Jason Moran, Marcus Gilmore, BlankFor.ms",
+      "source": "https://www.last.fm/music/Jason+Moran%2C+Marcus+Gilmore%2C+BlankFor.ms/Refract",
+      "date": "2024-11-04",
+      "tracks": 16
+    },
+    {
+      "title": "Revelation",
+      "artist": "Cyrus Chestnut",
+      "source": "https://www.last.fm/music/Cyrus+Chestnut/Revelation",
+      "date": "2024-11-04",
+      "tracks": 11
+    },
+    {
+      "title": "Soular Energy",
+      "artist": "Ray Brown",
+      "source": "https://www.last.fm/music/Ray+Brown/Soular+Energy",
+      "date": "2024-11-04",
+      "tracks": 7
+    },
+    {
+      "title": "Downright Upright",
+      "artist": "Brian Bromberg",
+      "source": "https://www.last.fm/music/Brian+Bromberg/Downright+Upright",
+      "date": "2024-11-05",
+      "tracks": 10
+    },
+    {
+      "title": "Like A Tree It Grows",
+      "artist": "Igmar Thomas’ Revive Big Band",
+      "source": "https://www.last.fm/music/Igmar+Thomas%E2%80%99+Revive+Big+Band/Like+A+Tree+It+Grows",
+      "date": "2024-11-05",
+      "tracks": 3
+    },
+    {
+      "title": "Three Visitors",
+      "artist": "Scott Colley, Edward Simon & Brian Blade",
+      "source": "https://www.last.fm/music/Scott+Colley%2C+Edward+Simon+%26+Brian+Blade/Three+Visitors",
+      "date": "2024-11-05",
+      "tracks": 6
+    },
+    {
+      "title": "Tree Jazz - The Shape of Christmas to Come",
+      "artist": "Matt Wilson's Christmas Tree-O",
+      "source": "https://www.last.fm/music/Matt+Wilson's+Christmas+Tree-O/Tree+Jazz+-+The+Shape+of+Christmas+to+Come",
+      "date": "2024-11-05",
+      "tracks": 9
+    },
+    {
+      "title": "Finally!",
+      "artist": "Jake and Abe",
+      "source": "https://www.last.fm/music/Jake+and+Abe/Finally!",
+      "date": "2024-11-06",
+      "tracks": 10
+    },
+    {
+      "title": "Keeping Company",
+      "artist": "Bill Laurance, Michael League",
+      "source": "https://www.last.fm/music/Bill+Laurance%2C+Michael+League/Keeping+Company",
+      "date": "2024-11-06",
+      "tracks": 11
+    },
+    {
+      "title": "Omar Sosa's 88 Well-Tuned Drums",
+      "artist": "Omar Sosa",
+      "source": "https://www.last.fm/music/Omar+Sosa/Omar+Sosa's+88+Well-Tuned+Drums",
+      "date": "2024-11-06",
+      "tracks": 6
+    },
+    {
+      "title": "Fearless Movement",
+      "artist": "Kamasi Washington",
+      "source": "https://www.last.fm/music/Kamasi+Washington/Fearless+Movement",
+      "date": "2024-11-07",
+      "tracks": 7
+    },
+    {
+      "title": "Three Visitors",
+      "artist": "Scott Colley, Edward Simon, Brian Blade",
+      "date": "2024-11-07",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Scott+Colley%2C+Edward+Simon%2C+Brian+Blade/Three+Visitors"
+    },
+    {
+      "title": "Tree Jazz - The Shape of Christmas to Come",
+      "artist": "Matt Wilson's Christmas Tree-O",
+      "date": "2024-11-07",
+      "tracks": 9,
+      "source": "https://www.last.fm/music/Matt+Wilson's+Christmas+Tree-O/Tree+Jazz+-+The+Shape+of+Christmas+to+Come"
+    },
+    {
+      "title": "Dream Trio",
+      "artist": "Sam Gendel, Benny Bock & Hans P. Kjorstad",
+      "source": "https://www.last.fm/music/Sam+Gendel%2C+Benny+Bock+%26+Hans+P.+Kjorstad/Dream+Trio",
+      "date": "2024-11-08",
+      "tracks": 8
+    },
+    {
+      "title": "Humanoid",
+      "artist": "Rachel Eckroth",
+      "source": "https://www.last.fm/music/Rachel+Eckroth/Humanoid",
+      "date": "2024-11-08",
+      "tracks": 9
+    },
+    {
+      "title": "THE FUTURE IS NOW (LIVE)",
+      "artist": "Chick Corea Elektric Band, Chick Corea, John Patitucci, Frank Gambale, Eric Marienthal, Dave Weckl",
+      "source": "https://www.last.fm/music/Chick+Corea+Elektric+Band%2C+Chick+Corea%2C+John+Patitucci%2C+Frank+Gambale%2C+Eric+Marienthal%2C+Dave+Weckl/THE+FUTURE+IS+NOW+(LIVE)",
+      "date": "2024-11-08",
+      "tracks": 9
+    },
+    {
+      "title": "Untitled Dirge",
+      "artist": "Tomin",
+      "source": "https://www.last.fm/music/Tomin/Untitled+Dirge",
+      "date": "2024-11-08",
+      "tracks": 3
+    },
+    {
+      "title": "Made in USA: Gershwin, Beach & Barber",
+      "artist": "Claire Huangci",
+      "source": "https://www.last.fm/music/Claire+Huangci/Made+in+USA%3A+Gershwin%2C+Beach+%26+Barber",
+      "date": "2024-11-09",
+      "tracks": 23
+    },
+    {
+      "title": "The Shape of Jazz to Come (Something else)",
+      "artist": "Pierrick Pedron",
+      "source": "https://www.last.fm/music/Pierrick+Pedron/The+Shape+of+Jazz+to+Come+(Something+else)",
+      "date": "2024-11-10",
+      "tracks": 7
+    },
+    {
+      "title": "The Old Country (Live at the Deer Head Inn)",
+      "artist": "Keith Jarrett, Gary Peacock & Paul Motian",
+      "source": "https://www.last.fm/music/Keith+Jarrett%2C+Gary+Peacock+%26+Paul+Motian/The+Old+Country+(Live+at+the+Deer+Head+Inn)",
+      "date": "2024-11-11",
+      "tracks": 8
+    },
+    {
+      "title": "Complex Emotions",
+      "artist": "The Bad Plus",
+      "source": "https://www.last.fm/music/The+Bad+Plus/Complex+Emotions",
+      "date": "2024-11-12",
+      "tracks": 9
+    },
+    {
+      "title": "Merci",
+      "artist": "Yo-Yo Ma, Kathryn Stott",
+      "source": "https://www.last.fm/music/Yo-Yo+Ma%2C+Kathryn+Stott/Merci",
+      "date": "2024-11-12",
+      "tracks": 16
+    },
+    {
+      "title": "Surprise !",
+      "artist": "Airelle Besson, Jonas Burgwinkel & Sebastian Sternal",
+      "source": "https://www.last.fm/music/Airelle+Besson%2C+Jonas+Burgwinkel+%26+Sebastian+Sternal/Surprise+!",
+      "date": "2024-11-12",
+      "tracks": 10
+    },
+    {
+      "title": "The Shape of Jazz to Come (Something else)",
+      "artist": "Pierrick Pedron",
+      "source": "https://www.last.fm/music/Pierrick+Pedron/The+Shape+of+Jazz+to+Come+(Something+else)",
+      "date": "2024-11-12",
+      "tracks": 6
+    },
+    {
+      "title": "United",
+      "artist": "Lionel Loueke, Dave Holland",
+      "source": "https://www.last.fm/music/Lionel+Loueke%2C+Dave+Holland/United",
+      "date": "2024-11-12",
+      "tracks": 11
+    },
+    {
+      "title": "WILDFLOWERS, VOL. 2",
+      "artist": "Kurt Elling, Joey Calderazzo",
+      "source": "https://www.last.fm/music/Kurt+Elling%2C+Joey+Calderazzo/WILDFLOWERS%2C+VOL.+2",
+      "date": "2024-11-12",
+      "tracks": 4
+    },
+    {
+      "title": "2nd Quake",
+      "artist": "OTOOTO, Sofie Birch",
+      "source": "https://www.last.fm/music/OTOOTO%2C+Sofie+Birch/2nd+Quake",
+      "date": "2024-11-13",
+      "tracks": 13
+    },
+    {
+      "title": "2nd Quake",
+      "artist": "Otooto",
+      "source": "https://www.last.fm/music/Otooto/2nd+Quake",
+      "date": "2024-11-13",
+      "tracks": 4
+    },
+    {
+      "title": "Cantaloupe Island",
+      "artist": "Herbie Hancock",
+      "source": "https://www.last.fm/music/Herbie+Hancock/Cantaloupe+Island",
+      "date": "2024-11-13",
+      "tracks": 6
+    },
+    {
+      "title": "Endlessness",
+      "artist": "Nala Sinephro",
+      "source": "https://www.last.fm/music/Nala+Sinephro/Endlessness",
+      "date": "2024-11-13",
+      "tracks": 10
+    },
+    {
+      "title": "Little Big Top",
+      "artist": "Guy Klucevek, Volker Goetze",
+      "source": "https://www.last.fm/music/Guy+Klucevek%2C+Volker+Goetze/Little+Big+Top",
+      "date": "2024-11-13",
+      "tracks": 14
+    },
+    {
+      "title": "Love Is",
+      "artist": "John Hart",
+      "source": "https://www.last.fm/music/John+Hart/Love+Is",
+      "date": "2024-11-13",
+      "tracks": 10
+    },
+    {
+      "title": "Será Una Noche",
+      "artist": "La Segunda",
+      "source": "https://www.last.fm/music/La+Segunda/Ser%C3%A1+Una+Noche",
+      "date": "2024-11-13",
+      "tracks": 16
+    },
+    {
+      "title": "Tension",
+      "artist": "Mulatu Astatke, Hoodna Orchestra",
+      "source": "https://www.last.fm/music/Mulatu+Astatke%2C+Hoodna+Orchestra/Tension",
+      "date": "2024-11-13",
+      "tracks": 6
+    },
+    {
+      "title": "Algo Que Darte",
+      "artist": "Vale",
+      "source": "https://www.last.fm/music/Vale/Algo+Que+Darte",
+      "date": "2024-11-14",
+      "tracks": 4
+    },
+    {
+      "title": "From the Heights of Our Pastureland",
+      "artist": "Yoo Doo Right",
+      "source": "https://www.last.fm/music/Yoo+Doo+Right/From+the+Heights+of+Our+Pastureland",
+      "date": "2024-11-14",
+      "tracks": 4
+    },
+    {
+      "title": "Grande-Terre",
+      "artist": "Roy Hargrove",
+      "source": "https://www.last.fm/music/Roy+Hargrove/Grande-Terre",
+      "date": "2024-11-14",
+      "tracks": 5
+    },
+    {
+      "title": "Mariza Canta Amália",
+      "artist": "Mariza",
+      "source": "https://www.last.fm/music/Mariza/Mariza+Canta+Am%C3%A1lia",
+      "date": "2024-11-14",
+      "tracks": 10
+    },
+    {
+      "title": "Mum Does The Washing EP",
+      "artist": "Joshua Idehen",
+      "source": "https://www.last.fm/music/Joshua+Idehen/Mum+Does+The+Washing+EP",
+      "date": "2024-11-14",
+      "tracks": 3
+    },
+    {
+      "title": "Songbook",
+      "artist": "Pierre Génisson, Bruno Fontaine, Fabrice Moreau, Benoît Dunoyer de Segonzac",
+      "source": "https://www.last.fm/music/Pierre+G%C3%A9nisson%2C+Bruno+Fontaine%2C+Fabrice+Moreau%2C+Beno%C3%AEt+Dunoyer+de+Segonzac/Songbook",
+      "date": "2024-11-14",
+      "tracks": 8
+    },
+    {
+      "title": "Songbook",
+      "artist": "Pierre Génisson, Bruno Fontaine",
+      "source": "https://www.last.fm/music/Pierre+G%C3%A9nisson%2C+Bruno+Fontaine/Songbook",
+      "date": "2024-11-14",
+      "tracks": 4
+    },
+    {
+      "title": "Time Takes Odd Turns",
+      "artist": "Tom Johnson Jazz Orchestra",
+      "source": "https://www.last.fm/music/Tom+Johnson+Jazz+Orchestra/Time+Takes+Odd+Turns",
+      "date": "2024-11-14",
+      "tracks": 9
+    },
+    {
+      "title": "Adrian Younge Presents Linear Labs: São Paulo",
+      "artist": "Adrian Younge",
+      "source": "https://www.last.fm/music/Adrian+Younge/Adrian+Younge+Presents+Linear+Labs%3A+S%C3%A3o+Paulo",
+      "date": "2024-11-15",
+      "tracks": 4
+    },
+    {
+      "title": "Beethoven Blues",
+      "artist": "Jon Batiste",
+      "source": "https://www.last.fm/music/Jon+Batiste/Beethoven+Blues",
+      "date": "2024-11-15",
+      "tracks": 11
+    },
+    {
+      "title": "Berio: Sinfonia",
+      "artist": "Gothenburg Symphony Orchestra, Peter Eötvös, London Voices",
+      "source": "https://www.last.fm/music/Gothenburg+Symphony+Orchestra%2C+Peter+E%C3%B6tv%C3%B6s%2C+London+Voices/Berio%3A+Sinfonia",
+      "date": "2024-11-15",
+      "tracks": 4
+    },
+    {
+      "title": "Grande-Terre",
+      "artist": "Roy Hargrove",
+      "source": "https://www.last.fm/music/Roy+Hargrove/Grande-Terre",
+      "date": "2024-11-15",
+      "tracks": 5
+    },
+    {
+      "title": "Jazz Club Montmartre - CPH 1988",
+      "artist": "Michel Petrucciani, Gary Peacock, Roy Haynes",
+      "source": "https://www.last.fm/music/Michel+Petrucciani%2C+Gary+Peacock%2C+Roy+Haynes/Jazz+Club+Montmartre+-+CPH+1988",
+      "date": "2024-11-15",
+      "tracks": 12
+    },
+    {
+      "title": "Moffou (20th Anniversary Edition)",
+      "artist": "Salif Keita",
+      "source": "https://www.last.fm/music/Salif+Keita/Moffou+(20th+Anniversary+Edition)",
+      "date": "2024-11-15",
+      "tracks": 9
+    },
+    {
+      "title": "Revelation",
+      "artist": "Cyrus Chestnut",
+      "date": "2024-11-15",
+      "tracks": 10,
+      "source": "https://www.last.fm/music/Cyrus+Chestnut/Revelation"
+    },
+    {
+      "title": "At The Right Time",
+      "artist": "Rasmus Sørensen",
+      "source": "https://www.last.fm/music/Rasmus+S%C3%B8rensen/At+The+Right+Time",
+      "date": "2024-11-16",
+      "tracks": 12
+    },
+    {
+      "title": "Eagle's Point",
+      "artist": "Chris Potter, John Patitucci, Brian Blade, Brad Mehldau",
+      "source": "https://www.last.fm/music/Chris+Potter%2C+John+Patitucci%2C+Brian+Blade%2C+Brad+Mehldau/Eagle's+Point",
+      "date": "2024-11-16",
+      "tracks": 3
+    },
+    {
+      "title": "Looking Back",
+      "artist": "Scott Hamilton, Jan Lundgren, Hans Backenroth",
+      "source": "https://www.last.fm/music/Scott+Hamilton%2C+Jan+Lundgren%2C+Hans+Backenroth/Looking+Back",
+      "date": "2024-11-18",
+      "tracks": 10
+    },
+    {
+      "title": "The Myth of Katabasis",
+      "artist": "Hayoung Lyou",
+      "source": "https://www.last.fm/music/Hayoung+Lyou/The+Myth+of+Katabasis",
+      "date": "2024-11-18",
+      "tracks": 9
+    },
+    {
+      "title": "full cream",
+      "artist": "Ziv Ravitz, Leo Genovese, Greg Ward, Matthew Stevens",
+      "source": "https://www.last.fm/music/Ziv+Ravitz%2C+Leo+Genovese%2C+Greg+Ward%2C+Matthew+Stevens/full+cream",
+      "date": "2024-11-19",
+      "tracks": 8
+    },
+    {
+      "title": "Inwards",
+      "artist": "Emile Londonien",
+      "source": "https://www.last.fm/music/Emile+Londonien/Inwards",
+      "date": "2024-11-19",
+      "tracks": 9
+    },
+    {
+      "title": "Metamorphosis",
+      "artist": "Hayoung Lyou",
+      "source": "https://www.last.fm/music/Hayoung+Lyou/Metamorphosis",
+      "date": "2024-11-19",
+      "tracks": 10
+    },
+    {
+      "title": "Poppy",
+      "artist": "Masaru Imada",
+      "source": "https://www.last.fm/music/Masaru+Imada/Poppy",
+      "date": "2024-11-19",
+      "tracks": 7
+    },
+    {
+      "title": "Samares",
+      "artist": "Colin Vallon, Patrice Moret, Julian Sartorius",
+      "source": "https://www.last.fm/music/Colin+Vallon%2C+Patrice+Moret%2C+Julian+Sartorius/Samares",
+      "date": "2024-11-19",
+      "tracks": 6
+    },
+    {
+      "title": "The Myth of Katabasis",
+      "artist": "Hayoung Lyou",
+      "date": "2024-11-19",
+      "tracks": 9,
+      "source": "https://www.last.fm/music/Hayoung+Lyou/The+Myth+of+Katabasis"
+    },
+    {
+      "title": "The Pilgrimage",
+      "artist": "Arne Jansen, Anders Jormin, Uwe Steinmetz",
+      "source": "https://www.last.fm/music/Arne+Jansen%2C+Anders+Jormin%2C+Uwe+Steinmetz/The+Pilgrimage",
+      "date": "2024-11-19",
+      "tracks": 10
+    },
+    {
+      "title": "Daughter of a Temple",
+      "artist": "Ganavya",
+      "source": "https://www.last.fm/music/Ganavya/Daughter+of+a+Temple",
+      "date": "2024-11-20",
+      "tracks": 10
+    },
+    {
+      "title": "Encounters and Collisions",
+      "artist": "Sara Serpa, Ingrid Laubrock, Angelica Sanchez, Erik Friedlander",
+      "source": "https://www.last.fm/music/Sara+Serpa%2C+Ingrid+Laubrock%2C+Angelica+Sanchez%2C+Erik+Friedlander/Encounters+and+Collisions",
+      "date": "2024-11-20",
+      "tracks": 8
+    },
+    {
+      "title": "Metamorphosis",
+      "artist": "Hayoung Lyou",
+      "source": "https://www.last.fm/music/Hayoung+Lyou/Metamorphosis",
+      "date": "2024-11-20",
+      "tracks": 10
+    },
+    {
+      "title": "Revelation",
+      "artist": "Cyrus Chestnut",
+      "source": "https://www.last.fm/music/Cyrus+Chestnut/Revelation",
+      "date": "2024-11-20",
+      "tracks": 11
+    },
+    {
+      "title": "Samares",
+      "artist": "Colin Vallon, Patrice Moret, Julian Sartorius",
+      "source": "https://www.last.fm/music/Colin+Vallon%2C+Patrice+Moret%2C+Julian+Sartorius/Samares",
+      "date": "2024-11-20",
+      "tracks": 3
+    },
+    {
+      "title": "Vermeilles",
+      "artist": "Rouge",
+      "source": "https://www.last.fm/music/Rouge/Vermeilles",
+      "date": "2024-11-20",
+      "tracks": 9
+    },
+    {
+      "title": "Beethoven Blues",
+      "artist": "Jon Batiste",
+      "source": "https://www.last.fm/music/Jon+Batiste/Beethoven+Blues",
+      "date": "2024-11-21",
+      "tracks": 8
+    },
+    {
+      "title": "Evergreen",
+      "artist": "Julius Rodriguez",
+      "source": "https://www.last.fm/music/Julius+Rodriguez/Evergreen",
+      "date": "2024-11-21",
+      "tracks": 7
+    },
+    {
+      "title": "Moon Music",
+      "artist": "Coldplay",
+      "source": "https://www.last.fm/music/Coldplay/Moon+Music",
+      "date": "2024-11-21",
+      "tracks": 7
+    },
+    {
+      "title": "Waves",
+      "artist": "Ross McHenry",
+      "source": "https://www.last.fm/music/Ross+McHenry/Waves",
+      "date": "2024-11-21",
+      "tracks": 3
+    },
+    {
+      "title": "Get Up With It",
+      "artist": "Miles Davis",
+      "source": "https://www.last.fm/music/Miles+Davis/Get+Up+With+It",
+      "date": "2024-11-22",
+      "tracks": 8
+    },
+    {
+      "title": "Greatest Hits I II & III (The Platinum Collection)",
+      "artist": "Queen",
+      "source": "https://www.last.fm/music/Queen/Greatest+Hits+I+II+%26+III+(The+Platinum+Collection)",
+      "date": "2024-11-24",
+      "tracks": 46
+    },
+    {
+      "title": "Greatest Hits I II & III (The Platinum Collection)",
+      "artist": "Freddie Mercury",
+      "source": "https://www.last.fm/music/Freddie+Mercury/Greatest+Hits+I+II+%26+III+(The+Platinum+Collection)",
+      "date": "2024-11-24",
+      "tracks": 3
+    },
+    {
+      "title": "2nd Quake",
+      "artist": "OTOOTO, Sofie Birch",
+      "source": "https://www.last.fm/music/OTOOTO%2C+Sofie+Birch/2nd+Quake",
+      "date": "2024-11-25",
+      "tracks": 6
+    },
+    {
+      "title": "Cream and Sugar",
+      "artist": "Duo Brothers",
+      "source": "https://www.last.fm/music/Duo+Brothers/Cream+and+Sugar",
+      "date": "2024-11-25",
+      "tracks": 11
+    },
+    {
+      "title": "Day 1",
+      "artist": "Makoto Ozone & No Name Horses",
+      "source": "https://www.last.fm/music/Makoto+Ozone+%26+No+Name+Horses/Day+1",
+      "date": "2024-11-25",
+      "tracks": 9
+    },
+    {
+      "title": "Duo Brothers",
+      "artist": "Duo Brothers",
+      "source": "https://www.last.fm/music/Duo+Brothers/Duo+Brothers",
+      "date": "2024-11-25",
+      "tracks": 22
+    },
+    {
+      "title": "Duo Brothers",
+      "artist": "Duo Brothers, Avishai Cohen",
+      "source": "https://www.last.fm/music/Duo+Brothers%2C+Avishai+Cohen/Duo+Brothers",
+      "date": "2024-11-25",
+      "tracks": 4
+    },
+    {
+      "title": "Forces of Nature: Live at Slugs'",
+      "artist": "McCoy Tyner, Joe Henderson, Henry Grimes, Jack DeJohnette",
+      "source": "https://www.last.fm/music/McCoy+Tyner%2C+Joe+Henderson%2C+Henry+Grimes%2C+Jack+DeJohnette/Forces+of+Nature%3A+Live+at+Slugs'",
+      "date": "2024-11-25",
+      "tracks": 5
+    },
+    {
+      "title": "Day 1",
+      "artist": "Makoto Ozone, No Name Horses",
+      "date": "2024-11-26",
+      "tracks": 10,
+      "source": "https://www.last.fm/music/Makoto+Ozone%2C+No+Name+Horses/Day+1"
+    },
+    {
+      "title": "Ethan Iverson: Playfair Sonatas",
+      "artist": "Ethan Iverson, Miranda Cuckson",
+      "source": "https://www.last.fm/music/Ethan+Iverson%2C+Miranda+Cuckson/Ethan+Iverson%3A+Playfair+Sonatas",
+      "date": "2024-11-26",
+      "tracks": 3
+    },
+    {
+      "title": "Ethan Iverson: Playfair Sonatas",
+      "artist": "Ethan Iverson, Makoto Nakura",
+      "source": "https://www.last.fm/music/Ethan+Iverson%2C+Makoto+Nakura/Ethan+Iverson%3A+Playfair+Sonatas",
+      "date": "2024-11-26",
+      "tracks": 3
+    },
+    {
+      "title": "Ethan Iverson: Playfair Sonatas",
+      "artist": "Ethan Iverson, Carol McGonnell",
+      "source": "https://www.last.fm/music/Ethan+Iverson%2C+Carol+McGonnell/Ethan+Iverson%3A+Playfair+Sonatas",
+      "date": "2024-11-26",
+      "tracks": 4
+    },
+    {
+      "title": "Ethan Iverson: Playfair Sonatas",
+      "artist": "Ethan Iverson, Mike Lormand",
+      "source": "https://www.last.fm/music/Ethan+Iverson%2C+Mike+Lormand/Ethan+Iverson%3A+Playfair+Sonatas",
+      "date": "2024-11-26",
+      "tracks": 3
+    },
+    {
+      "title": "Ethan Iverson: Playfair Sonatas",
+      "artist": "Ethan Iverson, Taimur Sullivan",
+      "source": "https://www.last.fm/music/Ethan+Iverson%2C+Taimur+Sullivan/Ethan+Iverson%3A+Playfair+Sonatas",
+      "date": "2024-11-26",
+      "tracks": 3
+    },
+    {
+      "title": "Ethan Iverson: Playfair Sonatas",
+      "artist": "Ethan Iverson, Tim Leopold",
+      "source": "https://www.last.fm/music/Ethan+Iverson%2C+Tim+Leopold/Ethan+Iverson%3A+Playfair+Sonatas",
+      "date": "2024-11-26",
+      "tracks": 3
+    },
+    {
+      "title": "Owl Song",
+      "artist": "Ambrose Akinmusire, Bill Frisell, Herlin Riley",
+      "source": "https://www.last.fm/music/Ambrose+Akinmusire%2C+Bill+Frisell%2C+Herlin+Riley/Owl+Song",
+      "date": "2024-11-26",
+      "tracks": 8
+    },
+    {
+      "title": "The Myth of Katabasis",
+      "artist": "Hayoung Lyou",
+      "source": "https://www.last.fm/music/Hayoung+Lyou/The+Myth+of+Katabasis",
+      "date": "2024-11-26",
+      "tracks": 9
+    },
+    {
+      "title": "The Rituals of Infinity",
+      "artist": "Greg Foat",
+      "source": "https://www.last.fm/music/Greg+Foat/The+Rituals+of+Infinity",
+      "date": "2024-11-26",
+      "tracks": 7
+    },
+    {
+      "title": "À Portuguesa",
+      "artist": "Andreas Staier, Orquestra barroca Casa da Música",
+      "source": "https://www.last.fm/music/Andreas+Staier%2C+Orquestra+barroca+Casa+da+M%C3%BAsica/%C3%80+Portuguesa",
+      "date": "2024-11-27",
+      "tracks": 17
+    },
+    {
+      "title": "À Portuguesa",
+      "artist": "Andreas Staier",
+      "source": "https://www.last.fm/music/Andreas+Staier/%C3%80+Portuguesa",
+      "date": "2024-11-27",
+      "tracks": 3
+    },
+    {
+      "title": "Beyond the Double Bass",
+      "artist": "Renaud Garcia-Fons",
+      "source": "https://www.last.fm/music/Renaud+Garcia-Fons/Beyond+the+Double+Bass",
+      "date": "2024-11-27",
+      "tracks": 13
+    },
+    {
+      "title": "Cream and Sugar",
+      "artist": "Duo Brothers",
+      "source": "https://www.last.fm/music/Duo+Brothers/Cream+and+Sugar",
+      "date": "2024-11-27",
+      "tracks": 10
+    },
+    {
+      "title": "Méditation",
+      "artist": "Andreas Staier",
+      "source": "https://www.last.fm/music/Andreas+Staier/M%C3%A9ditation",
+      "date": "2024-11-27",
+      "tracks": 17
+    },
+    {
+      "title": "Vagabond",
+      "artist": "Dominic Miller",
+      "source": "https://www.last.fm/music/Dominic+Miller/Vagabond",
+      "date": "2024-11-27",
+      "tracks": 7
+    },
+    {
+      "title": "À Portuguesa",
+      "artist": "Andreas Staier, Orquestra barroca Casa da Música",
+      "source": "https://www.last.fm/music/Andreas+Staier%2C+Orquestra+barroca+Casa+da+M%C3%BAsica/%C3%80+Portuguesa",
+      "date": "2024-11-28",
+      "tracks": 15
+    },
+    {
+      "title": "À Portuguesa",
+      "artist": "Andreas Staier",
+      "source": "https://www.last.fm/music/Andreas+Staier/%C3%80+Portuguesa",
+      "date": "2024-11-28",
+      "tracks": 3
+    },
+    {
+      "title": "Chance",
+      "artist": "Miki Yamanaka",
+      "source": "https://www.last.fm/music/Miki+Yamanaka/Chance",
+      "date": "2024-11-28",
+      "tracks": 9
+    },
+    {
+      "title": "Fauré: Requiem",
+      "artist": "Tenebrae, Nigel Short",
+      "source": "https://www.last.fm/music/Tenebrae%2C+Nigel+Short/Faur%C3%A9%3A+Requiem",
+      "date": "2024-11-28",
+      "tracks": 4
+    },
+    {
+      "title": "Fauré: Requiem",
+      "artist": "Gordan Nikolitch",
+      "source": "https://www.last.fm/music/Gordan+Nikolitch/Faur%C3%A9%3A+Requiem",
+      "date": "2024-11-28",
+      "tracks": 3
+    },
+    {
+      "title": "Fauré: Requiem",
+      "artist": "Tenebrae, LSO Chamber Ensemble, Nigel Short",
+      "source": "https://www.last.fm/music/Tenebrae%2C+LSO+Chamber+Ensemble%2C+Nigel+Short/Faur%C3%A9%3A+Requiem",
+      "date": "2024-11-28",
+      "tracks": 3
+    },
+    {
+      "title": "Tree Jazz - The Shape of Christmas to Come",
+      "artist": "Matt Wilson's Christmas Tree-O",
+      "source": "https://www.last.fm/music/Matt+Wilson's+Christmas+Tree-O/Tree+Jazz+-+The+Shape+of+Christmas+to+Come",
+      "date": "2024-11-28",
+      "tracks": 7
+    },
+    {
+      "title": "A Charlie Brown Christmas (2012 Remastered & Expanded Edition)",
+      "artist": "Vince Guaraldi",
+      "source": "https://www.last.fm/music/Vince+Guaraldi/A+Charlie+Brown+Christmas+(2012+Remastered+%26+Expanded+Edition)",
+      "date": "2024-11-29",
+      "tracks": 14
+    },
+    {
+      "title": "We Get Requests",
+      "artist": "Oscar Peterson Trio",
+      "source": "https://www.last.fm/music/Oscar+Peterson+Trio/We+Get+Requests",
+      "date": "2024-11-30",
+      "tracks": 10
+    }
+  ],
+  "books": [
+    {
+      "title": "The Thursday Murder Club",
+      "author": "Richard Osman",
+      "rating": 4,
+      "date": "2024-11-04"
+    },
+    {
+      "title": "Le Pigeon",
+      "author": "Patrick Süskind",
+      "rating": 5,
+      "date": "2024-11-11"
+    },
+    {
+      "title": "The Color of Magic",
+      "author": "Terry Pratchett",
+      "rating": 5,
+      "date": "2024-11-30"
+    }
+  ],
+  "films": [
+    {
+      "title": "Bach pour tous",
+      "year": 2023,
+      "rating": 2,
+      "source": "https://boxd.it/8B4mql",
+      "date": "2024-11-22",
+      "director": "Jacques Mitsch"
+    },
+    {
+      "title": "Buy Now! The Shopping Conspiracy",
+      "year": 2024,
+      "rating": 1,
+      "source": "https://boxd.it/8BS7Fv",
+      "date": "2024-11-25",
+      "director": "Nic Stacey"
+    }
+  ],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2024-11-03",
+      "date": "2024-11-03",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2024-11-30",
+      "date": "2024-11-30",
+      "count": 2
+    }
+  ]
+}

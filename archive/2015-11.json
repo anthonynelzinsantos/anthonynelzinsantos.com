@@ -1,0 +1,331 @@
+{
+  "albums": [
+    {
+      "title": "Bill Evans: His Last Concert in Germany with Marc Johnson and Joe LaBarbera",
+      "artist": "Bill Evans",
+      "source": "https://www.last.fm/music/Bill+Evans/Bill+Evans%3A+His+Last+Concert+in+Germany+with+Marc+Johnson+and+Joe+LaBarbera",
+      "date": "2015-11-01",
+      "tracks": 10
+    },
+    {
+      "title": "Crossroads [Original Motion Picture Soundtrack]",
+      "artist": "Ry Cooder",
+      "source": "https://www.last.fm/music/Ry+Cooder/Crossroads+%5BOriginal+Motion+Picture+Soundtrack%5D",
+      "date": "2015-11-01",
+      "tracks": 7
+    },
+    {
+      "title": "Motian in Motion",
+      "artist": "Jean-Marc Padovani",
+      "source": "https://www.last.fm/music/Jean-Marc+Padovani/Motian+in+Motion",
+      "date": "2015-11-01",
+      "tracks": 7
+    },
+    {
+      "title": "Sonic Boom",
+      "artist": "Lee Morgan",
+      "source": "https://www.last.fm/music/Lee+Morgan/Sonic+Boom",
+      "date": "2015-11-01",
+      "tracks": 14
+    },
+    {
+      "title": "The Sidewinder",
+      "artist": "Lee Morgan",
+      "source": "https://www.last.fm/music/Lee+Morgan/The+Sidewinder",
+      "date": "2015-11-01",
+      "tracks": 6
+    },
+    {
+      "title": "Anthology: The Warner Bros. Years",
+      "artist": "Jaco Pastorius",
+      "source": "https://www.last.fm/music/Jaco+Pastorius/Anthology%3A+The+Warner+Bros.+Years",
+      "date": "2015-11-02",
+      "tracks": 3
+    },
+    {
+      "title": "It's a Holiday Soul Party",
+      "artist": "Sharon Jones & The Dap-Kings",
+      "date": "2015-11-02",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/Sharon+Jones+%26+The+Dap-Kings/It's+a+Holiday+Soul+Party"
+    },
+    {
+      "title": "Motel Bamako",
+      "artist": "Inna Modja",
+      "source": "https://www.last.fm/music/Inna+Modja/Motel+Bamako",
+      "date": "2015-11-02",
+      "tracks": 13
+    },
+    {
+      "title": "Motian in Motion",
+      "artist": "Jean-Marc Padovani",
+      "source": "https://www.last.fm/music/Jean-Marc+Padovani/Motian+in+Motion",
+      "date": "2015-11-02",
+      "tracks": 8
+    },
+    {
+      "title": "<I°_°I>",
+      "artist": "Caravan Palace",
+      "source": "https://www.last.fm/music/Caravan+Palace/%3CI%C2%B0_%C2%B0I%3E",
+      "date": "2015-11-03",
+      "tracks": 11
+    },
+    {
+      "title": "Sultans Of Swing - The Very Best Of Dire Straits",
+      "artist": "Dire Straits",
+      "source": "https://www.last.fm/music/Dire+Straits/Sultans+Of+Swing+-+The+Very+Best+Of+Dire+Straits",
+      "date": "2015-11-04",
+      "tracks": 4
+    },
+    {
+      "title": "Sultans Of Swing - The Very Best Of Dire Straits",
+      "artist": "Dire Straits",
+      "source": "https://www.last.fm/music/Dire+Straits/Sultans+Of+Swing+-+The+Very+Best+Of+Dire+Straits",
+      "date": "2015-11-05",
+      "tracks": 12
+    },
+    {
+      "title": "Chamber Music Society",
+      "artist": "Esperanza Spalding",
+      "source": "https://www.last.fm/music/Esperanza+Spalding/Chamber+Music+Society",
+      "date": "2015-11-08",
+      "tracks": 10
+    },
+    {
+      "title": "It's a Holiday Soul Party",
+      "artist": "Sharon Jones & The Dap-Kings",
+      "source": "https://www.last.fm/music/Sharon+Jones+%26+The+Dap-Kings/It's+a+Holiday+Soul+Party",
+      "date": "2015-11-09",
+      "tracks": 11
+    },
+    {
+      "title": "Kokomo Kidd",
+      "artist": "Guy Davis",
+      "date": "2015-11-09",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/Guy+Davis/Kokomo+Kidd"
+    },
+    {
+      "title": "Kokomo Kidd",
+      "artist": "Guy Davis",
+      "source": "https://www.last.fm/music/Guy+Davis/Kokomo+Kidd",
+      "date": "2015-11-10",
+      "tracks": 3
+    },
+    {
+      "title": "Perfectamundo",
+      "artist": "Billy Gibbons",
+      "source": "https://www.last.fm/music/Billy+Gibbons/Perfectamundo",
+      "date": "2015-11-10",
+      "tracks": 11
+    },
+    {
+      "title": "The Changing Lights",
+      "artist": "Stacey Kent",
+      "source": "https://www.last.fm/music/Stacey+Kent/The+Changing+Lights",
+      "date": "2015-11-12",
+      "tracks": 5
+    },
+    {
+      "title": "The Changing Lights",
+      "artist": "Stacey Kent",
+      "date": "2015-11-13",
+      "tracks": 13,
+      "source": "https://www.last.fm/music/Stacey+Kent/The+Changing+Lights"
+    },
+    {
+      "title": "The Breeze: An Appreciation of JJ Cale",
+      "artist": "Eric Clapton & Friends",
+      "source": "https://www.last.fm/music/Eric+Clapton+%26+Friends/The+Breeze%3A+An+Appreciation+of+JJ+Cale",
+      "date": "2015-11-16",
+      "tracks": 5
+    },
+    {
+      "title": "Breakfast On The Morning Tram",
+      "artist": "Stacey Kent",
+      "source": "https://www.last.fm/music/Stacey+Kent/Breakfast+On+The+Morning+Tram",
+      "date": "2015-11-17",
+      "tracks": 7
+    },
+    {
+      "title": "SPECTRE (Original Motion Picture Soundtrack)",
+      "artist": "Thomas Newman",
+      "source": "https://www.last.fm/music/Thomas+Newman/SPECTRE+(Original+Motion+Picture+Soundtrack)",
+      "date": "2015-11-17",
+      "tracks": 26
+    },
+    {
+      "title": "The Breeze: An Appreciation of JJ Cale",
+      "artist": "Eric Clapton & Friends",
+      "date": "2015-11-17",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/Eric+Clapton+%26+Friends/The+Breeze%3A+An+Appreciation+of+JJ+Cale"
+    },
+    {
+      "title": "Bluenote Café",
+      "artist": "Neil Young",
+      "source": "https://www.last.fm/music/Neil+Young/Bluenote+Caf%C3%A9",
+      "date": "2015-11-18",
+      "tracks": 23
+    },
+    {
+      "title": "Breakfast On The Morning Tram",
+      "artist": "Stacey Kent",
+      "date": "2015-11-18",
+      "tracks": 5,
+      "source": "https://www.last.fm/music/Stacey+Kent/Breakfast+On+The+Morning+Tram"
+    },
+    {
+      "title": "Tenderly",
+      "artist": "Stacey Kent",
+      "source": "https://www.last.fm/music/Stacey+Kent/Tenderly",
+      "date": "2015-11-18",
+      "tracks": 12
+    },
+    {
+      "title": "Big Boss Man",
+      "artist": "Eric Clapton",
+      "source": "https://www.last.fm/music/Eric+Clapton/Big+Boss+Man",
+      "date": "2015-11-19",
+      "tracks": 7
+    },
+    {
+      "title": "Blues for Nica",
+      "artist": "Kenny Drew",
+      "source": "https://www.last.fm/music/Kenny+Drew/Blues+for+Nica",
+      "date": "2015-11-19",
+      "tracks": 5
+    },
+    {
+      "title": "Eric Clapton Unplugged",
+      "artist": "Eric Clapton",
+      "source": "https://www.last.fm/music/Eric+Clapton/Eric+Clapton+Unplugged",
+      "date": "2015-11-19",
+      "tracks": 13
+    },
+    {
+      "title": "Reptile",
+      "artist": "Eric Clapton",
+      "source": "https://www.last.fm/music/Eric+Clapton/Reptile",
+      "date": "2015-11-19",
+      "tracks": 14
+    },
+    {
+      "title": "Tenderly",
+      "artist": "Stacey Kent",
+      "source": "https://www.last.fm/music/Stacey+Kent/Tenderly",
+      "date": "2015-11-19",
+      "tracks": 12
+    },
+    {
+      "title": "The Changing Lights",
+      "artist": "Stacey Kent",
+      "source": "https://www.last.fm/music/Stacey+Kent/The+Changing+Lights",
+      "date": "2015-11-19",
+      "tracks": 13
+    },
+    {
+      "title": "Brubeck Meets Bach",
+      "artist": "The Dave Brubeck Quartet",
+      "source": "https://www.last.fm/music/The+Dave+Brubeck+Quartet/Brubeck+Meets+Bach",
+      "date": "2015-11-20",
+      "tracks": 3
+    },
+    {
+      "title": "Dig it to the end",
+      "artist": "Tonbruket",
+      "source": "https://www.last.fm/music/Tonbruket/Dig+it+to+the+end",
+      "date": "2015-11-20",
+      "tracks": 11
+    },
+    {
+      "title": "Flow",
+      "artist": "Teus Nobel - Liquid Music Quintet",
+      "source": "https://www.last.fm/music/Teus+Nobel+-+Liquid+Music+Quintet/Flow",
+      "date": "2015-11-20",
+      "tracks": 5
+    },
+    {
+      "title": "Socially Inept",
+      "artist": "Proem",
+      "source": "https://www.last.fm/music/Proem/Socially+Inept",
+      "date": "2015-11-20",
+      "tracks": 14
+    },
+    {
+      "title": "Breakfast On The Morning Tram",
+      "artist": "Stacey Kent",
+      "date": "2015-11-24",
+      "tracks": 12,
+      "source": "https://www.last.fm/music/Stacey+Kent/Breakfast+On+The+Morning+Tram"
+    },
+    {
+      "title": "Deuces Wild",
+      "artist": "B.B. King",
+      "source": "https://www.last.fm/music/B.B.+King/Deuces+Wild",
+      "date": "2015-11-24",
+      "tracks": 4
+    },
+    {
+      "title": "Singin' The Blues",
+      "artist": "B.B. King",
+      "source": "https://www.last.fm/music/B.B.+King/Singin'+The+Blues",
+      "date": "2015-11-24",
+      "tracks": 3
+    },
+    {
+      "title": "10 Years Solo Live",
+      "artist": "Brad Mehldau",
+      "source": "https://www.last.fm/music/Brad+Mehldau/10+Years+Solo+Live",
+      "date": "2015-11-25",
+      "tracks": 9
+    },
+    {
+      "title": "Breakfast On The Morning Tram",
+      "artist": "Stacey Kent",
+      "source": "https://www.last.fm/music/Stacey+Kent/Breakfast+On+The+Morning+Tram",
+      "date": "2015-11-25",
+      "tracks": 12
+    },
+    {
+      "title": "10 Years Solo Live",
+      "artist": "Brad Mehldau",
+      "date": "2015-11-27",
+      "tracks": 5,
+      "source": "https://www.last.fm/music/Brad+Mehldau/10+Years+Solo+Live"
+    },
+    {
+      "title": "Una Mas",
+      "artist": "Kenny Dorham",
+      "source": "https://www.last.fm/music/Kenny+Dorham/Una+Mas",
+      "date": "2015-11-27",
+      "tracks": 5
+    },
+    {
+      "title": "Two",
+      "artist": "Chick Corea / Bela Fleck",
+      "date": "2015-11-28",
+      "tracks": 9,
+      "source": "https://www.last.fm/music/Chick+Corea+%2F+Bela+Fleck/Two"
+    },
+    {
+      "title": "Careless Love (International Version)",
+      "artist": "Madeleine Peyroux",
+      "source": "https://www.last.fm/music/Madeleine+Peyroux/Careless+Love+(International+Version)",
+      "date": "2015-11-30",
+      "tracks": 7
+    },
+    {
+      "title": "Social Music",
+      "artist": "Jon Batiste",
+      "source": "https://www.last.fm/music/Jon+Batiste/Social+Music",
+      "date": "2015-11-30",
+      "tracks": 12
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

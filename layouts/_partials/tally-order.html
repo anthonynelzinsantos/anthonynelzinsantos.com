@@ -1,0 +1,6 @@
+{{ $order := slice "livres" "albums" "films" "contributions" "dispatches" "architypes" "photos" }}
+{{ $extra := slice }}
+{{ range $key, $_ := . }}
+	{{ if not (in $order $key) }}{{ $extra = $extra | append $key }}{{ end }}
+{{ end }}
+{{ return ($order | append (sort $extra)) }}

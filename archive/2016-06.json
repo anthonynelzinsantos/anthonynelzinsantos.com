@@ -1,0 +1,100 @@
+{
+  "albums": [
+    {
+      "title": "I Still Do",
+      "artist": "Eric Clapton",
+      "date": "2016-06-01",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Eric+Clapton/I+Still+Do"
+    },
+    {
+      "title": "Unplugged",
+      "artist": "Larry Carlton",
+      "source": "https://www.last.fm/music/Larry+Carlton/Unplugged",
+      "date": "2016-06-01",
+      "tracks": 16
+    },
+    {
+      "title": "I Still Do",
+      "artist": "Eric Clapton",
+      "date": "2016-06-02",
+      "tracks": 5,
+      "source": "https://www.last.fm/music/Eric+Clapton/I+Still+Do"
+    },
+    {
+      "title": "I Still Do",
+      "artist": "Eric Clapton",
+      "date": "2016-06-03",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Eric+Clapton/I+Still+Do"
+    },
+    {
+      "title": "Old Sock",
+      "artist": "Eric Clapton",
+      "source": "https://www.last.fm/music/Eric+Clapton/Old+Sock",
+      "date": "2016-06-08",
+      "tracks": 3
+    },
+    {
+      "title": "Unplugged [Deluxe]",
+      "artist": "Eric Clapton",
+      "source": "https://www.last.fm/music/Eric+Clapton/Unplugged+%5BDeluxe%5D",
+      "date": "2016-06-08",
+      "tracks": 21
+    },
+    {
+      "title": "Sur O No Sur",
+      "artist": "Kevin Johansen",
+      "source": "https://www.last.fm/music/Kevin+Johansen/Sur+O+No+Sur",
+      "date": "2016-06-10",
+      "tracks": 13
+    },
+    {
+      "title": "Musica Nuda - Live à FIP",
+      "artist": "Petra Magoni",
+      "source": "https://www.last.fm/music/Petra+Magoni/Musica+Nuda+-+Live+%C3%A0+FIP",
+      "date": "2016-06-14",
+      "tracks": 21
+    },
+    {
+      "title": "Seesaw",
+      "artist": "Joe Bonamassa",
+      "source": "https://www.last.fm/music/Joe+Bonamassa/Seesaw",
+      "date": "2016-06-14",
+      "tracks": 6
+    },
+    {
+      "title": "Hollywood Wildlife",
+      "artist": "Hollywood Wildlife",
+      "source": "https://www.last.fm/music/Hollywood+Wildlife/Hollywood+Wildlife",
+      "date": "2016-06-15",
+      "tracks": 4
+    },
+    {
+      "title": "Bach in Jazz",
+      "artist": "Martin Petzold",
+      "source": "https://www.last.fm/music/Martin+Petzold/Bach+in+Jazz",
+      "date": "2016-06-29",
+      "tracks": 11
+    },
+    {
+      "title": "Bach in Jazz",
+      "artist": "Stephan-König-Trio",
+      "source": "https://www.last.fm/music/Stephan-K%C3%B6nig-Trio/Bach+in+Jazz",
+      "date": "2016-06-29",
+      "tracks": 3
+    },
+    {
+      "title": "Blues and Ballads",
+      "artist": "Brad Mehldau Trio",
+      "source": "https://www.last.fm/music/Brad+Mehldau+Trio/Blues+and+Ballads",
+      "date": "2016-06-30",
+      "tracks": 7
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

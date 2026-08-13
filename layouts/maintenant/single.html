@@ -1,0 +1,33 @@
+{{ define "main" }}
+<article class="page month">
+
+	<header class="month__head">
+		<p class="month__when">
+			<span class="month__name">{{ .Params.monthName | strings.FirstUpper }}</span>
+			<span class="month__year">{{ .Params.year }}</span>
+		</p>
+		{{ with partial "tally.html" . }}
+			{{ $tally := . }}
+			<dl class="tally">
+				{{ range partial "tally-order.html" $tally }}
+					{{ $n := index $tally . }}
+					{{ if $n }}
+						<div>
+							<dt>{{ $n }}</dt>
+							<dd>{{ partial "tally-label.html" (dict "key" . "count" $n) }}</dd>
+						</div>
+					{{ end }}
+				{{ end }}
+			</dl>
+		{{ end }}
+	</header>
+
+	{{ partial "month-article.html" (dict "page" .) }}
+
+	<nav class="siblings" aria-label="Autres mois">
+		{{ with .PrevInSection }}<a class="siblings__prev" href="{{ .RelPermalink }}"><i>←</i>{{ .Title }}</a>{{ end }}
+		<a class="siblings__all" href="{{ .Parent.RelPermalink }}">Tous les mois</a>
+		{{ with .NextInSection }}<a class="siblings__next" href="{{ .RelPermalink }}">{{ .Title }}<i>→</i></a>{{ end }}
+	</nav>
+</article>
+{{ end }}

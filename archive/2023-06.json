@@ -1,0 +1,498 @@
+{
+  "albums": [
+    {
+      "title": "Aria",
+      "artist": "Tineke Postma",
+      "source": "https://www.last.fm/music/Tineke+Postma/Aria",
+      "date": "2023-06-01",
+      "tracks": 17
+    },
+    {
+      "title": "When we were that what wept for the sea",
+      "artist": "Colin Stetson",
+      "source": "https://www.last.fm/music/Colin+Stetson/When+we+were+that+what+wept+for+the+sea",
+      "date": "2023-06-01",
+      "tracks": 16
+    },
+    {
+      "title": "Into The Abyss",
+      "artist": "Joel Holmes",
+      "source": "https://www.last.fm/music/Joel+Holmes/Into+The+Abyss",
+      "date": "2023-06-02",
+      "tracks": 11
+    },
+    {
+      "title": "Purple / Black (Vol. 1)",
+      "artist": "David Preston",
+      "source": "https://www.last.fm/music/David+Preston/Purple+%2F+Black+(Vol.+1)",
+      "date": "2023-06-02",
+      "tracks": 10
+    },
+    {
+      "title": "Silver Lines",
+      "artist": "Raffy Bushman",
+      "source": "https://www.last.fm/music/Raffy+Bushman/Silver+Lines",
+      "date": "2023-06-02",
+      "tracks": 7
+    },
+    {
+      "title": "El Siempre Mar",
+      "artist": "Emilio Solla / Antonio Lizana",
+      "source": "https://www.last.fm/music/Emilio+Solla+%2F+Antonio+Lizana/El+Siempre+Mar",
+      "date": "2023-06-03",
+      "tracks": 10
+    },
+    {
+      "title": "More Than a Change",
+      "artist": "Hila Kulik",
+      "source": "https://www.last.fm/music/Hila+Kulik/More+Than+a+Change",
+      "date": "2023-06-03",
+      "tracks": 11
+    },
+    {
+      "title": "Estándares",
+      "artist": "Chano Domínguez / Antonio Lizana / Marc Miralta / Manel Fortia",
+      "source": "https://www.last.fm/music/Chano+Dom%C3%ADnguez+%2F+Antonio+Lizana+%2F+Marc+Miralta+%2F+Manel+Fortia/Est%C3%A1ndares",
+      "date": "2023-06-05",
+      "tracks": 9
+    },
+    {
+      "title": "Jazz at the Pawnshop",
+      "artist": "Arne Domnérus",
+      "date": "2023-06-05",
+      "tracks": 12,
+      "source": "https://www.last.fm/music/Arne+Domn%C3%A9rus/Jazz+at+the+Pawnshop"
+    },
+    {
+      "title": "A Charlie Brown Christmas (Super Deluxe Edition)",
+      "artist": "Vince Guaraldi",
+      "source": "https://www.last.fm/music/Vince+Guaraldi/A+Charlie+Brown+Christmas+(Super+Deluxe+Edition)",
+      "date": "2023-06-06",
+      "tracks": 8
+    },
+    {
+      "title": "A Very Big Lunch",
+      "artist": "Papanosh",
+      "source": "https://www.last.fm/music/Papanosh/A+Very+Big+Lunch",
+      "date": "2023-06-06",
+      "tracks": 8
+    },
+    {
+      "title": "You & Me",
+      "artist": "Udi Shlomo",
+      "source": "https://www.last.fm/music/Udi+Shlomo/You+%26+Me",
+      "date": "2023-06-06",
+      "tracks": 6
+    },
+    {
+      "title": "Day",
+      "artist": "Rudy Royston Flatbed Buggy",
+      "source": "https://www.last.fm/music/Rudy+Royston+Flatbed+Buggy/Day",
+      "date": "2023-06-07",
+      "tracks": 10
+    },
+    {
+      "title": "Finally Friday",
+      "artist": "Jason Kush",
+      "source": "https://www.last.fm/music/Jason+Kush/Finally+Friday",
+      "date": "2023-06-07",
+      "tracks": 7
+    },
+    {
+      "title": "Flight",
+      "artist": "Alex Sadnik",
+      "source": "https://www.last.fm/music/Alex+Sadnik/Flight",
+      "date": "2023-06-07",
+      "tracks": 5
+    },
+    {
+      "title": "Into The Abyss",
+      "artist": "Joel Holmes",
+      "source": "https://www.last.fm/music/Joel+Holmes/Into+The+Abyss",
+      "date": "2023-06-08",
+      "tracks": 6
+    },
+    {
+      "title": "Lean In",
+      "artist": "Gretchen Parlato / Lionel Loueke",
+      "source": "https://www.last.fm/music/Gretchen+Parlato+%2F+Lionel+Loueke/Lean+In",
+      "date": "2023-06-09",
+      "tracks": 12
+    },
+    {
+      "title": "Richard Galliano: Madreperla",
+      "artist": "South Czech Phil / Miran Vaupotic / Richard Galliano",
+      "source": "https://www.last.fm/music/South+Czech+Phil+%2F+Miran+Vaupotic+%2F+Richard+Galliano/Richard+Galliano%3A+Madreperla",
+      "date": "2023-06-09",
+      "tracks": 15
+    },
+    {
+      "title": "Silver Lines",
+      "artist": "Raffy Bushman",
+      "source": "https://www.last.fm/music/Raffy+Bushman/Silver+Lines",
+      "date": "2023-06-09",
+      "tracks": 5
+    },
+    {
+      "title": "The Chick Corea Symphony Tribute. Ritmo",
+      "artist": "Adda Simfònica/Josep Vicent/Emilio Solla",
+      "source": "https://www.last.fm/music/Adda+Simf%C3%B2nica%2FJosep+Vicent%2FEmilio+Solla/The+Chick+Corea+Symphony+Tribute.+Ritmo",
+      "date": "2023-06-11",
+      "tracks": 11
+    },
+    {
+      "title": "Live at Smalls Jazz Club",
+      "artist": "George Coleman",
+      "source": "https://www.last.fm/music/George+Coleman/Live+at+Smalls+Jazz+Club",
+      "date": "2023-06-12",
+      "tracks": 7
+    },
+    {
+      "title": "Vertigo",
+      "artist": "Florian Egli Weird Beard",
+      "source": "https://www.last.fm/music/Florian+Egli+Weird+Beard/Vertigo",
+      "date": "2023-06-12",
+      "tracks": 4
+    },
+    {
+      "title": "In Search of a Better Tomorrow",
+      "artist": "EABS meets Jaubi",
+      "source": "https://www.last.fm/music/EABS+meets+Jaubi/In+Search+of+a+Better+Tomorrow",
+      "date": "2023-06-13",
+      "tracks": 10
+    },
+    {
+      "title": "Spirits",
+      "artist": "The Circling Sun",
+      "source": "https://www.last.fm/music/The+Circling+Sun/Spirits",
+      "date": "2023-06-13",
+      "tracks": 5
+    },
+    {
+      "title": "Stay Now",
+      "artist": "Joel Lyssarides",
+      "source": "https://www.last.fm/music/Joel+Lyssarides/Stay+Now",
+      "date": "2023-06-13",
+      "tracks": 11
+    },
+    {
+      "title": "Vertigo",
+      "artist": "Florian Egli Weird Beard",
+      "source": "https://www.last.fm/music/Florian+Egli+Weird+Beard/Vertigo",
+      "date": "2023-06-13",
+      "tracks": 7
+    },
+    {
+      "title": "My Voice",
+      "artist": "Ashley Henry",
+      "source": "https://www.last.fm/music/Ashley+Henry/My+Voice",
+      "date": "2023-06-14",
+      "tracks": 6
+    },
+    {
+      "title": "Spirits",
+      "artist": "The Circling Sun",
+      "source": "https://www.last.fm/music/The+Circling+Sun/Spirits",
+      "date": "2023-06-14",
+      "tracks": 7
+    },
+    {
+      "title": "Mehldau: The Folly of Desire",
+      "artist": "Brad Mehldau / Ian Bostridge",
+      "source": "https://www.last.fm/music/Brad+Mehldau+%2F+Ian+Bostridge/Mehldau%3A+The+Folly+of+Desire",
+      "date": "2023-06-16",
+      "tracks": 16
+    },
+    {
+      "title": "Songs From A Social Distance",
+      "artist": "Teitur / Aarhus Jazz Orchestra",
+      "source": "https://www.last.fm/music/Teitur+%2F+Aarhus+Jazz+Orchestra/Songs+From+A+Social+Distance",
+      "date": "2023-06-16",
+      "tracks": 3
+    },
+    {
+      "title": "Accretion",
+      "artist": "Reginald Chapman",
+      "source": "https://www.last.fm/music/Reginald+Chapman/Accretion",
+      "date": "2023-06-19",
+      "tracks": 7
+    },
+    {
+      "title": "In Search of a Better Tomorrow",
+      "artist": "EABS meets Jaubi",
+      "source": "https://www.last.fm/music/EABS+meets+Jaubi/In+Search+of+a+Better+Tomorrow",
+      "date": "2023-06-19",
+      "tracks": 10
+    },
+    {
+      "title": "Paroxysm",
+      "artist": "Scrimshire",
+      "source": "https://www.last.fm/music/Scrimshire/Paroxysm",
+      "date": "2023-06-19",
+      "tracks": 11
+    },
+    {
+      "title": "Songs From A Social Distance",
+      "artist": "Teitur / Aarhus Jazz Orchestra",
+      "source": "https://www.last.fm/music/Teitur+%2F+Aarhus+Jazz+Orchestra/Songs+From+A+Social+Distance",
+      "date": "2023-06-19",
+      "tracks": 6
+    },
+    {
+      "title": "Accretion",
+      "artist": "Reginald Chapman",
+      "source": "https://www.last.fm/music/Reginald+Chapman/Accretion",
+      "date": "2023-06-20",
+      "tracks": 4
+    },
+    {
+      "title": "Archetype",
+      "artist": "Joe Armon-Jones/Maxwell Owin",
+      "source": "https://www.last.fm/music/Joe+Armon-Jones%2FMaxwell+Owin/Archetype",
+      "date": "2023-06-20",
+      "tracks": 12
+    },
+    {
+      "title": "Boutique",
+      "artist": "Mirai Lave",
+      "source": "https://www.last.fm/music/Mirai+Lave/Boutique",
+      "date": "2023-06-20",
+      "tracks": 6
+    },
+    {
+      "title": "Earth's Precisions",
+      "artist": "Erin Rogers / Alec Goldfarb",
+      "source": "https://www.last.fm/music/Erin+Rogers+%2F+Alec+Goldfarb/Earth's+Precisions",
+      "date": "2023-06-20",
+      "tracks": 4
+    },
+    {
+      "title": "Entre eux deux (The Paris Sessions)",
+      "artist": "Melody Gardot & Philippe Powell",
+      "source": "https://www.last.fm/music/Melody+Gardot+%26+Philippe+Powell/Entre+eux+deux+(The+Paris+Sessions)",
+      "date": "2023-06-20",
+      "tracks": 4
+    },
+    {
+      "title": "Here, There",
+      "artist": "Melissa Weikart",
+      "source": "https://www.last.fm/music/Melissa+Weikart/Here%2C+There",
+      "date": "2023-06-20",
+      "tracks": 8
+    },
+    {
+      "title": "IX Tantalos",
+      "artist": "Kuhn Fu",
+      "source": "https://www.last.fm/music/Kuhn+Fu/IX+Tantalos",
+      "date": "2023-06-20",
+      "tracks": 5
+    },
+    {
+      "title": "Rituals + routines",
+      "artist": "Marquis Hill",
+      "source": "https://www.last.fm/music/Marquis+Hill/Rituals+%2B+routines",
+      "date": "2023-06-20",
+      "tracks": 8
+    },
+    {
+      "title": "The Complete Two as One",
+      "artist": "Buster Williams / Kenny Barron",
+      "source": "https://www.last.fm/music/Buster+Williams+%2F+Kenny+Barron/The+Complete+Two+as+One",
+      "date": "2023-06-21",
+      "tracks": 9
+    },
+    {
+      "title": "Dybbuk Tse!",
+      "artist": "Yoni Mayraz",
+      "source": "https://www.last.fm/music/Yoni+Mayraz/Dybbuk+Tse!",
+      "date": "2023-06-23",
+      "tracks": 11
+    },
+    {
+      "title": "I Am, Because You Are",
+      "artist": "Tadataka Unno",
+      "source": "https://www.last.fm/music/Tadataka+Unno/I+Am%2C+Because+You+Are",
+      "date": "2023-06-23",
+      "tracks": 5
+    },
+    {
+      "title": "when the poems do what they do",
+      "artist": "Aja Monet",
+      "source": "https://www.last.fm/music/Aja+Monet/when+the+poems+do+what+they+do",
+      "date": "2023-06-23",
+      "tracks": 10
+    },
+    {
+      "title": "Chet Remembered",
+      "artist": "Enrico Pieranunzi/Bert Joris/Frankfurt Radio Big Band",
+      "source": "https://www.last.fm/music/Enrico+Pieranunzi%2FBert+Joris%2FFrankfurt+Radio+Big+Band/Chet+Remembered",
+      "date": "2023-06-26",
+      "tracks": 8
+    },
+    {
+      "title": "I Am, Because You Are",
+      "artist": "Tadataka Unno",
+      "source": "https://www.last.fm/music/Tadataka+Unno/I+Am%2C+Because+You+Are",
+      "date": "2023-06-26",
+      "tracks": 5
+    },
+    {
+      "title": "Lunar",
+      "artist": "CORBAAL / Erik Truffaz",
+      "source": "https://www.last.fm/music/CORBAAL+%2F+Erik+Truffaz/Lunar",
+      "date": "2023-06-26",
+      "tracks": 3
+    },
+    {
+      "title": "Mike Clark Plays Herbie Hancock",
+      "artist": "Mike Clark",
+      "source": "https://www.last.fm/music/Mike+Clark/Mike+Clark+Plays+Herbie+Hancock",
+      "date": "2023-06-26",
+      "tracks": 8
+    },
+    {
+      "title": "Polar Waters",
+      "artist": "Joshua Jaswon Octet / Joshua Jaswon / Anna Serierse",
+      "source": "https://www.last.fm/music/Joshua+Jaswon+Octet+%2F+Joshua+Jaswon+%2F+Anna+Serierse/Polar+Waters",
+      "date": "2023-06-26",
+      "tracks": 11
+    },
+    {
+      "title": "Cloud Studies",
+      "artist": "Idema/Serierse Quartet / Gijs Idema / Anna Serierse / Cas Jiskoot / Tim Hennekes",
+      "source": "https://www.last.fm/music/Idema%2FSerierse+Quartet+%2F+Gijs+Idema+%2F+Anna+Serierse+%2F+Cas+Jiskoot+%2F+Tim+Hennekes/Cloud+Studies",
+      "date": "2023-06-27",
+      "tracks": 9
+    },
+    {
+      "title": "Molto Molto",
+      "artist": "Sasha Matson",
+      "source": "https://www.last.fm/music/Sasha+Matson/Molto+Molto",
+      "date": "2023-06-27",
+      "tracks": 7
+    },
+    {
+      "title": "Polarity",
+      "artist": "Daniel Rosenboom",
+      "source": "https://www.last.fm/music/Daniel+Rosenboom/Polarity",
+      "date": "2023-06-27",
+      "tracks": 7
+    },
+    {
+      "title": "A Room For Travellers",
+      "artist": "Magnus Öström",
+      "source": "https://www.last.fm/music/Magnus+%C3%96str%C3%B6m/A+Room+For+Travellers",
+      "date": "2023-06-28",
+      "tracks": 6
+    },
+    {
+      "title": "Dream Box",
+      "artist": "Pat Metheny",
+      "source": "https://www.last.fm/music/Pat+Metheny/Dream+Box",
+      "date": "2023-06-28",
+      "tracks": 7
+    },
+    {
+      "title": "In Phases",
+      "artist": "Azamiah / India Blue",
+      "source": "https://www.last.fm/music/Azamiah+%2F+India+Blue/In+Phases",
+      "date": "2023-06-28",
+      "tracks": 11
+    },
+    {
+      "title": "The Glass Hours",
+      "artist": "Linda May Han Oh",
+      "source": "https://www.last.fm/music/Linda+May+Han+Oh/The+Glass+Hours",
+      "date": "2023-06-28",
+      "tracks": 9
+    },
+    {
+      "title": "Ett göteborgsporträtt",
+      "artist": "Axel Mårdsjö",
+      "source": "https://www.last.fm/music/Axel+M%C3%A5rdsj%C3%B6/Ett+g%C3%B6teborgsportr%C3%A4tt",
+      "date": "2023-06-29",
+      "tracks": 16
+    },
+    {
+      "title": "Glimmer",
+      "artist": "Nils Økland / Sigbjørn Apeland",
+      "source": "https://www.last.fm/music/Nils+%C3%98kland+%2F+Sigbj%C3%B8rn+Apeland/Glimmer",
+      "date": "2023-06-29",
+      "tracks": 15
+    },
+    {
+      "title": "The Omnichord Real Book",
+      "artist": "Meshell Ndegeocello",
+      "source": "https://www.last.fm/music/Meshell+Ndegeocello/The+Omnichord+Real+Book",
+      "date": "2023-06-29",
+      "tracks": 3
+    },
+    {
+      "title": "Make It Funky (Live (Remastered))",
+      "artist": "Maceo Parker",
+      "source": "https://www.last.fm/music/Maceo+Parker/Make+It+Funky+(Live+(Remastered))",
+      "date": "2023-06-30",
+      "tracks": 8
+    },
+    {
+      "title": "Retrouvailles",
+      "artist": "Yonatan Avishai",
+      "source": "https://www.last.fm/music/Yonatan+Avishai/Retrouvailles",
+      "date": "2023-06-30",
+      "tracks": 7
+    },
+    {
+      "title": "Special Noise",
+      "artist": "Frog Squad",
+      "source": "https://www.last.fm/music/Frog+Squad/Special+Noise",
+      "date": "2023-06-30",
+      "tracks": 7
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2023-06-01",
+      "date": "2023-06-01",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2023-06-02",
+      "date": "2023-06-02",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2023-06-03",
+      "date": "2023-06-03",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2023-06-04",
+      "date": "2023-06-04",
+      "count": 3
+    },
+    {
+      "title": "contributions du 2023-06-06",
+      "date": "2023-06-06",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2023-06-07",
+      "date": "2023-06-07",
+      "count": 4
+    },
+    {
+      "title": "contributions du 2023-06-11",
+      "date": "2023-06-11",
+      "count": 33
+    },
+    {
+      "title": "contributions du 2023-06-23",
+      "date": "2023-06-23",
+      "count": 1
+    }
+  ]
+}

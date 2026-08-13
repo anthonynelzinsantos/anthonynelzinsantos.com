@@ -1,0 +1,557 @@
+{
+  "albums": [
+    {
+      "title": "Earth Songs",
+      "artist": "Jon Lloyd Quartet",
+      "source": "https://www.last.fm/music/Jon+Lloyd+Quartet/Earth+Songs",
+      "date": "2024-03-01",
+      "tracks": 20
+    },
+    {
+      "title": "Febrero (feat. Camerata Papageno, Christoph Mallinger & Federico Dannemann)",
+      "artist": "Andrea Motis",
+      "source": "https://www.last.fm/music/Andrea+Motis/Febrero+(feat.+Camerata+Papageno%2C+Christoph+Mallinger+%26+Federico+Dannemann)",
+      "date": "2024-03-01",
+      "tracks": 13
+    },
+    {
+      "title": "On the Trail, Pt. 6 - EP",
+      "artist": "Enzo Orefice Trio",
+      "source": "https://www.last.fm/music/Enzo+Orefice+Trio/On+the+Trail%2C+Pt.+6+-+EP",
+      "date": "2024-03-01",
+      "tracks": 3
+    },
+    {
+      "title": "Speak To Me",
+      "artist": "Julian Lage",
+      "source": "https://www.last.fm/music/Julian+Lage/Speak+To+Me",
+      "date": "2024-03-01",
+      "tracks": 13
+    },
+    {
+      "title": "Summertime",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "source": "https://www.last.fm/music/Tsuyoshi+Yamamoto+Trio/Summertime",
+      "date": "2024-03-02",
+      "tracks": 6
+    },
+    {
+      "title": "Earth Songs",
+      "artist": "Jon Lloyd Quartet",
+      "source": "https://www.last.fm/music/Jon+Lloyd+Quartet/Earth+Songs",
+      "date": "2024-03-04",
+      "tracks": 20
+    },
+    {
+      "title": "Exploring Together",
+      "artist": "Saphileaum",
+      "source": "https://www.last.fm/music/Saphileaum/Exploring+Together",
+      "date": "2024-03-04",
+      "tracks": 20
+    },
+    {
+      "title": "Phoenix",
+      "artist": "Grégory Privat",
+      "source": "https://www.last.fm/music/Gr%C3%A9gory+Privat/Phoenix",
+      "date": "2024-03-04",
+      "tracks": 24
+    },
+    {
+      "title": "Riley",
+      "artist": "Riley Mulherkar",
+      "source": "https://www.last.fm/music/Riley+Mulherkar/Riley",
+      "date": "2024-03-04",
+      "tracks": 18
+    },
+    {
+      "title": "Shades of Yesterday",
+      "artist": "DJ Harrison",
+      "source": "https://www.last.fm/music/DJ+Harrison/Shades+of+Yesterday",
+      "date": "2024-03-04",
+      "tracks": 22
+    },
+    {
+      "title": "Bushbabies",
+      "artist": "Niclas Knudsen, Jonathan Bremer & Felix Ewert",
+      "source": "https://www.last.fm/music/Niclas+Knudsen%2C+Jonathan+Bremer+%26+Felix+Ewert/Bushbabies",
+      "date": "2024-03-05",
+      "tracks": 18
+    },
+    {
+      "title": "Introducing Jeppe Zacho",
+      "artist": "Jeppe Zacho",
+      "source": "https://www.last.fm/music/Jeppe+Zacho/Introducing+Jeppe+Zacho",
+      "date": "2024-03-05",
+      "tracks": 14
+    },
+    {
+      "title": "Nilsson Schmilsson",
+      "artist": "Harry Nilsson",
+      "source": "https://www.last.fm/music/Harry+Nilsson/Nilsson+Schmilsson",
+      "date": "2024-03-05",
+      "tracks": 3
+    },
+    {
+      "title": "Read My Lips",
+      "artist": "Sophie Ellis-Bextor",
+      "source": "https://www.last.fm/music/Sophie+Ellis-Bextor/Read+My+Lips",
+      "date": "2024-03-05",
+      "tracks": 3
+    },
+    {
+      "title": "Standards (feat. John Patitucci & Billy Hart)",
+      "artist": "Yotam Silberstein",
+      "source": "https://www.last.fm/music/Yotam+Silberstein/Standards+(feat.+John+Patitucci+%26+Billy+Hart)",
+      "date": "2024-03-05",
+      "tracks": 16
+    },
+    {
+      "title": "Truth to Power",
+      "artist": "Black Art Jazz Collective",
+      "source": "https://www.last.fm/music/Black+Art+Jazz+Collective/Truth+to+Power",
+      "date": "2024-03-05",
+      "tracks": 20
+    },
+    {
+      "title": "While You Wait (feat. Oscar Andreas Haug)",
+      "artist": "Little North",
+      "source": "https://www.last.fm/music/Little+North/While+You+Wait+(feat.+Oscar+Andreas+Haug)",
+      "date": "2024-03-05",
+      "tracks": 16
+    },
+    {
+      "title": "Familia",
+      "artist": "Rodrigo Recabarren, Pablo Menares & Yago Vazquez",
+      "date": "2024-03-06",
+      "tracks": 10,
+      "source": "https://www.last.fm/music/Rodrigo+Recabarren%2C+Pablo+Menares+%26+Yago+Vazquez/Familia"
+    },
+    {
+      "title": "Read My Lips",
+      "artist": "Sophie Ellis-Bextor",
+      "date": "2024-03-06",
+      "tracks": 31,
+      "source": "https://www.last.fm/music/Sophie+Ellis-Bextor/Read+My+Lips"
+    },
+    {
+      "title": "Speak To Me",
+      "artist": "Julian Lage",
+      "date": "2024-03-06",
+      "tracks": 19,
+      "source": "https://www.last.fm/music/Julian+Lage/Speak+To+Me"
+    },
+    {
+      "title": "Sweet for K",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "source": "https://www.last.fm/music/Tsuyoshi+Yamamoto+Trio/Sweet+for+K",
+      "date": "2024-03-06",
+      "tracks": 14
+    },
+    {
+      "title": "Djesse Vol. 4",
+      "artist": "Jacob Collier",
+      "source": "https://www.last.fm/music/Jacob+Collier/Djesse+Vol.+4",
+      "date": "2024-03-07",
+      "tracks": 14
+    },
+    {
+      "title": "Misty For Direct Cutting",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "source": "https://www.last.fm/music/Tsuyoshi+Yamamoto+Trio/Misty+For+Direct+Cutting",
+      "date": "2024-03-07",
+      "tracks": 10
+    },
+    {
+      "title": "Officiel//Artificiel",
+      "artist": "Sweet Crude",
+      "source": "https://www.last.fm/music/Sweet+Crude/Officiel%2F%2FArtificiel",
+      "date": "2024-03-07",
+      "tracks": 24
+    },
+    {
+      "title": "Speak To Me",
+      "artist": "Julian Lage",
+      "date": "2024-03-07",
+      "tracks": 25,
+      "source": "https://www.last.fm/music/Julian+Lage/Speak+To+Me"
+    },
+    {
+      "title": "Spring Sings (feat. Aaron Goldberg, Omer Avital & Ali Jackson)",
+      "artist": "YES ! Trio",
+      "source": "https://www.last.fm/music/YES+!+Trio/Spring+Sings+(feat.+Aaron+Goldberg%2C+Omer+Avital+%26+Ali+Jackson)",
+      "date": "2024-03-07",
+      "tracks": 18
+    },
+    {
+      "title": "Where Do You Go? (feat. Daniel Franck)",
+      "artist": "Cornelia Nilsson",
+      "date": "2024-03-07",
+      "tracks": 23,
+      "source": "https://www.last.fm/music/Cornelia+Nilsson/Where+Do+You+Go%3F+(feat.+Daniel+Franck)"
+    },
+    {
+      "title": "Jazz At The Pawnshop [Audionautes Recordings]",
+      "artist": "Arne Domnérus, Bengt Hallberg, Georg Riedel, Egil Johansen & Lars Erstrand",
+      "date": "2024-03-09",
+      "tracks": 5,
+      "source": "https://www.last.fm/music/Arne+Domn%C3%A9rus%2C+Bengt+Hallberg%2C+Georg+Riedel%2C+Egil+Johansen+%26+Lars+Erstrand/Jazz+At+The+Pawnshop+%5BAudionautes+Recordings%5D"
+    },
+    {
+      "title": "Jazz At The Pawnshop [Audionautes Recordings]",
+      "artist": "Arne Domnérus, Bengt Hallberg, Georg Riedel, Egil Johansen & Lars Erstrand",
+      "date": "2024-03-10",
+      "tracks": 10,
+      "source": "https://www.last.fm/music/Arne+Domn%C3%A9rus%2C+Bengt+Hallberg%2C+Georg+Riedel%2C+Egil+Johansen+%26+Lars+Erstrand/Jazz+At+The+Pawnshop+%5BAudionautes+Recordings%5D"
+    },
+    {
+      "title": "A Jazz Story (feat. Olivier Samouillan, Guillaume Latil, Federico Nathan & Rodrigo Bauza)",
+      "artist": "Cuareim Quartet",
+      "source": "https://www.last.fm/music/Cuareim+Quartet/A+Jazz+Story+(feat.+Olivier+Samouillan%2C+Guillaume+Latil%2C+Federico+Nathan+%26+Rodrigo+Bauza)",
+      "date": "2024-03-11",
+      "tracks": 24
+    },
+    {
+      "title": "ANIMALS",
+      "artist": "Kassa Overall",
+      "source": "https://www.last.fm/music/Kassa+Overall/ANIMALS",
+      "date": "2024-03-11",
+      "tracks": 12
+    },
+    {
+      "title": "Blow Up",
+      "artist": "Isao Suzuki Quartet",
+      "source": "https://www.last.fm/music/Isao+Suzuki+Quartet/Blow+Up",
+      "date": "2024-03-11",
+      "tracks": 6
+    },
+    {
+      "title": "Both Sides Now",
+      "artist": "Joni Mitchell",
+      "source": "https://www.last.fm/music/Joni+Mitchell/Both+Sides+Now",
+      "date": "2024-03-11",
+      "tracks": 26
+    },
+    {
+      "title": "Don't Talk (Put Your Head on My Shoulder)",
+      "artist": "Carl Bagge",
+      "source": "https://www.last.fm/music/Carl+Bagge/Don't+Talk+(Put+Your+Head+on+My+Shoulder)",
+      "date": "2024-03-11",
+      "tracks": 17
+    },
+    {
+      "title": "Extrapolation",
+      "artist": "John McLaughlin",
+      "source": "https://www.last.fm/music/John+McLaughlin/Extrapolation",
+      "date": "2024-03-11",
+      "tracks": 20
+    },
+    {
+      "title": "Let's Dance (2018 remaster)",
+      "artist": "David Bowie",
+      "source": "https://www.last.fm/music/David+Bowie/Let's+Dance+(2018+remaster)",
+      "date": "2024-03-11",
+      "tracks": 16
+    },
+    {
+      "title": "Visions",
+      "artist": "Norah Jones",
+      "source": "https://www.last.fm/music/Norah+Jones/Visions",
+      "date": "2024-03-11",
+      "tracks": 23
+    },
+    {
+      "title": "We Get Requests",
+      "artist": "Oscar Peterson",
+      "source": "https://www.last.fm/music/Oscar+Peterson/We+Get+Requests",
+      "date": "2024-03-11",
+      "tracks": 10
+    },
+    {
+      "title": "back then I didn't but now I do",
+      "artist": "Jonny From Space",
+      "source": "https://www.last.fm/music/Jonny+From+Space/back+then+I+didn't+but+now+I+do",
+      "date": "2024-03-12",
+      "tracks": 20
+    },
+    {
+      "title": "Banana Leaf Paradise",
+      "artist": "Saphileaum",
+      "source": "https://www.last.fm/music/Saphileaum/Banana+Leaf+Paradise",
+      "date": "2024-03-12",
+      "tracks": 14
+    },
+    {
+      "title": "CT!",
+      "artist": "Adam Schroeder",
+      "source": "https://www.last.fm/music/Adam+Schroeder/CT!",
+      "date": "2024-03-12",
+      "tracks": 26
+    },
+    {
+      "title": "Piano Trios of Weinberg, Auerbach, & Dvořák",
+      "artist": "Trio Zimbalist",
+      "source": "https://www.last.fm/music/Trio+Zimbalist/Piano+Trios+of+Weinberg%2C+Auerbach%2C+%26+Dvo%C5%99%C3%A1k",
+      "date": "2024-03-12",
+      "tracks": 25
+    },
+    {
+      "title": "Speak To Me",
+      "artist": "Julian Lage",
+      "source": "https://www.last.fm/music/Julian+Lage/Speak+To+Me",
+      "date": "2024-03-12",
+      "tracks": 25
+    },
+    {
+      "title": "The Mood for Love",
+      "artist": "Flash Pig",
+      "source": "https://www.last.fm/music/Flash+Pig/The+Mood+for+Love",
+      "date": "2024-03-12",
+      "tracks": 22
+    },
+    {
+      "title": "À Fleur De Peau",
+      "artist": "Cyrille Aimée",
+      "source": "https://www.last.fm/music/Cyrille+Aim%C3%A9e/%C3%80+Fleur+De+Peau",
+      "date": "2024-03-13",
+      "tracks": 20
+    },
+    {
+      "title": "Agora",
+      "artist": "Bebel Gilberto",
+      "source": "https://www.last.fm/music/Bebel+Gilberto/Agora",
+      "date": "2024-03-13",
+      "tracks": 11
+    },
+    {
+      "title": "Eagle's Point (feat. Brad Mehldau, John Patitucci & Brian Blade)",
+      "artist": "Chris Potter",
+      "source": "https://www.last.fm/music/Chris+Potter/Eagle's+Point+(feat.+Brad+Mehldau%2C+John+Patitucci+%26+Brian+Blade)",
+      "date": "2024-03-13",
+      "tracks": 14
+    },
+    {
+      "title": "Familia",
+      "artist": "Rodrigo Recabarren, Pablo Menares & Yago Vazquez",
+      "source": "https://www.last.fm/music/Rodrigo+Recabarren%2C+Pablo+Menares+%26+Yago+Vazquez/Familia",
+      "date": "2024-03-13",
+      "tracks": 17
+    },
+    {
+      "title": "Misty ~ Live at Jazz Is",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "date": "2024-03-13",
+      "tracks": 8,
+      "source": "https://www.last.fm/music/Tsuyoshi+Yamamoto+Trio/Misty+~+Live+at+Jazz+Is"
+    },
+    {
+      "title": "Prism",
+      "artist": "Carsten Dahl Experience, Ole Morten Vågan & Ivars Arutyunyan",
+      "source": "https://www.last.fm/music/Carsten+Dahl+Experience%2C+Ole+Morten+V%C3%A5gan+%26+Ivars+Arutyunyan/Prism",
+      "date": "2024-03-14",
+      "tracks": 10
+    },
+    {
+      "title": "Paris Zyklus (with Silvio Morger, Anton Mangold, Andreas Feith, Juri Kannheiser, Markus Harm, Julian Hesse, Joachim Lenhardt & Roland Neffe)",
+      "artist": "Rebecca Trescher",
+      "source": "https://www.last.fm/music/Rebecca+Trescher/Paris+Zyklus+(with+Silvio+Morger%2C+Anton+Mangold%2C+Andreas+Feith%2C+Juri+Kannheiser%2C+Markus+Harm%2C+Julian+Hesse%2C+Joachim+Lenhardt+%26+Roland+Neffe)",
+      "date": "2024-03-16",
+      "tracks": 7
+    },
+    {
+      "title": "Visions",
+      "artist": "Norah Jones",
+      "source": "https://www.last.fm/music/Norah+Jones/Visions",
+      "date": "2024-03-16",
+      "tracks": 12
+    },
+    {
+      "title": "Contrafactus",
+      "artist": "Spike Wilner Trio",
+      "source": "https://www.last.fm/music/Spike+Wilner+Trio/Contrafactus",
+      "date": "2024-03-17",
+      "tracks": 9
+    },
+    {
+      "title": "Conversation #11 & #12: ON!",
+      "artist": "Florian Arbenz, Ivo Neame & Yumi Ito",
+      "source": "https://www.last.fm/music/Florian+Arbenz%2C+Ivo+Neame+%26+Yumi+Ito/Conversation+%2311+%26+%2312%3A+ON!",
+      "date": "2024-03-18",
+      "tracks": 11
+    },
+    {
+      "title": "Misty ~ Live at Jazz Is",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "date": "2024-03-18",
+      "tracks": 8,
+      "source": "https://www.last.fm/music/Tsuyoshi+Yamamoto+Trio/Misty+~+Live+at+Jazz+Is"
+    },
+    {
+      "title": "Rituals + Routines (B Side Expansions) - EP",
+      "artist": "Marquis Hill",
+      "source": "https://www.last.fm/music/Marquis+Hill/Rituals+%2B+Routines+(B+Side+Expansions)+-+EP",
+      "date": "2024-03-18",
+      "tracks": 5
+    },
+    {
+      "title": "Three",
+      "artist": "Four Tet",
+      "source": "https://www.last.fm/music/Four+Tet/Three",
+      "date": "2024-03-18",
+      "tracks": 8
+    },
+    {
+      "title": "Eagle's Point (feat. Brad Mehldau, John Patitucci & Brian Blade)",
+      "artist": "Chris Potter",
+      "source": "https://www.last.fm/music/Chris+Potter/Eagle's+Point+(feat.+Brad+Mehldau%2C+John+Patitucci+%26+Brian+Blade)",
+      "date": "2024-03-19",
+      "tracks": 7
+    },
+    {
+      "title": "Horizon",
+      "artist": "Martin Sjöstedt & Stockholm Jazz Orchestra",
+      "source": "https://www.last.fm/music/Martin+Sj%C3%B6stedt+%26+Stockholm+Jazz+Orchestra/Horizon",
+      "date": "2024-03-19",
+      "tracks": 10
+    },
+    {
+      "title": "Where Do You Go? (feat. Daniel Franck)",
+      "artist": "Cornelia Nilsson",
+      "source": "https://www.last.fm/music/Cornelia+Nilsson/Where+Do+You+Go%3F+(feat.+Daniel+Franck)",
+      "date": "2024-03-19",
+      "tracks": 10
+    },
+    {
+      "title": "You And The Night",
+      "artist": "Steve Ash",
+      "source": "https://www.last.fm/music/Steve+Ash/You+And+The+Night",
+      "date": "2024-03-19",
+      "tracks": 9
+    },
+    {
+      "title": "Conversation #9: Targeted",
+      "artist": "Florian Arbenz, Greg Osby & Arno Krijger",
+      "source": "https://www.last.fm/music/Florian+Arbenz%2C+Greg+Osby+%26+Arno+Krijger/Conversation+%239%3A+Targeted",
+      "date": "2024-03-21",
+      "tracks": 8
+    },
+    {
+      "title": "My Only Secret",
+      "artist": "Blue Cranes",
+      "source": "https://www.last.fm/music/Blue+Cranes/My+Only+Secret",
+      "date": "2024-03-21",
+      "tracks": 15
+    },
+    {
+      "title": "Classical Session: Hayato Sumino",
+      "artist": "Hayato Sumino",
+      "source": "https://www.last.fm/music/Hayato+Sumino/Classical+Session%3A+Hayato+Sumino",
+      "date": "2024-03-24",
+      "tracks": 3
+    },
+    {
+      "title": "Horizon",
+      "artist": "Martin Sjöstedt & Stockholm Jazz Orchestra",
+      "source": "https://www.last.fm/music/Martin+Sj%C3%B6stedt+%26+Stockholm+Jazz+Orchestra/Horizon",
+      "date": "2024-03-24",
+      "tracks": 10
+    },
+    {
+      "title": "Precipice",
+      "artist": "Ill Considered",
+      "source": "https://www.last.fm/music/Ill+Considered/Precipice",
+      "date": "2024-03-24",
+      "tracks": 10
+    },
+    {
+      "title": "Ravel: Concertos pour piano - Mélodies",
+      "artist": "François-Xavier Roth, Cédric Tiberghien & Les Siècles",
+      "source": "https://www.last.fm/music/Fran%C3%A7ois-Xavier+Roth%2C+C%C3%A9dric+Tiberghien+%26+Les+Si%C3%A8cles/Ravel%3A+Concertos+pour+piano+-+M%C3%A9lodies",
+      "date": "2024-03-24",
+      "tracks": 4
+    },
+    {
+      "title": "Ravel: Concertos pour piano - Mélodies",
+      "artist": "Stéphane Degout & Cédric Tiberghien",
+      "source": "https://www.last.fm/music/St%C3%A9phane+Degout+%26+C%C3%A9dric+Tiberghien/Ravel%3A+Concertos+pour+piano+-+M%C3%A9lodies",
+      "date": "2024-03-24",
+      "tracks": 9
+    },
+    {
+      "title": "Bossa Is the Antidote",
+      "artist": "Immanuel Wilkins",
+      "source": "https://www.last.fm/music/Immanuel+Wilkins/Bossa+Is+the+Antidote",
+      "date": "2024-03-25",
+      "tracks": 10
+    }
+  ],
+  "books": [],
+  "films": [
+    {
+      "title": "Wicked Little Letters",
+      "year": 2023,
+      "date": "2024-03-17",
+      "rating": 4,
+      "source": "https://letterboxd.com/z1nz0l1n/film/wicked-little-letters/",
+      "director": "Thea Sharrock"
+    }
+  ],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2024-03-01",
+      "date": "2024-03-01",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2024-03-02",
+      "date": "2024-03-02",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2024-03-03",
+      "date": "2024-03-03",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2024-03-04",
+      "date": "2024-03-04",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2024-03-06",
+      "date": "2024-03-06",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2024-03-07",
+      "date": "2024-03-07",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2024-03-10",
+      "date": "2024-03-10",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2024-03-11",
+      "date": "2024-03-11",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2024-03-12",
+      "date": "2024-03-12",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2024-03-13",
+      "date": "2024-03-13",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2024-03-17",
+      "date": "2024-03-17",
+      "count": 2
+    }
+  ]
+}

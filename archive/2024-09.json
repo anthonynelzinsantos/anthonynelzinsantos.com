@@ -1,0 +1,784 @@
+{
+  "albums": [
+    {
+      "title": "Ambient 1: Music For Airports (Remastered 2004)",
+      "artist": "Brian Eno",
+      "source": "https://www.last.fm/music/Brian+Eno/Ambient+1%3A+Music+For+Airports+(Remastered+2004)",
+      "date": "2024-09-02",
+      "tracks": 4
+    },
+    {
+      "title": "Eno Piano",
+      "artist": "Bruce Brubaker",
+      "source": "https://www.last.fm/music/Bruce+Brubaker/Eno+Piano",
+      "date": "2024-09-02",
+      "tracks": 4
+    },
+    {
+      "title": "HUESO",
+      "artist": "Adam O'Farrill",
+      "source": "https://www.last.fm/music/Adam+O'Farrill/HUESO",
+      "date": "2024-09-02",
+      "tracks": 7
+    },
+    {
+      "title": "In Orbit (Remastered 2024)",
+      "artist": "Clark Terry Quartet, Thelonious Monk",
+      "source": "https://www.last.fm/music/Clark+Terry+Quartet%2C+Thelonious+Monk/In+Orbit+(Remastered+2024)",
+      "date": "2024-09-02",
+      "tracks": 10
+    },
+    {
+      "title": "The Kauai Project",
+      "artist": "James Casey",
+      "source": "https://www.last.fm/music/James+Casey/The+Kauai+Project",
+      "date": "2024-09-02",
+      "tracks": 5
+    },
+    {
+      "title": "Arrival",
+      "artist": "Mike Irwin",
+      "source": "https://www.last.fm/music/Mike+Irwin/Arrival",
+      "date": "2024-09-04",
+      "tracks": 10
+    },
+    {
+      "title": "Find Your Flame",
+      "artist": "Nubiyan Twist",
+      "source": "https://www.last.fm/music/Nubiyan+Twist/Find+Your+Flame",
+      "date": "2024-09-04",
+      "tracks": 5
+    },
+    {
+      "title": "History Of The Vibraphone",
+      "artist": "Warren Wolf",
+      "source": "https://www.last.fm/music/Warren+Wolf/History+Of+The+Vibraphone",
+      "date": "2024-09-04",
+      "tracks": 11
+    },
+    {
+      "title": "Mid Spiral",
+      "artist": "BADBADNOTGOOD",
+      "source": "https://www.last.fm/music/BADBADNOTGOOD/Mid+Spiral",
+      "date": "2024-09-04",
+      "tracks": 18
+    },
+    {
+      "title": "Quilted Stereo",
+      "artist": "Mononeon",
+      "source": "https://www.last.fm/music/Mononeon/Quilted+Stereo",
+      "date": "2024-09-04",
+      "tracks": 6
+    },
+    {
+      "title": "Serenity: A Collection Of Mindful Meditations",
+      "artist": "Brandee Younger",
+      "source": "https://www.last.fm/music/Brandee+Younger/Serenity%3A+A+Collection+Of+Mindful+Meditations",
+      "date": "2024-09-04",
+      "tracks": 6
+    },
+    {
+      "title": "dB-ish: The Path To Our Truth",
+      "artist": "Darren Barrett, Santiago Bosch, Warren Pettey, Youngchae Jeong, Julian Miltenberger, Judy Soberanes",
+      "source": "https://www.last.fm/music/Darren+Barrett%2C+Santiago+Bosch%2C+Warren+Pettey%2C+Youngchae+Jeong%2C+Julian+Miltenberger%2C+Judy+Soberanes/dB-ish%3A+The+Path+To+Our+Truth",
+      "date": "2024-09-05",
+      "tracks": 5
+    },
+    {
+      "title": "Heart Trio",
+      "artist": "William Parker, Cooper-Moore, Hamid Drake",
+      "source": "https://www.last.fm/music/William+Parker%2C+Cooper-Moore%2C+Hamid+Drake/Heart+Trio",
+      "date": "2024-09-05",
+      "tracks": 7
+    },
+    {
+      "title": "Jubu",
+      "artist": "Jubu Smith, Charlie Hunter, Calvin Napper",
+      "source": "https://www.last.fm/music/Jubu+Smith%2C+Charlie+Hunter%2C+Calvin+Napper/Jubu",
+      "date": "2024-09-05",
+      "tracks": 9
+    },
+    {
+      "title": "Where I'm Meant To Be (Deluxe Edition)",
+      "artist": "Ezra Collective",
+      "source": "https://www.last.fm/music/Ezra+Collective/Where+I'm+Meant+To+Be+(Deluxe+Edition)",
+      "date": "2024-09-05",
+      "tracks": 14
+    },
+    {
+      "title": "Breaking Stretch",
+      "artist": "Patricia Brennan",
+      "source": "https://www.last.fm/music/Patricia+Brennan/Breaking+Stretch",
+      "date": "2024-09-06",
+      "tracks": 8
+    },
+    {
+      "title": "Endlessness",
+      "artist": "Nala Sinephro",
+      "source": "https://www.last.fm/music/Nala+Sinephro/Endlessness",
+      "date": "2024-09-06",
+      "tracks": 10
+    },
+    {
+      "title": "In A Landscape",
+      "artist": "Max Richter",
+      "source": "https://www.last.fm/music/Max+Richter/In+A+Landscape",
+      "date": "2024-09-06",
+      "tracks": 23
+    },
+    {
+      "title": "The Cry! (Remastered 2024)",
+      "artist": "Prince Lasha Quintet, Sonny Simmons",
+      "source": "https://www.last.fm/music/Prince+Lasha+Quintet%2C+Sonny+Simmons/The+Cry!+(Remastered+2024)",
+      "date": "2024-09-09",
+      "tracks": 8
+    },
+    {
+      "title": "The Music of Max Roach",
+      "artist": "Jazz at Lincoln Center Orchestra, Wynton Marsalis",
+      "source": "https://www.last.fm/music/Jazz+at+Lincoln+Center+Orchestra%2C+Wynton+Marsalis/The+Music+of+Max+Roach",
+      "date": "2024-09-09",
+      "tracks": 10
+    },
+    {
+      "title": "Wildflowers Vol. 1",
+      "artist": "Kurt Elling, Sullivan Fortner",
+      "source": "https://www.last.fm/music/Kurt+Elling%2C+Sullivan+Fortner/Wildflowers+Vol.+1",
+      "date": "2024-09-09",
+      "tracks": 5
+    },
+    {
+      "title": "New York CD",
+      "artist": "Happy Apple",
+      "source": "https://www.last.fm/music/Happy+Apple/New+York+CD",
+      "date": "2024-09-10",
+      "tracks": 10
+    },
+    {
+      "title": "Studio",
+      "artist": "Monolake",
+      "source": "https://www.last.fm/music/Monolake/Studio",
+      "date": "2024-09-10",
+      "tracks": 6
+    },
+    {
+      "title": "The Bird Of A Thousand Voices",
+      "artist": "Tigran Hamasyan",
+      "source": "https://www.last.fm/music/Tigran+Hamasyan/The+Bird+Of+A+Thousand+Voices",
+      "date": "2024-09-10",
+      "tracks": 23
+    },
+    {
+      "title": "Charmed",
+      "artist": "Cyrus Chestnut, Warren Wolf",
+      "source": "https://www.last.fm/music/Cyrus+Chestnut%2C+Warren+Wolf/Charmed",
+      "date": "2024-09-11",
+      "tracks": 4
+    },
+    {
+      "title": "Common Ground",
+      "artist": "Gary Burton, The New Gary Burton Quartet",
+      "source": "https://www.last.fm/music/Gary+Burton%2C+The+New+Gary+Burton+Quartet/Common+Ground",
+      "date": "2024-09-11",
+      "tracks": 10
+    },
+    {
+      "title": "History Of The Vibraphone",
+      "artist": "Warren Wolf",
+      "date": "2024-09-11",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/Warren+Wolf/History+Of+The+Vibraphone"
+    },
+    {
+      "title": "New York CD",
+      "artist": "Happy Apple",
+      "source": "https://www.last.fm/music/Happy+Apple/New+York+CD",
+      "date": "2024-09-11",
+      "tracks": 10
+    },
+    {
+      "title": "Studio",
+      "artist": "Monolake",
+      "source": "https://www.last.fm/music/Monolake/Studio",
+      "date": "2024-09-11",
+      "tracks": 5
+    },
+    {
+      "title": "LEGACY",
+      "artist": "paolo fresu, uri caine",
+      "source": "https://www.last.fm/music/paolo+fresu%2C+uri+caine/LEGACY",
+      "date": "2024-09-12",
+      "tracks": 14
+    },
+    {
+      "title": "LEGACY",
+      "artist": "Paolo Fresu, Paolino Dalla Porta, Stefano Bagnoli, Bebo Ferra",
+      "source": "https://www.last.fm/music/Paolo+Fresu%2C+Paolino+Dalla+Porta%2C+Stefano+Bagnoli%2C+Bebo+Ferra/LEGACY",
+      "date": "2024-09-12",
+      "tracks": 10
+    },
+    {
+      "title": "LEGACY",
+      "artist": "Paolo Fresu, Roberto Cipelli, Tino Tracanna, Attilio Zanchi, Ettore Fioravanti",
+      "source": "https://www.last.fm/music/Paolo+Fresu%2C+Roberto+Cipelli%2C+Tino+Tracanna%2C+Attilio+Zanchi%2C+Ettore+Fioravanti/LEGACY",
+      "date": "2024-09-12",
+      "tracks": 7
+    },
+    {
+      "title": "Trinfinity",
+      "artist": "Makoto Ozone",
+      "source": "https://www.last.fm/music/Makoto+Ozone/Trinfinity",
+      "date": "2024-09-12",
+      "tracks": 9
+    },
+    {
+      "title": "A New Beat",
+      "artist": "Ulysses Owens Jr.",
+      "date": "2024-09-13",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Ulysses+Owens+Jr./A+New+Beat"
+    },
+    {
+      "title": "Balancing Act",
+      "artist": "Rasmus Sørensen, Alexander Claffy, Kendrick Scott",
+      "source": "https://www.last.fm/music/Rasmus+S%C3%B8rensen%2C+Alexander+Claffy%2C+Kendrick+Scott/Balancing+Act",
+      "date": "2024-09-13",
+      "tracks": 5
+    },
+    {
+      "title": "But Who's Gonna Play the Melody?",
+      "artist": "Christian McBride, Edgar Meyer",
+      "date": "2024-09-13",
+      "tracks": 13,
+      "source": "https://www.last.fm/music/Christian+McBride%2C+Edgar+Meyer/But+Who's+Gonna+Play+the+Melody%3F"
+    },
+    {
+      "title": "D Day",
+      "artist": "Monty Alexander",
+      "source": "https://www.last.fm/music/Monty+Alexander/D+Day",
+      "date": "2024-09-13",
+      "tracks": 6
+    },
+    {
+      "title": "Works",
+      "artist": "Jan Garbarek",
+      "source": "https://www.last.fm/music/Jan+Garbarek/Works",
+      "date": "2024-09-14",
+      "tracks": 8
+    },
+    {
+      "title": "Tales Of Another",
+      "artist": "Gary Peacock, Keith Jarrett, Jack Dejohnette",
+      "source": "https://www.last.fm/music/Gary+Peacock%2C+Keith+Jarrett%2C+Jack+Dejohnette/Tales+Of+Another",
+      "date": "2024-09-15",
+      "tracks": 6
+    },
+    {
+      "title": "Cascade",
+      "artist": "Floating Points",
+      "source": "https://www.last.fm/music/Floating+Points/Cascade",
+      "date": "2024-09-16",
+      "tracks": 9
+    },
+    {
+      "title": "Fearless Movement",
+      "artist": "Kamasi Washington",
+      "source": "https://www.last.fm/music/Kamasi+Washington/Fearless+Movement",
+      "date": "2024-09-16",
+      "tracks": 6
+    },
+    {
+      "title": "Slang Spirituals",
+      "artist": "Lady Blackbird",
+      "source": "https://www.last.fm/music/Lady+Blackbird/Slang+Spirituals",
+      "date": "2024-09-16",
+      "tracks": 11
+    },
+    {
+      "title": "Works",
+      "artist": "Jan Garbarek",
+      "source": "https://www.last.fm/music/Jan+Garbarek/Works",
+      "date": "2024-09-16",
+      "tracks": 8
+    },
+    {
+      "title": "Bringing It Down to the Bass",
+      "artist": "Tony Levin Band",
+      "source": "https://www.last.fm/music/Tony+Levin+Band/Bringing+It+Down+to+the+Bass",
+      "date": "2024-09-17",
+      "tracks": 3
+    },
+    {
+      "title": "Echoes and Other Songs",
+      "artist": "Mike Stern",
+      "source": "https://www.last.fm/music/Mike+Stern/Echoes+and+Other+Songs",
+      "date": "2024-09-17",
+      "tracks": 11
+    },
+    {
+      "title": "Jazz at the Pawnshop",
+      "artist": "Arne Domnérus",
+      "date": "2024-09-17",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Arne+Domn%C3%A9rus/Jazz+at+the+Pawnshop"
+    },
+    {
+      "title": "Red Clay",
+      "artist": "Freddie Hubbard",
+      "source": "https://www.last.fm/music/Freddie+Hubbard/Red+Clay",
+      "date": "2024-09-17",
+      "tracks": 6
+    },
+    {
+      "title": "Unfolding",
+      "artist": "Louis Sclavis, Benjamin Moussay",
+      "source": "https://www.last.fm/music/Louis+Sclavis%2C+Benjamin+Moussay/Unfolding",
+      "date": "2024-09-17",
+      "tracks": 9
+    },
+    {
+      "title": "We Get Requests",
+      "artist": "Oscar Peterson Trio",
+      "source": "https://www.last.fm/music/Oscar+Peterson+Trio/We+Get+Requests",
+      "date": "2024-09-17",
+      "tracks": 10
+    },
+    {
+      "title": "In Pleno",
+      "artist": "Jan Johansson",
+      "source": "https://www.last.fm/music/Jan+Johansson/In+Pleno",
+      "date": "2024-09-18",
+      "tracks": 9
+    },
+    {
+      "title": "Introducing Kenny Burrell",
+      "artist": "Kenny Burrell",
+      "source": "https://www.last.fm/music/Kenny+Burrell/Introducing+Kenny+Burrell",
+      "date": "2024-09-18",
+      "tracks": 7
+    },
+    {
+      "title": "Jazz at the Pawnshop",
+      "artist": "Arne Domnérus",
+      "source": "https://www.last.fm/music/Arne+Domn%C3%A9rus/Jazz+at+the+Pawnshop",
+      "date": "2024-09-18",
+      "tracks": 3
+    },
+    {
+      "title": "Jazz På Ryska",
+      "artist": "Jan Johansson",
+      "source": "https://www.last.fm/music/Jan+Johansson/Jazz+P%C3%A5+Ryska",
+      "date": "2024-09-18",
+      "tracks": 18
+    },
+    {
+      "title": "Jazz på svenska",
+      "artist": "Jan Johansson",
+      "source": "https://www.last.fm/music/Jan+Johansson/Jazz+p%C3%A5+svenska",
+      "date": "2024-09-18",
+      "tracks": 16
+    },
+    {
+      "title": "Jazz på ungerska",
+      "artist": "Jan Johansson, Svend Asmussen",
+      "source": "https://www.last.fm/music/Jan+Johansson%2C+Svend+Asmussen/Jazz+p%C3%A5+ungerska",
+      "date": "2024-09-18",
+      "tracks": 8
+    },
+    {
+      "title": "September Night",
+      "artist": "Tomasz Stanko Quartet",
+      "source": "https://www.last.fm/music/Tomasz+Stanko+Quartet/September+Night",
+      "date": "2024-09-18",
+      "tracks": 7
+    },
+    {
+      "title": "Earfood",
+      "artist": "Roy Hargrove",
+      "source": "https://www.last.fm/music/Roy+Hargrove/Earfood",
+      "date": "2024-09-19",
+      "tracks": 11
+    },
+    {
+      "title": "Hard Groove",
+      "artist": "The RH Factor",
+      "date": "2024-09-19",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/The+RH+Factor/Hard+Groove"
+    },
+    {
+      "title": "Old Main Chapel (Live)",
+      "artist": "Ron Miles",
+      "source": "https://www.last.fm/music/Ron+Miles/Old+Main+Chapel+(Live)",
+      "date": "2024-09-19",
+      "tracks": 7
+    },
+    {
+      "title": "Solstice",
+      "artist": "Ralph Towner, Jan Garbarek, Eberhard Weber, Jon Christensen",
+      "source": "https://www.last.fm/music/Ralph+Towner%2C+Jan+Garbarek%2C+Eberhard+Weber%2C+Jon+Christensen/Solstice",
+      "date": "2024-09-19",
+      "tracks": 8
+    },
+    {
+      "title": "Hard Groove",
+      "artist": "The RH Factor",
+      "source": "https://www.last.fm/music/The+RH+Factor/Hard+Groove",
+      "date": "2024-09-20",
+      "tracks": 4
+    },
+    {
+      "title": "Love Stone",
+      "artist": "JD Allen",
+      "source": "https://www.last.fm/music/JD+Allen/Love+Stone",
+      "date": "2024-09-20",
+      "tracks": 12
+    },
+    {
+      "title": "Old Main Chapel (Live)",
+      "artist": "Ron Miles",
+      "source": "https://www.last.fm/music/Ron+Miles/Old+Main+Chapel+(Live)",
+      "date": "2024-09-20",
+      "tracks": 3
+    },
+    {
+      "title": "Solstice",
+      "artist": "Ralph Towner, Jan Garbarek, Eberhard Weber, Jon Christensen",
+      "source": "https://www.last.fm/music/Ralph+Towner%2C+Jan+Garbarek%2C+Eberhard+Weber%2C+Jon+Christensen/Solstice",
+      "date": "2024-09-20",
+      "tracks": 3
+    },
+    {
+      "title": "The Carnegie Hall Concert (Live)",
+      "artist": "Alice Coltrane",
+      "source": "https://www.last.fm/music/Alice+Coltrane/The+Carnegie+Hall+Concert+(Live)",
+      "date": "2024-09-20",
+      "tracks": 5
+    },
+    {
+      "title": "Crime of the Century",
+      "artist": "Supertramp",
+      "source": "https://www.last.fm/music/Supertramp/Crime+of+the+Century",
+      "date": "2024-09-21",
+      "tracks": 8
+    },
+    {
+      "title": "Common Touch",
+      "artist": "Stanley Turrentine Featuring Shirley Scott",
+      "source": "https://www.last.fm/music/Stanley+Turrentine+Featuring+Shirley+Scott/Common+Touch",
+      "date": "2024-09-22",
+      "tracks": 6
+    },
+    {
+      "title": "Blackanomics",
+      "artist": "Marc Cary, Indigenous People",
+      "source": "https://www.last.fm/music/Marc+Cary%2C+Indigenous+People/Blackanomics",
+      "date": "2024-09-23",
+      "tracks": 5
+    },
+    {
+      "title": "Downtown Meeting - Two Swedes in New York",
+      "artist": "Arne Domnérus, Bengt Hallberg, Clark Terry, George Mraz, Oliver Jackson",
+      "source": "https://www.last.fm/music/Arne+Domn%C3%A9rus%2C+Bengt+Hallberg%2C+Clark+Terry%2C+George+Mraz%2C+Oliver+Jackson/Downtown+Meeting+-+Two+Swedes+in+New+York",
+      "date": "2024-09-23",
+      "tracks": 12
+    },
+    {
+      "title": "Ensoulment",
+      "artist": "The The",
+      "source": "https://www.last.fm/music/The+The/Ensoulment",
+      "date": "2024-09-23",
+      "tracks": 9
+    },
+    {
+      "title": "Odyssey",
+      "artist": "Nubya Garcia",
+      "source": "https://www.last.fm/music/Nubya+Garcia/Odyssey",
+      "date": "2024-09-23",
+      "tracks": 8
+    },
+    {
+      "title": "Ruby",
+      "artist": "Dave Guy",
+      "source": "https://www.last.fm/music/Dave+Guy/Ruby",
+      "date": "2024-09-23",
+      "tracks": 12
+    },
+    {
+      "title": "Evergreen",
+      "artist": "Julius Rodriguez",
+      "date": "2024-09-24",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Julius+Rodriguez/Evergreen"
+    },
+    {
+      "title": "Glass House",
+      "artist": "Patrick Shiroishi",
+      "source": "https://www.last.fm/music/Patrick+Shiroishi/Glass+House",
+      "date": "2024-09-24",
+      "tracks": 4
+    },
+    {
+      "title": "Made in USA: Gershwin, Beach & Barber",
+      "artist": "Claire Huangci",
+      "source": "https://www.last.fm/music/Claire+Huangci/Made+in+USA%3A+Gershwin%2C+Beach+%26+Barber",
+      "date": "2024-09-24",
+      "tracks": 24
+    },
+    {
+      "title": "MARK",
+      "artist": "Mark Guiliana",
+      "source": "https://www.last.fm/music/Mark+Guiliana/MARK",
+      "date": "2024-09-24",
+      "tracks": 11
+    },
+    {
+      "title": "RoundAgain",
+      "artist": "JOSHUA REDMAN, BRAD MEHLDAU, CHRISTIAN McBRIDE, BRIAN BLADE",
+      "source": "https://www.last.fm/music/JOSHUA+REDMAN%2C+BRAD+MEHLDAU%2C+CHRISTIAN+McBRIDE%2C+BRIAN+BLADE/RoundAgain",
+      "date": "2024-09-24",
+      "tracks": 7
+    },
+    {
+      "title": "Compassion",
+      "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+      "source": "https://www.last.fm/music/Vijay+Iyer%2C+Linda+May+Han+Oh%2C+Tyshawn+Sorey/Compassion",
+      "date": "2024-09-25",
+      "tracks": 12
+    },
+    {
+      "title": "Eagle's Point",
+      "artist": "Chris Potter, John Patitucci, Brian Blade, Brad Mehldau",
+      "source": "https://www.last.fm/music/Chris+Potter%2C+John+Patitucci%2C+Brian+Blade%2C+Brad+Mehldau/Eagle's+Point",
+      "date": "2024-09-25",
+      "tracks": 8
+    },
+    {
+      "title": "Hank Mobley",
+      "artist": "Hank Mobley",
+      "source": "https://www.last.fm/music/Hank+Mobley/Hank+Mobley",
+      "date": "2024-09-25",
+      "tracks": 5
+    },
+    {
+      "title": "Made in USA: Gershwin, Beach & Barber",
+      "artist": "Claire Huangci",
+      "date": "2024-09-25",
+      "tracks": 23,
+      "source": "https://www.last.fm/music/Claire+Huangci/Made+in+USA%3A+Gershwin%2C+Beach+%26+Barber"
+    },
+    {
+      "title": "nublues",
+      "artist": "Joel Ross",
+      "source": "https://www.last.fm/music/Joel+Ross/nublues",
+      "date": "2024-09-25",
+      "tracks": 8
+    },
+    {
+      "title": "Constellation",
+      "artist": "Caoilfhionn Rose",
+      "source": "https://www.last.fm/music/Caoilfhionn+Rose/Constellation",
+      "date": "2024-09-26",
+      "tracks": 10
+    },
+    {
+      "title": "Live at Glasshaus",
+      "artist": "Bilal, ?uestlove, Robert Glasper, Burniss Travis",
+      "source": "https://www.last.fm/music/Bilal%2C+%3Fuestlove%2C+Robert+Glasper%2C+Burniss+Travis/Live+at+Glasshaus",
+      "date": "2024-09-26",
+      "tracks": 6
+    },
+    {
+      "title": "Live at Glasshaus",
+      "artist": "Bilal, ?uestlove, Robert Glasper, Common, Burniss Travis",
+      "source": "https://www.last.fm/music/Bilal%2C+%3Fuestlove%2C+Robert+Glasper%2C+Common%2C+Burniss+Travis/Live+at+Glasshaus",
+      "date": "2024-09-26",
+      "tracks": 4
+    },
+    {
+      "title": "Outerstate",
+      "artist": "Kessoncoda",
+      "source": "https://www.last.fm/music/Kessoncoda/Outerstate",
+      "date": "2024-09-26",
+      "tracks": 10
+    },
+    {
+      "title": "The Librarian",
+      "artist": "Sefi Zisling",
+      "source": "https://www.last.fm/music/Sefi+Zisling/The+Librarian",
+      "date": "2024-09-26",
+      "tracks": 6
+    },
+    {
+      "title": "Call For Winter II: Resonance",
+      "artist": "Daniel Herskedal",
+      "source": "https://www.last.fm/music/Daniel+Herskedal/Call+For+Winter+II%3A+Resonance",
+      "date": "2024-09-27",
+      "tracks": 11
+    },
+    {
+      "title": "Dance, No One's Watching",
+      "artist": "Ezra Collective",
+      "source": "https://www.last.fm/music/Ezra+Collective/Dance%2C+No+One's+Watching",
+      "date": "2024-09-27",
+      "tracks": 14
+    },
+    {
+      "title": "Feeling Good",
+      "artist": "Alvin Queen Trio, Carlton Holmes, Danton Boller",
+      "source": "https://www.last.fm/music/Alvin+Queen+Trio%2C+Carlton+Holmes%2C+Danton+Boller/Feeling+Good",
+      "date": "2024-09-27",
+      "tracks": 14
+    },
+    {
+      "title": "Night Train to Copenhagen",
+      "artist": "Alvin Queen Trio",
+      "source": "https://www.last.fm/music/Alvin+Queen+Trio/Night+Train+to+Copenhagen",
+      "date": "2024-09-27",
+      "tracks": 15
+    },
+    {
+      "title": "Rising",
+      "artist": "Jasmine Myra",
+      "date": "2024-09-27",
+      "tracks": 5,
+      "source": "https://www.last.fm/music/Jasmine+Myra/Rising"
+    },
+    {
+      "title": "three of us are from Houston and Reuben is not",
+      "artist": "Walter Smith III",
+      "source": "https://www.last.fm/music/Walter+Smith+III/three+of+us+are+from+Houston+and+Reuben+is+not",
+      "date": "2024-09-27",
+      "tracks": 11
+    },
+    {
+      "title": "Night Train to Copenhagen",
+      "artist": "Alvin Queen Trio",
+      "source": "https://www.last.fm/music/Alvin+Queen+Trio/Night+Train+to+Copenhagen",
+      "date": "2024-09-28",
+      "tracks": 15
+    },
+    {
+      "title": "OKANTOMI",
+      "artist": "Okan",
+      "source": "https://www.last.fm/music/Okan/OKANTOMI",
+      "date": "2024-09-29",
+      "tracks": 8
+    },
+    {
+      "title": "RUN THE GAUNTLET",
+      "artist": "Kris Davis Trio, Johnathan Blake, Robert Hurst",
+      "source": "https://www.last.fm/music/Kris+Davis+Trio%2C+Johnathan+Blake%2C+Robert+Hurst/RUN+THE+GAUNTLET",
+      "date": "2024-09-30",
+      "tracks": 11
+    },
+    {
+      "title": "The Punckes Delight",
+      "artist": "Jordi Savall",
+      "source": "https://www.last.fm/music/Jordi+Savall/The+Punckes+Delight",
+      "date": "2024-09-30",
+      "tracks": 21
+    },
+    {
+      "title": "The Way",
+      "artist": "Joachim Kühn",
+      "source": "https://www.last.fm/music/Joachim+K%C3%BChn/The+Way",
+      "date": "2024-09-30",
+      "tracks": 4
+    },
+    {
+      "title": "three of us are from Houston and Reuben is not",
+      "artist": "Walter Smith III",
+      "source": "https://www.last.fm/music/Walter+Smith+III/three+of+us+are+from+Houston+and+Reuben+is+not",
+      "date": "2024-09-30",
+      "tracks": 11
+    }
+  ],
+  "books": [
+    {
+      "title": "Le café suspendu",
+      "author": "Amanda Sthers",
+      "rating": 2,
+      "date": "2024-09-05"
+    },
+    {
+      "title": "Sunny",
+      "author": "Colin O'Sullivan",
+      "rating": 4,
+      "date": "2024-09-12"
+    },
+    {
+      "title": "Le restaurant des recettes oubliées",
+      "author": "Hisashi Kashiwai",
+      "rating": 4,
+      "date": "2024-09-18"
+    },
+    {
+      "title": "Vider les lieux",
+      "author": "Olivier Rolin",
+      "rating": 3,
+      "date": "2024-09-27"
+    }
+  ],
+  "films": [
+    {
+      "title": "Poor Things",
+      "year": 2023,
+      "rating": 1,
+      "source": "https://boxd.it/8B4gLd",
+      "date": "2024-09-07",
+      "director": "Yorgos Lanthimos"
+    },
+    {
+      "title": "California Typewriter",
+      "year": 2016,
+      "rating": 3,
+      "source": "https://boxd.it/8B4hAP",
+      "date": "2024-09-08",
+      "director": "Doug Nichol"
+    },
+    {
+      "title": "Hit Man",
+      "year": 2023,
+      "rating": 3,
+      "source": "https://boxd.it/8B4igL",
+      "date": "2024-09-14",
+      "director": "Richard Linklater"
+    },
+    {
+      "title": "An Impossible Project",
+      "year": 2020,
+      "rating": 2,
+      "source": "https://boxd.it/8B4iTj",
+      "date": "2024-09-15",
+      "director": "Jens Meurer"
+    },
+    {
+      "title": "Argylle",
+      "year": 2024,
+      "rating": 1,
+      "source": "https://boxd.it/8B4jJf",
+      "date": "2024-09-15",
+      "director": "Matthew Vaughn"
+    },
+    {
+      "title": "Wonka",
+      "year": 2023,
+      "rating": 4,
+      "source": "https://boxd.it/8B4kdp",
+      "date": "2024-09-21",
+      "director": "Paul King"
+    },
+    {
+      "title": "Robot Dreams",
+      "year": 2023,
+      "rating": 5,
+      "source": "https://boxd.it/8B4kVh",
+      "date": "2024-09-22",
+      "director": "Pablo Berger"
+    }
+  ],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

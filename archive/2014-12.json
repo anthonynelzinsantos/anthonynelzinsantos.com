@@ -1,0 +1,100 @@
+{
+  "albums": [
+    {
+      "title": "Crosby, Stills & Nash",
+      "artist": "Crosby, Stills & Nash",
+      "source": "https://www.last.fm/music/Crosby%2C+Stills+%26+Nash/Crosby%2C+Stills+%26+Nash",
+      "date": "2014-12-01",
+      "tracks": 4
+    },
+    {
+      "title": "The Dark Side of the Moon",
+      "artist": "Pink Floyd",
+      "source": "https://www.last.fm/music/Pink+Floyd/The+Dark+Side+of+the+Moon",
+      "date": "2014-12-01",
+      "tracks": 10
+    },
+    {
+      "title": "New York Melody - Music From And Inspired By The Original Motion Picture",
+      "artist": "Adam Levine",
+      "source": "https://www.last.fm/music/Adam+Levine/New+York+Melody+-+Music+From+And+Inspired+By+The+Original+Motion+Picture",
+      "date": "2014-12-06",
+      "tracks": 3
+    },
+    {
+      "title": "New York Melody - Music From And Inspired By The Original Motion Picture",
+      "artist": "Keira Knightley",
+      "source": "https://www.last.fm/music/Keira+Knightley/New+York+Melody+-+Music+From+And+Inspired+By+The+Original+Motion+Picture",
+      "date": "2014-12-06",
+      "tracks": 5
+    },
+    {
+      "title": "Rock or Bust",
+      "artist": "Angus Young",
+      "source": "https://www.last.fm/music/Angus+Young/Rock+or+Bust",
+      "date": "2014-12-07",
+      "tracks": 5
+    },
+    {
+      "title": "Rock or Bust",
+      "artist": "Angus Young",
+      "source": "https://www.last.fm/music/Angus+Young/Rock+or+Bust",
+      "date": "2014-12-08",
+      "tracks": 4
+    },
+    {
+      "title": "Stratégie de l'inespoir",
+      "artist": "Hubert-Félix Thiéfaine",
+      "source": "https://www.last.fm/music/Hubert-F%C3%A9lix+Thi%C3%A9faine/Strat%C3%A9gie+de+l'inespoir",
+      "date": "2014-12-08",
+      "tracks": 11
+    },
+    {
+      "title": "James Taylor At Christmas (Bonus Track Version)",
+      "artist": "James Taylor",
+      "source": "https://www.last.fm/music/James+Taylor/James+Taylor+At+Christmas+(Bonus+Track+Version)",
+      "date": "2014-12-10",
+      "tracks": 5
+    },
+    {
+      "title": "Live at Voce",
+      "artist": "Steve Gadd",
+      "source": "https://www.last.fm/music/Steve+Gadd/Live+at+Voce",
+      "date": "2014-12-10",
+      "tracks": 10
+    },
+    {
+      "title": "One Man Band",
+      "artist": "James Taylor",
+      "source": "https://www.last.fm/music/James+Taylor/One+Man+Band",
+      "date": "2014-12-10",
+      "tracks": 19
+    },
+    {
+      "title": "Classics",
+      "artist": "She & Him",
+      "source": "https://www.last.fm/music/She+%26+Him/Classics",
+      "date": "2014-12-16",
+      "tracks": 8
+    },
+    {
+      "title": "In Bologna",
+      "artist": "Chet Baker",
+      "source": "https://www.last.fm/music/Chet+Baker/In+Bologna",
+      "date": "2014-12-29",
+      "tracks": 4
+    },
+    {
+      "title": "Tell 'Em I'm Gone",
+      "artist": "Yusuf",
+      "source": "https://www.last.fm/music/Yusuf/Tell+'Em+I'm+Gone",
+      "date": "2014-12-30",
+      "tracks": 9
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

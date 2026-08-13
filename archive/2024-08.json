@@ -1,0 +1,553 @@
+{
+  "albums": [
+    {
+      "title": "Mit Peck",
+      "artist": "Vulfpeck",
+      "source": "https://www.last.fm/music/Vulfpeck/Mit+Peck",
+      "date": "2024-08-01",
+      "tracks": 6
+    },
+    {
+      "title": "Silver Shadow",
+      "artist": "Slowly Rolling Camera",
+      "source": "https://www.last.fm/music/Slowly+Rolling+Camera/Silver+Shadow",
+      "date": "2024-08-01",
+      "tracks": 16
+    },
+    {
+      "title": "Twentyfour",
+      "artist": "Al Di Meola",
+      "source": "https://www.last.fm/music/Al+Di+Meola/Twentyfour",
+      "date": "2024-08-06",
+      "tracks": 9
+    },
+    {
+      "title": "HOME.S.",
+      "artist": "Esbjörn Svensson",
+      "source": "https://www.last.fm/music/Esbj%C3%B6rn+Svensson/HOME.S.",
+      "date": "2024-08-09",
+      "tracks": 10
+    },
+    {
+      "title": "Mississippi to Sahara",
+      "artist": "Faris",
+      "date": "2024-08-09",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/Faris/Mississippi+to+Sahara"
+    },
+    {
+      "title": "Misty ~ Live at Jazz Is",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "date": "2024-08-09",
+      "tracks": 12,
+      "source": "https://www.last.fm/music/Tsuyoshi+Yamamoto+Trio/Misty+~+Live+at+Jazz+Is"
+    },
+    {
+      "title": "Outerstate",
+      "artist": "Kessoncoda",
+      "source": "https://www.last.fm/music/Kessoncoda/Outerstate",
+      "date": "2024-08-09",
+      "tracks": 10
+    },
+    {
+      "title": "Schvitz",
+      "artist": "Vulfpeck",
+      "date": "2024-08-09",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/Vulfpeck/Schvitz"
+    },
+    {
+      "title": "Twentyfour",
+      "artist": "Al Di Meola",
+      "source": "https://www.last.fm/music/Al+Di+Meola/Twentyfour",
+      "date": "2024-08-09",
+      "tracks": 6
+    },
+    {
+      "title": "Jazz At The Pawnshop [Audionautes Recordings]",
+      "artist": "Arne Domnérus, Bengt Hallberg, Georg Riedel, Egil Johansen & Lars Erstrand",
+      "date": "2024-08-12",
+      "tracks": 17,
+      "source": "https://www.last.fm/music/Arne+Domn%C3%A9rus%2C+Bengt+Hallberg%2C+Georg+Riedel%2C+Egil+Johansen+%26+Lars+Erstrand/Jazz+At+The+Pawnshop+%5BAudionautes+Recordings%5D"
+    },
+    {
+      "title": "Kind of Blue",
+      "artist": "Miles Davis",
+      "date": "2024-08-12",
+      "tracks": 5,
+      "source": "https://www.last.fm/music/Miles+Davis/Kind+of+Blue"
+    },
+    {
+      "title": "Mississippi to Sahara",
+      "artist": "Faris",
+      "source": "https://www.last.fm/music/Faris/Mississippi+to+Sahara",
+      "date": "2024-08-12",
+      "tracks": 5
+    },
+    {
+      "title": "Three Elements: Earthness",
+      "artist": "Jasper Høiby",
+      "source": "https://www.last.fm/music/Jasper+H%C3%B8iby/Three+Elements%3A+Earthness",
+      "date": "2024-08-12",
+      "tracks": 5
+    },
+    {
+      "title": "Milestones (Mono)",
+      "artist": "Miles Davis",
+      "source": "https://www.last.fm/music/Miles+Davis/Milestones+(Mono)",
+      "date": "2024-08-13",
+      "tracks": 6
+    },
+    {
+      "title": "Bright Sparkling Light",
+      "artist": "Matthew Halsall",
+      "date": "2024-08-14",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/Matthew+Halsall/Bright+Sparkling+Light"
+    },
+    {
+      "title": "Misty ~ Live at Jazz Is",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "date": "2024-08-14",
+      "tracks": 8,
+      "source": "https://www.last.fm/music/Tsuyoshi+Yamamoto+Trio/Misty+~+Live+at+Jazz+Is"
+    },
+    {
+      "title": "Outerstate",
+      "artist": "Kessoncoda",
+      "date": "2024-08-14",
+      "tracks": 10,
+      "source": "https://www.last.fm/music/Kessoncoda/Outerstate"
+    },
+    {
+      "title": "Rising",
+      "artist": "Jasmine Myra",
+      "date": "2024-08-14",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Jasmine+Myra/Rising"
+    },
+    {
+      "title": "A New Day",
+      "artist": "Giovanni Guidi, James Brandon Lewis, João Lobo & Thomas Morgan",
+      "source": "https://www.last.fm/music/Giovanni+Guidi%2C+James+Brandon+Lewis%2C+Jo%C3%A3o+Lobo+%26+Thomas+Morgan/A+New+Day",
+      "date": "2024-08-17",
+      "tracks": 7
+    },
+    {
+      "title": "And Then Again (Live)",
+      "artist": "Bill Charlap Trio",
+      "source": "https://www.last.fm/music/Bill+Charlap+Trio/And+Then+Again+(Live)",
+      "date": "2024-08-19",
+      "tracks": 8
+    },
+    {
+      "title": "Blues Reflex",
+      "artist": "Bob Brozman",
+      "source": "https://www.last.fm/music/Bob+Brozman/Blues+Reflex",
+      "date": "2024-08-19",
+      "tracks": 13
+    },
+    {
+      "title": "Molto Molto",
+      "artist": "Sasha Matson",
+      "source": "https://www.last.fm/music/Sasha+Matson/Molto+Molto",
+      "date": "2024-08-19",
+      "tracks": 8
+    },
+    {
+      "title": "Pyramid",
+      "artist": "The Modern Jazz Quartet",
+      "source": "https://www.last.fm/music/The+Modern+Jazz+Quartet/Pyramid",
+      "date": "2024-08-19",
+      "tracks": 6
+    },
+    {
+      "title": "Street Of Dreams",
+      "artist": "Bill Charlap Trio",
+      "source": "https://www.last.fm/music/Bill+Charlap+Trio/Street+Of+Dreams",
+      "date": "2024-08-19",
+      "tracks": 8
+    },
+    {
+      "title": "The Fox (Remastered 2024)",
+      "artist": "Harold Land",
+      "source": "https://www.last.fm/music/Harold+Land/The+Fox+(Remastered+2024)",
+      "date": "2024-08-19",
+      "tracks": 6
+    },
+    {
+      "title": "Toki",
+      "artist": "Hidefumi Toki Quartet",
+      "source": "https://www.last.fm/music/Hidefumi+Toki+Quartet/Toki",
+      "date": "2024-08-19",
+      "tracks": 5
+    },
+    {
+      "title": "Crescent",
+      "artist": "John Coltrane Quartet",
+      "source": "https://www.last.fm/music/John+Coltrane+Quartet/Crescent",
+      "date": "2024-08-20",
+      "tracks": 5
+    },
+    {
+      "title": "Duke Ellington & John Coltrane",
+      "artist": "Duke Ellington & John Coltrane",
+      "source": "https://www.last.fm/music/Duke+Ellington+%26+John+Coltrane/Duke+Ellington+%26+John+Coltrane",
+      "date": "2024-08-20",
+      "tracks": 7
+    },
+    {
+      "title": "I Love You, Paris (Live)",
+      "artist": "Shirley Horn",
+      "source": "https://www.last.fm/music/Shirley+Horn/I+Love+You%2C+Paris+(Live)",
+      "date": "2024-08-20",
+      "tracks": 11
+    },
+    {
+      "title": "Pyramid",
+      "artist": "The Modern Jazz Quartet",
+      "source": "https://www.last.fm/music/The+Modern+Jazz+Quartet/Pyramid",
+      "date": "2024-08-20",
+      "tracks": 6
+    },
+    {
+      "title": "Thelonious Alone in San Francisco",
+      "artist": "Thelonious Monk",
+      "source": "https://www.last.fm/music/Thelonious+Monk/Thelonious+Alone+in+San+Francisco",
+      "date": "2024-08-20",
+      "tracks": 10
+    },
+    {
+      "title": "This One's for Blanton",
+      "artist": "Duke Ellington & Ray Brown",
+      "source": "https://www.last.fm/music/Duke+Ellington+%26+Ray+Brown/This+One's+for+Blanton",
+      "date": "2024-08-20",
+      "tracks": 9
+    },
+    {
+      "title": "River: The Joni Letters",
+      "artist": "Herbie Hancock",
+      "source": "https://www.last.fm/music/Herbie+Hancock/River%3A+The+Joni+Letters",
+      "date": "2024-08-21",
+      "tracks": 14
+    },
+    {
+      "title": "First Take",
+      "artist": "Roberta Flack",
+      "source": "https://www.last.fm/music/Roberta+Flack/First+Take",
+      "date": "2024-08-23",
+      "tracks": 5
+    },
+    {
+      "title": "Hard Groove",
+      "artist": "Roy Hargrove",
+      "source": "https://www.last.fm/music/Roy+Hargrove/Hard+Groove",
+      "date": "2024-08-23",
+      "tracks": 14
+    },
+    {
+      "title": "HIROISEKAITOSMAISEKAI",
+      "artist": "Rei Harakami",
+      "source": "https://www.last.fm/music/Rei+Harakami/HIROISEKAITOSMAISEKAI",
+      "date": "2024-08-23",
+      "tracks": 36
+    },
+    {
+      "title": "Milton + esperanza",
+      "artist": "Milton Nascimento & Esperanza Spalding",
+      "source": "https://www.last.fm/music/Milton+Nascimento+%26+Esperanza+Spalding/Milton+%2B+esperanza",
+      "date": "2024-08-23",
+      "tracks": 16
+    },
+    {
+      "title": "On the Journey, Pt. 2 - EP",
+      "artist": "Enzo Orefice Trio",
+      "source": "https://www.last.fm/music/Enzo+Orefice+Trio/On+the+Journey%2C+Pt.+2+-+EP",
+      "date": "2024-08-23",
+      "tracks": 4
+    },
+    {
+      "title": "COWBOY CARTER",
+      "artist": "Beyoncé",
+      "source": "https://www.last.fm/music/Beyonc%C3%A9/COWBOY+CARTER",
+      "date": "2024-08-26",
+      "tracks": 15
+    },
+    {
+      "title": "Feel Recordings, Vol. 1",
+      "artist": "Dexter Story & Carlos Niño",
+      "source": "https://www.last.fm/music/Dexter+Story+%26+Carlos+Ni%C3%B1o/Feel+Recordings%2C+Vol.+1",
+      "date": "2024-08-26",
+      "tracks": 11
+    },
+    {
+      "title": "In Person Friday and Saturday Nights At the Blackhawk - Complete (Live)",
+      "artist": "Miles Davis",
+      "date": "2024-08-26",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Miles+Davis/In+Person+Friday+and+Saturday+Nights+At+the+Blackhawk+-+Complete+(Live)"
+    },
+    {
+      "title": "In Person Friday and Saturday Nights at the Blackhawk, Complete",
+      "artist": "Miles Davis",
+      "source": "https://www.last.fm/music/Miles+Davis/In+Person+Friday+and+Saturday+Nights+at+the+Blackhawk%2C+Complete",
+      "date": "2024-08-26",
+      "tracks": 15
+    },
+    {
+      "title": "Miles Davis - In Person Friday And Saturday Nights At The Blackhawk, Complete",
+      "artist": "Miles Davis",
+      "source": "https://www.last.fm/music/Miles+Davis/Miles+Davis+-+In+Person+Friday+And+Saturday+Nights+At+The+Blackhawk%2C+Complete",
+      "date": "2024-08-26",
+      "tracks": 7
+    },
+    {
+      "title": "Three Elements: Earthness",
+      "artist": "Jasper Høiby",
+      "source": "https://www.last.fm/music/Jasper+H%C3%B8iby/Three+Elements%3A+Earthness",
+      "date": "2024-08-26",
+      "tracks": 10
+    },
+    {
+      "title": "Celebration, Volume 1 (Live)",
+      "artist": "Wayne Shorter",
+      "source": "https://www.last.fm/music/Wayne+Shorter/Celebration%2C+Volume+1+(Live)",
+      "date": "2024-08-27",
+      "tracks": 10
+    },
+    {
+      "title": "My Ideal",
+      "artist": "Catherine Russell, Sean Mason",
+      "source": "https://www.last.fm/music/Catherine+Russell%2C+Sean+Mason/My+Ideal",
+      "date": "2024-08-27",
+      "tracks": 11
+    },
+    {
+      "title": "Será Una Noche",
+      "artist": "La Segunda",
+      "date": "2024-08-27",
+      "tracks": 16,
+      "source": "https://www.last.fm/music/La+Segunda/Ser%C3%A1+Una+Noche"
+    },
+    {
+      "title": "The Köln Concert",
+      "artist": "Keith Jarrett",
+      "source": "https://www.last.fm/music/Keith+Jarrett/The+K%C3%B6ln+Concert",
+      "date": "2024-08-27",
+      "tracks": 4
+    },
+    {
+      "title": "Vibe Provider",
+      "artist": "Emmet Cohen",
+      "source": "https://www.last.fm/music/Emmet+Cohen/Vibe+Provider",
+      "date": "2024-08-27",
+      "tracks": 9
+    },
+    {
+      "title": "Isthmus",
+      "artist": "Throwing Snow",
+      "source": "https://www.last.fm/music/Throwing+Snow/Isthmus",
+      "date": "2024-08-28",
+      "tracks": 13
+    },
+    {
+      "title": "Kenny Burrell & John Coltrane",
+      "artist": "Kenny Burrell, John Coltrane",
+      "source": "https://www.last.fm/music/Kenny+Burrell%2C+John+Coltrane/Kenny+Burrell+%26+John+Coltrane",
+      "date": "2024-08-28",
+      "tracks": 5
+    },
+    {
+      "title": "Lamentations",
+      "artist": "John Zorn, Bill Frisell, Julian Lage, Gyan Riley",
+      "source": "https://www.last.fm/music/John+Zorn%2C+Bill+Frisell%2C+Julian+Lage%2C+Gyan+Riley/Lamentations",
+      "date": "2024-08-28",
+      "tracks": 4
+    },
+    {
+      "title": "Live at Third Man Records",
+      "artist": "Kassa Overall",
+      "source": "https://www.last.fm/music/Kassa+Overall/Live+at+Third+Man+Records",
+      "date": "2024-08-28",
+      "tracks": 6
+    },
+    {
+      "title": "Maggie's Back In Town!! (Remastered 2024)",
+      "artist": "Howard McGhee, Shelly Manne, Phineas Newborn Jr., Leroy Vinnegar",
+      "source": "https://www.last.fm/music/Howard+McGhee%2C+Shelly+Manne%2C+Phineas+Newborn+Jr.%2C+Leroy+Vinnegar/Maggie's+Back+In+Town!!+(Remastered+2024)",
+      "date": "2024-08-28",
+      "tracks": 7
+    },
+    {
+      "title": "MoonDial",
+      "artist": "Pat Metheny",
+      "source": "https://www.last.fm/music/Pat+Metheny/MoonDial",
+      "date": "2024-08-28",
+      "tracks": 13
+    },
+    {
+      "title": "Thokozile Collective",
+      "artist": "Thokozile Collective",
+      "source": "https://www.last.fm/music/Thokozile+Collective/Thokozile+Collective",
+      "date": "2024-08-28",
+      "tracks": 9
+    },
+    {
+      "title": "A Letter to Bill Evans",
+      "artist": "Wolff, Clark and Dorsey",
+      "source": "https://www.last.fm/music/Wolff%2C+Clark+and+Dorsey/A+Letter+to+Bill+Evans",
+      "date": "2024-08-29",
+      "tracks": 9
+    },
+    {
+      "title": "Beyond This Place",
+      "artist": "Kenny Barron, Kiyoshi Kitagawa, Johnathan Blake, Immanuel Wilkins, Steve Nelson",
+      "source": "https://www.last.fm/music/Kenny+Barron%2C+Kiyoshi+Kitagawa%2C+Johnathan+Blake%2C+Immanuel+Wilkins%2C+Steve+Nelson/Beyond+This+Place",
+      "date": "2024-08-29",
+      "tracks": 6
+    },
+    {
+      "title": "Con Alma: The Oscar Peterson Trio – Live in Lugano, 1964",
+      "artist": "Oscar Peterson",
+      "source": "https://www.last.fm/music/Oscar+Peterson/Con+Alma%3A+The+Oscar+Peterson+Trio+%E2%80%93+Live+in+Lugano%2C+1964",
+      "date": "2024-08-29",
+      "tracks": 6
+    },
+    {
+      "title": "Elevate",
+      "artist": "Jeff Lorber, Mark Lettieri",
+      "source": "https://www.last.fm/music/Jeff+Lorber%2C+Mark+Lettieri/Elevate",
+      "date": "2024-08-29",
+      "tracks": 4
+    },
+    {
+      "title": "Será Una Noche",
+      "artist": "La Segunda",
+      "date": "2024-08-29",
+      "tracks": 16,
+      "source": "https://www.last.fm/music/La+Segunda/Ser%C3%A1+Una+Noche"
+    },
+    {
+      "title": "The Cats",
+      "artist": "Idrees Sulieman, John Coltrane, Kenny Burrell, Tommy Flanagan",
+      "source": "https://www.last.fm/music/Idrees+Sulieman%2C+John+Coltrane%2C+Kenny+Burrell%2C+Tommy+Flanagan/The+Cats",
+      "date": "2024-08-29",
+      "tracks": 5
+    },
+    {
+      "title": "Awakening",
+      "artist": "Hiroshi Sato",
+      "source": "https://www.last.fm/music/Hiroshi+Sato/Awakening",
+      "date": "2024-08-30",
+      "tracks": 11
+    },
+    {
+      "title": "Composers Collective: Beyond The Jukebox",
+      "artist": "Marquis Hill",
+      "source": "https://www.last.fm/music/Marquis+Hill/Composers+Collective%3A+Beyond+The+Jukebox",
+      "date": "2024-08-30",
+      "tracks": 8
+    },
+    {
+      "title": "Decent Music",
+      "artist": "Guy Van Nueten",
+      "source": "https://www.last.fm/music/Guy+Van+Nueten/Decent+Music",
+      "date": "2024-08-30",
+      "tracks": 8
+    },
+    {
+      "title": "Golden City",
+      "artist": "Miguel Zenón",
+      "source": "https://www.last.fm/music/Miguel+Zen%C3%B3n/Golden+City",
+      "date": "2024-08-30",
+      "tracks": 11
+    },
+    {
+      "title": "Infinite Health",
+      "artist": "Tycho",
+      "source": "https://www.last.fm/music/Tycho/Infinite+Health",
+      "date": "2024-08-30",
+      "tracks": 8
+    },
+    {
+      "title": "Silent, Listening",
+      "artist": "Fred Hersch",
+      "source": "https://www.last.fm/music/Fred+Hersch/Silent%2C+Listening",
+      "date": "2024-08-30",
+      "tracks": 8
+    },
+    {
+      "title": "Talkie Talkie",
+      "artist": "Los Bitchos",
+      "source": "https://www.last.fm/music/Los+Bitchos/Talkie+Talkie",
+      "date": "2024-08-30",
+      "tracks": 12
+    },
+    {
+      "title": "The Heart, The Mind, The Soul",
+      "artist": "Tank and the Bangas",
+      "source": "https://www.last.fm/music/Tank+and+the+Bangas/The+Heart%2C+The+Mind%2C+The+Soul",
+      "date": "2024-08-30",
+      "tracks": 4
+    }
+  ],
+  "books": [
+    {
+      "title": "Deep Work: Rules for Focused Success in a Distracted World",
+      "author": "Cal Newport",
+      "rating": 3,
+      "date": "2024-08-09"
+    },
+    {
+      "title": "3 Shades of Blue: Miles Davis, John Coltrane, Bill Evans, and the Lost Empire of Cool",
+      "author": "James Kaplan",
+      "rating": 3,
+      "date": "2024-08-14"
+    },
+    {
+      "title": "Apostille Au Nom de La Rose",
+      "author": "Umberto Eco",
+      "rating": 4,
+      "date": "2024-08-17"
+    },
+    {
+      "title": "Le Nom de la rose",
+      "author": "Umberto Eco",
+      "rating": 4,
+      "date": "2024-08-17"
+    },
+    {
+      "title": "Filterworld: How Algorithms Flattened Culture",
+      "author": "Kyle Chayka",
+      "rating": 3,
+      "date": "2024-08-28"
+    }
+  ],
+  "films": [
+    {
+      "title": "Kiki's Delivery Service",
+      "year": 1989,
+      "rating": 5,
+      "source": "https://boxd.it/8B4euz",
+      "date": "2024-08-18",
+      "director": "Hayao Miyazaki"
+    },
+    {
+      "title": "The Fugitives",
+      "year": 1986,
+      "rating": 3,
+      "source": "https://boxd.it/8B4fh7",
+      "date": "2024-08-26",
+      "director": "Francis Veber"
+    }
+  ],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2024-08-25",
+      "date": "2024-08-25",
+      "count": 1
+    }
+  ]
+}

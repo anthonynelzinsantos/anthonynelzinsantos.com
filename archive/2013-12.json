@@ -1,0 +1,233 @@
+{
+  "albums": [
+    {
+      "title": "Albert King With Stevie Ray Vaughan: In Session",
+      "artist": "Albert King / Stevie Ray Vaughan",
+      "date": "2013-12-02",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/Albert+King+%2F+Stevie+Ray+Vaughan/Albert+King+With+Stevie+Ray+Vaughan%3A+In+Session"
+    },
+    {
+      "title": "Live à Fip",
+      "artist": "Eric Bibb",
+      "source": "https://www.last.fm/music/Eric+Bibb/Live+%C3%A0+Fip",
+      "date": "2013-12-02",
+      "tracks": 3
+    },
+    {
+      "title": "The Complete Recordings",
+      "artist": "Robert Johnson",
+      "source": "https://www.last.fm/music/Robert+Johnson/The+Complete+Recordings",
+      "date": "2013-12-02",
+      "tracks": 3
+    },
+    {
+      "title": "Alone & Acoustic",
+      "artist": "Buddy Guy / Junior Wells",
+      "source": "https://www.last.fm/music/Buddy+Guy+%2F+Junior+Wells/Alone+%26+Acoustic",
+      "date": "2013-12-05",
+      "tracks": 15
+    },
+    {
+      "title": "Drinkin' TNT 'n' Smokin' Dynamite",
+      "artist": "Buddy Guy / Junior Wells",
+      "source": "https://www.last.fm/music/Buddy+Guy+%2F+Junior+Wells/Drinkin'+TNT+'n'+Smokin'+Dynamite",
+      "date": "2013-12-05",
+      "tracks": 8
+    },
+    {
+      "title": "Foreverly",
+      "artist": "Billie Joe Armstrong / Norah Jones",
+      "source": "https://www.last.fm/music/Billie+Joe+Armstrong+%2F+Norah+Jones/Foreverly",
+      "date": "2013-12-05",
+      "tracks": 12
+    },
+    {
+      "title": "Everything Gonna Be Alright",
+      "artist": "Buddy Guy / Junior Wells",
+      "source": "https://www.last.fm/music/Buddy+Guy+%2F+Junior+Wells/Everything+Gonna+Be+Alright",
+      "date": "2013-12-06",
+      "tracks": 17
+    },
+    {
+      "title": "Another Life",
+      "artist": "James Maddock",
+      "source": "https://www.last.fm/music/James+Maddock/Another+Life",
+      "date": "2013-12-08",
+      "tracks": 13
+    },
+    {
+      "title": "Coming At You",
+      "artist": "Junior Wells",
+      "source": "https://www.last.fm/music/Junior+Wells/Coming+At+You",
+      "date": "2013-12-09",
+      "tracks": 11
+    },
+    {
+      "title": "Internal Sounds",
+      "artist": "The Sadies",
+      "source": "https://www.last.fm/music/The+Sadies/Internal+Sounds",
+      "date": "2013-12-09",
+      "tracks": 11
+    },
+    {
+      "title": "Unripened",
+      "artist": "The Velvet Underground",
+      "source": "https://www.last.fm/music/The+Velvet+Underground/Unripened",
+      "date": "2013-12-09",
+      "tracks": 3
+    },
+    {
+      "title": "Hidden Seam",
+      "artist": "Lisa Knapp",
+      "source": "https://www.last.fm/music/Lisa+Knapp/Hidden+Seam",
+      "date": "2013-12-10",
+      "tracks": 9
+    },
+    {
+      "title": "Unripened",
+      "artist": "The Velvet Underground",
+      "source": "https://www.last.fm/music/The+Velvet+Underground/Unripened",
+      "date": "2013-12-10",
+      "tracks": 6
+    },
+    {
+      "title": "VU",
+      "artist": "The Velvet Underground",
+      "source": "https://www.last.fm/music/The+Velvet+Underground/VU",
+      "date": "2013-12-10",
+      "tracks": 3
+    },
+    {
+      "title": "First Time I Met The Blues",
+      "artist": "Buddy Guy / Junior Wells",
+      "source": "https://www.last.fm/music/Buddy+Guy+%2F+Junior+Wells/First+Time+I+Met+The+Blues",
+      "date": "2013-12-11",
+      "tracks": 15
+    },
+    {
+      "title": "Last Time Around: Live at Legends",
+      "artist": "Buddy Guy / Junior Wells",
+      "source": "https://www.last.fm/music/Buddy+Guy+%2F+Junior+Wells/Last+Time+Around%3A+Live+at+Legends",
+      "date": "2013-12-11",
+      "tracks": 10
+    },
+    {
+      "title": "Amicalement Blues",
+      "artist": "Hubert-Félix Thiefaine / Paul Personne",
+      "source": "https://www.last.fm/music/Hubert-F%C3%A9lix+Thiefaine+%2F+Paul+Personne/Amicalement+Blues",
+      "date": "2013-12-13",
+      "tracks": 15
+    },
+    {
+      "title": "Jubilee",
+      "artist": "The Deep Dark Woods",
+      "source": "https://www.last.fm/music/The+Deep+Dark+Woods/Jubilee",
+      "date": "2013-12-13",
+      "tracks": 8
+    },
+    {
+      "title": "Play the Blues",
+      "artist": "Buddy Guy / Junior Wells",
+      "source": "https://www.last.fm/music/Buddy+Guy+%2F+Junior+Wells/Play+the+Blues",
+      "date": "2013-12-13",
+      "tracks": 10
+    },
+    {
+      "title": "Pleading the Blues",
+      "artist": "Buddy Guy / Junior Wells",
+      "source": "https://www.last.fm/music/Buddy+Guy+%2F+Junior+Wells/Pleading+the+Blues",
+      "date": "2013-12-13",
+      "tracks": 8
+    },
+    {
+      "title": "Ladies & Gentlemen... Mr. B.B. King",
+      "artist": "B.B. King",
+      "date": "2013-12-16",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/B.B.+King/Ladies+%26+Gentlemen...+Mr.+B.B.+King"
+    },
+    {
+      "title": "Standard Time, Vol. 6: Mr. Jelly Lord",
+      "artist": "Wynton Marsalis",
+      "source": "https://www.last.fm/music/Wynton+Marsalis/Standard+Time%2C+Vol.+6%3A+Mr.+Jelly+Lord",
+      "date": "2013-12-16",
+      "tracks": 12
+    },
+    {
+      "title": "Ladies & Gentlemen... Mr. B.B. King",
+      "artist": "B.B. King",
+      "source": "https://www.last.fm/music/B.B.+King/Ladies+%26+Gentlemen...+Mr.+B.B.+King",
+      "date": "2013-12-19",
+      "tracks": 4
+    },
+    {
+      "title": "A Collection",
+      "artist": "The Be Good Tanyas",
+      "source": "https://www.last.fm/music/The+Be+Good+Tanyas/A+Collection",
+      "date": "2013-12-22",
+      "tracks": 4
+    },
+    {
+      "title": "A Wasteland Companion",
+      "artist": "M. Ward",
+      "source": "https://www.last.fm/music/M.+Ward/A+Wasteland+Companion",
+      "date": "2013-12-22",
+      "tracks": 3
+    },
+    {
+      "title": "Blessed",
+      "artist": "Lucinda Williams",
+      "date": "2013-12-22",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/Lucinda+Williams/Blessed"
+    },
+    {
+      "title": "Grasshopper",
+      "artist": "J.J. Cale",
+      "source": "https://www.last.fm/music/J.J.+Cale/Grasshopper",
+      "date": "2013-12-22",
+      "tracks": 3
+    },
+    {
+      "title": "I, Flathead",
+      "artist": "Ry Cooder",
+      "date": "2013-12-22",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/Ry+Cooder/I%2C+Flathead"
+    },
+    {
+      "title": "Mesabi",
+      "artist": "Tom Russell",
+      "source": "https://www.last.fm/music/Tom+Russell/Mesabi",
+      "date": "2013-12-22",
+      "tracks": 3
+    },
+    {
+      "title": "The Road To Escondido",
+      "artist": "J.J. Cale / Eric Clapton",
+      "date": "2013-12-22",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/J.J.+Cale+%2F+Eric+Clapton/The+Road+To+Escondido"
+    },
+    {
+      "title": "The Wild Hunt",
+      "artist": "The Tallest Man on Earth",
+      "source": "https://www.last.fm/music/The+Tallest+Man+on+Earth/The+Wild+Hunt",
+      "date": "2013-12-22",
+      "tracks": 3
+    },
+    {
+      "title": "Mind, Body & Soul",
+      "artist": "Joss Stone",
+      "source": "https://www.last.fm/music/Joss+Stone/Mind%2C+Body+%26+Soul",
+      "date": "2013-12-25",
+      "tracks": 15
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

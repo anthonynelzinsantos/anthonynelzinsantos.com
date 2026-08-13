@@ -1,0 +1,100 @@
+{
+  "albums": [
+    {
+      "title": "A Funk Odyssey",
+      "artist": "Jamiroquai",
+      "source": "https://www.last.fm/music/Jamiroquai/A+Funk+Odyssey",
+      "date": "2014-08-01",
+      "tracks": 10
+    },
+    {
+      "title": "Buried Treasures",
+      "artist": "The Dave Brubeck Quartet",
+      "source": "https://www.last.fm/music/The+Dave+Brubeck+Quartet/Buried+Treasures",
+      "date": "2014-08-01",
+      "tracks": 3
+    },
+    {
+      "title": "Two Generations of Brubeck",
+      "artist": "Dave Brubeck",
+      "source": "https://www.last.fm/music/Dave+Brubeck/Two+Generations+of+Brubeck",
+      "date": "2014-08-01",
+      "tracks": 3
+    },
+    {
+      "title": "La vocación optimista",
+      "artist": "Aldrin y Collins",
+      "source": "https://www.last.fm/music/Aldrin+y+Collins/La+vocaci%C3%B3n+optimista",
+      "date": "2014-08-03",
+      "tracks": 9
+    },
+    {
+      "title": "The Breeze: An Appreciation of JJ Cale",
+      "artist": "Eric Clapton",
+      "source": "https://www.last.fm/music/Eric+Clapton/The+Breeze%3A+An+Appreciation+of+JJ+Cale",
+      "date": "2014-08-06",
+      "tracks": 16
+    },
+    {
+      "title": "x",
+      "artist": "Ed Sheeran",
+      "date": "2014-08-06",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/Ed+Sheeran/x"
+    },
+    {
+      "title": "Trouble in Paradise",
+      "artist": "La Roux",
+      "source": "https://www.last.fm/music/La+Roux/Trouble+in+Paradise",
+      "date": "2014-08-07",
+      "tracks": 9
+    },
+    {
+      "title": "x",
+      "artist": "Ed Sheeran",
+      "source": "https://www.last.fm/music/Ed+Sheeran/x",
+      "date": "2014-08-07",
+      "tracks": 4
+    },
+    {
+      "title": "1000 Forms of Fear",
+      "artist": "Sia",
+      "source": "https://www.last.fm/music/Sia/1000+Forms+of+Fear",
+      "date": "2014-08-08",
+      "tracks": 12
+    },
+    {
+      "title": "Sessions for Robert J",
+      "artist": "Eric Clapton",
+      "source": "https://www.last.fm/music/Eric+Clapton/Sessions+for+Robert+J",
+      "date": "2014-08-15",
+      "tracks": 11
+    },
+    {
+      "title": "Down the Way",
+      "artist": "Angus & Julia Stone",
+      "source": "https://www.last.fm/music/Angus+%26+Julia+Stone/Down+the+Way",
+      "date": "2014-08-17",
+      "tracks": 23
+    },
+    {
+      "title": "Pixie Lott",
+      "artist": "Pixie Lott",
+      "source": "https://www.last.fm/music/Pixie+Lott/Pixie+Lott",
+      "date": "2014-08-17",
+      "tracks": 12
+    },
+    {
+      "title": "The Times They Are A-Changin' [Mono]",
+      "artist": "Bob Dylan",
+      "source": "https://www.last.fm/music/Bob+Dylan/The+Times+They+Are+A-Changin'+%5BMono%5D",
+      "date": "2014-08-30",
+      "tracks": 9
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

@@ -1,0 +1,331 @@
+{
+  "albums": [
+    {
+      "title": "Nikela",
+      "artist": "Flamenco Jazz Company",
+      "source": "https://www.last.fm/music/Flamenco+Jazz+Company/Nikela",
+      "date": "2013-11-01",
+      "tracks": 10
+    },
+    {
+      "title": "Rappalachia",
+      "artist": "Gangstagrass",
+      "source": "https://www.last.fm/music/Gangstagrass/Rappalachia",
+      "date": "2013-11-01",
+      "tracks": 15
+    },
+    {
+      "title": "Man Up",
+      "artist": "The Blue Van",
+      "source": "https://www.last.fm/music/The+Blue+Van/Man+Up",
+      "date": "2013-11-04",
+      "tracks": 8
+    },
+    {
+      "title": "Friday Night in San Francisco",
+      "artist": "John McLaughlin / Al di Meola / Paco de Lucia",
+      "source": "https://www.last.fm/music/John+McLaughlin+%2F+Al+di+Meola+%2F+Paco+de+Lucia/Friday+Night+in+San+Francisco",
+      "date": "2013-11-05",
+      "tracks": 5
+    },
+    {
+      "title": "Old Sock",
+      "artist": "Eric Clapton",
+      "date": "2013-11-07",
+      "tracks": 12,
+      "source": "https://www.last.fm/music/Eric+Clapton/Old+Sock"
+    },
+    {
+      "title": "Sessions for Robert J",
+      "artist": "Eric Clapton",
+      "date": "2013-11-07",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/Eric+Clapton/Sessions+for+Robert+J"
+    },
+    {
+      "title": "Casey Abrams",
+      "artist": "Casey Abrams",
+      "date": "2013-11-08",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/Casey+Abrams/Casey+Abrams"
+    },
+    {
+      "title": "Center Stage",
+      "artist": "Tommy Emmanuel",
+      "source": "https://www.last.fm/music/Tommy+Emmanuel/Center+Stage",
+      "date": "2013-11-08",
+      "tracks": 18
+    },
+    {
+      "title": "Sakamichi no Apollon",
+      "artist": "Apollon Quartet",
+      "source": "https://www.last.fm/music/Apollon+Quartet/Sakamichi+no+Apollon",
+      "date": "2013-11-09",
+      "tracks": 5
+    },
+    {
+      "title": "Band on the Run",
+      "artist": "Wings",
+      "source": "https://www.last.fm/music/Wings/Band+on+the+Run",
+      "date": "2013-11-10",
+      "tracks": 10
+    },
+    {
+      "title": "Give My Regards to Broad Street",
+      "artist": "Paul McCartney",
+      "source": "https://www.last.fm/music/Paul+McCartney/Give+My+Regards+to+Broad+Street",
+      "date": "2013-11-10",
+      "tracks": 4
+    },
+    {
+      "title": "Inside Llewyn Davis [Original Soundtrack Recording]",
+      "artist": "Oscar Isaac",
+      "source": "https://www.last.fm/music/Oscar+Isaac/Inside+Llewyn+Davis+%5BOriginal+Soundtrack+Recording%5D",
+      "date": "2013-11-10",
+      "tracks": 3
+    },
+    {
+      "title": "Liquid Spirit",
+      "artist": "Gregory Porter",
+      "source": "https://www.last.fm/music/Gregory+Porter/Liquid+Spirit",
+      "date": "2013-11-11",
+      "tracks": 13
+    },
+    {
+      "title": "No Deal",
+      "artist": "Melanie De Biasio",
+      "source": "https://www.last.fm/music/Melanie+De+Biasio/No+Deal",
+      "date": "2013-11-11",
+      "tracks": 8
+    },
+    {
+      "title": "Friends",
+      "artist": "Eric Bibb",
+      "source": "https://www.last.fm/music/Eric+Bibb/Friends",
+      "date": "2013-11-12",
+      "tracks": 15
+    },
+    {
+      "title": "Inside Llewyn Davis [Original Soundtrack Recording]",
+      "artist": "Oscar Isaac",
+      "date": "2013-11-12",
+      "tracks": 4,
+      "source": "https://www.last.fm/music/Oscar+Isaac/Inside+Llewyn+Davis+%5BOriginal+Soundtrack+Recording%5D"
+    },
+    {
+      "title": "Peace",
+      "artist": "Anders Osborne",
+      "source": "https://www.last.fm/music/Anders+Osborne/Peace",
+      "date": "2013-11-12",
+      "tracks": 11
+    },
+    {
+      "title": "King Of The Blues Guitar",
+      "artist": "Albert King",
+      "source": "https://www.last.fm/music/Albert+King/King+Of+The+Blues+Guitar",
+      "date": "2013-11-14",
+      "tracks": 17
+    },
+    {
+      "title": "Static",
+      "artist": "Cults",
+      "source": "https://www.last.fm/music/Cults/Static",
+      "date": "2013-11-14",
+      "tracks": 11
+    },
+    {
+      "title": "Sunday Morning Record",
+      "artist": "The Band of Heathens",
+      "source": "https://www.last.fm/music/The+Band+of+Heathens/Sunday+Morning+Record",
+      "date": "2013-11-14",
+      "tracks": 11
+    },
+    {
+      "title": "Ghost Republic",
+      "artist": "Willard Grant Conspiracy",
+      "source": "https://www.last.fm/music/Willard+Grant+Conspiracy/Ghost+Republic",
+      "date": "2013-11-15",
+      "tracks": 13
+    },
+    {
+      "title": "Hadoukly Yours",
+      "artist": "Hadouk Quartet",
+      "source": "https://www.last.fm/music/Hadouk+Quartet/Hadoukly+Yours",
+      "date": "2013-11-15",
+      "tracks": 13
+    },
+    {
+      "title": "The Velvet Underground & Nico",
+      "artist": "The Velvet Underground",
+      "source": "https://www.last.fm/music/The+Velvet+Underground/The+Velvet+Underground+%26+Nico",
+      "date": "2013-11-15",
+      "tracks": 5
+    },
+    {
+      "title": "Adiós I'm a Ghost",
+      "artist": "The Moondoggies",
+      "source": "https://www.last.fm/music/The+Moondoggies/Adi%C3%B3s+I'm+a+Ghost",
+      "date": "2013-11-19",
+      "tracks": 12
+    },
+    {
+      "title": "The Flip",
+      "artist": "Hank Mobley",
+      "source": "https://www.last.fm/music/Hank+Mobley/The+Flip",
+      "date": "2013-11-19",
+      "tracks": 5
+    },
+    {
+      "title": "We Were Here",
+      "artist": "Turin Brakes",
+      "source": "https://www.last.fm/music/Turin+Brakes/We+Were+Here",
+      "date": "2013-11-19",
+      "tracks": 8
+    },
+    {
+      "title": "Abbey Road",
+      "artist": "The Beatles",
+      "date": "2013-11-20",
+      "tracks": 5,
+      "source": "https://www.last.fm/music/The+Beatles/Abbey+Road"
+    },
+    {
+      "title": "Amelita",
+      "artist": "Court Yard Hounds",
+      "source": "https://www.last.fm/music/Court+Yard+Hounds/Amelita",
+      "date": "2013-11-20",
+      "tracks": 11
+    },
+    {
+      "title": "Big Band Bossa Nova",
+      "artist": "Stan Getz",
+      "source": "https://www.last.fm/music/Stan+Getz/Big+Band+Bossa+Nova",
+      "date": "2013-11-20",
+      "tracks": 8
+    },
+    {
+      "title": "Old Sock",
+      "artist": "Eric Clapton",
+      "date": "2013-11-20",
+      "tracks": 12,
+      "source": "https://www.last.fm/music/Eric+Clapton/Old+Sock"
+    },
+    {
+      "title": "Random Access Memories",
+      "artist": "Daft Punk",
+      "source": "https://www.last.fm/music/Daft+Punk/Random+Access+Memories",
+      "date": "2013-11-20",
+      "tracks": 13
+    },
+    {
+      "title": "We Were Here",
+      "artist": "Turin Brakes",
+      "source": "https://www.last.fm/music/Turin+Brakes/We+Were+Here",
+      "date": "2013-11-20",
+      "tracks": 4
+    },
+    {
+      "title": "Abbey Road",
+      "artist": "The Beatles",
+      "date": "2013-11-21",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/The+Beatles/Abbey+Road"
+    },
+    {
+      "title": "Avril Lavigne",
+      "artist": "Avril Lavigne",
+      "source": "https://www.last.fm/music/Avril+Lavigne/Avril+Lavigne",
+      "date": "2013-11-21",
+      "tracks": 13
+    },
+    {
+      "title": "Fanfare",
+      "artist": "Jonathan Wilson",
+      "source": "https://www.last.fm/music/Jonathan+Wilson/Fanfare",
+      "date": "2013-11-21",
+      "tracks": 12
+    },
+    {
+      "title": "The Folk Sinner",
+      "artist": "Lee Harvey Osmond",
+      "source": "https://www.last.fm/music/Lee+Harvey+Osmond/The+Folk+Sinner",
+      "date": "2013-11-21",
+      "tracks": 10
+    },
+    {
+      "title": "Birth of the Cool",
+      "artist": "Miles Davis",
+      "source": "https://www.last.fm/music/Miles+Davis/Birth+of+the+Cool",
+      "date": "2013-11-26",
+      "tracks": 12
+    },
+    {
+      "title": "La géographie des rêves",
+      "artist": "Sophie Alour",
+      "source": "https://www.last.fm/music/Sophie+Alour/La+g%C3%A9ographie+des+r%C3%AAves",
+      "date": "2013-11-26",
+      "tracks": 11
+    },
+    {
+      "title": "Royal Albert Hall London May 2-3-5-6 2005",
+      "artist": "Cream",
+      "source": "https://www.last.fm/music/Cream/Royal+Albert+Hall+London+May+2-3-5-6+2005",
+      "date": "2013-11-26",
+      "tracks": 11
+    },
+    {
+      "title": "Royal Albert Hall: London May 2-3-5-6 2005",
+      "artist": "Cream",
+      "date": "2013-11-27",
+      "tracks": 8,
+      "source": "https://www.last.fm/music/Cream/Royal+Albert+Hall%3A+London+May+2-3-5-6+2005"
+    },
+    {
+      "title": "Be Here Soon",
+      "artist": "Jeff Bridges",
+      "source": "https://www.last.fm/music/Jeff+Bridges/Be+Here+Soon",
+      "date": "2013-11-28",
+      "tracks": 3
+    },
+    {
+      "title": "Blessed",
+      "artist": "Lucinda Williams",
+      "date": "2013-11-28",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/Lucinda+Williams/Blessed"
+    },
+    {
+      "title": "Get Lucky",
+      "artist": "Mark Knopfler",
+      "date": "2013-11-28",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/Mark+Knopfler/Get+Lucky"
+    },
+    {
+      "title": "Unknown Session",
+      "artist": "Duke Ellington",
+      "source": "https://www.last.fm/music/Duke+Ellington/Unknown+Session",
+      "date": "2013-11-28",
+      "tracks": 3
+    },
+    {
+      "title": "A Collection",
+      "artist": "The Be Good Tanyas",
+      "date": "2013-11-29",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/The+Be+Good+Tanyas/A+Collection"
+    },
+    {
+      "title": "Buddy And The Juniors",
+      "artist": "Buddy Guy / Junior Wells / Junior Mance",
+      "source": "https://www.last.fm/music/Buddy+Guy+%2F+Junior+Wells+%2F+Junior+Mance/Buddy+And+The+Juniors",
+      "date": "2013-11-30",
+      "tracks": 7
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

@@ -1,0 +1,51 @@
+{
+  "albums": [
+    {
+      "title": "One",
+      "artist": "Jef Neve",
+      "source": "https://www.last.fm/music/Jef+Neve/One",
+      "date": "2015-02-03",
+      "tracks": 9
+    },
+    {
+      "title": "Wallflower",
+      "artist": "Diana Krall",
+      "source": "https://www.last.fm/music/Diana+Krall/Wallflower",
+      "date": "2015-02-03",
+      "tracks": 11
+    },
+    {
+      "title": "Sleeping Storm",
+      "artist": "The April Maze",
+      "source": "https://www.last.fm/music/The+April+Maze/Sleeping+Storm",
+      "date": "2015-02-10",
+      "tracks": 8
+    },
+    {
+      "title": "Conception",
+      "artist": "Fabien Mary",
+      "source": "https://www.last.fm/music/Fabien+Mary/Conception",
+      "date": "2015-02-14",
+      "tracks": 4
+    },
+    {
+      "title": "What a Terrible World, What a Beautiful World",
+      "artist": "The Decemberists",
+      "source": "https://www.last.fm/music/The+Decemberists/What+a+Terrible+World%2C+What+a+Beautiful+World",
+      "date": "2015-02-20",
+      "tracks": 14
+    },
+    {
+      "title": "The Best",
+      "artist": "George Benson",
+      "source": "https://www.last.fm/music/George+Benson/The+Best",
+      "date": "2015-02-23",
+      "tracks": 7
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

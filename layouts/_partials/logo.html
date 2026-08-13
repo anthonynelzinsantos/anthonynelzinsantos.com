@@ -1,0 +1,4 @@
+{{- with resources.Get "logo.svg" -}}
+	{{- $svg := .Content -}}
+	{{- trim $svg " \n\r\t" | safeHTML -}}
+{{- end -}}

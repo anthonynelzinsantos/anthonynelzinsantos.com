@@ -1,0 +1,54 @@
+{
+  "albums": [],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2022-11-06",
+      "date": "2022-11-06",
+      "count": 3
+    },
+    {
+      "title": "contributions du 2022-11-13",
+      "date": "2022-11-13",
+      "count": 5
+    },
+    {
+      "title": "contributions du 2022-11-18",
+      "date": "2022-11-18",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2022-11-21",
+      "date": "2022-11-21",
+      "count": 6
+    },
+    {
+      "title": "contributions du 2022-11-22",
+      "date": "2022-11-22",
+      "count": 8
+    },
+    {
+      "title": "contributions du 2022-11-23",
+      "date": "2022-11-23",
+      "count": 5
+    },
+    {
+      "title": "contributions du 2022-11-25",
+      "date": "2022-11-25",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2022-11-26",
+      "date": "2022-11-26",
+      "count": 3
+    },
+    {
+      "title": "contributions du 2022-11-27",
+      "date": "2022-11-27",
+      "count": 4
+    }
+  ]
+}

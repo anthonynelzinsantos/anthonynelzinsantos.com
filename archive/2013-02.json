@@ -1,0 +1,30 @@
+{
+  "albums": [
+    {
+      "title": "Me and Mr. Johnson",
+      "artist": "Eric Clapton",
+      "source": "https://www.last.fm/music/Eric+Clapton/Me+and+Mr.+Johnson",
+      "date": "2013-02-19",
+      "tracks": 5
+    },
+    {
+      "title": "Sessions for Robert J",
+      "artist": "Eric Clapton",
+      "source": "https://www.last.fm/music/Eric+Clapton/Sessions+for+Robert+J",
+      "date": "2013-02-19",
+      "tracks": 11
+    },
+    {
+      "title": "Exile On Main Street [Deluxe Version] [Remastered]",
+      "artist": "The Rolling Stones",
+      "source": "https://www.last.fm/music/The+Rolling+Stones/Exile+On+Main+Street+%5BDeluxe+Version%5D+%5BRemastered%5D",
+      "date": "2013-02-20",
+      "tracks": 3
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

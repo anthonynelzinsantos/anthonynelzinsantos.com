@@ -1,0 +1,39 @@
+[albums]
+one = "album"
+other = "albums"
+
+[livres]
+one = "livre"
+other = "livres"
+
+[films]
+one = "film"
+other = "films"
+
+[contributions]
+one = "contribution"
+other = "contributions"
+
+[dispatches]
+one = "dispatch"
+other = "dispatches"
+
+[architypes]
+one = "architype"
+other = "architypes"
+
+[photos]
+one = "photo"
+other = "photos"
+
+[villes]
+one = "ville"
+other = "villes"
+
+[concerts]
+one = "concert"
+other = "concerts"
+
+[entries]
+one = "entrée"
+other = "entrées"

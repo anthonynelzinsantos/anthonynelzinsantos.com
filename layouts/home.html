@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+<section class="manifesto">
+	<h1 class="manifesto__line">Bonjour&#8239;! Je m’appelle {{ partial "logo.html" . }}&#8239;Anthony Nelzin-Santos. Je conçois des <b>dispositifs pédagogiques innovants</b> qui transforment les savoirs complexes en <b>apprentissages accessibles</b>.</h1>
+</section>
+
+{{ $expanded := .Site.GetPage "/maintenant" }}
+<nav class="index" aria-label="Sommaire">
+	{{ range .Site.Menus.main }}
+		{{ if ne .Page $expanded }}
+			<a class="entry" href="{{ .URL }}">
+				<span class="entry__title">{{ .Name }}</span>
+				<span class="entry__what">{{ .Page.Params.summary }}</span>
+				<span class="entry__arrow" aria-hidden="true">→</span>
+			</a>
+		{{ end }}
+	{{ end }}
+</nav>
+
+{{ with $expanded }}
+	{{ $latest := index (sort .Pages "Date" "desc") 0 }}
+	{{ with $latest }}
+		{{ partial "month-preview.html" (dict
+			"month" .
+			"section" $expanded
+			"linkURL" $expanded.RelPermalink
+			"linkText" "Les mois précédents") }}
+	{{ end }}
+{{ end }}
+
+{{ end }}

@@ -1,0 +1,34 @@
+{
+  "albums": [],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2018-04-01",
+      "date": "2018-04-01",
+      "count": 9
+    },
+    {
+      "title": "contributions du 2018-04-02",
+      "date": "2018-04-02",
+      "count": 8
+    },
+    {
+      "title": "contributions du 2018-04-03",
+      "date": "2018-04-03",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2018-04-17",
+      "date": "2018-04-17",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2018-04-22",
+      "date": "2018-04-22",
+      "count": 1
+    }
+  ]
+}

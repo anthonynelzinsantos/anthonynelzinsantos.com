@@ -1,0 +1,226 @@
+{
+  "albums": [
+    {
+      "title": "Live at Jamboree - Barcelona",
+      "artist": "Andrea Motis",
+      "source": "https://www.last.fm/music/Andrea+Motis/Live+at+Jamboree+-+Barcelona",
+      "date": "2016-08-01",
+      "tracks": 14
+    },
+    {
+      "title": "The Bobby Whitlock Story: Where There's a Will, There's a Way",
+      "artist": "Bobby Whitlock",
+      "source": "https://www.last.fm/music/Bobby+Whitlock/The+Bobby+Whitlock+Story%3A+Where+There's+a+Will%2C+There's+a+Way",
+      "date": "2016-08-01",
+      "tracks": 3
+    },
+    {
+      "title": "Blues and Ballads",
+      "artist": "Brad Mehldau Trio",
+      "date": "2016-08-02",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/Brad+Mehldau+Trio/Blues+and+Ballads"
+    },
+    {
+      "title": "Personal Favorites",
+      "artist": "Fred Hersch",
+      "source": "https://www.last.fm/music/Fred+Hersch/Personal+Favorites",
+      "date": "2016-08-02",
+      "tracks": 12
+    },
+    {
+      "title": "Blues and Ballads",
+      "artist": "Brad Mehldau Trio",
+      "date": "2016-08-03",
+      "tracks": 5,
+      "source": "https://www.last.fm/music/Brad+Mehldau+Trio/Blues+and+Ballads"
+    },
+    {
+      "title": "Can You Stand The Heat",
+      "artist": "Ana Popovic",
+      "source": "https://www.last.fm/music/Ana+Popovic/Can+You+Stand+The+Heat",
+      "date": "2016-08-03",
+      "tracks": 10
+    },
+    {
+      "title": "Hoodoo",
+      "artist": "Tony Joe White",
+      "source": "https://www.last.fm/music/Tony+Joe+White/Hoodoo",
+      "date": "2016-08-03",
+      "tracks": 9
+    },
+    {
+      "title": "Unplugged",
+      "artist": "Larry Carlton",
+      "date": "2016-08-03",
+      "tracks": 8,
+      "source": "https://www.last.fm/music/Larry+Carlton/Unplugged"
+    },
+    {
+      "title": "Blues and Ballads",
+      "artist": "Brad Mehldau Trio",
+      "date": "2016-08-04",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/Brad+Mehldau+Trio/Blues+and+Ballads"
+    },
+    {
+      "title": "I Still Do",
+      "artist": "Eric Clapton",
+      "date": "2016-08-04",
+      "tracks": 12,
+      "source": "https://www.last.fm/music/Eric+Clapton/I+Still+Do"
+    },
+    {
+      "title": "Unplugged",
+      "artist": "Larry Carlton",
+      "date": "2016-08-04",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/Larry+Carlton/Unplugged"
+    },
+    {
+      "title": "Yesterday I Had The Blues - The Music Of Billie Holiday",
+      "artist": "José James",
+      "source": "https://www.last.fm/music/Jos%C3%A9+James/Yesterday+I+Had+The+Blues+-+The+Music+Of+Billie+Holiday",
+      "date": "2016-08-04",
+      "tracks": 3
+    },
+    {
+      "title": "Good Stuff",
+      "artist": "Eric Bibb",
+      "source": "https://www.last.fm/music/Eric+Bibb/Good+Stuff",
+      "date": "2016-08-05",
+      "tracks": 15
+    },
+    {
+      "title": "Take Me To The Alley",
+      "artist": "Gregory Porter",
+      "source": "https://www.last.fm/music/Gregory+Porter/Take+Me+To+The+Alley",
+      "date": "2016-08-05",
+      "tracks": 12
+    },
+    {
+      "title": "The Folk Singer",
+      "artist": "Muddy Waters",
+      "date": "2016-08-05",
+      "tracks": 14,
+      "source": "https://www.last.fm/music/Muddy+Waters/The+Folk+Singer"
+    },
+    {
+      "title": "Blues and Ballads",
+      "artist": "Brad Mehldau Trio",
+      "date": "2016-08-06",
+      "tracks": 4,
+      "source": "https://www.last.fm/music/Brad+Mehldau+Trio/Blues+and+Ballads"
+    },
+    {
+      "title": "Blues and Ballads",
+      "artist": "Brad Mehldau Trio",
+      "date": "2016-08-11",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/Brad+Mehldau+Trio/Blues+and+Ballads"
+    },
+    {
+      "title": "Good Stuff",
+      "artist": "Eric Bibb",
+      "date": "2016-08-11",
+      "tracks": 15,
+      "source": "https://www.last.fm/music/Eric+Bibb/Good+Stuff"
+    },
+    {
+      "title": "Brothers in Bamako",
+      "artist": "HABIB KOITÉ/ERIC BIBB",
+      "source": "https://www.last.fm/music/HABIB+KOIT%C3%89%2FERIC+BIBB/Brothers+in+Bamako",
+      "date": "2016-08-20",
+      "tracks": 15
+    },
+    {
+      "title": "Blues and Ballads",
+      "artist": "Brad Mehldau Trio",
+      "date": "2016-08-21",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/Brad+Mehldau+Trio/Blues+and+Ballads"
+    },
+    {
+      "title": "Everybody Has A Plan Until They Get Punched In The Mouth",
+      "artist": "Charlie Hunter",
+      "source": "https://www.last.fm/music/Charlie+Hunter/Everybody+Has+A+Plan+Until+They+Get+Punched+In+The+Mouth",
+      "date": "2016-08-23",
+      "tracks": 10
+    },
+    {
+      "title": "The Young Man's Harp",
+      "artist": "Vieux Kante",
+      "source": "https://www.last.fm/music/Vieux+Kante/The+Young+Man's+Harp",
+      "date": "2016-08-23",
+      "tracks": 7
+    },
+    {
+      "title": "Dream in the Blue",
+      "artist": "Sara Gazarek",
+      "source": "https://www.last.fm/music/Sara+Gazarek/Dream+in+the+Blue",
+      "date": "2016-08-24",
+      "tracks": 12
+    },
+    {
+      "title": "Everybody Has A Plan Until They Get Punched In The Mouth",
+      "artist": "Charlie Hunter",
+      "date": "2016-08-24",
+      "tracks": 10,
+      "source": "https://www.last.fm/music/Charlie+Hunter/Everybody+Has+A+Plan+Until+They+Get+Punched+In+The+Mouth"
+    },
+    {
+      "title": "Steve Reich: Music for 18 Musicians",
+      "artist": "Steve Reich",
+      "source": "https://www.last.fm/music/Steve+Reich/Steve+Reich%3A+Music+for+18+Musicians",
+      "date": "2016-08-24",
+      "tracks": 6
+    },
+    {
+      "title": "Spotify Sessions",
+      "artist": "Ben Harper and The Innocent Criminals",
+      "source": "https://www.last.fm/music/Ben+Harper+and+The+Innocent+Criminals/Spotify+Sessions",
+      "date": "2016-08-25",
+      "tracks": 3
+    },
+    {
+      "title": "Steve Reich: Music for 18 Musicians",
+      "artist": "Steve Reich",
+      "source": "https://www.last.fm/music/Steve+Reich/Steve+Reich%3A+Music+for+18+Musicians",
+      "date": "2016-08-25",
+      "tracks": 8
+    },
+    {
+      "title": "Mo Roots",
+      "artist": "Pee Wee Ellis",
+      "source": "https://www.last.fm/music/Pee+Wee+Ellis/Mo+Roots",
+      "date": "2016-08-29",
+      "tracks": 9
+    },
+    {
+      "title": "Sharpener",
+      "artist": "Hackney Colliery Band",
+      "source": "https://www.last.fm/music/Hackney+Colliery+Band/Sharpener",
+      "date": "2016-08-30",
+      "tracks": 12
+    },
+    {
+      "title": "Tchaikovsky: Symphony Nos. 4 & 5",
+      "artist": "Pyotr Ilyich Tchaikovsky",
+      "source": "https://www.last.fm/music/Pyotr+Ilyich+Tchaikovsky/Tchaikovsky%3A+Symphony+Nos.+4+%26+5",
+      "date": "2016-08-30",
+      "tracks": 8
+    },
+    {
+      "title": "Everybody Has A Plan Until They Get Punched In The Mouth",
+      "artist": "Charlie Hunter",
+      "date": "2016-08-31",
+      "tracks": 8,
+      "source": "https://www.last.fm/music/Charlie+Hunter/Everybody+Has+A+Plan+Until+They+Get+Punched+In+The+Mouth"
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

@@ -1,0 +1,156 @@
+{
+  "albums": [
+    {
+      "title": "Tracker",
+      "artist": "Mark Knopfler",
+      "date": "2015-05-05",
+      "tracks": 13,
+      "source": "https://www.last.fm/music/Mark+Knopfler/Tracker"
+    },
+    {
+      "title": "Love for Chet",
+      "artist": "Stéphane Belmondo",
+      "source": "https://www.last.fm/music/St%C3%A9phane+Belmondo/Love+for+Chet",
+      "date": "2015-05-07",
+      "tracks": 10
+    },
+    {
+      "title": "Tracker",
+      "artist": "Mark Knopfler",
+      "source": "https://www.last.fm/music/Mark+Knopfler/Tracker",
+      "date": "2015-05-07",
+      "tracks": 8
+    },
+    {
+      "title": "Love for Chet",
+      "artist": "Stéphane Belmondo",
+      "source": "https://www.last.fm/music/St%C3%A9phane+Belmondo/Love+for+Chet",
+      "date": "2015-05-08",
+      "tracks": 4
+    },
+    {
+      "title": "Take This",
+      "artist": "Jacky Terrasson",
+      "source": "https://www.last.fm/music/Jacky+Terrasson/Take+This",
+      "date": "2015-05-08",
+      "tracks": 11
+    },
+    {
+      "title": "Take This",
+      "artist": "Jacky Terrasson",
+      "source": "https://www.last.fm/music/Jacky+Terrasson/Take+This",
+      "date": "2015-05-11",
+      "tracks": 11
+    },
+    {
+      "title": "Time",
+      "artist": "Big Daddy Wilson",
+      "source": "https://www.last.fm/music/Big+Daddy+Wilson/Time",
+      "date": "2015-05-11",
+      "tracks": 14
+    },
+    {
+      "title": "Older",
+      "artist": "Yael Naim",
+      "source": "https://www.last.fm/music/Yael+Naim/Older",
+      "date": "2015-05-12",
+      "tracks": 11
+    },
+    {
+      "title": "Creation (Live)",
+      "artist": "Keith Jarrett",
+      "source": "https://www.last.fm/music/Keith+Jarrett/Creation+(Live)",
+      "date": "2015-05-19",
+      "tracks": 9
+    },
+    {
+      "title": "Sound & Color",
+      "artist": "Alabama Shakes",
+      "date": "2015-05-19",
+      "tracks": 12,
+      "source": "https://www.last.fm/music/Alabama+Shakes/Sound+%26+Color"
+    },
+    {
+      "title": "Bashed Out",
+      "artist": "This Is the Kit",
+      "source": "https://www.last.fm/music/This+Is+the+Kit/Bashed+Out",
+      "date": "2015-05-20",
+      "tracks": 10
+    },
+    {
+      "title": "Blues people",
+      "artist": "Eric Bibb",
+      "source": "https://www.last.fm/music/Eric+Bibb/Blues+people",
+      "date": "2015-05-20",
+      "tracks": 14
+    },
+    {
+      "title": "One Kind Favor",
+      "artist": "B.B. King",
+      "source": "https://www.last.fm/music/B.B.+King/One+Kind+Favor",
+      "date": "2015-05-20",
+      "tracks": 12
+    },
+    {
+      "title": "Forever Man (CD1)",
+      "artist": "Eric Clapton",
+      "source": "https://www.last.fm/music/Eric+Clapton/Forever+Man+(CD1)",
+      "date": "2015-05-21",
+      "tracks": 3
+    },
+    {
+      "title": "Forever Man",
+      "artist": "Eric Clapton",
+      "source": "https://www.last.fm/music/Eric+Clapton/Forever+Man",
+      "date": "2015-05-22",
+      "tracks": 14
+    },
+    {
+      "title": "Samuel Barber, Bela Bartok, Keith Jarrett",
+      "artist": "Keith Jarrett",
+      "source": "https://www.last.fm/music/Keith+Jarrett/Samuel+Barber%2C+Bela+Bartok%2C+Keith+Jarrett",
+      "date": "2015-05-22",
+      "tracks": 7
+    },
+    {
+      "title": "The Forgettable Truth",
+      "artist": "Michael Feuerstack",
+      "source": "https://www.last.fm/music/Michael+Feuerstack/The+Forgettable+Truth",
+      "date": "2015-05-22",
+      "tracks": 12
+    },
+    {
+      "title": "Time",
+      "artist": "Big Daddy Wilson",
+      "source": "https://www.last.fm/music/Big+Daddy+Wilson/Time",
+      "date": "2015-05-24",
+      "tracks": 12
+    },
+    {
+      "title": "My Kind Of Blues",
+      "artist": "B. B. King",
+      "source": "https://www.last.fm/music/B.+B.+King/My+Kind+Of+Blues",
+      "date": "2015-05-29",
+      "tracks": 10
+    },
+    {
+      "title": "The Forgettable Truth",
+      "artist": "Michael Feuerstack",
+      "source": "https://www.last.fm/music/Michael+Feuerstack/The+Forgettable+Truth",
+      "date": "2015-05-29",
+      "tracks": 12
+    },
+    {
+      "title": "Blues people",
+      "artist": "Eric Bibb",
+      "source": "https://www.last.fm/music/Eric+Bibb/Blues+people",
+      "date": "2015-05-30",
+      "tracks": 10
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

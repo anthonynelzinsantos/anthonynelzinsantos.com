@@ -1,0 +1,100 @@
+{
+  "albums": [
+    {
+      "title": "It's Uptown",
+      "artist": "George Benson",
+      "source": "https://www.last.fm/music/George+Benson/It's+Uptown",
+      "date": "2014-11-11",
+      "tracks": 8
+    },
+    {
+      "title": "The Other Side Of Abbey Road",
+      "artist": "George Benson",
+      "source": "https://www.last.fm/music/George+Benson/The+Other+Side+Of+Abbey+Road",
+      "date": "2014-11-11",
+      "tracks": 3
+    },
+    {
+      "title": "1989",
+      "artist": "Taylor Swift",
+      "source": "https://www.last.fm/music/Taylor+Swift/1989",
+      "date": "2014-11-13",
+      "tracks": 3
+    },
+    {
+      "title": "It's Uptown",
+      "artist": "George Benson",
+      "source": "https://www.last.fm/music/George+Benson/It's+Uptown",
+      "date": "2014-11-13",
+      "tracks": 8
+    },
+    {
+      "title": "Giblet Gravy",
+      "artist": "George Benson",
+      "source": "https://www.last.fm/music/George+Benson/Giblet+Gravy",
+      "date": "2014-11-14",
+      "tracks": 3
+    },
+    {
+      "title": "My Favourite Faded Fantasy",
+      "artist": "Damien Rice",
+      "source": "https://www.last.fm/music/Damien+Rice/My+Favourite+Faded+Fantasy",
+      "date": "2014-11-17",
+      "tracks": 4
+    },
+    {
+      "title": "We Get Requests",
+      "artist": "The Oscar Peterson Trio",
+      "date": "2014-11-17",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/The+Oscar+Peterson+Trio/We+Get+Requests"
+    },
+    {
+      "title": "Concierto de Aranjuez",
+      "artist": "Paco de Lucia / Orquestra de Cadaqués",
+      "source": "https://www.last.fm/music/Paco+de+Lucia+%2F+Orquestra+de+Cadaqu%C3%A9s/Concierto+de+Aranjuez",
+      "date": "2014-11-19",
+      "tracks": 6
+    },
+    {
+      "title": "Let Them Talk",
+      "artist": "Hugh Laurie",
+      "source": "https://www.last.fm/music/Hugh+Laurie/Let+Them+Talk",
+      "date": "2014-11-19",
+      "tracks": 8
+    },
+    {
+      "title": "Live at Voce",
+      "artist": "Steve Gadd",
+      "date": "2014-11-19",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Steve+Gadd/Live+at+Voce"
+    },
+    {
+      "title": "The World Has Changed",
+      "artist": "Sarah Quintana",
+      "source": "https://www.last.fm/music/Sarah+Quintana/The+World+Has+Changed",
+      "date": "2014-11-19",
+      "tracks": 13
+    },
+    {
+      "title": "The Freewheelin' Bob Dylan [Mono]",
+      "artist": "Bob Dylan",
+      "source": "https://www.last.fm/music/Bob+Dylan/The+Freewheelin'+Bob+Dylan+%5BMono%5D",
+      "date": "2014-11-20",
+      "tracks": 10
+    },
+    {
+      "title": "Bluesbreakers with Eric Clapton",
+      "artist": "John Mayall & The Bluesbreakers",
+      "source": "https://www.last.fm/music/John+Mayall+%26+The+Bluesbreakers/Bluesbreakers+with+Eric+Clapton",
+      "date": "2014-11-21",
+      "tracks": 13
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

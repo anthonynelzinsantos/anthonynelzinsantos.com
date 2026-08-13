@@ -1,0 +1,423 @@
+{
+  "albums": [
+    {
+      "title": "Nighttime Creatures",
+      "artist": "The Angelica Sanchez Nonet",
+      "source": "https://www.last.fm/music/The+Angelica+Sanchez+Nonet/Nighttime+Creatures",
+      "date": "2024-06-03",
+      "tracks": 11
+    },
+    {
+      "title": "3Elements: Like Water",
+      "artist": "Jasper Høiby",
+      "source": "https://www.last.fm/music/Jasper+H%C3%B8iby/3Elements%3A+Like+Water",
+      "date": "2024-06-04",
+      "tracks": 22
+    },
+    {
+      "title": "Infinite Connections",
+      "artist": "Jihye Lee Orchestra",
+      "source": "https://www.last.fm/music/Jihye+Lee+Orchestra/Infinite+Connections",
+      "date": "2024-06-04",
+      "tracks": 9
+    },
+    {
+      "title": "Just Play the Blues",
+      "artist": "Wil Blades, Charlie Hunter & George Sluppick",
+      "source": "https://www.last.fm/music/Wil+Blades%2C+Charlie+Hunter+%26+George+Sluppick/Just+Play+the+Blues",
+      "date": "2024-06-04",
+      "tracks": 4
+    },
+    {
+      "title": "Time Again",
+      "artist": "Benjamin Koppel, Brian Blade & Anders Koppel",
+      "source": "https://www.last.fm/music/Benjamin+Koppel%2C+Brian+Blade+%26+Anders+Koppel/Time+Again",
+      "date": "2024-06-04",
+      "tracks": 8
+    },
+    {
+      "title": "You'll Hear It",
+      "artist": "George Colligan",
+      "source": "https://www.last.fm/music/George+Colligan/You'll+Hear+It",
+      "date": "2024-06-04",
+      "tracks": 10
+    },
+    {
+      "title": "3Elements: Like Water",
+      "artist": "Jasper Høiby",
+      "date": "2024-06-05",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/Jasper+H%C3%B8iby/3Elements%3A+Like+Water"
+    },
+    {
+      "title": "As Time Passes",
+      "artist": "Arild Andersen, Daniel Sommer & Rob Luft",
+      "source": "https://www.last.fm/music/Arild+Andersen%2C+Daniel+Sommer+%26+Rob+Luft/As+Time+Passes",
+      "date": "2024-06-05",
+      "tracks": 8
+    },
+    {
+      "title": "If Everything Is Written",
+      "artist": "Ludovic Louis",
+      "source": "https://www.last.fm/music/Ludovic+Louis/If+Everything+Is+Written",
+      "date": "2024-06-05",
+      "tracks": 12
+    },
+    {
+      "title": "Slow Water",
+      "artist": "Stephan Crump",
+      "source": "https://www.last.fm/music/Stephan+Crump/Slow+Water",
+      "date": "2024-06-05",
+      "tracks": 16
+    },
+    {
+      "title": "The Travelers (feat. Nduduzo Makhathini, Ayanda Sikade & Magne Thormodsæter)",
+      "artist": "Karl-Martin Almqvist",
+      "source": "https://www.last.fm/music/Karl-Martin+Almqvist/The+Travelers+(feat.+Nduduzo+Makhathini%2C+Ayanda+Sikade+%26+Magne+Thormods%C3%A6ter)",
+      "date": "2024-06-05",
+      "tracks": 8
+    },
+    {
+      "title": "3Elements: Like Water",
+      "artist": "Jasper Høiby",
+      "date": "2024-06-06",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/Jasper+H%C3%B8iby/3Elements%3A+Like+Water"
+    },
+    {
+      "title": "GIFTS (feat. Ian Chang, Rafiq Bhatia & James Brandon Lewis)",
+      "artist": "Dave Douglas",
+      "source": "https://www.last.fm/music/Dave+Douglas/GIFTS+(feat.+Ian+Chang%2C+Rafiq+Bhatia+%26+James+Brandon+Lewis)",
+      "date": "2024-06-06",
+      "tracks": 10
+    },
+    {
+      "title": "Mahler: Symphony No. 1 in D Major \"Titan\" (Hamburg-Weimar 1893-94 Version) [Live]",
+      "artist": "Les Siècles & François-Xavier Roth",
+      "source": "https://www.last.fm/music/Les+Si%C3%A8cles+%26+Fran%C3%A7ois-Xavier+Roth/Mahler%3A+Symphony+No.+1+in+D+Major+%22Titan%22+(Hamburg-Weimar+1893-94+Version)+%5BLive%5D",
+      "date": "2024-06-06",
+      "tracks": 5
+    },
+    {
+      "title": "Beyond This Place",
+      "artist": "Kenny Barron",
+      "source": "https://www.last.fm/music/Kenny+Barron/Beyond+This+Place",
+      "date": "2024-06-10",
+      "tracks": 9
+    },
+    {
+      "title": "Echoes Of The Inner Prophet",
+      "artist": "Melissa Aldana",
+      "source": "https://www.last.fm/music/Melissa+Aldana/Echoes+Of+The+Inner+Prophet",
+      "date": "2024-06-10",
+      "tracks": 8
+    },
+    {
+      "title": "Exuberance",
+      "artist": "Christopher Zuar Orchestra",
+      "source": "https://www.last.fm/music/Christopher+Zuar+Orchestra/Exuberance",
+      "date": "2024-06-10",
+      "tracks": 7
+    },
+    {
+      "title": "Green Lights (feat. John Patitucci, Paul Bollenback & Jimmy Macbride)",
+      "artist": "Troy Roberts",
+      "source": "https://www.last.fm/music/Troy+Roberts/Green+Lights+(feat.+John+Patitucci%2C+Paul+Bollenback+%26+Jimmy+Macbride)",
+      "date": "2024-06-10",
+      "tracks": 10
+    },
+    {
+      "title": "ALTESQUES",
+      "artist": "Jon Gordon, Baptiste Herbin, Géraldine Laurent & Pierrick Pedron",
+      "source": "https://www.last.fm/music/Jon+Gordon%2C+Baptiste+Herbin%2C+G%C3%A9raldine+Laurent+%26+Pierrick+Pedron/ALTESQUES",
+      "date": "2024-06-11",
+      "tracks": 9
+    },
+    {
+      "title": "My Prophet",
+      "artist": "Oded Tzur, Nitai Hershkovits, Petros Klampanis & Cyrano Almeida",
+      "source": "https://www.last.fm/music/Oded+Tzur%2C+Nitai+Hershkovits%2C+Petros+Klampanis+%26+Cyrano+Almeida/My+Prophet",
+      "date": "2024-06-11",
+      "tracks": 6
+    },
+    {
+      "title": "On The Inside",
+      "artist": "Gotts Street Park",
+      "source": "https://www.last.fm/music/Gotts+Street+Park/On+The+Inside",
+      "date": "2024-06-11",
+      "tracks": 5
+    },
+    {
+      "title": "POP DELIVERY",
+      "artist": "Wednesday Campanella",
+      "source": "https://www.last.fm/music/Wednesday+Campanella/POP+DELIVERY",
+      "date": "2024-06-11",
+      "tracks": 8
+    },
+    {
+      "title": "Strum (feat. Joe Brent, Sara Caswell & Andrew Ryan)",
+      "artist": "9 horses",
+      "source": "https://www.last.fm/music/9+horses/Strum+(feat.+Joe+Brent%2C+Sara+Caswell+%26+Andrew+Ryan)",
+      "date": "2024-06-11",
+      "tracks": 7
+    },
+    {
+      "title": "3Elements: Like Water",
+      "artist": "Jasper Høiby",
+      "source": "https://www.last.fm/music/Jasper+H%C3%B8iby/3Elements%3A+Like+Water",
+      "date": "2024-06-12",
+      "tracks": 11
+    },
+    {
+      "title": "As Time Passes",
+      "artist": "Arild Andersen, Daniel Sommer & Rob Luft",
+      "source": "https://www.last.fm/music/Arild+Andersen%2C+Daniel+Sommer+%26+Rob+Luft/As+Time+Passes",
+      "date": "2024-06-12",
+      "tracks": 7
+    },
+    {
+      "title": "You'll Hear It",
+      "artist": "George Colligan",
+      "source": "https://www.last.fm/music/George+Colligan/You'll+Hear+It",
+      "date": "2024-06-12",
+      "tracks": 10
+    },
+    {
+      "title": "Exuberance",
+      "artist": "Christopher Zuar Orchestra",
+      "source": "https://www.last.fm/music/Christopher+Zuar+Orchestra/Exuberance",
+      "date": "2024-06-13",
+      "tracks": 7
+    },
+    {
+      "title": "Love in the Time of Covid",
+      "artist": "Jesse Cook",
+      "source": "https://www.last.fm/music/Jesse+Cook/Love+in+the+Time+of+Covid",
+      "date": "2024-06-13",
+      "tracks": 6
+    },
+    {
+      "title": "The Travelers (feat. Nduduzo Makhathini, Ayanda Sikade & Magne Thormodsæter)",
+      "artist": "Karl-Martin Almqvist",
+      "source": "https://www.last.fm/music/Karl-Martin+Almqvist/The+Travelers+(feat.+Nduduzo+Makhathini%2C+Ayanda+Sikade+%26+Magne+Thormods%C3%A6ter)",
+      "date": "2024-06-13",
+      "tracks": 8
+    },
+    {
+      "title": "Time Again",
+      "artist": "Benjamin Koppel, Brian Blade & Anders Koppel",
+      "source": "https://www.last.fm/music/Benjamin+Koppel%2C+Brian+Blade+%26+Anders+Koppel/Time+Again",
+      "date": "2024-06-13",
+      "tracks": 8
+    },
+    {
+      "title": "At Home (An NPR Tiny Desk Concert) - EP",
+      "artist": "Svaneborg Kardyb",
+      "source": "https://www.last.fm/music/Svaneborg+Kardyb/At+Home+(An+NPR+Tiny+Desk+Concert)+-+EP",
+      "date": "2024-06-14",
+      "tracks": 4
+    },
+    {
+      "title": "Clementine",
+      "artist": "Julian Lee",
+      "source": "https://www.last.fm/music/Julian+Lee/Clementine",
+      "date": "2024-06-18",
+      "tracks": 6
+    },
+    {
+      "title": "Evergreen",
+      "artist": "Julius Rodriguez",
+      "source": "https://www.last.fm/music/Julius+Rodriguez/Evergreen",
+      "date": "2024-06-18",
+      "tracks": 10
+    },
+    {
+      "title": "Heritage/Evolution, Vol. 3",
+      "artist": "PRISM Quartet & Melissa Aldana",
+      "source": "https://www.last.fm/music/PRISM+Quartet+%26+Melissa+Aldana/Heritage%2FEvolution%2C+Vol.+3",
+      "date": "2024-06-18",
+      "tracks": 6
+    },
+    {
+      "title": "As Many, as One",
+      "artist": "Julien Knowles",
+      "source": "https://www.last.fm/music/Julien+Knowles/As+Many%2C+as+One",
+      "date": "2024-06-20",
+      "tracks": 12
+    },
+    {
+      "title": "Stream",
+      "artist": "Fergus McCreadie",
+      "source": "https://www.last.fm/music/Fergus+McCreadie/Stream",
+      "date": "2024-06-20",
+      "tracks": 9
+    },
+    {
+      "title": "Wind Dance",
+      "artist": "Alex Sipiagin & Big Band Radio România conducted by Simona Strungaru",
+      "source": "https://www.last.fm/music/Alex+Sipiagin+%26+Big+Band+Radio+Rom%C3%A2nia+conducted+by+Simona+Strungaru/Wind+Dance",
+      "date": "2024-06-20",
+      "tracks": 4
+    },
+    {
+      "title": "Freedom, Justice, and Hope (feat. Bryan Stevenson)",
+      "artist": "Jazz at Lincoln Center Orchestra & Wynton Marsalis",
+      "source": "https://www.last.fm/music/Jazz+at+Lincoln+Center+Orchestra+%26+Wynton+Marsalis/Freedom%2C+Justice%2C+and+Hope+(feat.+Bryan+Stevenson)",
+      "date": "2024-06-24",
+      "tracks": 14
+    },
+    {
+      "title": "Moving On",
+      "artist": "Jacky Terrasson",
+      "source": "https://www.last.fm/music/Jacky+Terrasson/Moving+On",
+      "date": "2024-06-24",
+      "tracks": 12
+    },
+    {
+      "title": "The Librarian",
+      "artist": "Sefi Zisling",
+      "source": "https://www.last.fm/music/Sefi+Zisling/The+Librarian",
+      "date": "2024-06-24",
+      "tracks": 6
+    },
+    {
+      "title": "Wind Dance",
+      "artist": "Alex Sipiagin & Big Band Radio România conducted by Simona Strungaru",
+      "source": "https://www.last.fm/music/Alex+Sipiagin+%26+Big+Band+Radio+Rom%C3%A2nia+conducted+by+Simona+Strungaru/Wind+Dance",
+      "date": "2024-06-24",
+      "tracks": 4
+    },
+    {
+      "title": "Archaisms II (feat. Sae Hashimoto, Russell Greenberg & Levy Lorenzo)",
+      "artist": "Tyshawn Sorey & Adam Rudolph",
+      "source": "https://www.last.fm/music/Tyshawn+Sorey+%26+Adam+Rudolph/Archaisms+II+(feat.+Sae+Hashimoto%2C+Russell+Greenberg+%26+Levy+Lorenzo)",
+      "date": "2024-06-25",
+      "tracks": 4
+    },
+    {
+      "title": "Double Standard - EP",
+      "artist": "Kristjan Randalu & Bodek Janke",
+      "source": "https://www.last.fm/music/Kristjan+Randalu+%26+Bodek+Janke/Double+Standard+-+EP",
+      "date": "2024-06-25",
+      "tracks": 5
+    },
+    {
+      "title": "New Regency Orchestra",
+      "artist": "New Regency Orchestra",
+      "source": "https://www.last.fm/music/New+Regency+Orchestra/New+Regency+Orchestra",
+      "date": "2024-06-25",
+      "tracks": 11
+    },
+    {
+      "title": "Nomad",
+      "artist": "Lars Bartkuhn",
+      "source": "https://www.last.fm/music/Lars+Bartkuhn/Nomad",
+      "date": "2024-06-25",
+      "tracks": 10
+    },
+    {
+      "title": "Tales Of The Facade",
+      "artist": "Morgan Guerin",
+      "source": "https://www.last.fm/music/Morgan+Guerin/Tales+Of+The+Facade",
+      "date": "2024-06-25",
+      "tracks": 11
+    },
+    {
+      "title": "Catpack (feat. Amber Navran, Jacob Mann & Phil Beaudreau)",
+      "artist": "Catpack",
+      "source": "https://www.last.fm/music/Catpack/Catpack+(feat.+Amber+Navran%2C+Jacob+Mann+%26+Phil+Beaudreau)",
+      "date": "2024-06-26",
+      "tracks": 10
+    },
+    {
+      "title": "Feeling Good (feat. Carlton Holmes & Danton Boller)",
+      "artist": "Alvin Queen Trio",
+      "source": "https://www.last.fm/music/Alvin+Queen+Trio/Feeling+Good+(feat.+Carlton+Holmes+%26+Danton+Boller)",
+      "date": "2024-06-26",
+      "tracks": 13
+    },
+    {
+      "title": "Good Trouble (feat. Jeff Lederer, Ben Allison, Tia Fuller & Dawn Clement)",
+      "artist": "Matt Wilson",
+      "source": "https://www.last.fm/music/Matt+Wilson/Good+Trouble+(feat.+Jeff+Lederer%2C+Ben+Allison%2C+Tia+Fuller+%26+Dawn+Clement)",
+      "date": "2024-06-26",
+      "tracks": 11
+    },
+    {
+      "title": "Sonic Creed, Vol. II: Life Signs",
+      "artist": "Stefon Harris",
+      "source": "https://www.last.fm/music/Stefon+Harris/Sonic+Creed%2C+Vol.+II%3A+Life+Signs",
+      "date": "2024-06-26",
+      "tracks": 6
+    },
+    {
+      "title": "Murgonzley",
+      "artist": "Mike Murley",
+      "source": "https://www.last.fm/music/Mike+Murley/Murgonzley",
+      "date": "2024-06-28",
+      "tracks": 7
+    },
+    {
+      "title": "Right Now!",
+      "artist": "Tardo Hammer",
+      "source": "https://www.last.fm/music/Tardo+Hammer/Right+Now!",
+      "date": "2024-06-28",
+      "tracks": 10
+    },
+    {
+      "title": "This Rock We're On: Imaginary Letters",
+      "artist": "Mike Holober & The Gotham Orchestra",
+      "source": "https://www.last.fm/music/Mike+Holober+%26+The+Gotham+Orchestra/This+Rock+We're+On%3A+Imaginary+Letters",
+      "date": "2024-06-28",
+      "tracks": 17
+    }
+  ],
+  "books": [],
+  "films": [
+    {
+      "title": "The Rat Catcher",
+      "year": 2023,
+      "rating": 5,
+      "source": "https://boxd.it/8BSanf",
+      "date": "2024-06-03",
+      "director": "Wes Anderson"
+    },
+    {
+      "title": "Inside Out 2",
+      "year": 2024,
+      "rating": 4,
+      "source": "https://boxd.it/8B4ab9",
+      "date": "2024-06-23",
+      "director": "Kelsey Mann"
+    }
+  ],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2024-06-01",
+      "date": "2024-06-01",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2024-06-02",
+      "date": "2024-06-02",
+      "count": 24
+    },
+    {
+      "title": "contributions du 2024-06-09",
+      "date": "2024-06-09",
+      "count": 25
+    },
+    {
+      "title": "contributions du 2024-06-10",
+      "date": "2024-06-10",
+      "count": 3
+    },
+    {
+      "title": "contributions du 2024-06-15",
+      "date": "2024-06-15",
+      "count": 1
+    }
+  ]
+}

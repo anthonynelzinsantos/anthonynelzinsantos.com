@@ -1,0 +1,93 @@
+{
+  "albums": [
+    {
+      "title": "On Time",
+      "artist": "Mingo Fishtrap",
+      "source": "https://www.last.fm/music/Mingo+Fishtrap/On+Time",
+      "date": "2017-01-03",
+      "tracks": 12
+    },
+    {
+      "title": "Blues On Bach",
+      "artist": "The Modern Jazz Quartet",
+      "source": "https://www.last.fm/music/The+Modern+Jazz+Quartet/Blues+On+Bach",
+      "date": "2017-01-04",
+      "tracks": 8
+    },
+    {
+      "title": "Slavic Souls",
+      "artist": "Dalindéo",
+      "source": "https://www.last.fm/music/Dalind%C3%A9o/Slavic+Souls",
+      "date": "2017-01-04",
+      "tracks": 4
+    },
+    {
+      "title": "Peace Trail",
+      "artist": "Neil Young",
+      "source": "https://www.last.fm/music/Neil+Young/Peace+Trail",
+      "date": "2017-01-05",
+      "tracks": 10
+    },
+    {
+      "title": "Blue & Lonesome",
+      "artist": "The Rolling Stones",
+      "source": "https://www.last.fm/music/The+Rolling+Stones/Blue+%26+Lonesome",
+      "date": "2017-01-12",
+      "tracks": 12
+    },
+    {
+      "title": "Rich Man",
+      "artist": "Doyle Bramhall II",
+      "source": "https://www.last.fm/music/Doyle+Bramhall+II/Rich+Man",
+      "date": "2017-01-13",
+      "tracks": 12
+    },
+    {
+      "title": "Dear Miles,",
+      "artist": "Ron Carter",
+      "source": "https://www.last.fm/music/Ron+Carter/Dear+Miles%2C",
+      "date": "2017-01-18",
+      "tracks": 10
+    },
+    {
+      "title": "Nathan East",
+      "artist": "Nathan East",
+      "source": "https://www.last.fm/music/Nathan+East/Nathan+East",
+      "date": "2017-01-18",
+      "tracks": 3
+    },
+    {
+      "title": "Dear Miles,",
+      "artist": "Ron Carter",
+      "source": "https://www.last.fm/music/Ron+Carter/Dear+Miles%2C",
+      "date": "2017-01-19",
+      "tracks": 10
+    },
+    {
+      "title": "Love for Sale - Live at The Rising Sun Celebrity Jazz Club",
+      "artist": "Chet Baker",
+      "source": "https://www.last.fm/music/Chet+Baker/Love+for+Sale+-+Live+at+The+Rising+Sun+Celebrity+Jazz+Club",
+      "date": "2017-01-19",
+      "tracks": 3
+    },
+    {
+      "title": "Love for Sale - Live at The Rising Sun Celebrity Jazz Club",
+      "artist": "Chet Baker",
+      "source": "https://www.last.fm/music/Chet+Baker/Love+for+Sale+-+Live+at+The+Rising+Sun+Celebrity+Jazz+Club",
+      "date": "2017-01-20",
+      "tracks": 4
+    },
+    {
+      "title": "Out Here",
+      "artist": "Christian McBride",
+      "source": "https://www.last.fm/music/Christian+McBride/Out+Here",
+      "date": "2017-01-20",
+      "tracks": 6
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

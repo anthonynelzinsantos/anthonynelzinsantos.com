@@ -1,0 +1,212 @@
+{
+  "albums": [
+    {
+      "title": "First Time! - The Count Meets The Duke",
+      "artist": "Duke Ellington / Count Basie",
+      "source": "https://www.last.fm/music/Duke+Ellington+%2F+Count+Basie/First+Time!+-+The+Count+Meets+The+Duke",
+      "date": "2014-07-01",
+      "tracks": 8
+    },
+    {
+      "title": "Solo Piano",
+      "artist": "Gonzales",
+      "source": "https://www.last.fm/music/Gonzales/Solo+Piano",
+      "date": "2014-07-01",
+      "tracks": 7
+    },
+    {
+      "title": "Disraeli Gears",
+      "artist": "Cream",
+      "source": "https://www.last.fm/music/Cream/Disraeli+Gears",
+      "date": "2014-07-02",
+      "tracks": 3
+    },
+    {
+      "title": "Solo Piano",
+      "artist": "Gonzales",
+      "date": "2014-07-02",
+      "tracks": 9,
+      "source": "https://www.last.fm/music/Gonzales/Solo+Piano"
+    },
+    {
+      "title": "Solo Piano II",
+      "artist": "Chilly Gonzales",
+      "source": "https://www.last.fm/music/Chilly+Gonzales/Solo+Piano+II",
+      "date": "2014-07-02",
+      "tracks": 6
+    },
+    {
+      "title": "Me and Mr. Johnson",
+      "artist": "Eric Clapton",
+      "source": "https://www.last.fm/music/Eric+Clapton/Me+and+Mr.+Johnson",
+      "date": "2014-07-04",
+      "tracks": 14
+    },
+    {
+      "title": "Jazz Impressions Of Japan",
+      "artist": "The Dave Brubeck Quartet",
+      "source": "https://www.last.fm/music/The+Dave+Brubeck+Quartet/Jazz+Impressions+Of+Japan",
+      "date": "2014-07-05",
+      "tracks": 8
+    },
+    {
+      "title": "Liquid Spirit",
+      "artist": "Gregory Porter",
+      "date": "2014-07-06",
+      "tracks": 12,
+      "source": "https://www.last.fm/music/Gregory+Porter/Liquid+Spirit"
+    },
+    {
+      "title": "Standard Time, Vol. 3: The Resolution of Romance",
+      "artist": "Wynton Marsalis",
+      "source": "https://www.last.fm/music/Wynton+Marsalis/Standard+Time%2C+Vol.+3%3A+The+Resolution+of+Romance",
+      "date": "2014-07-08",
+      "tracks": 10
+    },
+    {
+      "title": "Standard Time, Vol. 4: Marsalis Plays Monk",
+      "artist": "Wynton Marsalis",
+      "source": "https://www.last.fm/music/Wynton+Marsalis/Standard+Time%2C+Vol.+4%3A+Marsalis+Plays+Monk",
+      "date": "2014-07-09",
+      "tracks": 10
+    },
+    {
+      "title": "Old Sock",
+      "artist": "Eric Clapton",
+      "date": "2014-07-10",
+      "tracks": 12,
+      "source": "https://www.last.fm/music/Eric+Clapton/Old+Sock"
+    },
+    {
+      "title": "Refazenda",
+      "artist": "Gilberto Gil",
+      "source": "https://www.last.fm/music/Gilberto+Gil/Refazenda",
+      "date": "2014-07-11",
+      "tracks": 10
+    },
+    {
+      "title": "Blonde",
+      "artist": "Alizée",
+      "source": "https://www.last.fm/music/Aliz%C3%A9e/Blonde",
+      "date": "2014-07-17",
+      "tracks": 12
+    },
+    {
+      "title": "Ultraviolence",
+      "artist": "Lana Del Rey",
+      "source": "https://www.last.fm/music/Lana+Del+Rey/Ultraviolence",
+      "date": "2014-07-17",
+      "tracks": 15
+    },
+    {
+      "title": "Xscape",
+      "artist": "Michael Jackson",
+      "source": "https://www.last.fm/music/Michael+Jackson/Xscape",
+      "date": "2014-07-17",
+      "tracks": 6
+    },
+    {
+      "title": "Kiss Me Once",
+      "artist": "Kylie Minogue",
+      "source": "https://www.last.fm/music/Kylie+Minogue/Kiss+Me+Once",
+      "date": "2014-07-18",
+      "tracks": 11
+    },
+    {
+      "title": "Xscape",
+      "artist": "Michael Jackson",
+      "source": "https://www.last.fm/music/Michael+Jackson/Xscape",
+      "date": "2014-07-18",
+      "tracks": 10
+    },
+    {
+      "title": "Crosby, Stills & Nash",
+      "artist": "Crosby, Stills & Nash",
+      "source": "https://www.last.fm/music/Crosby%2C+Stills+%26+Nash/Crosby%2C+Stills+%26+Nash",
+      "date": "2014-07-19",
+      "tracks": 10
+    },
+    {
+      "title": "A.K.A.",
+      "artist": "Jennifer Lopez",
+      "source": "https://www.last.fm/music/Jennifer+Lopez/A.K.A.",
+      "date": "2014-07-22",
+      "tracks": 14
+    },
+    {
+      "title": "Crosby, Stills & Nash",
+      "artist": "Crosby, Stills & Nash",
+      "date": "2014-07-22",
+      "tracks": 9,
+      "source": "https://www.last.fm/music/Crosby%2C+Stills+%26+Nash/Crosby%2C+Stills+%26+Nash"
+    },
+    {
+      "title": "CSN",
+      "artist": "Crosby, Stills & Nash",
+      "source": "https://www.last.fm/music/Crosby%2C+Stills+%26+Nash/CSN",
+      "date": "2014-07-23",
+      "tracks": 12
+    },
+    {
+      "title": "Daylight Again",
+      "artist": "Crosby, Stills & Nash",
+      "source": "https://www.last.fm/music/Crosby%2C+Stills+%26+Nash/Daylight+Again",
+      "date": "2014-07-23",
+      "tracks": 8
+    },
+    {
+      "title": "Daylight Again",
+      "artist": "Crosby, Stills & Nash",
+      "source": "https://www.last.fm/music/Crosby%2C+Stills+%26+Nash/Daylight+Again",
+      "date": "2014-07-24",
+      "tracks": 11
+    },
+    {
+      "title": "Déjà Vu",
+      "artist": "Crosby, Stills, Nash & Young",
+      "source": "https://www.last.fm/music/Crosby%2C+Stills%2C+Nash+%26+Young/D%C3%A9j%C3%A0+Vu",
+      "date": "2014-07-24",
+      "tracks": 9
+    },
+    {
+      "title": "Lazaretto",
+      "artist": "Jack White",
+      "source": "https://www.last.fm/music/Jack+White/Lazaretto",
+      "date": "2014-07-24",
+      "tracks": 11
+    },
+    {
+      "title": "Déjà Vu Live",
+      "artist": "Crosby, Stills, Nash & Young",
+      "source": "https://www.last.fm/music/Crosby%2C+Stills%2C+Nash+%26+Young/D%C3%A9j%C3%A0+Vu+Live",
+      "date": "2014-07-25",
+      "tracks": 9
+    },
+    {
+      "title": "+",
+      "artist": "Ed Sheeran",
+      "source": "https://www.last.fm/music/Ed+Sheeran/%2B",
+      "date": "2014-07-31",
+      "tracks": 15
+    },
+    {
+      "title": "Eric Clapton & Friends - The Breeze - An Appreciation Of JJ Cale",
+      "artist": "Eric Clapton",
+      "source": "https://www.last.fm/music/Eric+Clapton/Eric+Clapton+%26+Friends+-+The+Breeze+-+An+Appreciation+Of+JJ+Cale",
+      "date": "2014-07-31",
+      "tracks": 15
+    },
+    {
+      "title": "x",
+      "artist": "Ed Sheeran",
+      "source": "https://www.last.fm/music/Ed+Sheeran/x",
+      "date": "2014-07-31",
+      "tracks": 11
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

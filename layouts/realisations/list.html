@@ -1,0 +1,19 @@
+{{ define "main" }}
+<article class="page">
+	{{ partial "masthead.html" . }}
+
+	<ol class="cases">
+		{{ range .Pages.ByWeight }}
+			<li class="case">
+				<a href="{{ .RelPermalink }}">
+					<span class="case__years">{{ .Params.years }}</span>
+					<span class="case__name">{{ .Title }}</span>
+					<span class="case__sub">{{ .Params.subtitle }}</span>
+					<span class="case__where">{{ .Params.context }}</span>
+					{{ if .Params.wip }}<span class="case__wip">chantier</span>{{ end }}
+				</a>
+			</li>
+		{{ end }}
+	</ol>
+</article>
+{{ end }}

@@ -1,0 +1,17 @@
+{{ $page := .page }}
+{{ $photos := $page.Resources.ByType "image" }}
+<div class="month__layout{{ if $photos }} month__layout--illustrated{{ end }}">
+	<div class="month__body">
+		{{ $lead := printf "En %s %v," $page.Params.monthName $page.Params.year }}
+		{{ if .heading }}
+			<h2 class="month__lead">{{ $lead }}</h2>
+		{{ else }}
+			<p class="month__lead">{{ $lead }}</p>
+		{{ end }}
+		{{ partial "enumeration.html" $page }}
+		{{ with .link }}
+			<p class="month__more"><a href="{{ .url }}">{{ .text }} <span aria-hidden="true">→</span></a></p>
+		{{ end }}
+	</div>
+	{{ partial "gallery.html" (dict "page" $page) }}
+</div>

@@ -1,0 +1,88 @@
+{
+  "albums": [],
+  "books": [],
+  "films": [
+    {
+      "title": "La Chose Politique – Acte 1",
+      "year": 2023,
+      "rating": 2,
+      "source": "https://boxd.it/8BRUeV",
+      "date": "2022-06-05",
+      "director": "Antonin Bachès"
+    }
+  ],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2022-06-01",
+      "date": "2022-06-01",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2022-06-03",
+      "date": "2022-06-03",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2022-06-04",
+      "date": "2022-06-04",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2022-06-05",
+      "date": "2022-06-05",
+      "count": 7
+    },
+    {
+      "title": "contributions du 2022-06-07",
+      "date": "2022-06-07",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2022-06-08",
+      "date": "2022-06-08",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2022-06-12",
+      "date": "2022-06-12",
+      "count": 4
+    },
+    {
+      "title": "contributions du 2022-06-15",
+      "date": "2022-06-15",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2022-06-18",
+      "date": "2022-06-18",
+      "count": 4
+    },
+    {
+      "title": "contributions du 2022-06-19",
+      "date": "2022-06-19",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2022-06-23",
+      "date": "2022-06-23",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2022-06-26",
+      "date": "2022-06-26",
+      "count": 3
+    },
+    {
+      "title": "contributions du 2022-06-27",
+      "date": "2022-06-27",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2022-06-28",
+      "date": "2022-06-28",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "albums": [
+    {
+      "title": "Chroma",
+      "artist": "Emma Rawicz",
+      "source": "https://www.last.fm/music/Emma+Rawicz/Chroma",
+      "date": "2023-11-01",
+      "tracks": 9
+    },
+    {
+      "title": "Christmas Wish",
+      "artist": "Gregory Porter",
+      "source": "https://www.last.fm/music/Gregory+Porter/Christmas+Wish",
+      "date": "2023-11-04",
+      "tracks": 12
+    },
+    {
+      "title": "4 Wheel Drive II (with Wolfgang Haffner)",
+      "artist": "Nils Landgren, Michael Wollny & Lars Danielsson",
+      "source": "https://www.last.fm/music/Nils+Landgren%2C+Michael+Wollny+%26+Lars+Danielsson/4+Wheel+Drive+II+(with+Wolfgang+Haffner)",
+      "date": "2023-11-06",
+      "tracks": 18
+    },
+    {
+      "title": "Biréli Lagrène plays Loulou Gasté",
+      "artist": "Biréli Lagrène",
+      "source": "https://www.last.fm/music/Bir%C3%A9li+Lagr%C3%A8ne/Bir%C3%A9li+Lagr%C3%A8ne+plays+Loulou+Gast%C3%A9",
+      "date": "2023-11-06",
+      "tracks": 12
+    },
+    {
+      "title": "Continuance",
+      "artist": "Joey Alexander",
+      "source": "https://www.last.fm/music/Joey+Alexander/Continuance",
+      "date": "2023-11-06",
+      "tracks": 7
+    },
+    {
+      "title": "Dance of the Elders",
+      "artist": "Wolfgang Muthspiel, Scott Colley & Brian Blade",
+      "source": "https://www.last.fm/music/Wolfgang+Muthspiel%2C+Scott+Colley+%26+Brian+Blade/Dance+of+the+Elders",
+      "date": "2023-11-06",
+      "tracks": 7
+    },
+    {
+      "title": "In December",
+      "artist": "Robert Glasper",
+      "source": "https://www.last.fm/music/Robert+Glasper/In+December",
+      "date": "2023-11-06",
+      "tracks": 13
+    },
+    {
+      "title": "Lados B (feat. Jeff Parker & Anna Butterss)",
+      "artist": "Daniel Villarreal",
+      "source": "https://www.last.fm/music/Daniel+Villarreal/Lados+B+(feat.+Jeff+Parker+%26+Anna+Butterss)",
+      "date": "2023-11-06",
+      "tracks": 9
+    },
+    {
+      "title": "Mahler's Breakdown",
+      "artist": "Jazzrausch Bigband",
+      "source": "https://www.last.fm/music/Jazzrausch+Bigband/Mahler's+Breakdown",
+      "date": "2023-11-06",
+      "tracks": 12
+    },
+    {
+      "title": "NOCHE",
+      "artist": "Sofiane Pamart",
+      "source": "https://www.last.fm/music/Sofiane+Pamart/NOCHE",
+      "date": "2023-11-06",
+      "tracks": 22
+    },
+    {
+      "title": "trying to think of nothing",
+      "artist": "Ólafur Arnalds",
+      "source": "https://www.last.fm/music/%C3%93lafur+Arnalds/trying+to+think+of+nothing",
+      "date": "2023-11-06",
+      "tracks": 7
+    },
+    {
+      "title": "Valleys and Mountains",
+      "artist": "Rymden",
+      "source": "https://www.last.fm/music/Rymden/Valleys+and+Mountains",
+      "date": "2023-11-06",
+      "tracks": 6
+    },
+    {
+      "title": "Valleys and Mountains (feat. John Scofield)",
+      "artist": "Rymden",
+      "source": "https://www.last.fm/music/Rymden/Valleys+and+Mountains+(feat.+John+Scofield)",
+      "date": "2023-11-06",
+      "tracks": 7
+    },
+    {
+      "title": "Rivers In Our Veins",
+      "artist": "Allison Miller",
+      "source": "https://www.last.fm/music/Allison+Miller/Rivers+In+Our+Veins",
+      "date": "2023-11-07",
+      "tracks": 20
+    },
+    {
+      "title": "Stev'in My Mind",
+      "artist": "Fabrice Martinez",
+      "source": "https://www.last.fm/music/Fabrice+Martinez/Stev'in+My+Mind",
+      "date": "2023-11-07",
+      "tracks": 20
+    },
+    {
+      "title": "11: 11",
+      "artist": "Goku",
+      "source": "https://www.last.fm/music/Goku/11%3A+11",
+      "date": "2023-11-08",
+      "tracks": 8
+    },
+    {
+      "title": "Heat Of The Moment",
+      "artist": "Mathis Picard",
+      "source": "https://www.last.fm/music/Mathis+Picard/Heat+Of+The+Moment",
+      "date": "2023-11-08",
+      "tracks": 10
+    },
+    {
+      "title": "An Ever Changing View",
+      "artist": "Matthew Halsall",
+      "source": "https://www.last.fm/music/Matthew+Halsall/An+Ever+Changing+View",
+      "date": "2023-11-09",
+      "tracks": 20
+    },
+    {
+      "title": "It's Ok, B U",
+      "artist": "Kiefer",
+      "source": "https://www.last.fm/music/Kiefer/It's+Ok%2C+B+U",
+      "date": "2023-11-09",
+      "tracks": 32
+    },
+    {
+      "title": "Our Roots Run Deep",
+      "artist": "Dominique Fils-Aimé",
+      "source": "https://www.last.fm/music/Dominique+Fils-Aim%C3%A9/Our+Roots+Run+Deep",
+      "date": "2023-11-09",
+      "tracks": 27
+    },
+    {
+      "title": "Stress Killer",
+      "artist": "Léon Phal",
+      "source": "https://www.last.fm/music/L%C3%A9on+Phal/Stress+Killer",
+      "date": "2023-11-09",
+      "tracks": 20
+    },
+    {
+      "title": "Trio Grande: Urban Myth",
+      "artist": "Will Vinson, Gilad Hekselman & Nate Wood",
+      "source": "https://www.last.fm/music/Will+Vinson%2C+Gilad+Hekselman+%26+Nate+Wood/Trio+Grande%3A+Urban+Myth",
+      "date": "2023-11-09",
+      "tracks": 18
+    },
+    {
+      "title": "All Melody",
+      "artist": "Nils Frahm",
+      "source": "https://www.last.fm/music/Nils+Frahm/All+Melody",
+      "date": "2023-11-10",
+      "tracks": 24
+    },
+    {
+      "title": "From a Story Now Lost",
+      "artist": "Anja Lauvdal",
+      "source": "https://www.last.fm/music/Anja+Lauvdal/From+a+Story+Now+Lost",
+      "date": "2023-11-10",
+      "tracks": 9
+    },
+    {
+      "title": "The Magic Hour",
+      "artist": "Wynton Marsalis",
+      "source": "https://www.last.fm/music/Wynton+Marsalis/The+Magic+Hour",
+      "date": "2023-11-10",
+      "tracks": 16
+    },
+    {
+      "title": "trying to think of nothing",
+      "artist": "Ólafur Arnalds",
+      "source": "https://www.last.fm/music/%C3%93lafur+Arnalds/trying+to+think+of+nothing",
+      "date": "2023-11-10",
+      "tracks": 14
+    },
+    {
+      "title": "Vintage (with Kenny Barron, Joe Martin & Johnathan Blake)",
+      "artist": "Jerome Sabbagh",
+      "source": "https://www.last.fm/music/Jerome+Sabbagh/Vintage+(with+Kenny+Barron%2C+Joe+Martin+%26+Johnathan+Blake)",
+      "date": "2023-11-10",
+      "tracks": 13
+    },
+    {
+      "title": "Diatom Ribbons (Live At The Village Vanguard) [feat. Terri Lyne Carrington, Julian Lage, Val",
+      "artist": "Kris Davis",
+      "date": "2023-11-11",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/Kris+Davis/Diatom+Ribbons+(Live+At+The+Village+Vanguard)+%5Bfeat.+Terri+Lyne+Carrington%2C+Julian+Lage%2C+Val"
+    },
+    {
+      "title": "Diatom Ribbons (Live At The Village Vanguard) [feat. Terri Lyne Carrington, Julian Lage, Val Jeanty & Trevor Dunn]",
+      "artist": "Kris Davis",
+      "source": "https://www.last.fm/music/Kris+Davis/Diatom+Ribbons+(Live+At+The+Village+Vanguard)+%5Bfeat.+Terri+Lyne+Carrington%2C+Julian+Lage%2C+Val+Jeanty+%26+Trevor+Dunn%5D",
+      "date": "2023-11-11"
+    },
+    {
+      "title": "Movement",
+      "artist": "Daniel Santiago & Pedro Martins",
+      "date": "2023-11-11",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/Daniel+Santiago+%26+Pedro+Martins/Movement"
+    },
+    {
+      "title": "Diatom Ribbons (Live At The Village Vanguard) [feat. Terri Lyne Carrington, Julian Lage, Val Jeanty & Trevor Dunn]",
+      "artist": "Kris Davis",
+      "source": "https://www.last.fm/music/Kris+Davis/Diatom+Ribbons+(Live+At+The+Village+Vanguard)+%5Bfeat.+Terri+Lyne+Carrington%2C+Julian+Lage%2C+Val+Jeanty+%26+Trevor+Dunn%5D",
+      "date": "2023-11-13",
+      "tracks": 11
+    },
+    {
+      "title": "Enigmatic Society",
+      "artist": "Dinner Party",
+      "source": "https://www.last.fm/music/Dinner+Party/Enigmatic+Society",
+      "date": "2023-11-13",
+      "tracks": 9
+    },
+    {
+      "title": "Over Tage (Deluxe Edition)",
+      "artist": "Svaneborg Kardyb",
+      "source": "https://www.last.fm/music/Svaneborg+Kardyb/Over+Tage+(Deluxe+Edition)",
+      "date": "2023-11-13",
+      "tracks": 14
+    },
+    {
+      "title": "A Charlie Brown Christmas (Original 1965 TV Soundtrack) [2022 Mix]",
+      "artist": "Vince Guaraldi Trio",
+      "source": "https://www.last.fm/music/Vince+Guaraldi+Trio/A+Charlie+Brown+Christmas+(Original+1965+TV+Soundtrack)+%5B2022+Mix%5D",
+      "date": "2023-11-14",
+      "tracks": 11
+    },
+    {
+      "title": "Arvo Pärt: Tractus",
+      "artist": "Estonian Philharmonic Chamber Choir, Tallinn Chamber Orchestra & Tõnu Kaljuste",
+      "source": "https://www.last.fm/music/Estonian+Philharmonic+Chamber+Choir%2C+Tallinn+Chamber+Orchestra+%26+T%C3%B5nu+Kaljuste/Arvo+P%C3%A4rt%3A+Tractus",
+      "date": "2023-11-14",
+      "tracks": 4
+    },
+    {
+      "title": "Arvo Pärt: Tractus",
+      "artist": "Tallinn Chamber Orchestra & Tõnu Kaljuste",
+      "source": "https://www.last.fm/music/Tallinn+Chamber+Orchestra+%26+T%C3%B5nu+Kaljuste/Arvo+P%C3%A4rt%3A+Tractus",
+      "date": "2023-11-14",
+      "tracks": 9
+    },
+    {
+      "title": "Palms",
+      "artist": "Robohands",
+      "source": "https://www.last.fm/music/Robohands/Palms",
+      "date": "2023-11-14",
+      "tracks": 17
+    },
+    {
+      "title": "Saint-Saëns: Requiem",
+      "artist": "Le Madrigal De Paris, Clémentine Decouture & John Eliot Gardiner",
+      "source": "https://www.last.fm/music/Le+Madrigal+De+Paris%2C+Cl%C3%A9mentine+Decouture+%26+John+Eliot+Gardiner/Saint-Sa%C3%ABns%3A+Requiem",
+      "date": "2023-11-14",
+      "tracks": 13
+    },
+    {
+      "title": "KARPEH",
+      "artist": "Cautious Clay & Joshua Karpeh",
+      "source": "https://www.last.fm/music/Cautious+Clay+%26+Joshua+Karpeh/KARPEH",
+      "date": "2023-11-15",
+      "tracks": 14
+    },
+    {
+      "title": "The Depths in Slow Motion",
+      "artist": "Kevin Sun",
+      "source": "https://www.last.fm/music/Kevin+Sun/The+Depths+in+Slow+Motion",
+      "date": "2023-11-15",
+      "tracks": 7
+    },
+    {
+      "title": "THIS",
+      "artist": "JD Allen",
+      "source": "https://www.last.fm/music/JD+Allen/THIS",
+      "date": "2023-11-15",
+      "tracks": 8
+    },
+    {
+      "title": "12 From 25",
+      "artist": "Myra Melford",
+      "source": "https://www.last.fm/music/Myra+Melford/12+From+25",
+      "date": "2023-11-16",
+      "tracks": 12
+    },
+    {
+      "title": "A Charlie Brown Thanksgiving (50th Anniversary Edition)",
+      "artist": "Vince Guaraldi Quintet",
+      "source": "https://www.last.fm/music/Vince+Guaraldi+Quintet/A+Charlie+Brown+Thanksgiving+(50th+Anniversary+Edition)",
+      "date": "2023-11-16",
+      "tracks": 35
+    },
+    {
+      "title": "Movement",
+      "artist": "Daniel Santiago & Pedro Martins",
+      "source": "https://www.last.fm/music/Daniel+Santiago+%26+Pedro+Martins/Movement",
+      "date": "2023-11-16",
+      "tracks": 16
+    },
+    {
+      "title": "No One Is Forgotten: An Immersive Opera",
+      "artist": "Eve Gigliotti, Amelia Workman, Jeffrey Zeigler, Kathleen Chalfant, Kearstin Piper Brown & Michelle Rofrano",
+      "source": "https://www.last.fm/music/Eve+Gigliotti%2C+Amelia+Workman%2C+Jeffrey+Zeigler%2C+Kathleen+Chalfant%2C+Kearstin+Piper+Brown+%26+Michelle+Rofrano/No+One+Is+Forgotten%3A+An+Immersive+Opera",
+      "date": "2023-11-16",
+      "tracks": 9
+    },
+    {
+      "title": "No One Is Forgotten: An Immersive Opera",
+      "artist": "Amelia Workman, Kathleen Chalfant, Jeffrey Zeigler & Michelle Rofrano",
+      "source": "https://www.last.fm/music/Amelia+Workman%2C+Kathleen+Chalfant%2C+Jeffrey+Zeigler+%26+Michelle+Rofrano/No+One+Is+Forgotten%3A+An+Immersive+Opera",
+      "date": "2023-11-16",
+      "tracks": 4
+    },
+    {
+      "title": "No One Is Forgotten: An Immersive Opera",
+      "artist": "Amelia Workman, Kathleen Chalfant & Michelle Rofrano",
+      "source": "https://www.last.fm/music/Amelia+Workman%2C+Kathleen+Chalfant+%26+Michelle+Rofrano/No+One+Is+Forgotten%3A+An+Immersive+Opera",
+      "date": "2023-11-16",
+      "tracks": 13
+    },
+    {
+      "title": "CLIFFS",
+      "artist": "James Brandon Lewis, Floy Krouchi Bass Holograms & Benjamin Sanz",
+      "source": "https://www.last.fm/music/James+Brandon+Lewis%2C+Floy+Krouchi+Bass+Holograms+%26+Benjamin+Sanz/CLIFFS",
+      "date": "2023-11-17",
+      "tracks": 6
+    },
+    {
+      "title": "Nekkuja",
+      "artist": "Marina Herlop",
+      "source": "https://www.last.fm/music/Marina+Herlop/Nekkuja",
+      "date": "2023-11-17",
+      "tracks": 14
+    },
+    {
+      "title": "Intertwined",
+      "artist": "Ella Zirina",
+      "source": "https://www.last.fm/music/Ella+Zirina/Intertwined",
+      "date": "2023-11-20",
+      "tracks": 19
+    },
+    {
+      "title": "Open House (feat. Ben Wendel, Marc Michel & Conor Chaplin)",
+      "artist": "Tom Ollendorff",
+      "source": "https://www.last.fm/music/Tom+Ollendorff/Open+House+(feat.+Ben+Wendel%2C+Marc+Michel+%26+Conor+Chaplin)",
+      "date": "2023-11-20",
+      "tracks": 17
+    },
+    {
+      "title": "Rituals",
+      "artist": "Kelly Jefferson",
+      "source": "https://www.last.fm/music/Kelly+Jefferson/Rituals",
+      "date": "2023-11-20",
+      "tracks": 17
+    },
+    {
+      "title": "Call On The Old Wise",
+      "artist": "Nitai Hershkovits",
+      "source": "https://www.last.fm/music/Nitai+Hershkovits/Call+On+The+Old+Wise",
+      "date": "2023-11-21",
+      "tracks": 35
+    },
+    {
+      "title": "Pathways",
+      "artist": "Jérémy Bruger & Mind Watcher",
+      "source": "https://www.last.fm/music/J%C3%A9r%C3%A9my+Bruger+%26+Mind+Watcher/Pathways",
+      "date": "2023-11-21",
+      "tracks": 19
+    },
+    {
+      "title": "Special Feelings",
+      "artist": "special Feelings",
+      "source": "https://www.last.fm/music/special+Feelings/Special+Feelings",
+      "date": "2023-11-21",
+      "tracks": 17
+    },
+    {
+      "title": "Homage",
+      "artist": "Michael Weiss",
+      "source": "https://www.last.fm/music/Michael+Weiss/Homage",
+      "date": "2023-11-22",
+      "tracks": 21
+    },
+    {
+      "title": "River of Light",
+      "artist": "Ancient Infinity Orchestra",
+      "source": "https://www.last.fm/music/Ancient+Infinity+Orchestra/River+of+Light",
+      "date": "2023-11-22",
+      "tracks": 19
+    },
+    {
+      "title": "The Changing Tides of Dreams",
+      "artist": "SHOLTO",
+      "source": "https://www.last.fm/music/SHOLTO/The+Changing+Tides+of+Dreams",
+      "date": "2023-11-22",
+      "tracks": 13
+    },
+    {
+      "title": "OCEAN - EP",
+      "artist": "Moses Yoofee Trio",
+      "source": "https://www.last.fm/music/Moses+Yoofee+Trio/OCEAN+-+EP",
+      "date": "2023-11-23",
+      "tracks": 9
+    },
+    {
+      "title": "The Trio 2 (2023 Remastered)",
+      "artist": "Cedar Walton",
+      "source": "https://www.last.fm/music/Cedar+Walton/The+Trio+2+(2023+Remastered)",
+      "date": "2023-11-23",
+      "tracks": 11
+    },
+    {
+      "title": "Christmas Songs - EP",
+      "artist": "Paolo Fresu",
+      "source": "https://www.last.fm/music/Paolo+Fresu/Christmas+Songs+-+EP",
+      "date": "2023-11-27",
+      "tracks": 6
+    },
+    {
+      "title": "Crisis & Opportunity, Vol.4 - Meditations",
+      "artist": "Myele Manzanza",
+      "source": "https://www.last.fm/music/Myele+Manzanza/Crisis+%26+Opportunity%2C+Vol.4+-+Meditations",
+      "date": "2023-11-27",
+      "tracks": 7
+    },
+    {
+      "title": "Studio pigalle (Volume 1)",
+      "artist": "Ishkero",
+      "source": "https://www.last.fm/music/Ishkero/Studio+pigalle+(Volume+1)",
+      "date": "2023-11-27",
+      "tracks": 3
+    },
+    {
+      "title": "Here Now",
+      "artist": "Søren Bebe Trio",
+      "source": "https://www.last.fm/music/S%C3%B8ren+Bebe+Trio/Here+Now",
+      "date": "2023-11-28",
+      "tracks": 19
+    },
+    {
+      "title": "NeoNomadic",
+      "artist": "Noam Wiesenberg",
+      "source": "https://www.last.fm/music/Noam+Wiesenberg/NeoNomadic",
+      "date": "2023-11-28",
+      "tracks": 13
+    },
+    {
+      "title": "Solo Game",
+      "artist": "Sullivan Fortner",
+      "source": "https://www.last.fm/music/Sullivan+Fortner/Solo+Game",
+      "date": "2023-11-28",
+      "tracks": 38
+    },
+    {
+      "title": "Bear Proof",
+      "artist": "Todd Sickafoose",
+      "source": "https://www.last.fm/music/Todd+Sickafoose/Bear+Proof",
+      "date": "2023-11-29",
+      "tracks": 16
+    },
+    {
+      "title": "Matt Wilson's Christmas Tree-O",
+      "artist": "Matt Wilson",
+      "source": "https://www.last.fm/music/Matt+Wilson/Matt+Wilson's+Christmas+Tree-O",
+      "date": "2023-11-29",
+      "tracks": 10
+    },
+    {
+      "title": "So It Goes...",
+      "artist": "Evan Parker & Barry Guy",
+      "source": "https://www.last.fm/music/Evan+Parker+%26+Barry+Guy/So+It+Goes...",
+      "date": "2023-11-29",
+      "tracks": 5
+    },
+    {
+      "title": "Candid",
+      "artist": "Polygonia & Popp",
+      "source": "https://www.last.fm/music/Polygonia+%26+Popp/Candid",
+      "date": "2023-11-30",
+      "tracks": 18
+    },
+    {
+      "title": "Echo Canyon",
+      "artist": "Art Hirahara",
+      "source": "https://www.last.fm/music/Art+Hirahara/Echo+Canyon",
+      "date": "2023-11-30",
+      "tracks": 17
+    },
+    {
+      "title": "Grand Company",
+      "artist": "Ray Gallon, Ron Carter & Lewis Nash",
+      "source": "https://www.last.fm/music/Ray+Gallon%2C+Ron+Carter+%26+Lewis+Nash/Grand+Company",
+      "date": "2023-11-30",
+      "tracks": 17
+    },
+    {
+      "title": "Trillium",
+      "artist": "Harold Danko",
+      "source": "https://www.last.fm/music/Harold+Danko/Trillium",
+      "date": "2023-11-30",
+      "tracks": 7
+    }
+  ],
+  "books": [],
+  "films": [
+    {
+      "title": "The Fabelmans",
+      "year": 2022,
+      "rating": 4,
+      "source": "https://boxd.it/8BRWYV",
+      "date": "2023-11-02",
+      "director": "Steven Spielberg"
+    }
+  ],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2023-11-01",
+      "date": "2023-11-01",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2023-11-02",
+      "date": "2023-11-02",
+      "count": 3
+    },
+    {
+      "title": "contributions du 2023-11-04",
+      "date": "2023-11-04",
+      "count": 4
+    },
+    {
+      "title": "contributions du 2023-11-05",
+      "date": "2023-11-05",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2023-11-07",
+      "date": "2023-11-07",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2023-11-08",
+      "date": "2023-11-08",
+      "count": 8
+    },
+    {
+      "title": "contributions du 2023-11-09",
+      "date": "2023-11-09",
+      "count": 4
+    },
+    {
+      "title": "contributions du 2023-11-10",
+      "date": "2023-11-10",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2023-11-12",
+      "date": "2023-11-12",
+      "count": 8
+    },
+    {
+      "title": "contributions du 2023-11-13",
+      "date": "2023-11-13",
+      "count": 4
+    },
+    {
+      "title": "contributions du 2023-11-16",
+      "date": "2023-11-16",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2023-11-19",
+      "date": "2023-11-19",
+      "count": 5
+    },
+    {
+      "title": "contributions du 2023-11-23",
+      "date": "2023-11-23",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2023-11-24",
+      "date": "2023-11-24",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2023-11-25",
+      "date": "2023-11-25",
+      "count": 3
+    },
+    {
+      "title": "contributions du 2023-11-26",
+      "date": "2023-11-26",
+      "count": 11
+    },
+    {
+      "title": "contributions du 2023-11-28",
+      "date": "2023-11-28",
+      "count": 2
+    }
+  ]
+}

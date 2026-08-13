@@ -1,0 +1,64 @@
+baseURL = "https://anthonynelzinsantos.com/"
+title = "Anthony Nelzin-Santos"
+locale = "fr-FR"
+defaultContentLanguage = "fr"
+timeZone = "Europe/Paris"
+enableEmoji = true
+
+[params]
+  tagline = "Ingénierie pédagogique · Formation · Documentation"
+  baseline = "Je conçois des dispositifs pédagogiques innovants qui transforment les savoirs complexes en apprentissages accessibles."
+
+  [[params.contacts]]
+    name = "E-mail"
+    url = "mailto:anthony@nelzin.fr"
+  [[params.contacts]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/anthonynelzinsantos/"
+  [[params.contacts]]
+    name = "Mastodon"
+    url = "https://mastodon.social/@anthonynelzinsantos"
+
+[[menus.main]]
+  name = "Ma mission"
+  pageRef = "/mission"
+  weight = 10
+
+[[menus.main]]
+  name = "Mon parcours"
+  pageRef = "/parcours"
+  weight = 20
+
+[[menus.main]]
+  name = "Mes réalisations"
+  pageRef = "/realisations"
+  weight = 30
+
+[[menus.main]]
+  name = "Mes projets"
+  pageRef = "/projets"
+  weight = 40
+
+[[menus.main]]
+  name = "Maintenant"
+  pageRef = "/maintenant"
+  weight = 50
+
+[permalinks]
+  [permalinks.page]
+    realisations = "/realisations/:slug/"
+    maintenant   = "/maintenant/:slug/"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.goldmark.extensions.typographer]
+  disable = false
+  leftDoubleQuote  = "«&nbsp;"
+  rightDoubleQuote = "&nbsp;»"
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[taxonomies]
+  # none: this is a portfolio, not an archive. a17s.com does the archiving.

@@ -1,0 +1,43 @@
+---
+title: "Aout 2026"
+slug: "2608"
+monthName: "aout"
+year: 2026
+date: "2026-08-01T12:00:00.000Z"
+month: "2026-08"
+tally: {"albums":20,"films":1,"contributions":16,"dispatches":2,"architypes":4,"villes":4}
+aliases: ["/maintenant/aout-2026/","/now/aout-2026/"]
+photos:
+  "2608-1.jpg": "Need money for yarn ."
+  "2608-2.jpg": "La bataille pour la lumière."
+  "2608-3.jpg": "5G protection."
+  "2608-4.jpg": "Les vélos sont rarement attachés à Anvers, et quand ils le sont, c’est seulement pour arrêter les gens honnêtes."
+  "2608-5.jpg": "La restauration de *L’adoration des mages* de Pierre Paul Rubens au KSMKA."
+  "2608-6.jpg": "Le plafond du dernier étage du KSMKA."
+  "2608-7.jpg": "« Baissez la tête en entrant. »"
+  "2608-8.jpg": "À l’église Saint-Charles Borromée."
+  "2608-9.jpg": "Quand soudain…"
+  "2608-10.jpg": "Au pied du MAS."
+  "2608-11.jpg": "En montant sur la plateforme d’observation du Red Star Line Museum."
+  "2608-12.jpg": "Dans le jardin du calvaire de l’église Saint-Paul."
+  "2608-13.jpg": "Le chœur de l’église Saint-Paul."
+  "2608-14.jpg": "À la gare centrale d’Anvers."
+  "2608-15.jpg": "Le mur d’iMac G3 à l’Apple Museum."
+  "2608-16.jpg": "Dans les rues d’Anvers."
+  "2608-17.jpg": "Une automotrice AM 35 de la SNCB à Train World."
+  "2608-18.jpg": "L’éclipse éclipsée ."
+---
+
+<!-- archive:début -->
+- [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Light of Day_ de Richard Spaven et dix-neuf autres albums
+- [j’ai vu](https://letterboxd.com/z1nz0l1n/) _Brand New Landscape_ de Yuiga Danzuka
+- j’ai fait seize contributions sur [GitHub](https://github.com/anthonynelzinsantos)
+- j’ai publié deux _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
+- j’ai publié quatre architypes sur [_Architypes_](https://archityp.es/)
+<!-- archive:fin -->
+- j’ai parcouru 1 925 km en train entre Anvers, Utrecht, Schaerbeek et Bruxelles
+- j’ai visité la [cathédrale Notre-Dame](https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame_d%27Anvers), les églises [Saint-Charles-Borromée](https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Charles-Borrom%C3%A9e_d%27Anvers) et [Saint-Paul](https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Paul_d%27Anvers), le [KMSKA](https://kmska.be/fr), le [MAS](https://mas.be/fr/content/bienvenue), le [MoMu](https://www.momu.be/), la [Nottebohmzaal](https://consciencebibliotheek.be/en/nottebohm-room) de la bibliothèque patrimoniale Hendrik Conscience et le [Red Star Line Museum](https://redstarline.be/fr/content/bienvenue) à Anvers
+- j’ai visité l’[Apple Museum](https://applemuseum.nl/) à Utrecht
+- j’ai visité [Train World](https://trainworld.be/fr/) à Schaerbeek
+- j’ai acheté beaucoup trop de papèterie chez [Wunderkammer Stadt Leest](https://www.wunderkammer.be/en) à Anvers et [Nias](https://www.les-papeteries.be/fr/) à Bruxelles
+- j’ai complété ma collection de machines à écrire avec une Olivetti PTP 820 et une Olivetti Lettera 35

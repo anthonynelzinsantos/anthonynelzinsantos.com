@@ -1,0 +1,593 @@
+{
+  "albums": [
+    {
+      "title": "Jazz At The Pawnshop [Audionautes Recordings]",
+      "artist": "Arne Domnérus, Bengt Hallberg, Georg Riedel, Egil Johansen & Lars Erstrand",
+      "date": "2025-05-04",
+      "tracks": 10,
+      "source": "https://www.last.fm/music/Arne+Domn%C3%A9rus%2C+Bengt+Hallberg%2C+Georg+Riedel%2C+Egil+Johansen+%26+Lars+Erstrand/Jazz+At+The+Pawnshop+%5BAudionautes+Recordings%5D"
+    },
+    {
+      "title": "Solo: Miniatures & Tales",
+      "artist": "Shai Maestro Trio",
+      "source": "https://www.last.fm/music/Shai+Maestro+Trio/Solo%3A+Miniatures+%26+Tales",
+      "date": "2025-05-05",
+      "tracks": 10
+    },
+    {
+      "title": "The Interstellar Music of Martin Glass",
+      "artist": "Martin Glass",
+      "source": "https://www.last.fm/music/Martin+Glass/The+Interstellar+Music+of+Martin+Glass",
+      "date": "2025-05-05",
+      "tracks": 12
+    },
+    {
+      "title": "Arcanum",
+      "artist": "Arve Henriksen",
+      "source": "https://www.last.fm/music/Arve+Henriksen/Arcanum",
+      "date": "2025-05-06",
+      "tracks": 16
+    },
+    {
+      "title": "Fiend",
+      "artist": "Enemy",
+      "source": "https://www.last.fm/music/Enemy/Fiend",
+      "date": "2025-05-06",
+      "tracks": 7
+    },
+    {
+      "title": "FILMSKA",
+      "artist": "The SKAMOTTS",
+      "source": "https://www.last.fm/music/The+SKAMOTTS/FILMSKA",
+      "date": "2025-05-06",
+      "tracks": 12
+    },
+    {
+      "title": "Loving You",
+      "artist": "Muito Kaballa",
+      "source": "https://www.last.fm/music/Muito+Kaballa/Loving+You",
+      "date": "2025-05-06",
+      "tracks": 5
+    },
+    {
+      "title": "Solo: Miniatures & Tales",
+      "artist": "Shai Maestro Trio",
+      "source": "https://www.last.fm/music/Shai+Maestro+Trio/Solo%3A+Miniatures+%26+Tales",
+      "date": "2025-05-06",
+      "tracks": 10
+    },
+    {
+      "title": "Love Warrior's Anthem",
+      "artist": "Kwashibu Area Band",
+      "source": "https://www.last.fm/music/Kwashibu+Area+Band/Love+Warrior's+Anthem",
+      "date": "2025-05-07",
+      "tracks": 7
+    },
+    {
+      "title": "Sierra Tracks",
+      "artist": "Vega Trails",
+      "source": "https://www.last.fm/music/Vega+Trails/Sierra+Tracks",
+      "date": "2025-05-07",
+      "tracks": 11
+    },
+    {
+      "title": "22",
+      "artist": "Jacques Schwarz-Bart",
+      "source": "https://www.last.fm/music/Jacques+Schwarz-Bart/22",
+      "date": "2025-05-12",
+      "tracks": 19
+    },
+    {
+      "title": "Baobab",
+      "artist": "BaoBab",
+      "source": "https://www.last.fm/music/BaoBab/Baobab",
+      "date": "2025-05-12",
+      "tracks": 6
+    },
+    {
+      "title": "Journey to Nabta Playa",
+      "artist": "Angel Bat Dawid",
+      "source": "https://www.last.fm/music/Angel+Bat+Dawid/Journey+to+Nabta+Playa",
+      "date": "2025-05-12",
+      "tracks": 10
+    },
+    {
+      "title": "Peace Portal",
+      "artist": "Khotin",
+      "source": "https://www.last.fm/music/Khotin/Peace+Portal",
+      "date": "2025-05-12",
+      "tracks": 6
+    },
+    {
+      "title": "Plexus Plexus",
+      "artist": "Web Web",
+      "source": "https://www.last.fm/music/Web+Web/Plexus+Plexus",
+      "date": "2025-05-12",
+      "tracks": 14
+    },
+    {
+      "title": "Dur de la feuille",
+      "artist": "Papillon social club",
+      "source": "https://www.last.fm/music/Papillon+social+club/Dur+de+la+feuille",
+      "date": "2025-05-13",
+      "tracks": 12
+    },
+    {
+      "title": "Sonor",
+      "artist": "Enji",
+      "source": "https://www.last.fm/music/Enji/Sonor",
+      "date": "2025-05-13",
+      "tracks": 22
+    },
+    {
+      "title": "22",
+      "artist": "Jacques Schwarz-Bart & Grégory Privat",
+      "source": "https://www.last.fm/music/Jacques+Schwarz-Bart+%26+Gr%C3%A9gory+Privat/22",
+      "date": "2025-05-14",
+      "tracks": 20
+    },
+    {
+      "title": "Night",
+      "artist": "Nils Frahm",
+      "source": "https://www.last.fm/music/Nils+Frahm/Night",
+      "date": "2025-05-14",
+      "tracks": 10
+    },
+    {
+      "title": "Reach",
+      "artist": "Kneebody",
+      "source": "https://www.last.fm/music/Kneebody/Reach",
+      "date": "2025-05-14",
+      "tracks": 9
+    },
+    {
+      "title": "Still Blooming",
+      "artist": "Jeff Goldblum & the Mildred Snitzer Orchestra",
+      "source": "https://www.last.fm/music/Jeff+Goldblum+%26+the+Mildred+Snitzer+Orchestra/Still+Blooming",
+      "date": "2025-05-16",
+      "tracks": 9
+    },
+    {
+      "title": "dancing with embers",
+      "artist": "Matt Carmichael",
+      "source": "https://www.last.fm/music/Matt+Carmichael/dancing+with+embers",
+      "date": "2025-05-17",
+      "tracks": 12
+    },
+    {
+      "title": "Fantôme",
+      "artist": "Sasha Berliner",
+      "source": "https://www.last.fm/music/Sasha+Berliner/Fant%C3%B4me",
+      "date": "2025-05-17",
+      "tracks": 6
+    },
+    {
+      "title": "Heard Noises",
+      "artist": "Matt Berry",
+      "source": "https://www.last.fm/music/Matt+Berry/Heard+Noises",
+      "date": "2025-05-17",
+      "tracks": 13
+    },
+    {
+      "title": "Taiko Stories",
+      "artist": "Tian Bo",
+      "source": "https://www.last.fm/music/Tian+Bo/Taiko+Stories",
+      "date": "2025-05-17",
+      "tracks": 5
+    },
+    {
+      "title": "Taiko Stories",
+      "artist": "Tian Bo",
+      "source": "https://www.last.fm/music/Tian+Bo/Taiko+Stories",
+      "date": "2025-05-18",
+      "tracks": 9
+    },
+    {
+      "title": "Arabian Camel Ride - EP",
+      "artist": "Gilad Hekselman, Jonathan Pinson, Clemens Orth & Clemens Orth Trio",
+      "source": "https://www.last.fm/music/Gilad+Hekselman%2C+Jonathan+Pinson%2C+Clemens+Orth+%26+Clemens+Orth+Trio/Arabian+Camel+Ride+-+EP",
+      "date": "2025-05-19",
+      "tracks": 5
+    },
+    {
+      "title": "For The Love Of It All",
+      "artist": "Brandon Woody",
+      "source": "https://www.last.fm/music/Brandon+Woody/For+The+Love+Of+It+All",
+      "date": "2025-05-19",
+      "tracks": 6
+    },
+    {
+      "title": "REQUESTS",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "date": "2025-05-19",
+      "tracks": 13,
+      "source": "https://www.last.fm/music/Tsuyoshi+Yamamoto+Trio/REQUESTS"
+    },
+    {
+      "title": "Add a Zero (feat. Eden Bareket & Steven Crammer)",
+      "artist": "Chris McCarthy, Takuya Kuroda & Sam Minaie",
+      "source": "https://www.last.fm/music/Chris+McCarthy%2C+Takuya+Kuroda+%26+Sam+Minaie/Add+a+Zero+(feat.+Eden+Bareket+%26+Steven+Crammer)",
+      "date": "2025-05-20",
+      "tracks": 8
+    },
+    {
+      "title": "EVERYDAY",
+      "artist": "Takuya Kuroda",
+      "source": "https://www.last.fm/music/Takuya+Kuroda/EVERYDAY",
+      "date": "2025-05-20",
+      "tracks": 9
+    },
+    {
+      "title": "Steep Steps",
+      "artist": "Carl Winther, Jeff 'tain' Watts & Richard Andersson",
+      "source": "https://www.last.fm/music/Carl+Winther%2C+Jeff+'tain'+Watts+%26+Richard+Andersson/Steep+Steps",
+      "date": "2025-05-20",
+      "tracks": 5
+    },
+    {
+      "title": "The New Breed (IA11 Edition)",
+      "artist": "Jeff Parker",
+      "source": "https://www.last.fm/music/Jeff+Parker/The+New+Breed+(IA11+Edition)",
+      "date": "2025-05-20",
+      "tracks": 10
+    },
+    {
+      "title": "Keep on Going - EP",
+      "artist": "Poppy Daniels",
+      "source": "https://www.last.fm/music/Poppy+Daniels/Keep+on+Going+-+EP",
+      "date": "2025-05-21",
+      "tracks": 6
+    },
+    {
+      "title": "Ledley",
+      "artist": "Ledley",
+      "source": "https://www.last.fm/music/Ledley/Ledley",
+      "date": "2025-05-21",
+      "tracks": 11
+    },
+    {
+      "title": "All The Quiet (Part I)",
+      "artist": "Joe Armon-Jones",
+      "source": "https://www.last.fm/music/Joe+Armon-Jones/All+The+Quiet+(Part+I)",
+      "date": "2025-05-22",
+      "tracks": 10
+    },
+    {
+      "title": "Channels",
+      "artist": "Kassian",
+      "source": "https://www.last.fm/music/Kassian/Channels",
+      "date": "2025-05-22",
+      "tracks": 11
+    },
+    {
+      "title": "Mirror Image",
+      "artist": "Tal Yahalom",
+      "source": "https://www.last.fm/music/Tal+Yahalom/Mirror+Image",
+      "date": "2025-05-22",
+      "tracks": 9
+    },
+    {
+      "title": "Reiya The P.A.V.E.",
+      "artist": "Reiya Terakubo",
+      "source": "https://www.last.fm/music/Reiya+Terakubo/Reiya+The+P.A.V.E.",
+      "date": "2025-05-22",
+      "tracks": 8
+    },
+    {
+      "title": "See You (feat. Marcello Di Leonardo & Joe Rehmer) - Single",
+      "artist": "Battista Lena",
+      "source": "https://www.last.fm/music/Battista+Lena/See+You+(feat.+Marcello+Di+Leonardo+%26+Joe+Rehmer)+-+Single",
+      "date": "2025-05-22",
+      "tracks": 3
+    },
+    {
+      "title": "Tonky",
+      "artist": "Lonnie Holley",
+      "source": "https://www.last.fm/music/Lonnie+Holley/Tonky",
+      "date": "2025-05-22",
+      "tracks": 14
+    },
+    {
+      "title": "Butter",
+      "artist": "Cherise",
+      "source": "https://www.last.fm/music/Cherise/Butter",
+      "date": "2025-05-23",
+      "tracks": 8
+    },
+    {
+      "title": "Trio Grande",
+      "artist": "Will Vinson, Gilad Hekselman & Antonio Sánchez",
+      "source": "https://www.last.fm/music/Will+Vinson%2C+Gilad+Hekselman+%26+Antonio+S%C3%A1nchez/Trio+Grande",
+      "date": "2025-05-23",
+      "tracks": 8
+    },
+    {
+      "title": "Reiya The P.A.V.E.",
+      "artist": "Reiya Terakubo",
+      "source": "https://www.last.fm/music/Reiya+Terakubo/Reiya+The+P.A.V.E.",
+      "date": "2025-05-25",
+      "tracks": 8
+    },
+    {
+      "title": "See You (feat. Marcello Di Leonardo & Joe Rehmer) - Single",
+      "artist": "Battista Lena",
+      "source": "https://www.last.fm/music/Battista+Lena/See+You+(feat.+Marcello+Di+Leonardo+%26+Joe+Rehmer)+-+Single",
+      "date": "2025-05-25",
+      "tracks": 3
+    },
+    {
+      "title": "Here Be Dragons",
+      "artist": "The Kilimanjaro Darkjazz Ensemble",
+      "source": "https://www.last.fm/music/The+Kilimanjaro+Darkjazz+Ensemble/Here+Be+Dragons",
+      "date": "2025-05-26",
+      "tracks": 9
+    },
+    {
+      "title": "The Offense of the Drum",
+      "artist": "Arturo O'Farrill & The Afro Latin Jazz Orchestra",
+      "source": "https://www.last.fm/music/Arturo+O'Farrill+%26+The+Afro+Latin+Jazz+Orchestra/The+Offense+of+the+Drum",
+      "date": "2025-05-26",
+      "tracks": 10
+    },
+    {
+      "title": "Hyldon JID023",
+      "artist": "Hyldon & Adrian Younge",
+      "source": "https://www.last.fm/music/Hyldon+%26+Adrian+Younge/Hyldon+JID023",
+      "date": "2025-05-27",
+      "tracks": 8
+    },
+    {
+      "title": "Kebab Discothèque",
+      "artist": "Souleance",
+      "source": "https://www.last.fm/music/Souleance/Kebab+Discoth%C3%A8que",
+      "date": "2025-05-27",
+      "tracks": 7
+    },
+    {
+      "title": "Let It Bleed (Remastered 2019)",
+      "artist": "The Rolling Stones",
+      "source": "https://www.last.fm/music/The+Rolling+Stones/Let+It+Bleed+(Remastered+2019)",
+      "date": "2025-05-27",
+      "tracks": 10
+    },
+    {
+      "title": "Plunderphonia",
+      "artist": "Kansas Smitty’s",
+      "source": "https://www.last.fm/music/Kansas+Smitty%E2%80%99s/Plunderphonia",
+      "date": "2025-05-27",
+      "tracks": 9
+    },
+    {
+      "title": "Requiem",
+      "artist": "Wolfgang Amadeus Mozart",
+      "source": "https://www.last.fm/music/Wolfgang+Amadeus+Mozart/Requiem",
+      "date": "2025-05-27",
+      "tracks": 12
+    },
+    {
+      "title": "Road Songs",
+      "artist": "Michael Valeanu, Julian Smith & Rodrigo Recabarren",
+      "source": "https://www.last.fm/music/Michael+Valeanu%2C+Julian+Smith+%26+Rodrigo+Recabarren/Road+Songs",
+      "date": "2025-05-27",
+      "tracks": 6
+    },
+    {
+      "title": "Who We Are, Becoming",
+      "artist": "Rebecca Vasmant",
+      "source": "https://www.last.fm/music/Rebecca+Vasmant/Who+We+Are%2C+Becoming",
+      "date": "2025-05-27",
+      "tracks": 7
+    },
+    {
+      "title": "Band on the Run",
+      "artist": "Paul McCartney & Wings",
+      "source": "https://www.last.fm/music/Paul+McCartney+%26+Wings/Band+on+the+Run",
+      "date": "2025-05-28",
+      "tracks": 18
+    },
+    {
+      "title": "Beethoven: Symphonies Nos. 1-9",
+      "artist": "London Symphony Orchestra/Bernard Haitink",
+      "source": "https://www.last.fm/music/London+Symphony+Orchestra%2FBernard+Haitink/Beethoven%3A+Symphonies+Nos.+1-9",
+      "date": "2025-05-28",
+      "tracks": 18
+    },
+    {
+      "title": "Brothers in Arms",
+      "artist": "Dire Straits",
+      "date": "2025-05-28",
+      "tracks": 9,
+      "source": "https://www.last.fm/music/Dire+Straits/Brothers+in+Arms"
+    },
+    {
+      "title": "Porgy",
+      "artist": "Tony Overwater & Atzko Kohashi",
+      "source": "https://www.last.fm/music/Tony+Overwater+%26+Atzko+Kohashi/Porgy",
+      "date": "2025-05-28",
+      "tracks": 8
+    },
+    {
+      "title": "See You",
+      "artist": "Battista Lena",
+      "source": "https://www.last.fm/music/Battista+Lena/See+You",
+      "date": "2025-05-28",
+      "tracks": 3
+    },
+    {
+      "title": "SuperBass 2",
+      "artist": "Ray Brown & John Clayton & Christian McBride",
+      "source": "https://www.last.fm/music/Ray+Brown+%26+John+Clayton+%26+Christian+McBride/SuperBass+2",
+      "date": "2025-05-28",
+      "tracks": 12
+    },
+    {
+      "title": "Trio [+]",
+      "artist": "FRED NARDIN TRIO",
+      "source": "https://www.last.fm/music/FRED+NARDIN+TRIO/Trio+%5B%2B%5D",
+      "date": "2025-05-28",
+      "tracks": 13
+    },
+    {
+      "title": "Arabian Camel Ride",
+      "artist": "Gilad Hekselman",
+      "source": "https://www.last.fm/music/Gilad+Hekselman/Arabian+Camel+Ride",
+      "date": "2025-05-29",
+      "tracks": 5
+    },
+    {
+      "title": "Casiopea",
+      "artist": "Casiopea",
+      "source": "https://www.last.fm/music/Casiopea/Casiopea",
+      "date": "2025-05-29",
+      "tracks": 9
+    },
+    {
+      "title": "Day 1",
+      "artist": "Makoto Ozone & No Name Horses",
+      "source": "https://www.last.fm/music/Makoto+Ozone+%26+No+Name+Horses/Day+1",
+      "date": "2025-05-29",
+      "tracks": 9
+    },
+    {
+      "title": "Fantôme",
+      "artist": "Sasha Berliner",
+      "source": "https://www.last.fm/music/Sasha+Berliner/Fant%C3%B4me",
+      "date": "2025-05-29",
+      "tracks": 6
+    },
+    {
+      "title": "Live at the Village Vanguard",
+      "artist": "Christian McBride",
+      "source": "https://www.last.fm/music/Christian+McBride/Live+at+the+Village+Vanguard",
+      "date": "2025-05-29",
+      "tracks": 3
+    },
+    {
+      "title": "Live at the Village Vanguard",
+      "artist": "Christian McBride & Inside Straight",
+      "source": "https://www.last.fm/music/Christian+McBride+%26+Inside+Straight/Live+at+the+Village+Vanguard",
+      "date": "2025-05-29",
+      "tracks": 4
+    },
+    {
+      "title": "See You",
+      "artist": "Battista Lena",
+      "date": "2025-05-29",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/Battista+Lena/See+You"
+    },
+    {
+      "title": "Your Mother Should Know: Brad Mehldau Plays The Beatles",
+      "artist": "Brad Mehldau",
+      "source": "https://www.last.fm/music/Brad+Mehldau/Your+Mother+Should+Know%3A+Brad+Mehldau+Plays+The+Beatles",
+      "date": "2025-05-29",
+      "tracks": 11
+    },
+    {
+      "title": "Instant Holograms On Metal Film",
+      "artist": "Stereolab",
+      "source": "https://www.last.fm/music/Stereolab/Instant+Holograms+On+Metal+Film",
+      "date": "2025-05-30",
+      "tracks": 12
+    },
+    {
+      "title": "Riding With the King",
+      "artist": "Eric Clapton",
+      "date": "2025-05-30",
+      "tracks": 12,
+      "source": "https://www.last.fm/music/Eric+Clapton/Riding+With+the+King"
+    },
+    {
+      "title": "Venus And Mars",
+      "artist": "Wings",
+      "source": "https://www.last.fm/music/Wings/Venus+And+Mars",
+      "date": "2025-05-30",
+      "tracks": 27
+    },
+    {
+      "title": "Abbey Road",
+      "artist": "The Beatles",
+      "source": "https://www.last.fm/music/The+Beatles/Abbey+Road",
+      "date": "2025-05-31",
+      "tracks": 16
+    },
+    {
+      "title": "Abuc",
+      "artist": "Roberto Fonseca",
+      "source": "https://www.last.fm/music/Roberto+Fonseca/Abuc",
+      "date": "2025-05-31",
+      "tracks": 14
+    },
+    {
+      "title": "Ascenseur Pour L'échafaud",
+      "artist": "Miles Davis",
+      "source": "https://www.last.fm/music/Miles+Davis/Ascenseur+Pour+L'%C3%A9chafaud",
+      "date": "2025-05-31",
+      "tracks": 27
+    },
+    {
+      "title": "But Who's Gonna Play the Melody?",
+      "artist": "Christian McBride & Edgar Meyer",
+      "source": "https://www.last.fm/music/Christian+McBride+%26+Edgar+Meyer/But+Who's+Gonna+Play+the+Melody%3F",
+      "date": "2025-05-31",
+      "tracks": 15
+    },
+    {
+      "title": "FILMSKA",
+      "artist": "The SKAMOTTS",
+      "source": "https://www.last.fm/music/The+SKAMOTTS/FILMSKA",
+      "date": "2025-05-31",
+      "tracks": 12
+    },
+    {
+      "title": "Wish You Were Here",
+      "artist": "Pink Floyd",
+      "date": "2025-05-31",
+      "tracks": 5,
+      "source": "https://www.last.fm/music/Pink+Floyd/Wish+You+Were+Here"
+    }
+  ],
+  "books": [
+    {
+      "title": "Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism",
+      "author": "Sarah Wynn-Williams",
+      "rating": 4,
+      "date": "2025-05-22"
+    }
+  ],
+  "films": [
+    {
+      "title": "Linotype: The Film",
+      "year": 2012,
+      "rating": 3,
+      "source": "https://boxd.it/9zugnd",
+      "date": "2025-05-01",
+      "director": "Doug Wilson"
+    },
+    {
+      "title": "Conclave",
+      "year": 2024,
+      "rating": 4,
+      "source": "https://boxd.it/9DkG85",
+      "date": "2025-05-07",
+      "director": "Edward Berger"
+    },
+    {
+      "title": "Fountain of Youth",
+      "year": 2025,
+      "rating": 3,
+      "source": "https://boxd.it/9NwXVx",
+      "date": "2025-05-25",
+      "director": "Guy Ritchie"
+    }
+  ],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2025-05-10",
+      "date": "2025-05-10",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{{ $page := .page }}
+{{ $ranked := slice }}
+{{ range $page.Resources.ByType "image" }}
+	{{ $digits := findRE `[0-9]+` (path.BaseName .Name) }}
+	{{ $rank := 0 }}
+	{{ with $digits }}
+		{{ $rank = int (index . (sub (len .) 1)) }}
+	{{ end }}
+	{{ $ranked = $ranked | append (dict "rank" $rank "name" .Name "file" .) }}
+{{ end }}
+{{ $photos := slice }}
+{{ range sort $ranked "rank" }}
+	{{ $photos = $photos | append .file }}
+{{ end }}
+
+{{ with $photos }}
+	{{ $captions := $page.Params.photos | default dict }}
+
+	<div class="gallery" role="group"
+	     aria-label="Photos de {{ $page.Params.monthName }} {{ $page.Params.year }}">
+		{{ range $i, $p := . }}
+			{{ $caption := index $captions $p.Name }}
+			{{ $plain := $caption | markdownify | plainify }}
+			{{ $t1 := $p.Fill "200x200 avif q62" }}
+			{{ $t2 := $p.Fill "320x320 avif q60" }}
+			{{ $t3 := $p.Fill "480x480 avif q58" }}
+			{{ $tj := $p.Fill "320x320 jpg q78" }}
+			<button class="gallery__thumb" type="button" data-index="{{ $i }}"
+			        aria-label="Agrandir la photo {{ add $i 1 }} sur {{ len $photos }}{{ with $plain }} : {{ . }}{{ end }}">
+				<picture>
+					<source type="image/avif"
+					        srcset="{{ $t1.RelPermalink }} 200w, {{ $t2.RelPermalink }} 320w, {{ $t3.RelPermalink }} 480w"
+					        sizes="(max-width: 900px) 8rem, 9rem">
+					<img src="{{ $tj.RelPermalink }}" width="320" height="320"
+					     loading="lazy" decoding="async" alt="{{ $plain }}">
+				</picture>
+			</button>
+		{{ end }}
+	</div>
+
+	<dialog class="viewer" aria-label="Photos de {{ $page.Params.monthName }} {{ $page.Params.year }}">
+		<button class="viewer__close" type="button" aria-label="Fermer">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="currentColor" aria-hidden="true" focusable="false"><path d="M205.66,194.34a8,8,0,0,1-11.32,11.32L128,139.31,61.66,205.66a8,8,0,0,1-11.32-11.32L116.69,128,50.34,61.66A8,8,0,0,1,61.66,50.34L128,116.69l66.34-66.35a8,8,0,0,1,11.32,11.32L139.31,128Z"></path></svg>
+		</button>
+		<div class="viewer__rail" tabindex="0">
+			{{ range $i, $p := $photos }}
+				{{ $caption := index $captions $p.Name }}
+				{{ $plain := $caption | markdownify | plainify }}
+				{{ $f1 := $p.Resize "1000x avif q60" }}
+				{{ $f2 := $p.Resize "1800x avif q55" }}
+				{{ $fj := $p.Resize "1200x jpg q72" }}
+				<figure class="viewer__view" data-index="{{ $i }}">
+					<picture>
+						<source type="image/avif"
+						        data-srcset="{{ $f1.RelPermalink }} 1000w, {{ $f2.RelPermalink }} 1800w"
+						        sizes="(max-width: 900px) 100vw, 90vw">
+						<img data-src="{{ $fj.RelPermalink }}" width="{{ $fj.Width }}" height="{{ $fj.Height }}"
+						     decoding="async" alt="{{ $plain }}">
+					</picture>
+					<figcaption>
+						<span class="viewer__index">{{ add $i 1 }}/{{ len $photos }}</span>
+						{{ with $caption }}<span class="viewer__caption">{{ . | markdownify }}</span>{{ end }}
+					</figcaption>
+				</figure>
+			{{ end }}
+		</div>
+	</dialog>
+{{ end }}

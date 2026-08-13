@@ -1,0 +1,431 @@
+{
+  "albums": [
+    {
+      "title": "Brasil",
+      "artist": "Lee Ritenour & Dave Grusin",
+      "source": "https://www.last.fm/music/Lee+Ritenour+%26+Dave+Grusin/Brasil",
+      "date": "2024-07-01",
+      "tracks": 9
+    },
+    {
+      "title": "Let's Walk",
+      "artist": "Madeleine Peyroux",
+      "source": "https://www.last.fm/music/Madeleine+Peyroux/Let's+Walk",
+      "date": "2024-07-01",
+      "tracks": 10
+    },
+    {
+      "title": "Panoply",
+      "artist": "Denny Zeitlin",
+      "source": "https://www.last.fm/music/Denny+Zeitlin/Panoply",
+      "date": "2024-07-01",
+      "tracks": 12
+    },
+    {
+      "title": "Good Together",
+      "artist": "Lake Street Dive",
+      "source": "https://www.last.fm/music/Lake+Street+Dive/Good+Together",
+      "date": "2024-07-02",
+      "tracks": 11
+    },
+    {
+      "title": "Still Waters",
+      "artist": "Kenny Wheeler & Brian Dickinson",
+      "source": "https://www.last.fm/music/Kenny+Wheeler+%26+Brian+Dickinson/Still+Waters",
+      "date": "2024-07-02",
+      "tracks": 9
+    },
+    {
+      "title": "the epicenter of your dreams",
+      "artist": "John Escreet",
+      "source": "https://www.last.fm/music/John+Escreet/the+epicenter+of+your+dreams",
+      "date": "2024-07-02",
+      "tracks": 5
+    },
+    {
+      "title": "The Librarian",
+      "artist": "Sefi Zisling",
+      "date": "2024-07-02",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Sefi+Zisling/The+Librarian"
+    },
+    {
+      "title": "Murgonzley",
+      "artist": "Mike Murley",
+      "source": "https://www.last.fm/music/Mike+Murley/Murgonzley",
+      "date": "2024-07-04",
+      "tracks": 7
+    },
+    {
+      "title": "the epicenter of your dreams",
+      "artist": "John Escreet",
+      "source": "https://www.last.fm/music/John+Escreet/the+epicenter+of+your+dreams",
+      "date": "2024-07-04",
+      "tracks": 3
+    },
+    {
+      "title": "The Librarian",
+      "artist": "Sefi Zisling",
+      "date": "2024-07-04",
+      "tracks": 5,
+      "source": "https://www.last.fm/music/Sefi+Zisling/The+Librarian"
+    },
+    {
+      "title": "Casiopea",
+      "artist": "Casiopea",
+      "date": "2024-07-07",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/Casiopea/Casiopea"
+    },
+    {
+      "title": "Good Together",
+      "artist": "Lake Street Dive",
+      "source": "https://www.last.fm/music/Lake+Street+Dive/Good+Together",
+      "date": "2024-07-07",
+      "tracks": 12
+    },
+    {
+      "title": "A Ballad Moment: Fourth Dimension",
+      "artist": "Karl-Martin Almqvist & Carl Winther",
+      "source": "https://www.last.fm/music/Karl-Martin+Almqvist+%26+Carl+Winther/A+Ballad+Moment%3A+Fourth+Dimension",
+      "date": "2024-07-08",
+      "tracks": 8
+    },
+    {
+      "title": "Still Waters",
+      "artist": "Kenny Wheeler & Brian Dickinson",
+      "source": "https://www.last.fm/music/Kenny+Wheeler+%26+Brian+Dickinson/Still+Waters",
+      "date": "2024-07-08",
+      "tracks": 9
+    },
+    {
+      "title": "Triptych Lespri",
+      "artist": "Charles Goold",
+      "source": "https://www.last.fm/music/Charles+Goold/Triptych+Lespri",
+      "date": "2024-07-08",
+      "tracks": 15
+    },
+    {
+      "title": "Among Giants",
+      "artist": "Sarah Hanahan",
+      "source": "https://www.last.fm/music/Sarah+Hanahan/Among+Giants",
+      "date": "2024-07-09",
+      "tracks": 8
+    },
+    {
+      "title": "Horizon Song",
+      "artist": "Kelsley Grant & Andrew Scott",
+      "source": "https://www.last.fm/music/Kelsley+Grant+%26+Andrew+Scott/Horizon+Song",
+      "date": "2024-07-09",
+      "tracks": 9
+    },
+    {
+      "title": "Soul Jazz (feat. Vincent Herring)",
+      "artist": "Something Else!",
+      "source": "https://www.last.fm/music/Something+Else!/Soul+Jazz+(feat.+Vincent+Herring)",
+      "date": "2024-07-09",
+      "tracks": 8
+    },
+    {
+      "title": "Trio I (feat. Shun Ishiwaka & James Bowers)",
+      "artist": "Marty Holoubek",
+      "source": "https://www.last.fm/music/Marty+Holoubek/Trio+I+(feat.+Shun+Ishiwaka+%26+James+Bowers)",
+      "date": "2024-07-09",
+      "tracks": 10
+    },
+    {
+      "title": "30/108",
+      "artist": "corto.alto",
+      "source": "https://www.last.fm/music/corto.alto/30%2F108",
+      "date": "2024-07-10",
+      "tracks": 30
+    },
+    {
+      "title": "Little Home (feat. Sebastian Studnitzky, Uri Gincel Trio & Tobias Backhaus)",
+      "artist": "Paul Kleber",
+      "source": "https://www.last.fm/music/Paul+Kleber/Little+Home+(feat.+Sebastian+Studnitzky%2C+Uri+Gincel+Trio+%26+Tobias+Backhaus)",
+      "date": "2024-07-10",
+      "tracks": 9
+    },
+    {
+      "title": "Sanyas",
+      "artist": "Steve Turre",
+      "source": "https://www.last.fm/music/Steve+Turre/Sanyas",
+      "date": "2024-07-10",
+      "tracks": 5
+    },
+    {
+      "title": "Timing Is Everything",
+      "artist": "Eric Alexander",
+      "source": "https://www.last.fm/music/Eric+Alexander/Timing+Is+Everything",
+      "date": "2024-07-10",
+      "tracks": 8
+    },
+    {
+      "title": "Pursuance : The Coltranes",
+      "artist": "Lakecia Benjamin",
+      "source": "https://www.last.fm/music/Lakecia+Benjamin/Pursuance+%3A+The+Coltranes",
+      "date": "2024-07-11",
+      "tracks": 13
+    },
+    {
+      "title": "Small Medium Large (feat. Jeremiah Chiu, Gregory Uhlmann, Josh Johnson, Booker Stardrum & Anna Butterss)",
+      "artist": "Sml",
+      "source": "https://www.last.fm/music/Sml/Small+Medium+Large+(feat.+Jeremiah+Chiu%2C+Gregory+Uhlmann%2C+Josh+Johnson%2C+Booker+Stardrum+%26+Anna+Butterss)",
+      "date": "2024-07-11",
+      "tracks": 13
+    },
+    {
+      "title": "Timing Is Everything",
+      "artist": "Eric Alexander",
+      "date": "2024-07-11",
+      "tracks": 8,
+      "source": "https://www.last.fm/music/Eric+Alexander/Timing+Is+Everything"
+    },
+    {
+      "title": "Timing Is Everything",
+      "artist": "Eric Alexander",
+      "source": "https://www.last.fm/music/Eric+Alexander/Timing+Is+Everything",
+      "date": "2024-07-12",
+      "tracks": 8
+    },
+    {
+      "title": "How Can I Possibly Sleep When There is Music",
+      "artist": "Luka Kuplowsky",
+      "source": "https://www.last.fm/music/Luka+Kuplowsky/How+Can+I+Possibly+Sleep+When+There+is+Music",
+      "date": "2024-07-15",
+      "tracks": 18
+    },
+    {
+      "title": "Sun Dogs",
+      "artist": "Jamie Finlay",
+      "source": "https://www.last.fm/music/Jamie+Finlay/Sun+Dogs",
+      "date": "2024-07-15",
+      "tracks": 8
+    },
+    {
+      "title": "Where Did You Go?",
+      "artist": "Sandman Project",
+      "source": "https://www.last.fm/music/Sandman+Project/Where+Did+You+Go%3F",
+      "date": "2024-07-15",
+      "tracks": 10
+    },
+    {
+      "title": "Christian Escoudé & Alby Cullaz (Remastered 2024)",
+      "artist": "Alby Cullaz & Christian Escoudé",
+      "source": "https://www.last.fm/music/Alby+Cullaz+%26+Christian+Escoud%C3%A9/Christian+Escoud%C3%A9+%26+Alby+Cullaz+(Remastered+2024)",
+      "date": "2024-07-16",
+      "tracks": 10
+    },
+    {
+      "title": "Not Real People",
+      "artist": "oreglo",
+      "source": "https://www.last.fm/music/oreglo/Not+Real+People",
+      "date": "2024-07-16",
+      "tracks": 7
+    },
+    {
+      "title": "Mythos",
+      "artist": "Altus",
+      "source": "https://www.last.fm/music/Altus/Mythos",
+      "date": "2024-07-22",
+      "tracks": 9
+    },
+    {
+      "title": "One Hand Clapping – The Backyard (One Hand Clapping Sessions) - EP",
+      "artist": "Paul McCartney & Wings",
+      "source": "https://www.last.fm/music/Paul+McCartney+%26+Wings/One+Hand+Clapping+%E2%80%93+The+Backyard+(One+Hand+Clapping+Sessions)+-+EP",
+      "date": "2024-07-22",
+      "tracks": 6
+    },
+    {
+      "title": "Songs My Mom Liked",
+      "artist": "Anthony Branker & Imagine",
+      "source": "https://www.last.fm/music/Anthony+Branker+%26+Imagine/Songs+My+Mom+Liked",
+      "date": "2024-07-22",
+      "tracks": 12
+    },
+    {
+      "title": "Spirit Dance - EP",
+      "artist": "Ambient Jazz Ensemble",
+      "source": "https://www.last.fm/music/Ambient+Jazz+Ensemble/Spirit+Dance+-+EP",
+      "date": "2024-07-22",
+      "tracks": 4
+    },
+    {
+      "title": "Standard Collection, Vol. 3",
+      "artist": "Hank Jones, Mads Vinding & Billy Hart",
+      "source": "https://www.last.fm/music/Hank+Jones%2C+Mads+Vinding+%26+Billy+Hart/Standard+Collection%2C+Vol.+3",
+      "date": "2024-07-22",
+      "tracks": 10
+    },
+    {
+      "title": "Une rencontre",
+      "artist": "Robert Kaddouch",
+      "source": "https://www.last.fm/music/Robert+Kaddouch/Une+rencontre",
+      "date": "2024-07-22",
+      "tracks": 8
+    },
+    {
+      "title": "Bass Desires",
+      "artist": "Marc Johnson, Bill Frisell, John Scofield & Peter Erskine",
+      "source": "https://www.last.fm/music/Marc+Johnson%2C+Bill+Frisell%2C+John+Scofield+%26+Peter+Erskine/Bass+Desires",
+      "date": "2024-07-24",
+      "tracks": 5
+    },
+    {
+      "title": "Ivory Forest Redux",
+      "artist": "Hal Galper",
+      "source": "https://www.last.fm/music/Hal+Galper/Ivory+Forest+Redux",
+      "date": "2024-07-26",
+      "tracks": 6
+    },
+    {
+      "title": "Misty ~ Live at Jazz Is",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "date": "2024-07-27",
+      "tracks": 8,
+      "source": "https://www.last.fm/music/Tsuyoshi+Yamamoto+Trio/Misty+~+Live+at+Jazz+Is"
+    },
+    {
+      "title": "Bright Sparkling Light",
+      "artist": "Matthew Halsall",
+      "source": "https://www.last.fm/music/Matthew+Halsall/Bright+Sparkling+Light",
+      "date": "2024-07-28",
+      "tracks": 3
+    },
+    {
+      "title": "Silver Shadow",
+      "artist": "Slowly Rolling Camera",
+      "source": "https://www.last.fm/music/Slowly+Rolling+Camera/Silver+Shadow",
+      "date": "2024-07-28",
+      "tracks": 8
+    },
+    {
+      "title": "Midnight Rendezvous",
+      "artist": "OSCOB",
+      "source": "https://www.last.fm/music/OSCOB/Midnight+Rendezvous",
+      "date": "2024-07-29",
+      "tracks": 20
+    },
+    {
+      "title": "Rising",
+      "artist": "Jasmine Myra",
+      "source": "https://www.last.fm/music/Jasmine+Myra/Rising",
+      "date": "2024-07-29",
+      "tracks": 7
+    },
+    {
+      "title": "Jazz at the Pawnshop",
+      "artist": "Arne Domnérus",
+      "date": "2024-07-30",
+      "tracks": 12,
+      "source": "https://www.last.fm/music/Arne+Domn%C3%A9rus/Jazz+at+the+Pawnshop"
+    },
+    {
+      "title": "Life, at the Village Vanguard",
+      "artist": "Gilad Hekselman",
+      "source": "https://www.last.fm/music/Gilad+Hekselman/Life%2C+at+the+Village+Vanguard",
+      "date": "2024-07-30",
+      "tracks": 9
+    },
+    {
+      "title": "永​遠​の​愛 [Redux]",
+      "artist": "synchro//start",
+      "source": "https://www.last.fm/music/synchro%2F%2Fstart/%E6%B0%B8%E2%80%8B%E9%81%A0%E2%80%8B%E3%81%AE%E2%80%8B%E6%84%9B+%5BRedux%5D",
+      "date": "2024-07-30",
+      "tracks": 14
+    },
+    {
+      "title": "A New Day",
+      "artist": "Giovanni Guidi, James Brandon Lewis, João Lobo & Thomas Morgan",
+      "source": "https://www.last.fm/music/Giovanni+Guidi%2C+James+Brandon+Lewis%2C+Jo%C3%A3o+Lobo+%26+Thomas+Morgan/A+New+Day",
+      "date": "2024-07-31",
+      "tracks": 7
+    },
+    {
+      "title": "Schvitz",
+      "artist": "Vulfpeck",
+      "date": "2024-07-31",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/Vulfpeck/Schvitz"
+    }
+  ],
+  "books": [
+    {
+      "title": "Livre et typographie",
+      "author": "Jan Tschichold, Muriel Paris",
+      "rating": 4,
+      "date": "2024-07-08"
+    },
+    {
+      "title": "The Bullet Journal Method: Track the Past, Order the Present, Design the Future",
+      "author": "Ryder Carroll",
+      "rating": 3,
+      "date": "2024-07-12"
+    },
+    {
+      "title": "Le Café où vivent les souvenirs",
+      "author": "Toshikazu Kawaguchi",
+      "rating": 2,
+      "date": "2024-07-20"
+    },
+    {
+      "title": "Moonbound",
+      "author": "Robin Sloan",
+      "rating": 4,
+      "date": "2024-07-20"
+    },
+    {
+      "title": "Amour, sexe et terre promise",
+      "author": "Deloupy, Salomé Parent-Rachdi",
+      "rating": 3,
+      "date": "2024-07-21"
+    }
+  ],
+  "films": [
+    {
+      "title": "Spirited Away",
+      "year": 2001,
+      "rating": 4,
+      "source": "https://boxd.it/8B4b6f",
+      "date": "2024-07-14",
+      "director": "Hayao Miyazaki"
+    },
+    {
+      "title": "My Neighbor Totoro",
+      "year": 1988,
+      "rating": 5,
+      "source": "https://boxd.it/8B4bJh",
+      "date": "2024-07-18",
+      "director": "Hayao Miyazaki"
+    },
+    {
+      "title": "BlackBerry",
+      "year": 2023,
+      "rating": 2,
+      "source": "https://boxd.it/8B4cop",
+      "date": "2024-07-20",
+      "director": "Matt Johnson"
+    },
+    {
+      "title": "The Trouble with Jessica",
+      "year": 2023,
+      "rating": 3,
+      "source": "https://boxd.it/8B4d9F",
+      "date": "2024-07-21",
+      "director": "Matt Winn"
+    },
+    {
+      "title": "Puan",
+      "year": 2023,
+      "rating": 3,
+      "source": "https://boxd.it/8B4dF7",
+      "date": "2024-07-28",
+      "director": "María Alché, Benjamín Naishtat"
+    }
+  ],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

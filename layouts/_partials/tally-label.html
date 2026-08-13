@@ -1,0 +1,3 @@
+{{ $label := i18n .key .count }}
+{{ if not $label }}{{ $label = .key }}{{ end }}
+{{ return $label }}

@@ -1,0 +1,30 @@
+{
+  "albums": [
+    {
+      "title": "Mess Of Blues",
+      "artist": "The Jeff Healey Band",
+      "source": "https://www.last.fm/music/The+Jeff+Healey+Band/Mess+Of+Blues",
+      "date": "2014-04-09",
+      "tracks": 10
+    },
+    {
+      "title": "Voz d'Amor",
+      "artist": "Cesaria Evora",
+      "source": "https://www.last.fm/music/Cesaria+Evora/Voz+d'Amor",
+      "date": "2014-04-11",
+      "tracks": 7
+    },
+    {
+      "title": "Kind of Blue",
+      "artist": "Miles Davis",
+      "date": "2014-04-30",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/Miles+Davis/Kind+of+Blue"
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

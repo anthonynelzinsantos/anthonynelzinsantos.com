@@ -1,0 +1,35 @@
+{{ define "main" }}
+<article class="page">
+	{{ partial "masthead.html" . }}
+
+	{{ with .Content }}<div class="prose">{{ . }}</div>{{ end }}
+
+	{{ if or .Params.skills .Params.expertise }}
+		<div class="pairs">
+			{{ range slice (dict "t" "Compétences" "l" .Params.skills) (dict "t" "Expertises" "l" .Params.expertise) }}
+				{{ $t := .t }}
+				{{ with .l }}
+					<section class="pairs__col">
+						<p class="label"><span>{{ $t }}</span></p>
+						<ul class="words">{{ range . }}<li>{{ . }}</li>{{ end }}</ul>
+					</section>
+				{{ end }}
+			{{ end }}
+		</div>
+	{{ end }}
+
+	{{ with .Params.projects }}
+		<ul class="projects">
+			{{ range . }}
+				<li class="project">
+					<a href="{{ .url }}">
+						<span class="project__name">{{ .name }}</span>
+						<span class="project__what">{{ .what }}</span>
+						<span class="project__url">{{ replaceRE `^https?://|/$` "" .url }}</span>
+					</a>
+				</li>
+			{{ end }}
+		</ul>
+	{{ end }}
+</article>
+{{ end }}

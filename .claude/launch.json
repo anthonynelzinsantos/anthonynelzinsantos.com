@@ -1,0 +1,8 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "ans", "runtimeExecutable": "hugo",
+      "runtimeArgs": ["server", "--port", "1515", "--disableFastRender", "--bind", "127.0.0.1"],
+      "port": 1515 }
+  ]
+}

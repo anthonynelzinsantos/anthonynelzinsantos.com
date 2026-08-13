@@ -1,0 +1,711 @@
+{
+  "albums": [
+    {
+      "title": "Aoyama Nights = 青山ナイツ\"",
+      "artist": "Mariko Katsuragi = Mariko Katsuragi",
+      "source": "https://www.last.fm/music/Mariko+Katsuragi+%3D+Mariko+Katsuragi/Aoyama+Nights+%3D+%E9%9D%92%E5%B1%B1%E3%83%8A%E3%82%A4%E3%83%84%22",
+      "date": "2024-12-01",
+      "tracks": 4
+    },
+    {
+      "title": "A Boy Named Charlie Brown",
+      "artist": "Vince Guaraldi",
+      "source": "https://www.last.fm/music/Vince+Guaraldi/A+Boy+Named+Charlie+Brown",
+      "date": "2024-12-02",
+      "tracks": 10
+    },
+    {
+      "title": "Beyond the Double Bass",
+      "artist": "Renaud Garcia-Fons",
+      "source": "https://www.last.fm/music/Renaud+Garcia-Fons/Beyond+the+Double+Bass",
+      "date": "2024-12-02",
+      "tracks": 15
+    },
+    {
+      "title": "Night Reign",
+      "artist": "Arooj Aftab",
+      "source": "https://www.last.fm/music/Arooj+Aftab/Night+Reign",
+      "date": "2024-12-02",
+      "tracks": 4
+    },
+    {
+      "title": "Solid Jackson",
+      "artist": "Brad Mehldau, Mark Turner, Peter Bernstein, Larry Grenadier, Bill Stewart",
+      "source": "https://www.last.fm/music/Brad+Mehldau%2C+Mark+Turner%2C+Peter+Bernstein%2C+Larry+Grenadier%2C+Bill+Stewart/Solid+Jackson",
+      "date": "2024-12-02",
+      "tracks": 8
+    },
+    {
+      "title": "Taking Turns",
+      "artist": "Jakob Bro, Lee Konitz, Bill Frisell, Jason Moran, Thomas Morgan, Andrew Cyrille",
+      "source": "https://www.last.fm/music/Jakob+Bro%2C+Lee+Konitz%2C+Bill+Frisell%2C+Jason+Moran%2C+Thomas+Morgan%2C+Andrew+Cyrille/Taking+Turns",
+      "date": "2024-12-02",
+      "tracks": 3
+    },
+    {
+      "title": "Landloper (Live)",
+      "artist": "Arild Andersen",
+      "source": "https://www.last.fm/music/Arild+Andersen/Landloper+(Live)",
+      "date": "2024-12-03",
+      "tracks": 12
+    },
+    {
+      "title": "Mozart : Les Noces de Figaro (extraits)",
+      "artist": "Ferruccio Furlanetto, Metropolitan Opera Orchestra, James Levine",
+      "source": "https://www.last.fm/music/Ferruccio+Furlanetto%2C+Metropolitan+Opera+Orchestra%2C+James+Levine/Mozart+%3A+Les+Noces+de+Figaro+(extraits)",
+      "date": "2024-12-03",
+      "tracks": 4
+    },
+    {
+      "title": "Taking Turns",
+      "artist": "Jakob Bro, Lee Konitz, Bill Frisell, Jason Moran, Thomas Morgan, Andrew Cyrille",
+      "date": "2024-12-03",
+      "tracks": 4,
+      "source": "https://www.last.fm/music/Jakob+Bro%2C+Lee+Konitz%2C+Bill+Frisell%2C+Jason+Moran%2C+Thomas+Morgan%2C+Andrew+Cyrille/Taking+Turns"
+    },
+    {
+      "title": "Il Barbiere Di Siviglia",
+      "artist": "Gioacchino Rossini",
+      "source": "https://www.last.fm/music/Gioacchino+Rossini/Il+Barbiere+Di+Siviglia",
+      "date": "2024-12-04",
+      "tracks": 26
+    },
+    {
+      "title": "Landloper (Live)",
+      "artist": "Arild Andersen",
+      "source": "https://www.last.fm/music/Arild+Andersen/Landloper+(Live)",
+      "date": "2024-12-04",
+      "tracks": 6
+    },
+    {
+      "title": "Solo Live",
+      "artist": "Nenad Vasilic",
+      "source": "https://www.last.fm/music/Nenad+Vasilic/Solo+Live",
+      "date": "2024-12-04",
+      "tracks": 8
+    },
+    {
+      "title": "Taking Turns",
+      "artist": "Jakob Bro, Lee Konitz, Bill Frisell, Jason Moran, Thomas Morgan, Andrew Cyrille",
+      "source": "https://www.last.fm/music/Jakob+Bro%2C+Lee+Konitz%2C+Bill+Frisell%2C+Jason+Moran%2C+Thomas+Morgan%2C+Andrew+Cyrille/Taking+Turns",
+      "date": "2024-12-04",
+      "tracks": 7
+    },
+    {
+      "title": "Dvořák: String Quartet No. 12 in F Major, Op. 96 \"American\"",
+      "artist": "Artemis Quartet",
+      "source": "https://www.last.fm/music/Artemis+Quartet/Dvo%C5%99%C3%A1k%3A+String+Quartet+No.+12+in+F+Major%2C+Op.+96+%22American%22",
+      "date": "2024-12-05",
+      "tracks": 4
+    },
+    {
+      "title": "For Heaven's Sake",
+      "artist": "Jim Mullen, Ben Paterson, Jan Harbeck, Kristian Leth",
+      "source": "https://www.last.fm/music/Jim+Mullen%2C+Ben+Paterson%2C+Jan+Harbeck%2C+Kristian+Leth/For+Heaven's+Sake",
+      "date": "2024-12-05",
+      "tracks": 8
+    },
+    {
+      "title": "Live At Smalls",
+      "artist": "Jazz Incorporated",
+      "source": "https://www.last.fm/music/Jazz+Incorporated/Live+At+Smalls",
+      "date": "2024-12-05",
+      "tracks": 8
+    },
+    {
+      "title": "Santtu Conducts Sleeping Beauty",
+      "artist": "Philharmonia Orchestra, Santtu-Matias Rouvali",
+      "source": "https://www.last.fm/music/Philharmonia+Orchestra%2C+Santtu-Matias+Rouvali/Santtu+Conducts+Sleeping+Beauty",
+      "date": "2024-12-05",
+      "tracks": 10
+    },
+    {
+      "title": "Solo Live",
+      "artist": "Nenad Vasilic",
+      "source": "https://www.last.fm/music/Nenad+Vasilic/Solo+Live",
+      "date": "2024-12-05",
+      "tracks": 7
+    },
+    {
+      "title": "Sonic Wires (Deluxe Edition)",
+      "artist": "Katia Labèque, Marielle Labèque, David Chalmin, Bryce Dessner",
+      "source": "https://www.last.fm/music/Katia+Lab%C3%A8que%2C+Marielle+Lab%C3%A8que%2C+David+Chalmin%2C+Bryce+Dessner/Sonic+Wires+(Deluxe+Edition)",
+      "date": "2024-12-05",
+      "tracks": 10
+    },
+    {
+      "title": "Sonic Wires (Deluxe Edition)",
+      "artist": "David Chalmin, Bryce Dessner",
+      "source": "https://www.last.fm/music/David+Chalmin%2C+Bryce+Dessner/Sonic+Wires+(Deluxe+Edition)",
+      "date": "2024-12-05",
+      "tracks": 3
+    },
+    {
+      "title": "Sonic Wires (Deluxe Edition)",
+      "artist": "Katia Labèque, Marielle Labèque, Bryce Dessner, David Chalmin",
+      "source": "https://www.last.fm/music/Katia+Lab%C3%A8que%2C+Marielle+Lab%C3%A8que%2C+Bryce+Dessner%2C+David+Chalmin/Sonic+Wires+(Deluxe+Edition)",
+      "date": "2024-12-05",
+      "tracks": 5
+    },
+    {
+      "title": "Standards by the Nordic Quintet",
+      "artist": "Ari Bragi Kárason, Karl-Martin Almqvist, Carl Winther, Anders Mogensen, Johnny Åman",
+      "source": "https://www.last.fm/music/Ari+Bragi+K%C3%A1rason%2C+Karl-Martin+Almqvist%2C+Carl+Winther%2C+Anders+Mogensen%2C+Johnny+%C3%85man/Standards+by+the+Nordic+Quintet",
+      "date": "2024-12-05",
+      "tracks": 10
+    },
+    {
+      "title": "A Sentimental Christmas With Nat King Cole And Friends: Cole Classics Reimagined",
+      "artist": "Nat King Cole",
+      "source": "https://www.last.fm/music/Nat+King+Cole/A+Sentimental+Christmas+With+Nat+King+Cole+And+Friends%3A+Cole+Classics+Reimagined",
+      "date": "2024-12-06",
+      "tracks": 6
+    },
+    {
+      "title": "Beethoven: Piano Sonata No. 29 \"Hammerklavier\"; An die ferne Geliebte (Arr. Liszt)",
+      "artist": "Nobuyuki Tsujii",
+      "source": "https://www.last.fm/music/Nobuyuki+Tsujii/Beethoven%3A+Piano+Sonata+No.+29+%22Hammerklavier%22%3B+An+die+ferne+Geliebte+(Arr.+Liszt)",
+      "date": "2024-12-06",
+      "tracks": 10
+    },
+    {
+      "title": "Fables",
+      "artist": "Charlotte Reinhardt",
+      "source": "https://www.last.fm/music/Charlotte+Reinhardt/Fables",
+      "date": "2024-12-06",
+      "tracks": 13
+    },
+    {
+      "title": "Soft Revolution",
+      "artist": "Oan Kim & The Dirty Jazz",
+      "source": "https://www.last.fm/music/Oan+Kim+%26+The+Dirty+Jazz/Soft+Revolution",
+      "date": "2024-12-06",
+      "tracks": 6
+    },
+    {
+      "title": "THE HORSE (SPECIAL EDITION)",
+      "artist": "Matthew Herbert, London Contemporary Orchestra",
+      "source": "https://www.last.fm/music/Matthew+Herbert%2C+London+Contemporary+Orchestra/THE+HORSE+(SPECIAL+EDITION)",
+      "date": "2024-12-06",
+      "tracks": 9
+    },
+    {
+      "title": "BLUES",
+      "artist": "Greg Koch",
+      "source": "https://www.last.fm/music/Greg+Koch/BLUES",
+      "date": "2024-12-09",
+      "tracks": 6
+    },
+    {
+      "title": "Fun One",
+      "artist": "Oz Noy, David Kikoski, James Genus, Clarence Penn",
+      "source": "https://www.last.fm/music/Oz+Noy%2C+David+Kikoski%2C+James+Genus%2C+Clarence+Penn/Fun+One",
+      "date": "2024-12-09",
+      "tracks": 9
+    },
+    {
+      "title": "Live At Smalls",
+      "artist": "Jazz Incorporated",
+      "source": "https://www.last.fm/music/Jazz+Incorporated/Live+At+Smalls",
+      "date": "2024-12-09",
+      "tracks": 6
+    },
+    {
+      "title": "Streams",
+      "artist": "Jakob Bro, Thomas Morgan, Joey Baron",
+      "source": "https://www.last.fm/music/Jakob+Bro%2C+Thomas+Morgan%2C+Joey+Baron/Streams",
+      "date": "2024-12-09",
+      "tracks": 6
+    },
+    {
+      "title": "A Christmas Cwtch",
+      "artist": "Amanda Whiting",
+      "source": "https://www.last.fm/music/Amanda+Whiting/A+Christmas+Cwtch",
+      "date": "2024-12-10",
+      "tracks": 14
+    },
+    {
+      "title": "Horizons",
+      "artist": "Jasmine Myra",
+      "source": "https://www.last.fm/music/Jasmine+Myra/Horizons",
+      "date": "2024-12-10",
+      "tracks": 16
+    },
+    {
+      "title": "Never Ending January",
+      "artist": "Espen Eriksen Trio",
+      "source": "https://www.last.fm/music/Espen+Eriksen+Trio/Never+Ending+January",
+      "date": "2024-12-10",
+      "tracks": 8
+    },
+    {
+      "title": "The Astounding Eyes Of Rita",
+      "artist": "Anouar Brahem",
+      "source": "https://www.last.fm/music/Anouar+Brahem/The+Astounding+Eyes+Of+Rita",
+      "date": "2024-12-10",
+      "tracks": 8
+    },
+    {
+      "title": "Voices of Bishara",
+      "artist": "Tom Skinner",
+      "source": "https://www.last.fm/music/Tom+Skinner/Voices+of+Bishara",
+      "date": "2024-12-10",
+      "tracks": 12
+    },
+    {
+      "title": "Christmas In A Minor Key",
+      "artist": "The Milk Carton Kids",
+      "source": "https://www.last.fm/music/The+Milk+Carton+Kids/Christmas+In+A+Minor+Key",
+      "date": "2024-12-11",
+      "tracks": 10
+    },
+    {
+      "title": "Sleigher",
+      "artist": "Ben Folds",
+      "source": "https://www.last.fm/music/Ben+Folds/Sleigher",
+      "date": "2024-12-11",
+      "tracks": 10
+    },
+    {
+      "title": "Motion I",
+      "artist": "Immanuel Wilkins, Gerald Clayton, Out Of/Into, Joel Ross, Matt Brewer, Kendrick Scott",
+      "source": "https://www.last.fm/music/Immanuel+Wilkins%2C+Gerald+Clayton%2C+Out+Of%2FInto%2C+Joel+Ross%2C+Matt+Brewer%2C+Kendrick+Scott/Motion+I",
+      "date": "2024-12-12",
+      "tracks": 8
+    },
+    {
+      "title": "Black Classical Music",
+      "artist": "Yussef Dayes",
+      "source": "https://www.last.fm/music/Yussef+Dayes/Black+Classical+Music",
+      "date": "2024-12-13",
+      "tracks": 7
+    },
+    {
+      "title": "Femininas",
+      "artist": "Edward Simon, Magos Herrera",
+      "source": "https://www.last.fm/music/Edward+Simon%2C+Magos+Herrera/Femininas",
+      "date": "2024-12-13",
+      "tracks": 11
+    },
+    {
+      "title": "Missionary",
+      "artist": "Snoop Dogg, Dr. Dre",
+      "source": "https://www.last.fm/music/Snoop+Dogg%2C+Dr.+Dre/Missionary",
+      "date": "2024-12-13",
+      "tracks": 3
+    },
+    {
+      "title": "The Music Tells Us",
+      "artist": "Charles Owens Trio",
+      "source": "https://www.last.fm/music/Charles+Owens+Trio/The+Music+Tells+Us",
+      "date": "2024-12-13",
+      "tracks": 13
+    },
+    {
+      "title": "YOU DON'T KNOW JACK!",
+      "artist": "Brian Charette, Cory Weeds, John Lee",
+      "source": "https://www.last.fm/music/Brian+Charette%2C+Cory+Weeds%2C+John+Lee/YOU+DON'T+KNOW+JACK!",
+      "date": "2024-12-13",
+      "tracks": 8
+    },
+    {
+      "title": "Christmas In A Minor Key",
+      "artist": "The Milk Carton Kids",
+      "date": "2024-12-14",
+      "tracks": 9,
+      "source": "https://www.last.fm/music/The+Milk+Carton+Kids/Christmas+In+A+Minor+Key"
+    },
+    {
+      "title": "A Christmas Cwtch",
+      "artist": "Amanda Whiting",
+      "date": "2024-12-16",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/Amanda+Whiting/A+Christmas+Cwtch"
+    },
+    {
+      "title": "Day",
+      "artist": "Nils Frahm",
+      "source": "https://www.last.fm/music/Nils+Frahm/Day",
+      "date": "2024-12-16",
+      "tracks": 6
+    },
+    {
+      "title": "Paris",
+      "artist": "Nils Frahm",
+      "source": "https://www.last.fm/music/Nils+Frahm/Paris",
+      "date": "2024-12-16",
+      "tracks": 10
+    },
+    {
+      "title": "Quatuor Le sable et l'écume",
+      "artist": "Titi Robin, Renaud-Gabriel Pion, Chris Jennings, Zé Luis Nascimento",
+      "source": "https://www.last.fm/music/Titi+Robin%2C+Renaud-Gabriel+Pion%2C+Chris+Jennings%2C+Z%C3%A9+Luis+Nascimento/Quatuor+Le+sable+et+l'%C3%A9cume",
+      "date": "2024-12-16",
+      "tracks": 9
+    },
+    {
+      "title": "Sorrow",
+      "artist": "Joe Armon-Jones",
+      "source": "https://www.last.fm/music/Joe+Armon-Jones/Sorrow",
+      "date": "2024-12-16",
+      "tracks": 3
+    },
+    {
+      "title": "A Christmas Cwtch",
+      "artist": "Amanda Whiting",
+      "source": "https://www.last.fm/music/Amanda+Whiting/A+Christmas+Cwtch",
+      "date": "2024-12-17",
+      "tracks": 5
+    },
+    {
+      "title": "Ballads",
+      "artist": "John Coltrane Quartet",
+      "source": "https://www.last.fm/music/John+Coltrane+Quartet/Ballads",
+      "date": "2024-12-17",
+      "tracks": 8
+    },
+    {
+      "title": "Spielt Eigen Kompositionen - EP",
+      "artist": "Emahoy Tsege Mariam Gebru",
+      "source": "https://www.last.fm/music/Emahoy+Tsege+Mariam+Gebru/Spielt+Eigen+Kompositionen+-+EP",
+      "date": "2024-12-17",
+      "tracks": 5
+    },
+    {
+      "title": "Step Into Paradise -LIVE IN TOKYO-",
+      "artist": "Akiko Yano & Hiromi",
+      "source": "https://www.last.fm/music/Akiko+Yano+%26+Hiromi/Step+Into+Paradise+-LIVE+IN+TOKYO-",
+      "date": "2024-12-17",
+      "tracks": 15
+    },
+    {
+      "title": "The Way out of Easy (feat. Anna Butterss, Jay Bellerose & Josh Johnson)",
+      "artist": "Jeff Parker & ETA IVtet",
+      "source": "https://www.last.fm/music/Jeff+Parker+%26+ETA+IVtet/The+Way+out+of+Easy+(feat.+Anna+Butterss%2C+Jay+Bellerose+%26+Josh+Johnson)",
+      "date": "2024-12-17",
+      "tracks": 7
+    },
+    {
+      "title": "Unionen",
+      "artist": "UNIONEN",
+      "source": "https://www.last.fm/music/UNIONEN/Unionen",
+      "date": "2024-12-17",
+      "tracks": 8
+    },
+    {
+      "title": "Viver o Mar",
+      "artist": "Orlas",
+      "source": "https://www.last.fm/music/Orlas/Viver+o+Mar",
+      "date": "2024-12-17",
+      "tracks": 13
+    },
+    {
+      "title": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+      "artist": "Vince Guaraldi Trio",
+      "source": "https://www.last.fm/music/Vince+Guaraldi+Trio/A+Charlie+Brown+Christmas+%5B2012+Remastered+%26+Expanded+Edition%5D",
+      "date": "2024-12-18",
+      "tracks": 14
+    },
+    {
+      "title": "A Joyful Holiday - EP",
+      "artist": "Samara Joy",
+      "source": "https://www.last.fm/music/Samara+Joy/A+Joyful+Holiday+-+EP",
+      "date": "2024-12-18",
+      "tracks": 3
+    },
+    {
+      "title": "Big Band Holidays III",
+      "artist": "Jazz at Lincoln Center Orchestra & Wynton Marsalis",
+      "source": "https://www.last.fm/music/Jazz+at+Lincoln+Center+Orchestra+%26+Wynton+Marsalis/Big+Band+Holidays+III",
+      "date": "2024-12-18",
+      "tracks": 4
+    },
+    {
+      "title": "Christmas In A Minor Key",
+      "artist": "The Milk Carton Kids",
+      "date": "2024-12-18",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/The+Milk+Carton+Kids/Christmas+In+A+Minor+Key"
+    },
+    {
+      "title": "Christmas Stories (Deluxe Edition)",
+      "artist": "Christian Sands",
+      "source": "https://www.last.fm/music/Christian+Sands/Christmas+Stories+(Deluxe+Edition)",
+      "date": "2024-12-18",
+      "tracks": 13
+    },
+    {
+      "title": "Compersion Quartet (feat. Brian Haas, James Singleton & Simon Lott)",
+      "artist": "Skerik",
+      "source": "https://www.last.fm/music/Skerik/Compersion+Quartet+(feat.+Brian+Haas%2C+James+Singleton+%26+Simon+Lott)",
+      "date": "2024-12-18",
+      "tracks": 10
+    },
+    {
+      "title": "Fearless",
+      "artist": "Rolf Kühn",
+      "source": "https://www.last.fm/music/Rolf+K%C3%BChn/Fearless",
+      "date": "2024-12-18",
+      "tracks": 18
+    },
+    {
+      "title": "Have Yourself a Soulful Little Christmas",
+      "artist": "Kenny Burrell",
+      "source": "https://www.last.fm/music/Kenny+Burrell/Have+Yourself+a+Soulful+Little+Christmas",
+      "date": "2024-12-18",
+      "tracks": 4
+    },
+    {
+      "title": "3 Feet High and Rising",
+      "artist": "De La Soul",
+      "source": "https://www.last.fm/music/De+La+Soul/3+Feet+High+and+Rising",
+      "date": "2024-12-19",
+      "tracks": 22
+    },
+    {
+      "title": "Christmas In A Minor Key",
+      "artist": "The Milk Carton Kids",
+      "source": "https://www.last.fm/music/The+Milk+Carton+Kids/Christmas+In+A+Minor+Key",
+      "date": "2024-12-19",
+      "tracks": 10
+    },
+    {
+      "title": "Compersion Quartet (feat. Brian Haas, James Singleton & Simon Lott)",
+      "artist": "Skerik",
+      "source": "https://www.last.fm/music/Skerik/Compersion+Quartet+(feat.+Brian+Haas%2C+James+Singleton+%26+Simon+Lott)",
+      "date": "2024-12-19",
+      "tracks": 5
+    },
+    {
+      "title": "History Of The Vibraphone",
+      "artist": "Warren Wolf",
+      "date": "2024-12-19",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/Warren+Wolf/History+Of+The+Vibraphone"
+    },
+    {
+      "title": "Reachin' (A New Refutation Of Time And Space)",
+      "artist": "Digable Planets",
+      "source": "https://www.last.fm/music/Digable+Planets/Reachin'+(A+New+Refutation+Of+Time+And+Space)",
+      "date": "2024-12-19",
+      "tracks": 14
+    },
+    {
+      "title": "Straight Out The Jungle",
+      "artist": "Jungle Brothers",
+      "source": "https://www.last.fm/music/Jungle+Brothers/Straight+Out+The+Jungle",
+      "date": "2024-12-19",
+      "tracks": 13
+    },
+    {
+      "title": "The Liminality of Her",
+      "artist": "Amanda Whiting",
+      "source": "https://www.last.fm/music/Amanda+Whiting/The+Liminality+of+Her",
+      "date": "2024-12-19",
+      "tracks": 10
+    },
+    {
+      "title": "Short n' Sweet",
+      "artist": "Sabrina Carpenter",
+      "source": "https://www.last.fm/music/Sabrina+Carpenter/Short+n'+Sweet",
+      "date": "2024-12-20",
+      "tracks": 12
+    },
+    {
+      "title": "Love & Life - EP",
+      "artist": "Chip Wickham",
+      "source": "https://www.last.fm/music/Chip+Wickham/Love+%26+Life+-+EP",
+      "date": "2024-12-22",
+      "tracks": 4
+    },
+    {
+      "title": "Christmas Vibes",
+      "artist": "Warren Wolf",
+      "source": "https://www.last.fm/music/Warren+Wolf/Christmas+Vibes",
+      "date": "2024-12-23",
+      "tracks": 13
+    },
+    {
+      "title": "Ominira",
+      "artist": "Lucas Arruda",
+      "source": "https://www.last.fm/music/Lucas+Arruda/Ominira",
+      "date": "2024-12-23",
+      "tracks": 9
+    },
+    {
+      "title": "UM",
+      "artist": "Gabriel Milliet",
+      "source": "https://www.last.fm/music/Gabriel+Milliet/UM",
+      "date": "2024-12-23",
+      "tracks": 6
+    },
+    {
+      "title": "Buddy (Native Tongue Decision) - Single",
+      "artist": "De La Soul",
+      "source": "https://www.last.fm/music/De+La+Soul/Buddy+(Native+Tongue+Decision)+-+Single",
+      "date": "2024-12-26",
+      "tracks": 3
+    },
+    {
+      "title": "Call For Winter II: Resonance",
+      "artist": "Daniel Herskedal",
+      "source": "https://www.last.fm/music/Daniel+Herskedal/Call+For+Winter+II%3A+Resonance",
+      "date": "2024-12-26",
+      "tracks": 11
+    },
+    {
+      "title": "Capricorn Climber (feat. Mat Maneri, Ingrid Laubrock, Trevor Dunn & Tom Rainey)",
+      "artist": "Kris Davis",
+      "source": "https://www.last.fm/music/Kris+Davis/Capricorn+Climber+(feat.+Mat+Maneri%2C+Ingrid+Laubrock%2C+Trevor+Dunn+%26+Tom+Rainey)",
+      "date": "2024-12-26",
+      "tracks": 9
+    },
+    {
+      "title": "Get The Message - EP",
+      "artist": "Kokoroko",
+      "source": "https://www.last.fm/music/Kokoroko/Get+The+Message+-+EP",
+      "date": "2024-12-26",
+      "tracks": 4
+    },
+    {
+      "title": "Dua Lipa Live from the Royal Albert Hall",
+      "artist": "Dua Lipa",
+      "source": "https://www.last.fm/music/Dua+Lipa/Dua+Lipa+Live+from+the+Royal+Albert+Hall",
+      "date": "2024-12-27",
+      "tracks": 19
+    },
+    {
+      "title": "Immunity",
+      "artist": "Clairo",
+      "source": "https://www.last.fm/music/Clairo/Immunity",
+      "date": "2024-12-29",
+      "tracks": 11
+    },
+    {
+      "title": "Sling",
+      "artist": "Clairo",
+      "source": "https://www.last.fm/music/Clairo/Sling",
+      "date": "2024-12-29",
+      "tracks": 12
+    },
+    {
+      "title": "Charm",
+      "artist": "Clairo",
+      "source": "https://www.last.fm/music/Clairo/Charm",
+      "date": "2024-12-30",
+      "tracks": 11
+    },
+    {
+      "title": "That's What's Up",
+      "artist": "Mike LeDonne, Eric Alexander & Jeremy Pelt",
+      "source": "https://www.last.fm/music/Mike+LeDonne%2C+Eric+Alexander+%26+Jeremy+Pelt/That's+What's+Up",
+      "date": "2024-12-31",
+      "tracks": 16
+    }
+  ],
+  "books": [
+    {
+      "title": "Design de polices de caractères",
+      "author": "Elizabeth Wilhide",
+      "rating": 1,
+      "date": "2024-12-04"
+    },
+    {
+      "title": "L'Inconnue du portrait",
+      "author": "Camille de Peretti",
+      "rating": 4,
+      "date": "2024-12-10"
+    },
+    {
+      "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+      "author": "James Clear",
+      "rating": 4,
+      "date": "2024-12-15"
+    },
+    {
+      "title": "The Creative Act",
+      "author": "Rick Rubin",
+      "rating": 4,
+      "date": "2024-12-20"
+    },
+    {
+      "title": "Lessons",
+      "author": "Ian McEwan",
+      "rating": 4,
+      "date": "2024-12-23"
+    },
+    {
+      "title": "All the Beauty in the World",
+      "author": "Patrick Bringley",
+      "rating": 5,
+      "date": "2024-12-30"
+    },
+    {
+      "title": "Le plagiat par anticipation",
+      "author": "Pierre Bayard",
+      "rating": 4,
+      "date": "2024-12-30"
+    },
+    {
+      "title": "Pensées pour moi-même: suivi de Manuel d'Épictète",
+      "author": "Marcus Aurelius",
+      "rating": 4,
+      "date": "2024-12-31"
+    }
+  ],
+  "films": [
+    {
+      "title": "Red One",
+      "year": 2024,
+      "rating": 1,
+      "source": "https://boxd.it/8B4mVD",
+      "date": "2024-12-14",
+      "director": "Jake Kasdan"
+    },
+    {
+      "title": "Paddington 2",
+      "year": 2017,
+      "rating": 3,
+      "source": "https://boxd.it/8B4nDZ",
+      "date": "2024-12-22",
+      "director": "Paul King"
+    },
+    {
+      "title": "An Evening with Dua Lipa",
+      "year": 2024,
+      "rating": 3,
+      "source": "https://boxd.it/8B4ozz",
+      "date": "2024-12-27",
+      "director": "Paul Dugdale"
+    }
+  ],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2024-12-01",
+      "date": "2024-12-01",
+      "count": 5
+    },
+    {
+      "title": "contributions du 2024-12-08",
+      "date": "2024-12-08",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2024-12-21",
+      "date": "2024-12-21",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2024-12-22",
+      "date": "2024-12-22",
+      "count": 4
+    },
+    {
+      "title": "contributions du 2024-12-29",
+      "date": "2024-12-29",
+      "count": 1
+    }
+  ]
+}

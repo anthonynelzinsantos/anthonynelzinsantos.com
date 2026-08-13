@@ -1,0 +1,64 @@
+{
+  "albums": [],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2017-08-01",
+      "date": "2017-08-01",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2017-08-02",
+      "date": "2017-08-02",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2017-08-03",
+      "date": "2017-08-03",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2017-08-04",
+      "date": "2017-08-04",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2017-08-11",
+      "date": "2017-08-11",
+      "count": 3
+    },
+    {
+      "title": "contributions du 2017-08-12",
+      "date": "2017-08-12",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2017-08-13",
+      "date": "2017-08-13",
+      "count": 4
+    },
+    {
+      "title": "contributions du 2017-08-18",
+      "date": "2017-08-18",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2017-08-21",
+      "date": "2017-08-21",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2017-08-22",
+      "date": "2017-08-22",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2017-08-23",
+      "date": "2017-08-23",
+      "count": 2
+    }
+  ]
+}

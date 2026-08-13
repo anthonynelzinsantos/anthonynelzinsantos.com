@@ -1,0 +1,64 @@
+{
+  "albums": [],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2019-10-01",
+      "date": "2019-10-01",
+      "count": 3
+    },
+    {
+      "title": "contributions du 2019-10-02",
+      "date": "2019-10-02",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2019-10-07",
+      "date": "2019-10-07",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2019-10-08",
+      "date": "2019-10-08",
+      "count": 4
+    },
+    {
+      "title": "contributions du 2019-10-09",
+      "date": "2019-10-09",
+      "count": 3
+    },
+    {
+      "title": "contributions du 2019-10-10",
+      "date": "2019-10-10",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2019-10-13",
+      "date": "2019-10-13",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2019-10-14",
+      "date": "2019-10-14",
+      "count": 3
+    },
+    {
+      "title": "contributions du 2019-10-23",
+      "date": "2019-10-23",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2019-10-25",
+      "date": "2019-10-25",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2019-10-28",
+      "date": "2019-10-28",
+      "count": 2
+    }
+  ]
+}

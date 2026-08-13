@@ -1,0 +1,142 @@
+{
+  "albums": [
+    {
+      "title": "A Letter Home",
+      "artist": "Neil Young",
+      "source": "https://www.last.fm/music/Neil+Young/A+Letter+Home",
+      "date": "2014-06-02",
+      "tracks": 4
+    },
+    {
+      "title": "Ghost Stories",
+      "artist": "Coldplay",
+      "source": "https://www.last.fm/music/Coldplay/Ghost+Stories",
+      "date": "2014-06-04",
+      "tracks": 12
+    },
+    {
+      "title": "Indie Cindy",
+      "artist": "Pixies",
+      "source": "https://www.last.fm/music/Pixies/Indie+Cindy",
+      "date": "2014-06-04",
+      "tracks": 3
+    },
+    {
+      "title": "Indie Cindy",
+      "artist": "Pixies",
+      "date": "2014-06-05",
+      "tracks": 5,
+      "source": "https://www.last.fm/music/Pixies/Indie+Cindy"
+    },
+    {
+      "title": "Ballads for Two",
+      "artist": "Chet Baker / Wolfgang Lackerschmid",
+      "source": "https://www.last.fm/music/Chet+Baker+%2F+Wolfgang+Lackerschmid/Ballads+for+Two",
+      "date": "2014-06-08",
+      "tracks": 7
+    },
+    {
+      "title": "Natalie Merchant",
+      "artist": "Natalie Merchant",
+      "source": "https://www.last.fm/music/Natalie+Merchant/Natalie+Merchant",
+      "date": "2014-06-10",
+      "tracks": 11
+    },
+    {
+      "title": "Unrepentant Geraldines",
+      "artist": "Tori Amos",
+      "source": "https://www.last.fm/music/Tori+Amos/Unrepentant+Geraldines",
+      "date": "2014-06-11",
+      "tracks": 15
+    },
+    {
+      "title": "Indie Cindy",
+      "artist": "Pixies",
+      "source": "https://www.last.fm/music/Pixies/Indie+Cindy",
+      "date": "2014-06-12",
+      "tracks": 4
+    },
+    {
+      "title": "Pilgrim",
+      "artist": "Eric Clapton",
+      "date": "2014-06-12",
+      "tracks": 5,
+      "source": "https://www.last.fm/music/Eric+Clapton/Pilgrim"
+    },
+    {
+      "title": "Studio Live Session Liechtenstein",
+      "artist": "Edwyn Collins",
+      "source": "https://www.last.fm/music/Edwyn+Collins/Studio+Live+Session+Liechtenstein",
+      "date": "2014-06-12",
+      "tracks": 7
+    },
+    {
+      "title": "Albert King With Stevie Ray Vaughan: In Session",
+      "artist": "Albert King / Stevie Ray Vaughan",
+      "date": "2014-06-13",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Albert+King+%2F+Stevie+Ray+Vaughan/Albert+King+With+Stevie+Ray+Vaughan%3A+In+Session"
+    },
+    {
+      "title": "Back in Black",
+      "artist": "AC/DC",
+      "source": "https://www.last.fm/music/AC%2FDC/Back+in+Black",
+      "date": "2014-06-13",
+      "tracks": 10
+    },
+    {
+      "title": "Metaphorical Music",
+      "artist": "Nujabes",
+      "source": "https://www.last.fm/music/Nujabes/Metaphorical+Music",
+      "date": "2014-06-13",
+      "tracks": 10
+    },
+    {
+      "title": "The Complete Elvis Presley Masters",
+      "artist": "Elvis Presley",
+      "source": "https://www.last.fm/music/Elvis+Presley/The+Complete+Elvis+Presley+Masters",
+      "date": "2014-06-14",
+      "tracks": 3
+    },
+    {
+      "title": "Volume 3",
+      "artist": "She & Him",
+      "source": "https://www.last.fm/music/She+%26+Him/Volume+3",
+      "date": "2014-06-25",
+      "tracks": 7
+    },
+    {
+      "title": "Volume One",
+      "artist": "She & Him",
+      "source": "https://www.last.fm/music/She+%26+Him/Volume+One",
+      "date": "2014-06-25",
+      "tracks": 8
+    },
+    {
+      "title": "Volume Two",
+      "artist": "She & Him",
+      "source": "https://www.last.fm/music/She+%26+Him/Volume+Two",
+      "date": "2014-06-25",
+      "tracks": 10
+    },
+    {
+      "title": "Brothers in Arms",
+      "artist": "Dire Straits",
+      "date": "2014-06-30",
+      "tracks": 5,
+      "source": "https://www.last.fm/music/Dire+Straits/Brothers+in+Arms"
+    },
+    {
+      "title": "Riding With the King",
+      "artist": "Eric Clapton",
+      "date": "2014-06-30",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/Eric+Clapton/Riding+With+the+King"
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

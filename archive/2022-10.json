@@ -1,0 +1,79 @@
+{
+  "albums": [],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2022-10-01",
+      "date": "2022-10-01",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2022-10-02",
+      "date": "2022-10-02",
+      "count": 5
+    },
+    {
+      "title": "contributions du 2022-10-03",
+      "date": "2022-10-03",
+      "count": 4
+    },
+    {
+      "title": "contributions du 2022-10-08",
+      "date": "2022-10-08",
+      "count": 3
+    },
+    {
+      "title": "contributions du 2022-10-11",
+      "date": "2022-10-11",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2022-10-13",
+      "date": "2022-10-13",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2022-10-14",
+      "date": "2022-10-14",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2022-10-15",
+      "date": "2022-10-15",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2022-10-16",
+      "date": "2022-10-16",
+      "count": 9
+    },
+    {
+      "title": "contributions du 2022-10-18",
+      "date": "2022-10-18",
+      "count": 5
+    },
+    {
+      "title": "contributions du 2022-10-19",
+      "date": "2022-10-19",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2022-10-23",
+      "date": "2022-10-23",
+      "count": 6
+    },
+    {
+      "title": "contributions du 2022-10-30",
+      "date": "2022-10-30",
+      "count": 4
+    },
+    {
+      "title": "contributions du 2022-10-31",
+      "date": "2022-10-31",
+      "count": 5
+    }
+  ]
+}

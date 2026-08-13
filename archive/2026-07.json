@@ -1,0 +1,377 @@
+{
+  "albums": [
+    {
+      "title": "Expressions",
+      "artist": "Barcelona Art Orchestra & Miguel Zenón",
+      "source": "https://www.last.fm/music/Barcelona+Art+Orchestra+%26+Miguel+Zen%C3%B3n/Expressions",
+      "date": "2026-07-01",
+      "tracks": 7
+    },
+    {
+      "title": "The Hero’s Journey",
+      "artist": "Daniel García",
+      "source": "https://www.last.fm/music/Daniel+Garc%C3%ADa/The+Hero%E2%80%99s+Journey",
+      "date": "2026-07-01",
+      "tracks": 24
+    },
+    {
+      "title": "Willber Sunlight",
+      "artist": "Kevin Sun, Max Light, Simón Willson & Aaron Seeber",
+      "source": "https://www.last.fm/music/Kevin+Sun%2C+Max+Light%2C+Sim%C3%B3n+Willson+%26+Aaron+Seeber/Willber+Sunlight",
+      "date": "2026-07-01",
+      "tracks": 4
+    },
+    {
+      "title": "Guest List",
+      "artist": "M. Geddes Gengras",
+      "source": "https://www.last.fm/music/M.+Geddes+Gengras/Guest+List",
+      "date": "2026-07-02",
+      "tracks": 5
+    },
+    {
+      "title": "In Search Of Beauty",
+      "artist": "Leif Kaner-Lidstrom",
+      "source": "https://www.last.fm/music/Leif+Kaner-Lidstrom/In+Search+Of+Beauty",
+      "date": "2026-07-02",
+      "tracks": 6
+    },
+    {
+      "title": "Roots",
+      "artist": "Kuba Dworak",
+      "source": "https://www.last.fm/music/Kuba+Dworak/Roots",
+      "date": "2026-07-02",
+      "tracks": 13
+    },
+    {
+      "title": "The Eight Gates",
+      "artist": "Lox",
+      "source": "https://www.last.fm/music/Lox/The+Eight+Gates",
+      "date": "2026-07-02",
+      "tracks": 9
+    },
+    {
+      "title": "Kind of Blue",
+      "artist": "Miles Davis",
+      "source": "https://www.last.fm/music/Miles+Davis/Kind+of+Blue",
+      "date": "2026-07-04",
+      "tracks": 5
+    },
+    {
+      "title": "At Baker’s Keyboard Lounge: The Complete Recordings",
+      "artist": "The Oscar Peterson Trio",
+      "source": "https://www.last.fm/music/The+Oscar+Peterson+Trio/At+Baker%E2%80%99s+Keyboard+Lounge%3A+The+Complete+Recordings",
+      "date": "2026-07-07",
+      "tracks": 24
+    },
+    {
+      "title": "At Baker’s Keyboard Lounge: The Complete Recordings",
+      "artist": "The Oscar Peterson Trio",
+      "source": "https://www.last.fm/music/The+Oscar+Peterson+Trio/At+Baker%E2%80%99s+Keyboard+Lounge%3A+The+Complete+Recordings",
+      "date": "2026-07-09",
+      "tracks": 3
+    },
+    {
+      "title": "MSG II",
+      "artist": "Vulfpeck",
+      "source": "https://www.last.fm/music/Vulfpeck/MSG+II",
+      "date": "2026-07-09",
+      "tracks": 24
+    },
+    {
+      "title": "Schvitz",
+      "artist": "Vulfpeck",
+      "date": "2026-07-09",
+      "tracks": 10,
+      "source": "https://www.last.fm/music/Vulfpeck/Schvitz"
+    },
+    {
+      "title": "Terra Incognita",
+      "artist": "Akusmi",
+      "source": "https://www.last.fm/music/Akusmi/Terra+Incognita",
+      "date": "2026-07-09",
+      "tracks": 7
+    },
+    {
+      "title": "Forró da Nêgah",
+      "artist": "Nêgah Santos",
+      "source": "https://www.last.fm/music/N%C3%AAgah+Santos/Forr%C3%B3+da+N%C3%AAgah",
+      "date": "2026-07-10",
+      "tracks": 6
+    },
+    {
+      "title": "Ensaio Do Forró",
+      "artist": "Nêgah Santos",
+      "source": "https://www.last.fm/music/N%C3%AAgah+Santos/Ensaio+Do+Forr%C3%B3",
+      "date": "2026-07-11",
+      "tracks": 19
+    },
+    {
+      "title": "20bis",
+      "artist": "UBAQ",
+      "source": "https://www.last.fm/music/UBAQ/20bis",
+      "date": "2026-07-12",
+      "tracks": 6
+    },
+    {
+      "title": "Night WIP",
+      "artist": "UBAQ",
+      "source": "https://www.last.fm/music/UBAQ/Night+WIP",
+      "date": "2026-07-12",
+      "tracks": 8
+    },
+    {
+      "title": "Schvitz",
+      "artist": "Vulfpeck",
+      "source": "https://www.last.fm/music/Vulfpeck/Schvitz",
+      "date": "2026-07-12",
+      "tracks": 10
+    },
+    {
+      "title": "Veld",
+      "artist": "Sick Gazelle",
+      "source": "https://www.last.fm/music/Sick+Gazelle/Veld",
+      "date": "2026-07-12",
+      "tracks": 3
+    },
+    {
+      "title": "Be Quiet",
+      "artist": "Nils Petter Molvær",
+      "source": "https://www.last.fm/music/Nils+Petter+Molv%C3%A6r/Be+Quiet",
+      "date": "2026-07-13",
+      "tracks": 9
+    },
+    {
+      "title": "FATHERS",
+      "artist": "Nate Smith, Kiefer, CARRTOONS & Kenny Beats",
+      "source": "https://www.last.fm/music/Nate+Smith%2C+Kiefer%2C+CARRTOONS+%26+Kenny+Beats/FATHERS",
+      "date": "2026-07-13",
+      "tracks": 8
+    },
+    {
+      "title": "Liberation Time",
+      "artist": "Carlos Santana & John McLaughlin",
+      "source": "https://www.last.fm/music/Carlos+Santana/Liberation+Time",
+      "date": "2026-07-16",
+      "tracks": 7
+    },
+    {
+      "title": "Foreign Tongues",
+      "artist": "The Rolling Stones",
+      "source": "https://www.last.fm/music/The+Rolling+Stones/Foreign+Tongues",
+      "date": "2026-07-17",
+      "tracks": 14
+    },
+    {
+      "title": "Celestial Keeper",
+      "artist": "Joey Alexander",
+      "source": "https://www.last.fm/music/Joey+Alexander/Celestial+Keeper",
+      "date": "2026-07-21",
+      "tracks": 10
+    },
+    {
+      "title": "Sangam & Friends",
+      "artist": "Charles Lloyd, Zahir Hussain & Eric Harland",
+      "date": "2026-07-28",
+      "source": "https://www.last.fm/music/Charles+Lloyd%2C+Zahir+Hussain+%26+Eric+Harland/Sangam+%26+Friends",
+      "tracks": 6
+    },
+    {
+      "title": "Fragments",
+      "artist": "Simon Denizart",
+      "date": "2026-07-30",
+      "source": "https://www.last.fm/music/Simon+Denizart/Fragments",
+      "tracks": 7
+    },
+    {
+      "title": "It's Always About Liberation",
+      "artist": "Ancient Infinity Orchestra",
+      "date": "2026-07-30",
+      "source": "https://www.last.fm/music/Ancient+Infinity+Orchestra/It's+Always+About+Liberation",
+      "tracks": 6
+    },
+    {
+      "title": "Dear Children of Our Children, I Knew: Epilogue",
+      "artist": "Alabaster Deplume",
+      "date": "2026-07-31",
+      "source": "https://www.last.fm/music/Alabaster+Deplume/Dear+Children+of+Our+Children%2C+I+Knew%3A+Epilogue",
+      "tracks": 4
+    }
+  ],
+  "books": [
+    {
+      "title": "The Fellowship of the Ring",
+      "author": "J.R.R. Tolkien",
+      "rating": 4,
+      "date": "2026-07-13"
+    }
+  ],
+  "films": [
+    {
+      "title": "The Odyssey",
+      "year": 2026,
+      "rating": 2,
+      "source": "https://letterboxd.com/z1nz0l1n/film/the-odyssey-2026/",
+      "date": "2026-07-25",
+      "director": "Christopher Nolan"
+    },
+    {
+      "title": "The Dink",
+      "year": 2026,
+      "date": "2026-07-26",
+      "rating": 4,
+      "source": "https://letterboxd.com/z1nz0l1n/film/the-dink/",
+      "director": "Josh Greenbaum"
+    }
+  ],
+  "dispatches": [
+    {
+      "title": "Disc rot, brain rot",
+      "date": "2026-07-05",
+      "source": "https://z1nz0l1n.com/26w27/"
+    },
+    {
+      "title": "Taming the Vulfpeck",
+      "date": "2026-07-12",
+      "source": "https://z1nz0l1n.com/26w28/"
+    },
+    {
+      "title": "The oldest thing i own",
+      "date": "2026-07-19",
+      "source": "https://z1nz0l1n.com/26w29/"
+    },
+    {
+      "title": "Bits and bobs (2026.07)",
+      "date": "2026-07-26",
+      "source": "https://z1nz0l1n.com/26w30/"
+    }
+  ],
+  "architypes": [
+    {
+      "title": "Antiquaire J. L. Brunel",
+      "date": "2026-07-02",
+      "source": "https://archityp.es/antiquaire-j-l-brunel/"
+    },
+    {
+      "title": "Garage Renan (Lyon)",
+      "date": "2026-07-05",
+      "source": "https://archityp.es/garage-renan-lyon/"
+    },
+    {
+      "title": "Cordonnerie Mercière (Lyon)",
+      "date": "2026-07-08",
+      "source": "https://archityp.es/cordonnerie-merciere-lyon/"
+    },
+    {
+      "title": "Actua Immobilier (Aix-les-Bains)",
+      "date": "2026-07-11",
+      "source": "https://archityp.es/actua-immobilier-aix-les-bains/"
+    },
+    {
+      "title": "La maison du cadeau (Aix-les-Bains)",
+      "date": "2026-07-14",
+      "source": "https://archityp.es/la-maison-du-cadeau-aix-les-bains/"
+    },
+    {
+      "title": "Cinéma Victoria (Aix-les-Bains)",
+      "date": "2026-07-17",
+      "source": "https://archityp.es/cinema-victoria-aix-les-bains/"
+    },
+    {
+      "title": "Herboristerie (Aix-les-Bains)",
+      "date": "2026-07-20",
+      "source": "https://archityp.es/herboristerie-aix-les-bains/"
+    },
+    {
+      "title": "Hôtel Savoy (Aix-les-Bains)",
+      "date": "2026-07-23",
+      "source": "https://archityp.es/hotel-savoy-aix-les-bains/"
+    },
+    {
+      "title": "Bijouterie Numigem (Aix-les-Bains)",
+      "date": "2026-07-26",
+      "source": "https://archityp.es/bijouterie-numigem-aix-les-bains/"
+    },
+    {
+      "title": "Piscine (Aix-les-Bains)",
+      "date": "2026-07-29",
+      "source": "https://archityp.es/piscine-aix-les-bains/"
+    }
+  ],
+  "contributions": [
+    {
+      "title": "contributions du 2026-07-04",
+      "date": "2026-07-04",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2026-07-05",
+      "date": "2026-07-05",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2026-07-10",
+      "date": "2026-07-10",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2026-07-11",
+      "date": "2026-07-11",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2026-07-12",
+      "date": "2026-07-12",
+      "count": 4
+    },
+    {
+      "title": "contributions du 2026-07-13",
+      "date": "2026-07-13",
+      "count": 13
+    },
+    {
+      "title": "contributions du 2026-07-14",
+      "date": "2026-07-14",
+      "count": 4
+    },
+    {
+      "title": "contributions du 2026-07-15",
+      "date": "2026-07-15",
+      "count": 8
+    },
+    {
+      "title": "contributions du 2026-07-16",
+      "date": "2026-07-16",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2026-07-17",
+      "date": "2026-07-17",
+      "count": 10
+    },
+    {
+      "title": "contributions du 2026-07-18",
+      "date": "2026-07-18",
+      "count": 9
+    },
+    {
+      "title": "contributions du 2026-07-19",
+      "date": "2026-07-19",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2026-07-26",
+      "date": "2026-07-26",
+      "count": 7
+    },
+    {
+      "title": "contributions du 2026-07-27",
+      "date": "2026-07-27",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2026-07-30",
+      "date": "2026-07-30",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "albums": [
+    {
+      "title": "Lucille",
+      "artist": "B.B. King",
+      "source": "https://www.last.fm/music/B.B.+King/Lucille",
+      "date": "2013-06-02",
+      "tracks": 9
+    },
+    {
+      "title": "A Vontade",
+      "artist": "Baden Powell",
+      "source": "https://www.last.fm/music/Baden+Powell/A+Vontade",
+      "date": "2013-06-04",
+      "tracks": 10
+    },
+    {
+      "title": "Os Afro-Sambas",
+      "artist": "Baden Powell / Vinicius De Moraes",
+      "source": "https://www.last.fm/music/Baden+Powell+%2F+Vinicius+De+Moraes/Os+Afro-Sambas",
+      "date": "2013-06-04",
+      "tracks": 8
+    },
+    {
+      "title": "The Appearance of Colour",
+      "artist": "John Metcalfe",
+      "source": "https://www.last.fm/music/John+Metcalfe/The+Appearance+of+Colour",
+      "date": "2013-06-05",
+      "tracks": 27
+    },
+    {
+      "title": "Living The Blues",
+      "artist": "Canned Heat",
+      "source": "https://www.last.fm/music/Canned+Heat/Living+The+Blues",
+      "date": "2013-06-12",
+      "tracks": 5
+    },
+    {
+      "title": "Joao Gilberto",
+      "artist": "Joao Gilberto",
+      "source": "https://www.last.fm/music/Joao+Gilberto/Joao+Gilberto",
+      "date": "2013-06-13",
+      "tracks": 11
+    },
+    {
+      "title": "Living The Blues",
+      "artist": "Canned Heat",
+      "source": "https://www.last.fm/music/Canned+Heat/Living+The+Blues",
+      "date": "2013-06-13",
+      "tracks": 5
+    },
+    {
+      "title": "Une voix, une guitare",
+      "artist": "Jean-Félix Lalanne",
+      "source": "https://www.last.fm/music/Jean-F%C3%A9lix+Lalanne/Une+voix%2C+une+guitare",
+      "date": "2013-06-13",
+      "tracks": 13
+    },
+    {
+      "title": "I'm in a Phone Booth Baby",
+      "artist": "Albert King",
+      "source": "https://www.last.fm/music/Albert+King/I'm+in+a+Phone+Booth+Baby",
+      "date": "2013-06-14",
+      "tracks": 10
+    },
+    {
+      "title": "5",
+      "artist": "Alizée",
+      "source": "https://www.last.fm/music/Aliz%C3%A9e/5",
+      "date": "2013-06-15",
+      "tracks": 4
+    },
+    {
+      "title": "Battle Studies",
+      "artist": "John Mayer",
+      "source": "https://www.last.fm/music/John+Mayer/Battle+Studies",
+      "date": "2013-06-15",
+      "tracks": 3
+    },
+    {
+      "title": "Dvořák — Symphony No. 9",
+      "artist": "London Symphony Orchestra / Sir Colin Davis",
+      "source": "https://www.last.fm/music/London+Symphony+Orchestra+%2F+Sir+Colin+Davis/Dvo%C5%99%C3%A1k%C2%A0%E2%80%94+Symphony+No.+9",
+      "date": "2013-06-15",
+      "tracks": 9
+    },
+    {
+      "title": "I’m Your Man",
+      "artist": "Leonard Cohen",
+      "source": "https://www.last.fm/music/Leonard+Cohen/I%E2%80%99m+Your+Man",
+      "date": "2013-06-15",
+      "tracks": 5
+    },
+    {
+      "title": "Nikela",
+      "artist": "Flamenco Jazz Company",
+      "source": "https://www.last.fm/music/Flamenco+Jazz+Company/Nikela",
+      "date": "2013-06-15",
+      "tracks": 3
+    },
+    {
+      "title": "O Brother, Where Art Thou? [Music From a Film…]",
+      "artist": "The Soggy Bottom Boys",
+      "source": "https://www.last.fm/music/The+Soggy+Bottom+Boys/O+Brother%2C+Where+Art+Thou%3F+%5BMusic+From+a+Film%E2%80%A6%5D",
+      "date": "2013-06-15",
+      "tracks": 3
+    },
+    {
+      "title": "Second Helping",
+      "artist": "Lynyrd Skynyrd",
+      "source": "https://www.last.fm/music/Lynyrd+Skynyrd/Second+Helping",
+      "date": "2013-06-16",
+      "tracks": 9
+    },
+    {
+      "title": "Tonight's the Night",
+      "artist": "Neil Young",
+      "source": "https://www.last.fm/music/Neil+Young/Tonight's+the+Night",
+      "date": "2013-06-16",
+      "tracks": 13
+    },
+    {
+      "title": "13",
+      "artist": "Black Sabbath",
+      "source": "https://www.last.fm/music/Black+Sabbath/13",
+      "date": "2013-06-17",
+      "tracks": 23
+    },
+    {
+      "title": "BE",
+      "artist": "Beady Eye",
+      "source": "https://www.last.fm/music/Beady+Eye/BE",
+      "date": "2013-06-17",
+      "tracks": 17
+    },
+    {
+      "title": "Colore",
+      "artist": "Piano Club",
+      "source": "https://www.last.fm/music/Piano+Club/Colore",
+      "date": "2013-06-18",
+      "tracks": 14
+    },
+    {
+      "title": "Torres",
+      "artist": "TORRES",
+      "source": "https://www.last.fm/music/TORRES/Torres",
+      "date": "2013-06-18",
+      "tracks": 21
+    },
+    {
+      "title": "Born Under A Bad Sign",
+      "artist": "Albert King",
+      "source": "https://www.last.fm/music/Albert+King/Born+Under+A+Bad+Sign",
+      "date": "2013-06-21",
+      "tracks": 26
+    },
+    {
+      "title": "Sandinista!",
+      "artist": "The Clash",
+      "source": "https://www.last.fm/music/The+Clash/Sandinista!",
+      "date": "2013-06-21",
+      "tracks": 17
+    },
+    {
+      "title": "Electric Ladyland",
+      "artist": "The Jimi Hendrix Experience",
+      "source": "https://www.last.fm/music/The+Jimi+Hendrix+Experience/Electric+Ladyland",
+      "date": "2013-06-22",
+      "tracks": 4
+    },
+    {
+      "title": "Marsalis Standard Time, Vol. I",
+      "artist": "Wynton Marsalis",
+      "source": "https://www.last.fm/music/Wynton+Marsalis/Marsalis+Standard+Time%2C+Vol.+I",
+      "date": "2013-06-22",
+      "tracks": 8
+    },
+    {
+      "title": "Absolutely Free",
+      "artist": "Frank Zappa",
+      "source": "https://www.last.fm/music/Frank+Zappa/Absolutely+Free",
+      "date": "2013-06-24",
+      "tracks": 24
+    },
+    {
+      "title": "Chansons Pour Les Pieds",
+      "artist": "Jean-Jacques Goldman",
+      "source": "https://www.last.fm/music/Jean-Jacques+Goldman/Chansons+Pour+Les+Pieds",
+      "date": "2013-06-24",
+      "tracks": 10
+    },
+    {
+      "title": "Démodé",
+      "artist": "Jean-Jacques Goldman",
+      "source": "https://www.last.fm/music/Jean-Jacques+Goldman/D%C3%A9mod%C3%A9",
+      "date": "2013-06-24",
+      "tracks": 12
+    },
+    {
+      "title": "Sessions for Robert J",
+      "artist": "Eric Clapton",
+      "date": "2013-06-24",
+      "tracks": 4,
+      "source": "https://www.last.fm/music/Eric+Clapton/Sessions+for+Robert+J"
+    },
+    {
+      "title": "Un Tour Ensemble",
+      "artist": "Jean-Jacques Goldman",
+      "source": "https://www.last.fm/music/Jean-Jacques+Goldman/Un+Tour+Ensemble",
+      "date": "2013-06-24",
+      "tracks": 14
+    },
+    {
+      "title": "No Room for Squares",
+      "artist": "Hank Mobley",
+      "source": "https://www.last.fm/music/Hank+Mobley/No+Room+for+Squares",
+      "date": "2013-06-26",
+      "tracks": 14
+    },
+    {
+      "title": "Sandinista!",
+      "artist": "The Clash",
+      "date": "2013-06-27",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/The+Clash/Sandinista!"
+    },
+    {
+      "title": "Sandinista!",
+      "artist": "The Clash",
+      "source": "https://www.last.fm/music/The+Clash/Sandinista!",
+      "date": "2013-06-28",
+      "tracks": 15
+    },
+    {
+      "title": "American Idiot",
+      "artist": "Green Day",
+      "source": "https://www.last.fm/music/Green+Day/American+Idiot",
+      "date": "2013-06-29",
+      "tracks": 18
+    },
+    {
+      "title": "Animal Joy",
+      "artist": "Shearwater",
+      "source": "https://www.last.fm/music/Shearwater/Animal+Joy",
+      "date": "2013-06-29",
+      "tracks": 6
+    },
+    {
+      "title": "Standard Time, Vol. 4: Marsalis Plays Monk",
+      "artist": "Wynton Marsalis",
+      "source": "https://www.last.fm/music/Wynton+Marsalis/Standard+Time%2C+Vol.+4%3A+Marsalis+Plays+Monk",
+      "date": "2013-06-29",
+      "tracks": 19
+    },
+    {
+      "title": "Standard Time, Vol. 4: Marsalis Plays Monk",
+      "artist": "Wynton Marsalis",
+      "date": "2013-06-30",
+      "tracks": 9,
+      "source": "https://www.last.fm/music/Wynton+Marsalis/Standard+Time%2C+Vol.+4%3A+Marsalis+Plays+Monk"
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

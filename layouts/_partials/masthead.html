@@ -1,0 +1,4 @@
+<header class="masthead">
+	<h1 class="masthead__title">{{ .Title }}</h1>
+	{{ with .Params.standfirst }}<p class="masthead__standfirst">{{ . | markdownify }}</p>{{ end }}
+</header>

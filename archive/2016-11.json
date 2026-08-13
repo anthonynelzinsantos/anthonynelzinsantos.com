@@ -1,0 +1,100 @@
+{
+  "albums": [
+    {
+      "title": "In a Perfect World (Deluxe)",
+      "artist": "Kodaline",
+      "source": "https://www.last.fm/music/Kodaline/In+a+Perfect+World+(Deluxe)",
+      "date": "2016-11-02",
+      "tracks": 3
+    },
+    {
+      "title": "Everybody Has A Plan Until They Get Punched In The Mouth",
+      "artist": "Charlie Hunter",
+      "date": "2016-11-08",
+      "tracks": 4,
+      "source": "https://www.last.fm/music/Charlie+Hunter/Everybody+Has+A+Plan+Until+They+Get+Punched+In+The+Mouth"
+    },
+    {
+      "title": "In a Perfect World (Deluxe)",
+      "artist": "Kodaline",
+      "source": "https://www.last.fm/music/Kodaline/In+a+Perfect+World+(Deluxe)",
+      "date": "2016-11-08",
+      "tracks": 14
+    },
+    {
+      "title": "Everybody Has A Plan Until They Get Punched In The Mouth",
+      "artist": "Charlie Hunter",
+      "date": "2016-11-09",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Charlie+Hunter/Everybody+Has+A+Plan+Until+They+Get+Punched+In+The+Mouth"
+    },
+    {
+      "title": "Walls",
+      "artist": "Kings of Leon",
+      "source": "https://www.last.fm/music/Kings+of+Leon/Walls",
+      "date": "2016-11-10",
+      "tracks": 7
+    },
+    {
+      "title": "EJ",
+      "artist": "Eric Johnson",
+      "source": "https://www.last.fm/music/Eric+Johnson/EJ",
+      "date": "2016-11-15",
+      "tracks": 6
+    },
+    {
+      "title": "Standing In My Shoes",
+      "artist": "Leo Kottke",
+      "source": "https://www.last.fm/music/Leo+Kottke/Standing+In+My+Shoes",
+      "date": "2016-11-15",
+      "tracks": 9
+    },
+    {
+      "title": "Everybody Has A Plan Until They Get Punched In The Mouth",
+      "artist": "Charlie Hunter",
+      "source": "https://www.last.fm/music/Charlie+Hunter/Everybody+Has+A+Plan+Until+They+Get+Punched+In+The+Mouth",
+      "date": "2016-11-18",
+      "tracks": 9
+    },
+    {
+      "title": "SuperBass 2",
+      "artist": "Ray Brown",
+      "source": "https://www.last.fm/music/Ray+Brown/SuperBass+2",
+      "date": "2016-11-23",
+      "tracks": 9
+    },
+    {
+      "title": "Breakfast In America (Deluxe Edition)",
+      "artist": "Supertramp",
+      "source": "https://www.last.fm/music/Supertramp/Breakfast+In+America+(Deluxe+Edition)",
+      "date": "2016-11-24",
+      "tracks": 6
+    },
+    {
+      "title": "Breakfast In America (Deluxe Edition)",
+      "artist": "Supertramp",
+      "source": "https://www.last.fm/music/Supertramp/Breakfast+In+America+(Deluxe+Edition)",
+      "date": "2016-11-25",
+      "tracks": 4
+    },
+    {
+      "title": "Live at the Village Vanguard",
+      "artist": "Christian McBride Trio",
+      "date": "2016-11-25",
+      "tracks": 9,
+      "source": "https://www.last.fm/music/Christian+McBride+Trio/Live+at+the+Village+Vanguard"
+    },
+    {
+      "title": "Royal Albert Hall London May 2-3-5-6 2005",
+      "artist": "Cream",
+      "date": "2016-11-30",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/Cream/Royal+Albert+Hall+London+May+2-3-5-6+2005"
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

@@ -1,0 +1,562 @@
+{
+  "albums": [
+    {
+      "title": "Chopin — The Nocturnes",
+      "artist": "Nelson Freire",
+      "source": "https://www.last.fm/music/Nelson+Freire/Chopin%C2%A0%E2%80%94%C2%A0The+Nocturnes",
+      "date": "2015-10-01",
+      "tracks": 16
+    },
+    {
+      "title": "For One To Love",
+      "artist": "Cécile McLorin Salvant",
+      "date": "2015-10-01",
+      "tracks": 13,
+      "source": "https://www.last.fm/music/C%C3%A9cile+McLorin+Salvant/For+One+To+Love"
+    },
+    {
+      "title": "The Story of Sonny Boy Slim",
+      "artist": "Gary Clark Jr.",
+      "source": "https://www.last.fm/music/Gary+Clark+Jr./The+Story+of+Sonny+Boy+Slim",
+      "date": "2015-10-02",
+      "tracks": 6
+    },
+    {
+      "title": "Two",
+      "artist": "Chick Corea & Béla Fleck",
+      "source": "https://www.last.fm/music/Chick+Corea+%26+B%C3%A9la+Fleck/Two",
+      "date": "2015-10-02",
+      "tracks": 19
+    },
+    {
+      "title": "Lead Belly's Gold, Live At The Sunset... And More",
+      "artist": "Eric Bibb",
+      "source": "https://www.last.fm/music/Eric+Bibb/Lead+Belly's+Gold%2C+Live+At+The+Sunset...+And+More",
+      "date": "2015-10-03",
+      "tracks": 18
+    },
+    {
+      "title": "Motel Bamako",
+      "artist": "Inna Modja",
+      "source": "https://www.last.fm/music/Inna+Modja/Motel+Bamako",
+      "date": "2015-10-03",
+      "tracks": 7
+    },
+    {
+      "title": "Social Music",
+      "artist": "Jon Batiste",
+      "date": "2015-10-03",
+      "tracks": 12,
+      "source": "https://www.last.fm/music/Jon+Batiste/Social+Music"
+    },
+    {
+      "title": "The Köln Concert",
+      "artist": "Keith Jarrett",
+      "date": "2015-10-03",
+      "tracks": 4,
+      "source": "https://www.last.fm/music/Keith+Jarrett/The+K%C3%B6ln+Concert"
+    },
+    {
+      "title": "Two",
+      "artist": "Chick Corea & Bela Fleck",
+      "date": "2015-10-03",
+      "tracks": 19,
+      "source": "https://www.last.fm/music/Chick+Corea+%26+Bela+Fleck/Two"
+    },
+    {
+      "title": "All Is Well",
+      "artist": "Lisa Simone",
+      "source": "https://www.last.fm/music/Lisa+Simone/All+Is+Well",
+      "date": "2015-10-04",
+      "tracks": 14
+    },
+    {
+      "title": "Crosseyed Heart",
+      "artist": "Keith Richards",
+      "source": "https://www.last.fm/music/Keith+Richards/Crosseyed+Heart",
+      "date": "2015-10-04",
+      "tracks": 15
+    },
+    {
+      "title": "Marsalis Standard Time, Vol. I",
+      "artist": "Wynton Marsalis",
+      "source": "https://www.last.fm/music/Wynton+Marsalis/Marsalis+Standard+Time%2C+Vol.+I",
+      "date": "2015-10-04",
+      "tracks": 12
+    },
+    {
+      "title": "Standard Time, Vol. 2: Intimacy Calling",
+      "artist": "Wynton Marsalis",
+      "source": "https://www.last.fm/music/Wynton+Marsalis/Standard+Time%2C+Vol.+2%3A+Intimacy+Calling",
+      "date": "2015-10-04",
+      "tracks": 4
+    },
+    {
+      "title": "The Dark Side of the Moon",
+      "artist": "Pink Floyd",
+      "source": "https://www.last.fm/music/Pink+Floyd/The+Dark+Side+of+the+Moon",
+      "date": "2015-10-04",
+      "tracks": 10
+    },
+    {
+      "title": "Bach Beethoven Rzewski",
+      "artist": "Igor Levit",
+      "source": "https://www.last.fm/music/Igor+Levit/Bach+Beethoven+Rzewski",
+      "date": "2015-10-06",
+      "tracks": 4
+    },
+    {
+      "title": "Breakthrough",
+      "artist": "Eldar Djangirov",
+      "source": "https://www.last.fm/music/Eldar+Djangirov/Breakthrough",
+      "date": "2015-10-06",
+      "tracks": 8
+    },
+    {
+      "title": "Eldar",
+      "artist": "Eldar Djangirov",
+      "source": "https://www.last.fm/music/Eldar+Djangirov/Eldar",
+      "date": "2015-10-06",
+      "tracks": 10
+    },
+    {
+      "title": "Shine",
+      "artist": "Bernie Marsden",
+      "source": "https://www.last.fm/music/Bernie+Marsden/Shine",
+      "date": "2015-10-06",
+      "tracks": 13
+    },
+    {
+      "title": "What Went Down",
+      "artist": "Foals",
+      "source": "https://www.last.fm/music/Foals/What+Went+Down",
+      "date": "2015-10-06",
+      "tracks": 10
+    },
+    {
+      "title": "Altered Reality (Masters Of Acoustic Guitar)",
+      "artist": "Laurence Juber",
+      "source": "https://www.last.fm/music/Laurence+Juber/Altered+Reality+(Masters+Of+Acoustic+Guitar)",
+      "date": "2015-10-07",
+      "tracks": 12
+    },
+    {
+      "title": "Breakthrough",
+      "artist": "Eldar Djangirov",
+      "source": "https://www.last.fm/music/Eldar+Djangirov/Breakthrough",
+      "date": "2015-10-07",
+      "tracks": 3
+    },
+    {
+      "title": "Henri Dutilleux Edition",
+      "artist": "Henri Dutilleux",
+      "source": "https://www.last.fm/music/Henri+Dutilleux/Henri+Dutilleux+Edition",
+      "date": "2015-10-07",
+      "tracks": 16
+    },
+    {
+      "title": "An Evening With Herbie Hancock & Chick Corea In Concert (Live)",
+      "artist": "Herbie Hancock / Chick Corea",
+      "source": "https://www.last.fm/music/Herbie+Hancock+%2F+Chick+Corea/An+Evening+With+Herbie+Hancock+%26+Chick+Corea+In+Concert+(Live)",
+      "date": "2015-10-08",
+      "tracks": 3
+    },
+    {
+      "title": "Emotion (Deluxe)",
+      "artist": "Carly Rae Jepsen",
+      "source": "https://www.last.fm/music/Carly+Rae+Jepsen/Emotion+(Deluxe)",
+      "date": "2015-10-08",
+      "tracks": 15
+    },
+    {
+      "title": "Fusion",
+      "artist": "Chick Corea",
+      "source": "https://www.last.fm/music/Chick+Corea/Fusion",
+      "date": "2015-10-09",
+      "tracks": 6
+    },
+    {
+      "title": "Jazz Is Now",
+      "artist": "Jon Batiste",
+      "source": "https://www.last.fm/music/Jon+Batiste/Jazz+Is+Now",
+      "date": "2015-10-09",
+      "tracks": 10
+    },
+    {
+      "title": "Kokomo Kidd",
+      "artist": "Guy Davis",
+      "source": "https://www.last.fm/music/Guy+Davis/Kokomo+Kidd",
+      "date": "2015-10-10",
+      "tracks": 13
+    },
+    {
+      "title": "Impression: Samurai Champloo OST",
+      "artist": "Force of Nature",
+      "source": "https://www.last.fm/music/Force+of+Nature/Impression%3A+Samurai+Champloo+OST",
+      "date": "2015-10-14",
+      "tracks": 7
+    },
+    {
+      "title": "IMPRESSION: Samurai Champloo OST",
+      "artist": "Nujabes",
+      "source": "https://www.last.fm/music/Nujabes/IMPRESSION%3A+Samurai+Champloo+OST",
+      "date": "2015-10-14",
+      "tracks": 6
+    },
+    {
+      "title": "Revival (Deluxe)",
+      "artist": "Selena Gomez",
+      "source": "https://www.last.fm/music/Selena+Gomez/Revival+(Deluxe)",
+      "date": "2015-10-14",
+      "tracks": 16
+    },
+    {
+      "title": "v2.0 (Deluxe Edition)",
+      "artist": "GoGo Penguin",
+      "source": "https://www.last.fm/music/GoGo+Penguin/v2.0+(Deluxe+Edition)",
+      "date": "2015-10-14",
+      "tracks": 13
+    },
+    {
+      "title": "Cowboy Bebop: CD-Box",
+      "artist": "Yoko Kanno and The Seatbelts",
+      "source": "https://www.last.fm/music/Yoko+Kanno+and+The+Seatbelts/Cowboy+Bebop%3A+CD-Box",
+      "date": "2015-10-17",
+      "tracks": 9
+    },
+    {
+      "title": "Let It Be… Naked",
+      "artist": "The Beatles",
+      "source": "https://www.last.fm/music/The+Beatles/Let+It+Be%E2%80%A6+Naked",
+      "date": "2015-10-17",
+      "tracks": 12
+    },
+    {
+      "title": "Sakamichi no Apollon",
+      "artist": "Yoko Kanno",
+      "source": "https://www.last.fm/music/Yoko+Kanno/Sakamichi+no+Apollon",
+      "date": "2015-10-17",
+      "tracks": 24
+    },
+    {
+      "title": "Band on the Run",
+      "artist": "Wings",
+      "source": "https://www.last.fm/music/Wings/Band+on+the+Run",
+      "date": "2015-10-18",
+      "tracks": 10
+    },
+    {
+      "title": "Brubeck Meets Bach",
+      "artist": "The Dave Brubeck Quartet",
+      "source": "https://www.last.fm/music/The+Dave+Brubeck+Quartet/Brubeck+Meets+Bach",
+      "date": "2015-10-18",
+      "tracks": 19
+    },
+    {
+      "title": "JuJu",
+      "artist": "Wayne Shorter",
+      "source": "https://www.last.fm/music/Wayne+Shorter/JuJu",
+      "date": "2015-10-18",
+      "tracks": 8
+    },
+    {
+      "title": "Just You, Just Me",
+      "artist": "Dave Brubeck",
+      "source": "https://www.last.fm/music/Dave+Brubeck/Just+You%2C+Just+Me",
+      "date": "2015-10-18",
+      "tracks": 12
+    },
+    {
+      "title": "Night Dreamer",
+      "artist": "Wayne Shorter",
+      "source": "https://www.last.fm/music/Wayne+Shorter/Night+Dreamer",
+      "date": "2015-10-18",
+      "tracks": 7
+    },
+    {
+      "title": "Plastic Ono Band",
+      "artist": "John Lennon",
+      "source": "https://www.last.fm/music/John+Lennon/Plastic+Ono+Band",
+      "date": "2015-10-18",
+      "tracks": 11
+    },
+    {
+      "title": "Chamber Music Of The New Jazz",
+      "artist": "Ahmad Jamal",
+      "source": "https://www.last.fm/music/Ahmad+Jamal/Chamber+Music+Of+The+New+Jazz",
+      "date": "2015-10-19",
+      "tracks": 9
+    },
+    {
+      "title": "Indestructible",
+      "artist": "Art Blakey & The Jazz Messengers",
+      "source": "https://www.last.fm/music/Art+Blakey+%26+The+Jazz+Messengers/Indestructible",
+      "date": "2015-10-19",
+      "tracks": 6
+    },
+    {
+      "title": "Mosaic",
+      "artist": "Art Blakey & The Jazz Messengers",
+      "source": "https://www.last.fm/music/Art+Blakey+%26+The+Jazz+Messengers/Mosaic",
+      "date": "2015-10-19",
+      "tracks": 4
+    },
+    {
+      "title": "Smoke Stack",
+      "artist": "Andrew Hill",
+      "source": "https://www.last.fm/music/Andrew+Hill/Smoke+Stack",
+      "date": "2015-10-19",
+      "tracks": 10
+    },
+    {
+      "title": "Solo Piano II",
+      "artist": "Chilly Gonzales",
+      "source": "https://www.last.fm/music/Chilly+Gonzales/Solo+Piano+II",
+      "date": "2015-10-19",
+      "tracks": 15
+    },
+    {
+      "title": "The Awakening",
+      "artist": "The Ahmad Jamal Trio",
+      "source": "https://www.last.fm/music/The+Ahmad+Jamal+Trio/The+Awakening",
+      "date": "2015-10-19",
+      "tracks": 7
+    },
+    {
+      "title": "Eastern Sounds",
+      "artist": "Yusef Lateef",
+      "source": "https://www.last.fm/music/Yusef+Lateef/Eastern+Sounds",
+      "date": "2015-10-20",
+      "tracks": 9
+    },
+    {
+      "title": "Social Music",
+      "artist": "Jon Batiste",
+      "date": "2015-10-20",
+      "tracks": 12,
+      "source": "https://www.last.fm/music/Jon+Batiste/Social+Music"
+    },
+    {
+      "title": "The Bespoke Man's Narrative",
+      "artist": "Aaron Diehl",
+      "source": "https://www.last.fm/music/Aaron+Diehl/The+Bespoke+Man's+Narrative",
+      "date": "2015-10-20",
+      "tracks": 5
+    },
+    {
+      "title": "The Bespoke Man's Narrative",
+      "artist": "Aaron Diehl",
+      "source": "https://www.last.fm/music/Aaron+Diehl/The+Bespoke+Man's+Narrative",
+      "date": "2015-10-21",
+      "tracks": 5
+    },
+    {
+      "title": "Cool Struttin'",
+      "artist": "Sonny Clark",
+      "source": "https://www.last.fm/music/Sonny+Clark/Cool+Struttin'",
+      "date": "2015-10-23",
+      "tracks": 6
+    },
+    {
+      "title": "Lead Belly's Gold",
+      "artist": "Eric Bibb / Jean-Jacques Milteau",
+      "source": "https://www.last.fm/music/Eric+Bibb+%2F+Jean-Jacques+Milteau/Lead+Belly's+Gold",
+      "date": "2015-10-23",
+      "tracks": 19
+    },
+    {
+      "title": "ONE",
+      "artist": "Be",
+      "source": "https://www.last.fm/music/Be/ONE",
+      "date": "2015-10-23",
+      "tracks": 4
+    },
+    {
+      "title": "High Voltage",
+      "artist": "AC/DC",
+      "source": "https://www.last.fm/music/AC%2FDC/High+Voltage",
+      "date": "2015-10-24",
+      "tracks": 9
+    },
+    {
+      "title": "Highway to Hell",
+      "artist": "AC/DC",
+      "source": "https://www.last.fm/music/AC%2FDC/Highway+to+Hell",
+      "date": "2015-10-24",
+      "tracks": 10
+    },
+    {
+      "title": "Idle Moments",
+      "artist": "Grant Green",
+      "source": "https://www.last.fm/music/Grant+Green/Idle+Moments",
+      "date": "2015-10-24",
+      "tracks": 6
+    },
+    {
+      "title": "<I°_°I>",
+      "artist": "Caravan Palace",
+      "source": "https://www.last.fm/music/Caravan+Palace/%3CI%C2%B0_%C2%B0I%3E",
+      "date": "2015-10-27",
+      "tracks": 17
+    },
+    {
+      "title": "Big Surprise",
+      "artist": "Becca Langsford",
+      "source": "https://www.last.fm/music/Becca+Langsford/Big+Surprise",
+      "date": "2015-10-27",
+      "tracks": 12
+    },
+    {
+      "title": "Eldar",
+      "artist": "Eldar Djangirov",
+      "source": "https://www.last.fm/music/Eldar+Djangirov/Eldar",
+      "date": "2015-10-27",
+      "tracks": 4
+    },
+    {
+      "title": "Get Rhythm",
+      "artist": "Ry Cooder",
+      "source": "https://www.last.fm/music/Ry+Cooder/Get+Rhythm",
+      "date": "2015-10-27",
+      "tracks": 9
+    },
+    {
+      "title": "Get Up!",
+      "artist": "Ben Harper / Charlie Musselwhite",
+      "source": "https://www.last.fm/music/Ben+Harper+%2F+Charlie+Musselwhite/Get+Up!",
+      "date": "2015-10-27",
+      "tracks": 10
+    },
+    {
+      "title": "I, Flathead",
+      "artist": "Ry Cooder",
+      "source": "https://www.last.fm/music/Ry+Cooder/I%2C+Flathead",
+      "date": "2015-10-27",
+      "tracks": 14
+    },
+    {
+      "title": "Into the Purple Valley",
+      "artist": "Ry Cooder",
+      "source": "https://www.last.fm/music/Ry+Cooder/Into+the+Purple+Valley",
+      "date": "2015-10-27",
+      "tracks": 10
+    },
+    {
+      "title": "Je me souviens",
+      "artist": "Yves Jamait",
+      "source": "https://www.last.fm/music/Yves+Jamait/Je+me+souviens",
+      "date": "2015-10-27",
+      "tracks": 5
+    },
+    {
+      "title": "Paradise and Lunch",
+      "artist": "Ry Cooder",
+      "source": "https://www.last.fm/music/Ry+Cooder/Paradise+and+Lunch",
+      "date": "2015-10-27",
+      "tracks": 9
+    },
+    {
+      "title": "Pull Up Some Dust and Sit Down",
+      "artist": "Ry Cooder",
+      "source": "https://www.last.fm/music/Ry+Cooder/Pull+Up+Some+Dust+and+Sit+Down",
+      "date": "2015-10-27",
+      "tracks": 6
+    },
+    {
+      "title": "Cowboy Bebop: CD-Box",
+      "artist": "Yoko Kanno & The Seatbelts",
+      "source": "https://www.last.fm/music/Yoko+Kanno+%26+The+Seatbelts/Cowboy+Bebop%3A+CD-Box",
+      "date": "2015-10-28",
+      "tracks": 10
+    },
+    {
+      "title": "Live at the Playboy Club, London",
+      "artist": "The Greg Foat Group",
+      "source": "https://www.last.fm/music/The+Greg+Foat+Group/Live+at+the+Playboy+Club%2C+London",
+      "date": "2015-10-28",
+      "tracks": 12
+    },
+    {
+      "title": "Samurai Champloo Music Record: Departure",
+      "artist": "Nujabes",
+      "source": "https://www.last.fm/music/Nujabes/Samurai+Champloo+Music+Record%3A+Departure",
+      "date": "2015-10-28",
+      "tracks": 3
+    },
+    {
+      "title": "Cowboy Bebop: CD-Box",
+      "artist": "Yoko Kanno & The Seatbelts",
+      "source": "https://www.last.fm/music/Yoko+Kanno+%26+The+Seatbelts/Cowboy+Bebop%3A+CD-Box",
+      "date": "2015-10-29",
+      "tracks": 16
+    },
+    {
+      "title": "Samurai Champloo Music Record: Departure",
+      "artist": "Fat Jon",
+      "source": "https://www.last.fm/music/Fat+Jon/Samurai+Champloo+Music+Record%3A+Departure",
+      "date": "2015-10-29",
+      "tracks": 10
+    },
+    {
+      "title": "Samurai Champloo Music Record: Impression",
+      "artist": "Force of Nature",
+      "source": "https://www.last.fm/music/Force+of+Nature/Samurai+Champloo+Music+Record%3A+Impression",
+      "date": "2015-10-29",
+      "tracks": 6
+    },
+    {
+      "title": "Samurai Champloo Music Record: Impression",
+      "artist": "Nujabes",
+      "source": "https://www.last.fm/music/Nujabes/Samurai+Champloo+Music+Record%3A+Impression",
+      "date": "2015-10-29",
+      "tracks": 8
+    },
+    {
+      "title": "Fanfares",
+      "artist": "GoGo Penguin",
+      "source": "https://www.last.fm/music/GoGo+Penguin/Fanfares",
+      "date": "2015-10-30",
+      "tracks": 7
+    },
+    {
+      "title": "Samurai Champloo Music Record: Impression",
+      "artist": "Fat Jon",
+      "source": "https://www.last.fm/music/Fat+Jon/Samurai+Champloo+Music+Record%3A+Impression",
+      "date": "2015-10-30",
+      "tracks": 6
+    },
+    {
+      "title": "Samurai Champloo Music Record: Masta",
+      "artist": "Force of Nature",
+      "source": "https://www.last.fm/music/Force+of+Nature/Samurai+Champloo+Music+Record%3A+Masta",
+      "date": "2015-10-30",
+      "tracks": 9
+    },
+    {
+      "title": "Samurai Champloo Music Record: Masta",
+      "artist": "Tsutchie",
+      "source": "https://www.last.fm/music/Tsutchie/Samurai+Champloo+Music+Record%3A+Masta",
+      "date": "2015-10-30",
+      "tracks": 9
+    },
+    {
+      "title": "70th Birthday Concert",
+      "artist": "John Mayall & The Bluesbreakers",
+      "source": "https://www.last.fm/music/John+Mayall+%26+The+Bluesbreakers/70th+Birthday+Concert",
+      "date": "2015-10-31",
+      "tracks": 19
+    },
+    {
+      "title": "It's a Holiday Soul Party",
+      "artist": "Sharon Jones & The Dap-Kings",
+      "source": "https://www.last.fm/music/Sharon+Jones+%26+The+Dap-Kings/It's+a+Holiday+Soul+Party",
+      "date": "2015-10-31",
+      "tracks": 11
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

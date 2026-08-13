@@ -1,0 +1,925 @@
+{
+  "albums": [
+    {
+      "title": "In Rock",
+      "artist": "Deep Purple",
+      "source": "https://www.last.fm/music/Deep+Purple/In+Rock",
+      "date": "2025-06-01",
+      "tracks": 7
+    },
+    {
+      "title": "Mirror Ball",
+      "artist": "Neil Young",
+      "source": "https://www.last.fm/music/Neil+Young/Mirror+Ball",
+      "date": "2025-06-01",
+      "tracks": 11
+    },
+    {
+      "title": "Nidi di Note",
+      "artist": "Paolo Fresu",
+      "source": "https://www.last.fm/music/Paolo+Fresu/Nidi+di+Note",
+      "date": "2025-06-01",
+      "tracks": 20
+    },
+    {
+      "title": "Raoul And The Kings Of Spain (Expanded Edition)",
+      "artist": "Tears for Fears",
+      "source": "https://www.last.fm/music/Tears+for+Fears/Raoul+And+The+Kings+Of+Spain+(Expanded+Edition)",
+      "date": "2025-06-01",
+      "tracks": 20
+    },
+    {
+      "title": "So I Write",
+      "artist": "Sidsel Endresen",
+      "source": "https://www.last.fm/music/Sidsel+Endresen/So+I+Write",
+      "date": "2025-06-01",
+      "tracks": 8
+    },
+    {
+      "title": "Travelogue",
+      "artist": "Danny Grissett",
+      "source": "https://www.last.fm/music/Danny+Grissett/Travelogue",
+      "date": "2025-06-01",
+      "tracks": 11
+    },
+    {
+      "title": "Fusion",
+      "artist": "Richard Steinbach",
+      "source": "https://www.last.fm/music/Richard+Steinbach/Fusion",
+      "date": "2025-06-02",
+      "tracks": 22
+    },
+    {
+      "title": "Manouche",
+      "artist": "Giacomo Smith",
+      "source": "https://www.last.fm/music/Giacomo+Smith/Manouche",
+      "date": "2025-06-02",
+      "tracks": 11
+    },
+    {
+      "title": "On Higher Dreams",
+      "artist": "iKE",
+      "source": "https://www.last.fm/music/iKE/On+Higher+Dreams",
+      "date": "2025-06-02",
+      "tracks": 10
+    },
+    {
+      "title": "Ones & Twos",
+      "artist": "Gerald Clayton",
+      "source": "https://www.last.fm/music/Gerald+Clayton/Ones+%26+Twos",
+      "date": "2025-06-02",
+      "tracks": 22
+    },
+    {
+      "title": "Al Di Meola & Friends “Vocal Rendezvous” (with Angie Stone, Beverley Knight, MC Solaar, Macy Gray, Xavier Naidoo, Bosson, Till Brönner & Leonid Agutin)",
+      "artist": "Al Di Meola",
+      "source": "https://www.last.fm/music/Al+Di+Meola/Al+Di+Meola+%26+Friends+%E2%80%9CVocal+Rendezvous%E2%80%9D+(with+Angie+Stone%2C+Beverley+Knight%2C+MC+Solaar%2C+Macy+Gray%2C+Xavier+Naidoo%2C+Bosson%2C+Till+Br%C3%B6nner+%26+Leonid+Agutin)",
+      "date": "2025-06-04",
+      "tracks": 12
+    },
+    {
+      "title": "Avant Blues",
+      "artist": "Bobby Previte",
+      "source": "https://www.last.fm/music/Bobby+Previte/Avant+Blues",
+      "date": "2025-06-04",
+      "tracks": 12
+    },
+    {
+      "title": "Expanding to One",
+      "artist": "Phi-Psonics",
+      "source": "https://www.last.fm/music/Phi-Psonics/Expanding+to+One",
+      "date": "2025-06-04",
+      "tracks": 9
+    },
+    {
+      "title": "Poets Of Forest",
+      "artist": "Arnaud Dolmen",
+      "source": "https://www.last.fm/music/Arnaud+Dolmen/Poets+Of+Forest",
+      "date": "2025-06-04",
+      "tracks": 9
+    },
+    {
+      "title": "Prospect Hill: The American Songster Omnibus",
+      "artist": "Dom Flemons",
+      "source": "https://www.last.fm/music/Dom+Flemons/Prospect+Hill%3A+The+American+Songster+Omnibus",
+      "date": "2025-06-04",
+      "tracks": 35
+    },
+    {
+      "title": "See You",
+      "artist": "Battista Lena",
+      "source": "https://www.last.fm/music/Battista+Lena/See+You",
+      "date": "2025-06-04",
+      "tracks": 3
+    },
+    {
+      "title": "SuperBlue: Guilty Pleasures Vol.2",
+      "artist": "Kurt Elling",
+      "source": "https://www.last.fm/music/Kurt+Elling/SuperBlue%3A+Guilty+Pleasures+Vol.2",
+      "date": "2025-06-04",
+      "tracks": 5
+    },
+    {
+      "title": "the sound of listening",
+      "artist": "Mark Guiliana",
+      "source": "https://www.last.fm/music/Mark+Guiliana/the+sound+of+listening",
+      "date": "2025-06-04",
+      "tracks": 10
+    },
+    {
+      "title": "Travelogue",
+      "artist": "Danny Grissett",
+      "source": "https://www.last.fm/music/Danny+Grissett/Travelogue",
+      "date": "2025-06-04",
+      "tracks": 10
+    },
+    {
+      "title": "Under a Familiar Sun",
+      "artist": "The Vernon Spring",
+      "source": "https://www.last.fm/music/The+Vernon+Spring/Under+a+Familiar+Sun",
+      "date": "2025-06-04",
+      "tracks": 12
+    },
+    {
+      "title": "VOLUME 1",
+      "artist": "mrcy",
+      "source": "https://www.last.fm/music/mrcy/VOLUME+1",
+      "date": "2025-06-04",
+      "tracks": 8
+    },
+    {
+      "title": "VOLUME 2",
+      "artist": "mrcy",
+      "source": "https://www.last.fm/music/mrcy/VOLUME+2",
+      "date": "2025-06-04",
+      "tracks": 8
+    },
+    {
+      "title": "Brothers in Arms",
+      "artist": "Dire Straits",
+      "source": "https://www.last.fm/music/Dire+Straits/Brothers+in+Arms",
+      "date": "2025-06-05",
+      "tracks": 9
+    },
+    {
+      "title": "Days of FreeMan",
+      "artist": "James Brandon Lewis",
+      "source": "https://www.last.fm/music/James+Brandon+Lewis/Days+of+FreeMan",
+      "date": "2025-06-05",
+      "tracks": 19
+    },
+    {
+      "title": "Earcandy",
+      "artist": "Miso Extra",
+      "source": "https://www.last.fm/music/Miso+Extra/Earcandy",
+      "date": "2025-06-05",
+      "tracks": 12
+    },
+    {
+      "title": "Expanding to One",
+      "artist": "Phi-Psonics",
+      "source": "https://www.last.fm/music/Phi-Psonics/Expanding+to+One",
+      "date": "2025-06-05",
+      "tracks": 5
+    },
+    {
+      "title": "GoGo Penguin",
+      "artist": "GoGo Penguin",
+      "source": "https://www.last.fm/music/GoGo+Penguin/GoGo+Penguin",
+      "date": "2025-06-05",
+      "tracks": 10
+    },
+    {
+      "title": "Jazziro",
+      "artist": "Jairo",
+      "source": "https://www.last.fm/music/Jairo/Jazziro",
+      "date": "2025-06-05",
+      "tracks": 13
+    },
+    {
+      "title": "Live In Montreal",
+      "artist": "Edmar Castañeda & Hiromi",
+      "source": "https://www.last.fm/music/Edmar+Casta%C3%B1eda+%26+Hiromi/Live+In+Montreal",
+      "date": "2025-06-05",
+      "tracks": 9
+    },
+    {
+      "title": "Nidi di Note",
+      "artist": "Paolo Fresu",
+      "source": "https://www.last.fm/music/Paolo+Fresu/Nidi+di+Note",
+      "date": "2025-06-05",
+      "tracks": 21
+    },
+    {
+      "title": "Night",
+      "artist": "Nils Frahm",
+      "source": "https://www.last.fm/music/Nils+Frahm/Night",
+      "date": "2025-06-05",
+      "tracks": 4
+    },
+    {
+      "title": "Nilam",
+      "artist": "Ganavya",
+      "source": "https://www.last.fm/music/Ganavya/Nilam",
+      "date": "2025-06-05",
+      "tracks": 7
+    },
+    {
+      "title": "Reflection Of Another Self",
+      "artist": "Milena Casado",
+      "source": "https://www.last.fm/music/Milena+Casado/Reflection+Of+Another+Self",
+      "date": "2025-06-05",
+      "tracks": 13
+    },
+    {
+      "title": "Souffles",
+      "artist": "NAÏSSAM JALAL",
+      "source": "https://www.last.fm/music/NA%C3%8FSSAM+JALAL/Souffles",
+      "date": "2025-06-05",
+      "tracks": 8
+    },
+    {
+      "title": "Can You See Me Now?",
+      "artist": "Amanda Whiting",
+      "source": "https://www.last.fm/music/Amanda+Whiting/Can+You+See+Me+Now%3F",
+      "date": "2025-06-06",
+      "tracks": 5
+    },
+    {
+      "title": "Fluide",
+      "artist": "Baptiste Trotignon",
+      "source": "https://www.last.fm/music/Baptiste+Trotignon/Fluide",
+      "date": "2025-06-06",
+      "tracks": 8
+    },
+    {
+      "title": "For The Love Of It All",
+      "artist": "Brandon Woody",
+      "source": "https://www.last.fm/music/Brandon+Woody/For+The+Love+Of+It+All",
+      "date": "2025-06-06",
+      "tracks": 6
+    },
+    {
+      "title": "Open Up Your Senses",
+      "artist": "Tyreek McDole",
+      "source": "https://www.last.fm/music/Tyreek+McDole/Open+Up+Your+Senses",
+      "date": "2025-06-06",
+      "tracks": 13
+    },
+    {
+      "title": "Silentium",
+      "artist": "Arvo Pärt",
+      "source": "https://www.last.fm/music/Arvo+P%C3%A4rt/Silentium",
+      "date": "2025-06-06",
+      "tracks": 4
+    },
+    {
+      "title": "The Copenhagen Sessions Vol. 1",
+      "artist": "Scandinavian Art ensemble",
+      "source": "https://www.last.fm/music/Scandinavian+Art+ensemble/The+Copenhagen+Sessions+Vol.+1",
+      "date": "2025-06-06",
+      "tracks": 5
+    },
+    {
+      "title": "X&Y",
+      "artist": "Coldplay",
+      "source": "https://www.last.fm/music/Coldplay/X%26Y",
+      "date": "2025-06-06",
+      "tracks": 11
+    },
+    {
+      "title": "Buena Vista Social Club",
+      "artist": "Original Broadway Cast of Buena Vista Social Club",
+      "source": "https://www.last.fm/music/Original+Broadway+Cast+of+Buena+Vista+Social+Club/Buena+Vista+Social+Club",
+      "date": "2025-06-07",
+      "tracks": 20
+    },
+    {
+      "title": "Echo",
+      "artist": "Emi Makabe",
+      "source": "https://www.last.fm/music/Emi+Makabe/Echo",
+      "date": "2025-06-07",
+      "tracks": 7
+    },
+    {
+      "title": "The Book of Isaiah: Modern Jazz Ministry",
+      "artist": "Isaiah J. Thompson",
+      "source": "https://www.last.fm/music/Isaiah+J.+Thompson/The+Book+of+Isaiah%3A+Modern+Jazz+Ministry",
+      "date": "2025-06-07",
+      "tracks": 8
+    },
+    {
+      "title": "cozy you (and other nice songs)",
+      "artist": "aron!",
+      "source": "https://www.last.fm/music/aron!/cozy+you+(and+other+nice+songs)",
+      "date": "2025-06-08",
+      "tracks": 6
+    },
+    {
+      "title": "Grace",
+      "artist": "Cyrus Chestnut",
+      "source": "https://www.last.fm/music/Cyrus+Chestnut/Grace",
+      "date": "2025-06-08",
+      "tracks": 12
+    },
+    {
+      "title": "Self Portrait",
+      "artist": "Bob Dylan",
+      "source": "https://www.last.fm/music/Bob+Dylan/Self+Portrait",
+      "date": "2025-06-08",
+      "tracks": 24
+    },
+    {
+      "title": "Spanish Serenades",
+      "artist": "Raphaël Feuillâtre",
+      "source": "https://www.last.fm/music/Rapha%C3%ABl+Feuill%C3%A2tre/Spanish+Serenades",
+      "date": "2025-06-08",
+      "tracks": 24
+    },
+    {
+      "title": "Black Codes (From The Underground)",
+      "artist": "Wynton Marsalis",
+      "source": "https://www.last.fm/music/Wynton+Marsalis/Black+Codes+(From+The+Underground)",
+      "date": "2025-06-09",
+      "tracks": 7
+    },
+    {
+      "title": "Can You See Me Now?",
+      "artist": "Amanda Whiting",
+      "source": "https://www.last.fm/music/Amanda+Whiting/Can+You+See+Me+Now%3F",
+      "date": "2025-06-09",
+      "tracks": 5
+    },
+    {
+      "title": "Elysium",
+      "artist": "Al Di Meola",
+      "source": "https://www.last.fm/music/Al+Di+Meola/Elysium",
+      "date": "2025-06-09",
+      "tracks": 14
+    },
+    {
+      "title": "Exploration",
+      "artist": "Calibro 35",
+      "source": "https://www.last.fm/music/Calibro+35/Exploration",
+      "date": "2025-06-09",
+      "tracks": 11
+    },
+    {
+      "title": "Warrior Princess",
+      "artist": "Matt Johnson",
+      "source": "https://www.last.fm/music/Matt+Johnson/Warrior+Princess",
+      "date": "2025-06-09",
+      "tracks": 11
+    },
+    {
+      "title": "Fables of the Reconstruction",
+      "artist": "R.E.M.",
+      "source": "https://www.last.fm/music/R.E.M./Fables+of+the+Reconstruction",
+      "date": "2025-06-10",
+      "tracks": 11
+    },
+    {
+      "title": "One Of These Nights (Hi-Res Version)",
+      "artist": "Eagles",
+      "source": "https://www.last.fm/music/Eagles/One+Of+These+Nights+(Hi-Res+Version)",
+      "date": "2025-06-10",
+      "tracks": 9
+    },
+    {
+      "title": "Mozart Paradox",
+      "artist": "Thomas Enhco",
+      "source": "https://www.last.fm/music/Thomas+Enhco/Mozart+Paradox",
+      "date": "2025-06-11",
+      "tracks": 12
+    },
+    {
+      "title": "New Vienna",
+      "artist": "Keith Jarrett",
+      "source": "https://www.last.fm/music/Keith+Jarrett/New+Vienna",
+      "date": "2025-06-11",
+      "tracks": 10
+    },
+    {
+      "title": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars",
+      "artist": "David Bowie",
+      "source": "https://www.last.fm/music/David+Bowie/The+Rise+and+Fall+of+Ziggy+Stardust+and+the+Spiders+From+Mars",
+      "date": "2025-06-11",
+      "tracks": 22
+    },
+    {
+      "title": "A Flash Of Cobalt Blue",
+      "artist": "Ines Velasco",
+      "source": "https://www.last.fm/music/Ines+Velasco/A+Flash+Of+Cobalt+Blue",
+      "date": "2025-06-12",
+      "tracks": 6
+    },
+    {
+      "title": "on the tender spot of every calloused moment",
+      "artist": "Ambrose Akinmusire",
+      "source": "https://www.last.fm/music/Ambrose+Akinmusire/on+the+tender+spot+of+every+calloused+moment",
+      "date": "2025-06-12",
+      "tracks": 11
+    },
+    {
+      "title": "Pick Me Up off the Floor",
+      "artist": "Norah Jones",
+      "source": "https://www.last.fm/music/Norah+Jones/Pick+Me+Up+off+the+Floor",
+      "date": "2025-06-12",
+      "tracks": 11
+    },
+    {
+      "title": "Shades of Chet - Remastered",
+      "artist": "Enrico Rava",
+      "source": "https://www.last.fm/music/Enrico+Rava/Shades+of+Chet+-+Remastered",
+      "date": "2025-06-12",
+      "tracks": 8
+    },
+    {
+      "title": "Still Shakin'",
+      "artist": "North Mississippi Allstars",
+      "source": "https://www.last.fm/music/North+Mississippi+Allstars/Still+Shakin'",
+      "date": "2025-06-12",
+      "tracks": 11
+    },
+    {
+      "title": "With A Song in My Heart",
+      "artist": "Denny Zeitlin",
+      "source": "https://www.last.fm/music/Denny+Zeitlin/With+A+Song+in+My+Heart",
+      "date": "2025-06-12",
+      "tracks": 11
+    },
+    {
+      "title": "A Sun Came (reissue)",
+      "artist": "Sufjan Stevens",
+      "source": "https://www.last.fm/music/Sufjan+Stevens/A+Sun+Came+(reissue)",
+      "date": "2025-06-13",
+      "tracks": 20
+    },
+    {
+      "title": "BEATrio",
+      "artist": "Béla Fleck",
+      "source": "https://www.last.fm/music/B%C3%A9la+Fleck/BEATrio",
+      "date": "2025-06-13",
+      "tracks": 11
+    },
+    {
+      "title": "big buraco",
+      "artist": "Jadsa",
+      "source": "https://www.last.fm/music/Jadsa/big+buraco",
+      "date": "2025-06-13",
+      "tracks": 12
+    },
+    {
+      "title": "Five Prayers",
+      "artist": "Joy Guidry",
+      "source": "https://www.last.fm/music/Joy+Guidry/Five+Prayers",
+      "date": "2025-06-13",
+      "tracks": 5
+    },
+    {
+      "title": "Gadabout Season",
+      "artist": "Brandee Younger",
+      "source": "https://www.last.fm/music/Brandee+Younger/Gadabout+Season",
+      "date": "2025-06-13",
+      "tracks": 10
+    },
+    {
+      "title": "Map of a Blue City",
+      "artist": "Marc Ribot",
+      "source": "https://www.last.fm/music/Marc+Ribot/Map+of+a+Blue+City",
+      "date": "2025-06-13",
+      "tracks": 9
+    },
+    {
+      "title": "PRINCESS OF POWER",
+      "artist": "Marina",
+      "source": "https://www.last.fm/music/Marina/PRINCESS+OF+POWER",
+      "date": "2025-06-13",
+      "tracks": 13
+    },
+    {
+      "title": "REQUESTS",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "source": "https://www.last.fm/music/Tsuyoshi+Yamamoto+Trio/REQUESTS",
+      "date": "2025-06-13",
+      "tracks": 7
+    },
+    {
+      "title": "Riding With the King",
+      "artist": "Eric Clapton",
+      "source": "https://www.last.fm/music/Eric+Clapton/Riding+With+the+King",
+      "date": "2025-06-13",
+      "tracks": 12
+    },
+    {
+      "title": "Room On The Porch",
+      "artist": "Taj Mahal & Keb’ Mo’",
+      "source": "https://www.last.fm/music/Taj+Mahal+%26+Keb%E2%80%99+Mo%E2%80%99/Room+On+The+Porch",
+      "date": "2025-06-13",
+      "tracks": 8
+    },
+    {
+      "title": "Thelonious Himself",
+      "artist": "Thelonious Monk",
+      "source": "https://www.last.fm/music/Thelonious+Monk/Thelonious+Himself",
+      "date": "2025-06-13",
+      "tracks": 8
+    },
+    {
+      "title": "The Eternal Dance",
+      "artist": "Earth, Wind & Fire",
+      "source": "https://www.last.fm/music/Earth%2C+Wind+%26+Fire/The+Eternal+Dance",
+      "date": "2025-06-14",
+      "tracks": 19
+    },
+    {
+      "title": "All The Quiet (Part II)",
+      "artist": "Joe Armon‐Jones",
+      "source": "https://www.last.fm/music/Joe+Armon%E2%80%90Jones/All+The+Quiet+(Part+II)",
+      "date": "2025-06-16",
+      "tracks": 10
+    },
+    {
+      "title": "Bach: The 6 English Suites",
+      "artist": "Francesco Tristano Schlimé",
+      "source": "https://www.last.fm/music/Francesco+Tristano+Schlim%C3%A9/Bach%3A+The+6+English+Suites",
+      "date": "2025-06-16",
+      "tracks": 46
+    },
+    {
+      "title": "Black Thunder",
+      "artist": "Brittany Davis",
+      "source": "https://www.last.fm/music/Brittany+Davis/Black+Thunder",
+      "date": "2025-06-16",
+      "tracks": 13
+    },
+    {
+      "title": "Motherland",
+      "artist": "Dieter Ilg",
+      "source": "https://www.last.fm/music/Dieter+Ilg/Motherland",
+      "date": "2025-06-16",
+      "tracks": 11
+    },
+    {
+      "title": "Neck And Neck",
+      "artist": "Chet Atkins & Mark Knopfler",
+      "source": "https://www.last.fm/music/Chet+Atkins+%26+Mark+Knopfler/Neck+And+Neck",
+      "date": "2025-06-16",
+      "tracks": 10
+    },
+    {
+      "title": "Voice in the Wilderness",
+      "artist": "Rob Clearfield",
+      "source": "https://www.last.fm/music/Rob+Clearfield/Voice+in+the+Wilderness",
+      "date": "2025-06-16",
+      "tracks": 9
+    },
+    {
+      "title": "Cyrille Aimée: 4 . 24",
+      "artist": "Cyrille Aimée",
+      "source": "https://www.last.fm/music/Cyrille+Aim%C3%A9e/Cyrille+Aim%C3%A9e%3A+4+.+24",
+      "date": "2025-06-17",
+      "tracks": 10
+    },
+    {
+      "title": "Dynamite",
+      "artist": "Jamiroquai",
+      "source": "https://www.last.fm/music/Jamiroquai/Dynamite",
+      "date": "2025-06-17",
+      "tracks": 12
+    },
+    {
+      "title": "Just Feelin'",
+      "artist": "McCoy Tyner",
+      "source": "https://www.last.fm/music/McCoy+Tyner/Just+Feelin'",
+      "date": "2025-06-17",
+      "tracks": 6
+    },
+    {
+      "title": "Keepers of the Eastern Door",
+      "artist": "Chris Cheek",
+      "source": "https://www.last.fm/music/Chris+Cheek/Keepers+of+the+Eastern+Door",
+      "date": "2025-06-17",
+      "tracks": 8
+    },
+    {
+      "title": "Paraphrases de salon",
+      "artist": "Ruben Micieli",
+      "source": "https://www.last.fm/music/Ruben+Micieli/Paraphrases+de+salon",
+      "date": "2025-06-17",
+      "tracks": 9
+    },
+    {
+      "title": "About Ghosts",
+      "artist": "Mary Halvorson",
+      "source": "https://www.last.fm/music/Mary+Halvorson/About+Ghosts",
+      "date": "2025-06-18",
+      "tracks": 8
+    },
+    {
+      "title": "Crazy People Music",
+      "artist": "Branford Marsalis",
+      "source": "https://www.last.fm/music/Branford+Marsalis/Crazy+People+Music",
+      "date": "2025-06-18",
+      "tracks": 7
+    },
+    {
+      "title": "Music For Lovers, Music Versus Time",
+      "artist": "F.S. Blumm",
+      "source": "https://www.last.fm/music/F.S.+Blumm/Music+For+Lovers%2C+Music+Versus+Time",
+      "date": "2025-06-18",
+      "tracks": 9
+    },
+    {
+      "title": "HIStory: Past, Present and Future, Book I",
+      "artist": "Michael Jackson",
+      "source": "https://www.last.fm/music/Michael+Jackson/HIStory%3A+Past%2C+Present+and+Future%2C+Book+I",
+      "date": "2025-06-19",
+      "tracks": 30
+    },
+    {
+      "title": "Not Our First Goat Rodeo",
+      "artist": "Yo-Yo Ma",
+      "source": "https://www.last.fm/music/Yo-Yo+Ma/Not+Our+First+Goat+Rodeo",
+      "date": "2025-06-19",
+      "tracks": 6
+    },
+    {
+      "title": "Roy Ayers JID002",
+      "artist": "Roy Ayers, Adrian Younge & Ali Shaheed Muhammad",
+      "source": "https://www.last.fm/music/Roy+Ayers%2C+Adrian+Younge+%26+Ali+Shaheed+Muhammad/Roy+Ayers+JID002",
+      "date": "2025-06-19",
+      "tracks": 8
+    },
+    {
+      "title": "Abstraction Is Deliverance",
+      "artist": "James Brandon Lewis Quartet",
+      "source": "https://www.last.fm/music/James+Brandon+Lewis+Quartet/Abstraction+Is+Deliverance",
+      "date": "2025-06-20",
+      "tracks": 9
+    },
+    {
+      "title": "Not Our First Goat Rodeo",
+      "artist": "Yo-Yo Ma",
+      "source": "https://www.last.fm/music/Yo-Yo+Ma/Not+Our+First+Goat+Rodeo",
+      "date": "2025-06-20",
+      "tracks": 4
+    },
+    {
+      "title": "Saved",
+      "artist": "Bob Dylan",
+      "source": "https://www.last.fm/music/Bob+Dylan/Saved",
+      "date": "2025-06-20",
+      "tracks": 8
+    },
+    {
+      "title": "Songlines / Night & Blue",
+      "artist": "Paolo Fresu",
+      "source": "https://www.last.fm/music/Paolo+Fresu/Songlines+%2F+Night+%26+Blue",
+      "date": "2025-06-20",
+      "tracks": 21
+    },
+    {
+      "title": "Tonight's the Night",
+      "artist": "Neil Young",
+      "source": "https://www.last.fm/music/Neil+Young/Tonight's+the+Night",
+      "date": "2025-06-20",
+      "tracks": 12
+    },
+    {
+      "title": "Emotional Rescue",
+      "artist": "The Rolling Stones",
+      "source": "https://www.last.fm/music/The+Rolling+Stones/Emotional+Rescue",
+      "date": "2025-06-23",
+      "tracks": 9
+    },
+    {
+      "title": "Just Passing Through",
+      "artist": "Tommy Emmanuel",
+      "source": "https://www.last.fm/music/Tommy+Emmanuel/Just+Passing+Through",
+      "date": "2025-06-23",
+      "tracks": 18
+    },
+    {
+      "title": "Sandström: Sonnets Of Darkness And Love",
+      "artist": "Nils Landgren",
+      "source": "https://www.last.fm/music/Nils+Landgren/Sandstr%C3%B6m%3A+Sonnets+Of+Darkness+And+Love",
+      "date": "2025-06-23",
+      "tracks": 11
+    },
+    {
+      "title": "This Time",
+      "artist": "Marty Ehrlich Trio Exaltation",
+      "source": "https://www.last.fm/music/Marty+Ehrlich+Trio+Exaltation/This+Time",
+      "date": "2025-06-23",
+      "tracks": 9
+    },
+    {
+      "title": "Unicorn and Flexibility",
+      "artist": "Sylvain Darrifourcq",
+      "source": "https://www.last.fm/music/Sylvain+Darrifourcq/Unicorn+and+Flexibility",
+      "date": "2025-06-23",
+      "tracks": 7
+    },
+    {
+      "title": "Buena Vista Social Club",
+      "artist": "Buena Vista Social Club",
+      "source": "https://www.last.fm/music/Buena+Vista+Social+Club/Buena+Vista+Social+Club",
+      "date": "2025-06-24",
+      "tracks": 14
+    },
+    {
+      "title": "Buena Vista Social Club",
+      "artist": "Original Broadway Cast of Buena Vista Social Club",
+      "source": "https://www.last.fm/music/Original+Broadway+Cast+of+Buena+Vista+Social+Club/Buena+Vista+Social+Club",
+      "date": "2025-06-24",
+      "tracks": 21
+    },
+    {
+      "title": "Marca Passo",
+      "artist": "Azymuth",
+      "source": "https://www.last.fm/music/Azymuth/Marca+Passo",
+      "date": "2025-06-24",
+      "tracks": 11
+    },
+    {
+      "title": "On Higher Dreams",
+      "artist": "iKE",
+      "source": "https://www.last.fm/music/iKE/On+Higher+Dreams",
+      "date": "2025-06-24",
+      "tracks": 9
+    },
+    {
+      "title": "Shifting Lights",
+      "artist": "Laurent Coulondre",
+      "source": "https://www.last.fm/music/Laurent+Coulondre/Shifting+Lights",
+      "date": "2025-06-24",
+      "tracks": 11
+    },
+    {
+      "title": "Empty Houses",
+      "artist": "Canadian Guitar Quartet",
+      "source": "https://www.last.fm/music/Canadian+Guitar+Quartet/Empty+Houses",
+      "date": "2025-06-25",
+      "tracks": 14
+    },
+    {
+      "title": "I quit",
+      "artist": "HAIM",
+      "source": "https://www.last.fm/music/HAIM/I+quit",
+      "date": "2025-06-25",
+      "tracks": 3
+    },
+    {
+      "title": "Midnight Wave",
+      "artist": "Greg Foat",
+      "source": "https://www.last.fm/music/Greg+Foat/Midnight+Wave",
+      "date": "2025-06-25",
+      "tracks": 9
+    },
+    {
+      "title": "Necessary Fictions",
+      "artist": "GoGo Penguin",
+      "source": "https://www.last.fm/music/GoGo+Penguin/Necessary+Fictions",
+      "date": "2025-06-25",
+      "tracks": 12
+    },
+    {
+      "title": "Words Fall Short",
+      "artist": "Joshua Redman",
+      "source": "https://www.last.fm/music/Joshua+Redman/Words+Fall+Short",
+      "date": "2025-06-25",
+      "tracks": 5
+    },
+    {
+      "title": "Call for Winter",
+      "artist": "Daniel Herskedal",
+      "source": "https://www.last.fm/music/Daniel+Herskedal/Call+for+Winter",
+      "date": "2025-06-26",
+      "tracks": 12
+    },
+    {
+      "title": "Horizon",
+      "artist": "Resavoir",
+      "source": "https://www.last.fm/music/Resavoir/Horizon",
+      "date": "2025-06-26",
+      "tracks": 10
+    },
+    {
+      "title": "Live At The BBC",
+      "artist": "Dire Straits",
+      "source": "https://www.last.fm/music/Dire+Straits/Live+At+The+BBC",
+      "date": "2025-06-26",
+      "tracks": 8
+    },
+    {
+      "title": "Words Fall Short",
+      "artist": "Joshua Redman",
+      "source": "https://www.last.fm/music/Joshua+Redman/Words+Fall+Short",
+      "date": "2025-06-26",
+      "tracks": 3
+    },
+    {
+      "title": "IBERIA - EP",
+      "artist": "Avi Avital",
+      "source": "https://www.last.fm/music/Avi+Avital/IBERIA+-+EP",
+      "date": "2025-06-27",
+      "tracks": 4
+    },
+    {
+      "title": "Adrian Younge presents In Another Life",
+      "artist": "Bilal",
+      "source": "https://www.last.fm/music/Bilal/Adrian+Younge+presents+In+Another+Life",
+      "date": "2025-06-30",
+      "tracks": 12
+    },
+    {
+      "title": "Boleros Psicodélicos II",
+      "artist": "Adrian Quesada",
+      "source": "https://www.last.fm/music/Adrian+Quesada/Boleros+Psicod%C3%A9licos+II",
+      "date": "2025-06-30",
+      "tracks": 12
+    },
+    {
+      "title": "Dream Manifest",
+      "artist": "Theo Croker",
+      "source": "https://www.last.fm/music/Theo+Croker/Dream+Manifest",
+      "date": "2025-06-30",
+      "tracks": 9
+    },
+    {
+      "title": "Elemental",
+      "artist": "Dee Dee Bridgewater",
+      "source": "https://www.last.fm/music/Dee+Dee+Bridgewater/Elemental",
+      "date": "2025-06-30",
+      "tracks": 9
+    },
+    {
+      "title": "Gadabout Season",
+      "artist": "Brandee Younger",
+      "source": "https://www.last.fm/music/Brandee+Younger/Gadabout+Season",
+      "date": "2025-06-30",
+      "tracks": 10
+    },
+    {
+      "title": "Satie: Discoveries",
+      "artist": "Alexandre Tharaud",
+      "source": "https://www.last.fm/music/Alexandre+Tharaud/Satie%3A+Discoveries",
+      "date": "2025-06-30",
+      "tracks": 13
+    },
+    {
+      "title": "The Game",
+      "artist": "Queen",
+      "source": "https://www.last.fm/music/Queen/The+Game",
+      "date": "2025-06-30",
+      "tracks": 10
+    }
+  ],
+  "books": [
+    {
+      "title": "Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist",
+      "author": "Liz Pelly",
+      "rating": 3,
+      "date": "2025-06-01"
+    },
+    {
+      "title": "Bibliophobia: A Memoir",
+      "author": "Sarah Chihaya",
+      "rating": 4,
+      "date": "2025-06-17"
+    }
+  ],
+  "films": [
+    {
+      "title": "Flow",
+      "year": 2024,
+      "rating": 4,
+      "source": "https://boxd.it/a4BaiJ",
+      "date": "2025-06-21",
+      "director": "Gints Zilbalodis"
+    },
+    {
+      "title": "F1",
+      "year": 2025,
+      "rating": 4,
+      "source": "https://boxd.it/aa3lxr",
+      "date": "2025-06-29",
+      "director": "Joseph Kosinski"
+    }
+  ],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2025-06-25",
+      "date": "2025-06-25",
+      "count": 10
+    },
+    {
+      "title": "contributions du 2025-06-26",
+      "date": "2025-06-26",
+      "count": 4
+    }
+  ]
+}

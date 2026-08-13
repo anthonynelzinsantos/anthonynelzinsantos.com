@@ -1,0 +1,90 @@
+name: Maintenant
+
+on:
+  push:
+    branches: main
+  schedule:
+    - cron: "15 17 * * 5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: maintenant
+  cancel-in-progress: false
+
+env:
+  HUGO_CACHEDIR: /tmp/hugo_cache
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Install Node
+        uses: actions/setup-node@v4
+        with: { node-version: "22" }
+
+      - name: Harvest
+        if: github.event_name != 'push'
+        env:
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          LASTFM_USER: ${{ secrets.LASTFM_USER }}
+          LETTERBOXD_USER: ${{ secrets.LETTERBOXD_USER }}
+        run: |
+          node scripts/harvest-lastfm.mjs
+          node scripts/harvest-letterboxd.mjs
+          node scripts/harvest-feeds.mjs
+          node scripts/harvest-github.mjs
+
+      - name: Enrich films
+        if: github.event_name != 'push'
+        run: node scripts/enrich-films.mjs
+
+      - name: Write pages
+        if: github.event_name != 'push'
+        run: node scripts/build-months.mjs
+
+      - name: Commit
+        if: github.event_name != 'push'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add archive content/maintenant
+          git diff --staged --quiet || git commit -m "chore: weekly harvest"
+          git push
+
+      - name: Cache resources
+        uses: actions/cache@v4
+        with:
+          path: |
+            ${{ env.HUGO_CACHEDIR }}
+            resources/_gen
+          key: ${{ runner.os }}-hugo-${{ hashFiles('assets/**', 'content/**/*.jpg') }}
+          restore-keys: |
+            ${{ runner.os }}-hugo-
+
+      - name: Install Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: latest
+          extended: true
+
+      - name: Build site
+        run: hugo --minify
+
+      - name: Deploy site
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
+        with:
+          protocol: ftps
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          server-dir: ${{ secrets.FTP_REMOTE_DIR }}
+          local-dir: ./public/

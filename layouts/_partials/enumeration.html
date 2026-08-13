@@ -1,0 +1,7 @@
+{{ $c := .Content }}
+{{ $c = replaceRE `(?s)<!--\s*archive:(?:début|fin)\s*-->` "" $c }}
+{{ $c = replaceRE `(?s)</ul>\s*<ul>` "" $c }}
+{{ $c = replaceRE `([^A-ZÀ-Þ])[.;\s\x{00A0}\x{202F}]+</li>` "${1}</li>" $c }}
+{{ $c = replaceRE `</li>` "&#8239;;</li>" $c }}
+{{ $c = replaceRE `(?s)\.?&#8239;;</li>(\s*)</ul>` ".</li>${1}</ul>" $c }}
+<div class="enumeration">{{ $c | safeHTML }}</div>

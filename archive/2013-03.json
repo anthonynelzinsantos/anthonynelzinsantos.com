@@ -1,0 +1,156 @@
+{
+  "albums": [
+    {
+      "title": "Greatest Hits",
+      "artist": "Al Green",
+      "source": "https://www.last.fm/music/Al+Green/Greatest+Hits",
+      "date": "2013-03-05",
+      "tracks": 10
+    },
+    {
+      "title": "Innocence [OST]",
+      "artist": "Kenji Kawai",
+      "source": "https://www.last.fm/music/Kenji+Kawai/Innocence+%5BOST%5D",
+      "date": "2013-03-05",
+      "tracks": 11
+    },
+    {
+      "title": "Requiem for a Dream",
+      "artist": "Kronos Quartet",
+      "source": "https://www.last.fm/music/Kronos+Quartet/Requiem+for+a+Dream",
+      "date": "2013-03-05",
+      "tracks": 40
+    },
+    {
+      "title": "The Genius Hits the Road",
+      "artist": "Ray Charles",
+      "source": "https://www.last.fm/music/Ray+Charles/The+Genius+Hits+the+Road",
+      "date": "2013-03-05",
+      "tracks": 22
+    },
+    {
+      "title": "Bandit",
+      "artist": "Pamela Hute",
+      "source": "https://www.last.fm/music/Pamela+Hute/Bandit",
+      "date": "2013-03-09",
+      "tracks": 11
+    },
+    {
+      "title": "Jazz på svenska",
+      "artist": "Jan Johansson",
+      "source": "https://www.last.fm/music/Jan+Johansson/Jazz+p%C3%A5+svenska",
+      "date": "2013-03-09",
+      "tracks": 3
+    },
+    {
+      "title": "People, Hell and Angels",
+      "artist": "Jimi Hendrix",
+      "source": "https://www.last.fm/music/Jimi+Hendrix/People%2C+Hell+and+Angels",
+      "date": "2013-03-10",
+      "tracks": 17
+    },
+    {
+      "title": "Jazz på svenska",
+      "artist": "Jan Johansson",
+      "date": "2013-03-11",
+      "tracks": 33,
+      "source": "https://www.last.fm/music/Jan+Johansson/Jazz+p%C3%A5+svenska"
+    },
+    {
+      "title": "J Mood",
+      "artist": "Wynton Marsalis",
+      "source": "https://www.last.fm/music/Wynton+Marsalis/J+Mood",
+      "date": "2013-03-13",
+      "tracks": 5
+    },
+    {
+      "title": "J Mood",
+      "artist": "Wynton Marsalis",
+      "source": "https://www.last.fm/music/Wynton+Marsalis/J+Mood",
+      "date": "2013-03-15",
+      "tracks": 7
+    },
+    {
+      "title": "Old Sock",
+      "artist": "Eric Clapton",
+      "source": "https://www.last.fm/music/Eric+Clapton/Old+Sock",
+      "date": "2013-03-15",
+      "tracks": 15
+    },
+    {
+      "title": "Play The Blues (Live From Jazz At Lincoln Center)",
+      "artist": "Wynton Marsalis / Eric Clapton",
+      "source": "https://www.last.fm/music/Wynton+Marsalis+%2F+Eric+Clapton/Play+The+Blues+(Live+From+Jazz+At+Lincoln+Center)",
+      "date": "2013-03-15",
+      "tracks": 10
+    },
+    {
+      "title": "The Majesty Of The Blues",
+      "artist": "Wynton Marsalis",
+      "source": "https://www.last.fm/music/Wynton+Marsalis/The+Majesty+Of+The+Blues",
+      "date": "2013-03-15",
+      "tracks": 3
+    },
+    {
+      "title": "Old Sock",
+      "artist": "Eric Clapton",
+      "date": "2013-03-17",
+      "tracks": 10,
+      "source": "https://www.last.fm/music/Eric+Clapton/Old+Sock"
+    },
+    {
+      "title": "Old Sock",
+      "artist": "Eric Clapton",
+      "date": "2013-03-18",
+      "tracks": 10,
+      "source": "https://www.last.fm/music/Eric+Clapton/Old+Sock"
+    },
+    {
+      "title": "In a Time Lapse",
+      "artist": "Ludovico Einaudi",
+      "source": "https://www.last.fm/music/Ludovico+Einaudi/In+a+Time+Lapse",
+      "date": "2013-03-19",
+      "tracks": 13
+    },
+    {
+      "title": "Jazz på svenska",
+      "artist": "Jan Johansson",
+      "date": "2013-03-19",
+      "tracks": 16,
+      "source": "https://www.last.fm/music/Jan+Johansson/Jazz+p%C3%A5+svenska"
+    },
+    {
+      "title": "Bandit",
+      "artist": "Pamela Hute",
+      "source": "https://www.last.fm/music/Pamela+Hute/Bandit",
+      "date": "2013-03-22",
+      "tracks": 10
+    },
+    {
+      "title": "Kind of Blue",
+      "artist": "Miles Davis",
+      "source": "https://www.last.fm/music/Miles+Davis/Kind+of+Blue",
+      "date": "2013-03-22",
+      "tracks": 6
+    },
+    {
+      "title": "Live à Fip",
+      "artist": "Eric Bibb",
+      "source": "https://www.last.fm/music/Eric+Bibb/Live+%C3%A0+Fip",
+      "date": "2013-03-26",
+      "tracks": 10
+    },
+    {
+      "title": "Live à Fip",
+      "artist": "Eric Bibb",
+      "date": "2013-03-28",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/Eric+Bibb/Live+%C3%A0+Fip"
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

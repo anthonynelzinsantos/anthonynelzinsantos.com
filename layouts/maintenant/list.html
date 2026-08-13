@@ -1,0 +1,81 @@
+{{ define "main" }}
+<article class="page">
+	{{ partial "masthead.html" . }}
+
+	{{ $latest := index (sort .Pages "Date" "desc") 0 }}
+	{{ with $latest }}
+		{{ partial "month-preview.html" (dict
+			"month" .
+			"modifier" "lead"
+			"linkURL" .RelPermalink
+			"linkText" "La page du mois") }}
+	{{ end }}
+
+	{{ $pages := .Pages }}
+	{{ $initials := slice "J" "F" "M" "A" "M" "J" "J" "A" "S" "O" "N" "D" }}
+	{{ $names := slice "janvier" "février" "mars" "avril" "mai" "juin" "juillet" "aout" "septembre" "octobre" "novembre" "décembre" }}
+
+	{{ $byMonth := dict }}
+	{{ $max := 1 }}
+	{{ $years := slice }}
+	{{ range $pages }}
+		{{ $t := 0 }}
+		{{ $c := partial "tally.html" . }}
+		{{ range $c }}{{ $t = add $t (int .) }}{{ end }}
+		{{ $byMonth = merge $byMonth (dict .Params.month (dict "p" . "n" $t)) }}
+		{{ if gt $t $max }}{{ $max = $t }}{{ end }}
+		{{ $y := int (substr .Params.month 0 4) }}
+		{{ if not (in $years $y) }}{{ $years = $years | append $y }}{{ end }}
+	{{ end }}
+
+	{{ $years = sort $years }}
+	{{ $span := slice }}
+	{{ range seq (index $years 0) (index $years (sub (len $years) 1)) }}
+		{{ $span = $span | append . }}
+	{{ end }}
+
+	<section class="grid">
+		<p class="label"><span>Avant</span></p>
+		<table class="record">
+			<caption class="sr">Nombre de livres, films, albums, photos et publications par mois</caption>
+			<thead>
+				<tr><td></td>{{ range $i, $a := $initials }}<th scope="col" abbr="{{ index $names $i }}">{{ $a }}</th>{{ end }}</tr>
+			</thead>
+			<tbody>
+				{{ range $span }}
+					{{ $year := . }}
+					<tr>
+						<th scope="row" class="record__year">{{ $year }}</th>
+						{{ range $m := seq 1 12 }}
+							{{ $key := printf "%d-%02d" $year $m }}
+							{{ with index $byMonth $key }}
+								{{ $d := div (mul .n 1.0) $max }}
+								{{ $tally := partial "tally.html" .p }}
+								{{ $parts := slice }}
+								{{ range partial "tally-order.html" $tally }}
+									{{ $v := index $tally . }}
+									{{ if $v }}
+										{{ $parts = $parts | append (printf "%v %s" $v (partial "tally-label.html" (dict "key" . "count" $v))) }}
+									{{ end }}
+								{{ end }}
+								{{ $detail := printf "%s — %v %s : %s" .p.Title .n (i18n "entries" .n) (delimit $parts ", ") }}
+								<td class="record__cell{{ if lt $d 0.45 }} record__cell--light{{ end }}" style="--d: {{ $d }}">
+									<a href="{{ .p.RelPermalink }}" title="{{ $detail }}">
+										<span aria-hidden="true">{{ .n }}</span>
+										<span class="sr">{{ $detail }}</span>
+									</a>
+								</td>
+							{{ else }}
+								<td class="record__empty"><span class="sr">rien</span></td>
+							{{ end }}
+						{{ end }}
+					</tr>
+				{{ end }}
+			</tbody>
+		</table>
+	</section>
+
+	{{ with .Content }}<div class="prose prose--note">{{ . }}</div>{{ end }}
+
+</article>
+{{ end }}

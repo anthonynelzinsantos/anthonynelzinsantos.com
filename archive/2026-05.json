@@ -1,0 +1,371 @@
+{
+  "albums": [
+    {
+      "title": "A Time For Love",
+      "artist": "Stacey Kent",
+      "source": "https://www.last.fm/music/Stacey+Kent/A+Time+For+Love",
+      "date": "2026-05-01",
+      "tracks": 10
+    },
+    {
+      "title": "Diavola",
+      "artist": "Gabrielle Cavassa",
+      "source": "https://www.last.fm/music/Gabrielle+Cavassa/Diavola",
+      "date": "2026-05-01",
+      "tracks": 10
+    },
+    {
+      "title": "Glass: Echoes",
+      "artist": "Célia Oneto Bensaid",
+      "source": "https://www.last.fm/music/C%C3%A9lia+Oneto+Bensaid/Glass%3A+Echoes",
+      "date": "2026-05-01",
+      "tracks": 10
+    },
+    {
+      "title": "Jam in the Van",
+      "artist": "Cory Henry & the Funk Apostles",
+      "source": "https://www.last.fm/music/Cory+Henry+%26+the+Funk+Apostles/Jam+in+the+Van",
+      "date": "2026-05-01",
+      "tracks": 3
+    },
+    {
+      "title": "Warp & Weft",
+      "artist": "Christophe Panzani & Ziv Ravitz",
+      "source": "https://www.last.fm/music/Christophe+Panzani+%26+Ziv+Ravitz/Warp+%26+Weft",
+      "date": "2026-05-01",
+      "tracks": 11
+    },
+    {
+      "title": "Kammerkonzert",
+      "artist": "Squarepusher",
+      "source": "https://www.last.fm/music/Squarepusher/Kammerkonzert",
+      "date": "2026-05-02",
+      "tracks": 14
+    },
+    {
+      "title": "My Kind of Music",
+      "artist": "Rickey Kelly",
+      "source": "https://www.last.fm/music/Rickey+Kelly/My+Kind+of+Music",
+      "date": "2026-05-02",
+      "tracks": 6
+    },
+    {
+      "title": "Peregrine",
+      "artist": "Peter Erskine, Alan Pasqua & Scott Colley",
+      "source": "https://www.last.fm/music/Peter+Erskine%2C+Alan+Pasqua+%26+Scott+Colley/Peregrine",
+      "date": "2026-05-02",
+      "tracks": 11
+    },
+    {
+      "title": "Triological",
+      "artist": "Ben Allison, Steve Cardenas & Ted Nash",
+      "source": "https://www.last.fm/music/Ben+Allison%2C+Steve+Cardenas+%26+Ted+Nash/Triological",
+      "date": "2026-05-02",
+      "tracks": 5
+    },
+    {
+      "title": "Vol.II",
+      "artist": "Angine de poitrine",
+      "source": "https://www.last.fm/music/Angine+de+poitrine/Vol.II",
+      "date": "2026-05-02",
+      "tracks": 6
+    },
+    {
+      "title": "Caldeira",
+      "artist": "Mario Canonge, Arnaud Dolmen & Michel Alibo",
+      "source": "https://www.last.fm/music/Mario+Canonge%2C+Arnaud+Dolmen+%26+Michel+Alibo/Caldeira",
+      "date": "2026-05-03",
+      "tracks": 12
+    },
+    {
+      "title": "Garden of Silences",
+      "artist": "Clément Janinet",
+      "source": "https://www.last.fm/music/Cl%C3%A9ment+Janinet/Garden+of+Silences",
+      "date": "2026-05-03",
+      "tracks": 20
+    },
+    {
+      "title": "Più Avanti!",
+      "artist": "Giovanni Mirabassi",
+      "source": "https://www.last.fm/music/Giovanni+Mirabassi/Pi%C3%B9+Avanti!",
+      "date": "2026-05-03",
+      "tracks": 16
+    },
+    {
+      "title": "A Great Day In Newcastle",
+      "artist": "Knats",
+      "source": "https://www.last.fm/music/Knats/A+Great+Day+In+Newcastle",
+      "date": "2026-05-05",
+      "tracks": 9
+    },
+    {
+      "title": "Coyote Makes a World",
+      "artist": "Lone Eagle",
+      "source": "https://www.last.fm/music/Lone+Eagle/Coyote+Makes+a+World",
+      "date": "2026-05-05",
+      "tracks": 4
+    },
+    {
+      "title": "Thee They Thy",
+      "artist": "Judith Berkson, Trevor Dunn & Gerald Cleaver",
+      "source": "https://www.last.fm/music/Judith+Berkson%2C+Trevor+Dunn+%26+Gerald+Cleaver/Thee+They+Thy",
+      "date": "2026-05-05",
+      "tracks": 10
+    },
+    {
+      "title": "Wild Things",
+      "artist": "Jiyu",
+      "source": "https://www.last.fm/music/Jiyu/Wild+Things",
+      "date": "2026-05-05",
+      "tracks": 7
+    },
+    {
+      "title": "Sleep With One Eye Open",
+      "artist": "Chris Thile & Michael Daves",
+      "source": "https://www.last.fm/music/Chris+Thile/Sleep+With+One+Eye+Open",
+      "date": "2026-05-06",
+      "tracks": 16
+    },
+    {
+      "title": "No Time for Poetry",
+      "artist": "The Saxophones",
+      "source": "https://www.last.fm/music/The+Saxophones/No+Time+for+Poetry",
+      "date": "2026-05-07",
+      "tracks": 10
+    },
+    {
+      "title": "That’s Him!",
+      "artist": "Abbey Lincoln",
+      "source": "https://www.last.fm/music/Abbey+Lincoln/That%E2%80%99s+Him!",
+      "date": "2026-05-07",
+      "tracks": 7
+    },
+    {
+      "title": "That’s My Story: John Lee Hooker Sings The Blues",
+      "artist": "John Lee Hooker",
+      "source": "https://www.last.fm/music/John+Lee+Hooker/That%E2%80%99s+My+Story%3A+John+Lee+Hooker+Sings+The+Blues",
+      "date": "2026-05-07",
+      "tracks": 12
+    },
+    {
+      "title": "Voyage of the Faithful",
+      "artist": "Julian Joseph",
+      "source": "https://www.last.fm/music/Julian+Joseph/Voyage+of+the+Faithful",
+      "date": "2026-05-07",
+      "tracks": 10
+    },
+    {
+      "title": "12 Songs",
+      "artist": "Randy Newman",
+      "source": "https://www.last.fm/music/Randy+Newman/12+Songs",
+      "date": "2026-05-09",
+      "tracks": 12
+    },
+    {
+      "title": "Blank Slate, Open Space",
+      "artist": "Alaskan Tapes & Blu Miles",
+      "source": "https://www.last.fm/music/Alaskan+Tapes+%26+Blu+Miles/Blank+Slate%2C+Open+Space",
+      "date": "2026-05-10",
+      "tracks": 7
+    },
+    {
+      "title": "Pearls",
+      "artist": "Pearls",
+      "source": "https://www.last.fm/music/Pearls/Pearls",
+      "date": "2026-05-12",
+      "tracks": 10
+    },
+    {
+      "title": "Trama Latina",
+      "artist": "Paolo Fresu, David Linx & Gustavo Beytelmann",
+      "source": "https://www.last.fm/music/Paolo+Fresu%2C+David+Linx+%26+Gustavo+Beytelmann/Trama+Latina",
+      "date": "2026-05-12",
+      "tracks": 11
+    },
+    {
+      "title": "Alive With Ghosts Today",
+      "artist": "Chris Potter, Bill Frisell, Burniss Travis, Nate Smith, Zekkereya El-Magharbel, Rane Moore & Sara Caswell",
+      "source": "https://www.last.fm/music/Chris+Potter%2C+Bill+Frisell%2C+Burniss+Travis%2C+Nate+Smith%2C+Zekkereya+El-Magharbel%2C+Rane+Moore+%26+Sara+Caswell/Alive+With+Ghosts+Today",
+      "date": "2026-05-15",
+      "tracks": 9
+    },
+    {
+      "title": "For The Space You Left",
+      "artist": "Marta Sánchez",
+      "source": "https://www.last.fm/music/Marta+S%C3%A1nchez/For+The+Space+You+Left",
+      "date": "2026-05-15",
+      "tracks": 11
+    },
+    {
+      "title": "Invisible Piano",
+      "artist": "John Beasley & SWR Big Band",
+      "source": "https://www.last.fm/music/John+Beasley+%26+SWR+Big+Band/Invisible+Piano",
+      "date": "2026-05-15",
+      "tracks": 7
+    },
+    {
+      "title": "Ram",
+      "artist": "Paul McCartney",
+      "source": "https://www.last.fm/music/Paul+McCartney/Ram",
+      "date": "2026-05-17",
+      "tracks": 21
+    },
+    {
+      "title": "The Left Edge Butterfly Dream: Live at Vine",
+      "artist": "Billy Mohler, Dan Rosenboom, Joshua White & Shawn Baltazor",
+      "source": "https://www.last.fm/music/Billy+Mohler%2C+Dan+Rosenboom%2C+Joshua+White+%26+Shawn+Baltazor/The+Left+Edge+Butterfly+Dream%3A+Live+at+Vine",
+      "date": "2026-05-19",
+      "tracks": 5
+    },
+    {
+      "title": "Janitsch: Harpsichord Concertos & Symphonies",
+      "artist": "Arte dei Suonatori/Marcin Świątkiewicz",
+      "source": "https://www.last.fm/music/Arte+dei+Suonatori%2FMarcin+%C5%9Awi%C4%85tkiewicz/Janitsch%3A+Harpsichord+Concertos+%26+Symphonies",
+      "date": "2026-05-22",
+      "tracks": 12
+    },
+    {
+      "title": "Jazz Samba",
+      "artist": "Stan Getz & Charlie Byrd",
+      "source": "https://www.last.fm/music/Stan+Getz+%26+Charlie+Byrd/Jazz+Samba",
+      "date": "2026-05-22",
+      "tracks": 3
+    },
+    {
+      "title": "The Left Edge Butterfly Dream: Live at Vine",
+      "artist": "Billy Mohler, Dan Rosenboom, Joshua White & Shawn Baltazor",
+      "source": "https://www.last.fm/music/Billy+Mohler%2C+Dan+Rosenboom%2C+Joshua+White+%26+Shawn+Baltazor/The+Left+Edge+Butterfly+Dream%3A+Live+at+Vine",
+      "date": "2026-05-22",
+      "tracks": 3
+    },
+    {
+      "title": "Bomba Flamenca – Les funérailles imaginaires de Charles Quint",
+      "artist": "La Tempête/Simon-Pierre Bestion",
+      "source": "https://www.last.fm/music/La+Temp%C3%AAte%2FSimon-Pierre+Bestion/Bomba+Flamenca%C2%A0%E2%80%93%C2%A0Les+fun%C3%A9railles+imaginaires+de+Charles+Quint",
+      "date": "2026-05-24",
+      "tracks": 12
+    },
+    {
+      "title": "Kover Kover",
+      "artist": "Web Web",
+      "source": "https://www.last.fm/music/Web+Web/Kover+Kover",
+      "date": "2026-05-24",
+      "tracks": 16
+    },
+    {
+      "title": "Bomba Flamenca – Les funérailles imaginaires de Charles Quint",
+      "artist": "La Tempête/Simon-Pierre Bestion",
+      "source": "https://www.last.fm/music/La+Temp%C3%AAte%2FSimon-Pierre+Bestion/Bomba+Flamenca%C2%A0%E2%80%93%C2%A0Les+fun%C3%A9railles+imaginaires+de+Charles+Quint",
+      "date": "2026-05-25",
+      "tracks": 6
+    },
+    {
+      "title": "100 Miles For Miles Davis",
+      "artist": "Jason Miles",
+      "source": "https://www.last.fm/music/Jason+Miles/100+Miles+For+Miles+Davis",
+      "date": "2026-05-26",
+      "tracks": 8
+    },
+    {
+      "title": "Enduring Sonance",
+      "artist": "Steve Wilson, Joe Locke, Renee Rosnes, Jay Anderson & Kendrick Scott",
+      "source": "https://www.last.fm/music/Steve+Wilson%2C+Joe+Locke%2C+Renee+Rosnes%2C+Jay+Anderson+%26+Kendrick+Scott/Enduring+Sonance",
+      "date": "2026-05-26",
+      "tracks": 8
+    },
+    {
+      "title": "existential thottie",
+      "artist": "duendita",
+      "source": "https://www.last.fm/music/duendita/existential+thottie",
+      "date": "2026-05-26",
+      "tracks": 12
+    },
+    {
+      "title": "Wellspring",
+      "artist": "DoYeon Kim",
+      "source": "https://www.last.fm/music/DoYeon+Kim/Wellspring",
+      "date": "2026-05-29",
+      "tracks": 6
+    }
+  ],
+  "books": [
+    {
+      "title": "Can Socialists Be Happy?",
+      "author": "George Orwell",
+      "rating": 4,
+      "date": "2026-05-06"
+    },
+    {
+      "title": "Steve Jobs in Exile",
+      "author": "Geoffrey Cain",
+      "rating": 4,
+      "date": "2026-05-27"
+    }
+  ],
+  "films": [
+    {
+      "title": "The Musicians",
+      "year": 2025,
+      "rating": 3,
+      "source": "https://boxd.it/ecOnxH",
+      "date": "2026-05-02",
+      "director": "Grégory Magne"
+    },
+    {
+      "title": "Wicked: For Good",
+      "year": 2025,
+      "rating": 2,
+      "source": "https://boxd.it/eue1Jh",
+      "date": "2026-05-23",
+      "director": "Jon M. Chu"
+    },
+    {
+      "title": "The Phoenician Scheme",
+      "year": 2025,
+      "rating": 4,
+      "source": "https://boxd.it/evDhRZ",
+      "date": "2026-05-25",
+      "director": "Wes Anderson"
+    }
+  ],
+  "dispatches": [
+    {
+      "title": "The surprising Shokz OpenDots One",
+      "date": "2026-05-03",
+      "source": "https://z1nz0l1n.com/26w18/"
+    },
+    {
+      "title": "Best of all possible worlds",
+      "date": "2026-05-10",
+      "source": "https://z1nz0l1n.com/26w19/"
+    },
+    {
+      "title": "My slightly deranged Moccamaster technique",
+      "date": "2026-05-17",
+      "source": "https://z1nz0l1n.com/26w20/"
+    },
+    {
+      "title": "The unbearable lightness of Calder’s mobiles",
+      "date": "2026-05-24",
+      "source": "https://z1nz0l1n.com/26w21/"
+    },
+    {
+      "title": "Swapping the engines mid-flight",
+      "date": "2026-05-31",
+      "source": "https://z1nz0l1n.com/26w22/"
+    }
+  ],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2026-05-25",
+      "date": "2026-05-25",
+      "count": 18
+    },
+    {
+      "title": "contributions du 2026-05-31",
+      "date": "2026-05-31",
+      "count": 11
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "albums": [
+    {
+      "title": "Ashes",
+      "artist": "Lage Lund",
+      "source": "https://www.last.fm/music/Lage+Lund/Ashes",
+      "date": "2024-05-02",
+      "tracks": 7
+    },
+    {
+      "title": "But Who's Gonna Play the Melody?",
+      "artist": "Christian McBride & Edgar Meyer",
+      "date": "2024-05-02",
+      "tracks": 15,
+      "source": "https://www.last.fm/music/Christian+McBride+%26+Edgar+Meyer/But+Who's+Gonna+Play+the+Melody%3F"
+    },
+    {
+      "title": "Earthen",
+      "artist": "Sam Anning",
+      "source": "https://www.last.fm/music/Sam+Anning/Earthen",
+      "date": "2024-05-02",
+      "tracks": 7
+    },
+    {
+      "title": "Sensual (feat. Omar Hakim)",
+      "artist": "Rachel Z",
+      "date": "2024-05-02",
+      "tracks": 9,
+      "source": "https://www.last.fm/music/Rachel+Z/Sensual+(feat.+Omar+Hakim)"
+    },
+    {
+      "title": "Radical Optimism",
+      "artist": "Dua Lipa",
+      "source": "https://www.last.fm/music/Dua+Lipa/Radical+Optimism",
+      "date": "2024-05-04",
+      "tracks": 11
+    },
+    {
+      "title": "Smiling",
+      "artist": "Mark Lockheart",
+      "source": "https://www.last.fm/music/Mark+Lockheart/Smiling",
+      "date": "2024-05-04",
+      "tracks": 3
+    },
+    {
+      "title": "Radical Optimism",
+      "artist": "Dua Lipa",
+      "date": "2024-05-05",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/Dua+Lipa/Radical+Optimism"
+    },
+    {
+      "title": "But Who's Gonna Play the Melody?",
+      "artist": "Christian McBride & Edgar Meyer",
+      "date": "2024-05-06",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/Christian+McBride+%26+Edgar+Meyer/But+Who's+Gonna+Play+the+Melody%3F"
+    },
+    {
+      "title": "Life, at the Village Vanguard (Live)",
+      "artist": "Gilad Hekselman",
+      "date": "2024-05-06",
+      "tracks": 8,
+      "source": "https://www.last.fm/music/Gilad+Hekselman/Life%2C+at+the+Village+Vanguard+(Live)"
+    },
+    {
+      "title": "Live At The Scala Theatre",
+      "artist": "Eric Bibb",
+      "date": "2024-05-06",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/Eric+Bibb/Live+At+The+Scala+Theatre"
+    },
+    {
+      "title": "Radical Optimism",
+      "artist": "Dua Lipa",
+      "source": "https://www.last.fm/music/Dua+Lipa/Radical+Optimism",
+      "date": "2024-05-06",
+      "tracks": 11
+    },
+    {
+      "title": "Amoroso",
+      "artist": "João Gilberto",
+      "source": "https://www.last.fm/music/Jo%C3%A3o+Gilberto/Amoroso",
+      "date": "2024-05-07",
+      "tracks": 8
+    },
+    {
+      "title": "Character Pieces",
+      "artist": "Rebecca Trescher",
+      "source": "https://www.last.fm/music/Rebecca+Trescher/Character+Pieces",
+      "date": "2024-05-07",
+      "tracks": 8
+    },
+    {
+      "title": "Live At The Scala Theatre",
+      "artist": "Eric Bibb",
+      "source": "https://www.last.fm/music/Eric+Bibb/Live+At+The+Scala+Theatre",
+      "date": "2024-05-07",
+      "tracks": 4
+    },
+    {
+      "title": "Molecular",
+      "artist": "James Brandon Lewis, Aruán Ortiz, Brad Jones & Chad Taylor",
+      "source": "https://www.last.fm/music/James+Brandon+Lewis%2C+Arua%CC%81n+Ortiz%2C+Brad+Jones+%26+Chad+Taylor/Molecular",
+      "date": "2024-05-07",
+      "tracks": 11
+    },
+    {
+      "title": "Valleys and Mountains",
+      "artist": "Rymden",
+      "source": "https://www.last.fm/music/Rymden/Valleys+and+Mountains",
+      "date": "2024-05-07",
+      "tracks": 7
+    },
+    {
+      "title": "Tanuki's Night Out",
+      "artist": "Lew Tabackin Trio",
+      "source": "https://www.last.fm/music/Lew+Tabackin+Trio/Tanuki's+Night+Out",
+      "date": "2024-05-12",
+      "tracks": 7
+    },
+    {
+      "title": "Vermeilles",
+      "artist": "Rouge",
+      "date": "2024-05-12",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/Rouge/Vermeilles"
+    },
+    {
+      "title": "Birds",
+      "artist": "Tingvall Trio",
+      "source": "https://www.last.fm/music/Tingvall+Trio/Birds",
+      "date": "2024-05-13",
+      "tracks": 23
+    },
+    {
+      "title": "Prayers - , Vol. 1",
+      "artist": "Sade Mangiaracina",
+      "source": "https://www.last.fm/music/Sade+Mangiaracina/Prayers+-+%2C+Vol.+1",
+      "date": "2024-05-13",
+      "tracks": 15
+    },
+    {
+      "title": "Remembrance",
+      "artist": "Chick Corea & Béla Fleck",
+      "source": "https://www.last.fm/music/Chick+Corea+%26+B%C3%A9la+Fleck/Remembrance",
+      "date": "2024-05-13",
+      "tracks": 14
+    },
+    {
+      "title": "Atavista",
+      "artist": "Childish Gambino",
+      "source": "https://www.last.fm/music/Childish+Gambino/Atavista",
+      "date": "2024-05-14",
+      "tracks": 11
+    },
+    {
+      "title": "Change of the Century",
+      "artist": "Ornette Coleman",
+      "date": "2024-05-14",
+      "tracks": 13,
+      "source": "https://www.last.fm/music/Ornette+Coleman/Change+of+the+Century"
+    },
+    {
+      "title": "Crossings",
+      "artist": "Herbie Hancock",
+      "source": "https://www.last.fm/music/Herbie+Hancock/Crossings",
+      "date": "2024-05-14",
+      "tracks": 6
+    },
+    {
+      "title": "Eastern Sounds",
+      "artist": "Yusef Lateef",
+      "source": "https://www.last.fm/music/Yusef+Lateef/Eastern+Sounds",
+      "date": "2024-05-14",
+      "tracks": 17
+    },
+    {
+      "title": "Fjære",
+      "artist": "Espen Berg trio",
+      "source": "https://www.last.fm/music/Espen+Berg+trio/Fj%C3%A6re",
+      "date": "2024-05-14",
+      "tracks": 19
+    },
+    {
+      "title": "To Save a Child: An Intimate Live Concert",
+      "artist": "Eric Clapton",
+      "source": "https://www.last.fm/music/Eric+Clapton/To+Save+a+Child%3A+An+Intimate+Live+Concert",
+      "date": "2024-05-14",
+      "tracks": 12
+    },
+    {
+      "title": "Après Fauré",
+      "artist": "Brad Mehldau",
+      "source": "https://www.last.fm/music/Brad+Mehldau/Apr%C3%A8s+Faur%C3%A9",
+      "date": "2024-05-15",
+      "tracks": 9
+    },
+    {
+      "title": "Remembrance",
+      "artist": "Chick Corea & Béla Fleck",
+      "source": "https://www.last.fm/music/Chick+Corea+%26+B%C3%A9la+Fleck/Remembrance",
+      "date": "2024-05-15",
+      "tracks": 14
+    },
+    {
+      "title": "Soular Energy",
+      "artist": "Ray Brown Trio",
+      "source": "https://www.last.fm/music/Ray+Brown+Trio/Soular+Energy",
+      "date": "2024-05-16",
+      "tracks": 8
+    },
+    {
+      "title": "Standards",
+      "artist": "Donald Bailey, Jimmy Smith & Kenny Burrell",
+      "source": "https://www.last.fm/music/Donald+Bailey%2C+Jimmy+Smith+%26+Kenny+Burrell/Standards",
+      "date": "2024-05-16",
+      "tracks": 12
+    },
+    {
+      "title": "The Doober",
+      "artist": "Sam Gendel & Sam Wilkes",
+      "source": "https://www.last.fm/music/Sam+Gendel+%26+Sam+Wilkes/The+Doober",
+      "date": "2024-05-16",
+      "tracks": 11
+    },
+    {
+      "title": "Transparency",
+      "artist": "Dafnis Prieto Sextet",
+      "source": "https://www.last.fm/music/Dafnis+Prieto+Sextet/Transparency",
+      "date": "2024-05-16",
+      "tracks": 9
+    },
+    {
+      "title": "Chick Corea's \"Three Quartets\" Revisited",
+      "artist": "Christophe Dal Sasso & Dal Sasso Big Band",
+      "source": "https://www.last.fm/music/Christophe+Dal+Sasso+%26+Dal+Sasso+Big+Band/Chick+Corea's+%22Three+Quartets%22+Revisited",
+      "date": "2024-05-17",
+      "tracks": 7
+    },
+    {
+      "title": "Jazz At The Pawnshop [Audionautes Recordings]",
+      "artist": "Arne Domnérus, Bengt Hallberg, Georg Riedel, Egil Johansen & Lars Erstrand",
+      "date": "2024-05-17",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/Arne+Domn%C3%A9rus%2C+Bengt+Hallberg%2C+Georg+Riedel%2C+Egil+Johansen+%26+Lars+Erstrand/Jazz+At+The+Pawnshop+%5BAudionautes+Recordings%5D"
+    },
+    {
+      "title": "Misty ~ Live at Jazz Is",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "date": "2024-05-17",
+      "tracks": 8,
+      "source": "https://www.last.fm/music/Tsuyoshi+Yamamoto+Trio/Misty+~+Live+at+Jazz+Is"
+    },
+    {
+      "title": "Three Roses - EP",
+      "artist": "Emile Londonien",
+      "source": "https://www.last.fm/music/Emile+Londonien/Three+Roses+-+EP",
+      "date": "2024-05-17",
+      "tracks": 3
+    },
+    {
+      "title": "Chick Corea's \"Three Quartets\" Revisited",
+      "artist": "Christophe Dal Sasso & Dal Sasso Big Band",
+      "source": "https://www.last.fm/music/Christophe+Dal+Sasso+%26+Dal+Sasso+Big+Band/Chick+Corea's+%22Three+Quartets%22+Revisited",
+      "date": "2024-05-21",
+      "tracks": 7
+    },
+    {
+      "title": "UN",
+      "artist": "James Carter",
+      "source": "https://www.last.fm/music/James+Carter/UN",
+      "date": "2024-05-21",
+      "tracks": 8
+    },
+    {
+      "title": "Awaken",
+      "artist": "Tony Glausi",
+      "source": "https://www.last.fm/music/Tony+Glausi/Awaken",
+      "date": "2024-05-22",
+      "tracks": 8
+    },
+    {
+      "title": "Below Dawn",
+      "artist": "Bryony Jarman-Pinto",
+      "source": "https://www.last.fm/music/Bryony+Jarman-Pinto/Below+Dawn",
+      "date": "2024-05-22",
+      "tracks": 11
+    },
+    {
+      "title": "Mustard n'Onions",
+      "artist": "Ghost-Note",
+      "source": "https://www.last.fm/music/Ghost-Note/Mustard+n'Onions",
+      "date": "2024-05-22",
+      "tracks": 15
+    },
+    {
+      "title": "REVOLUTIONS",
+      "artist": "Dan Loomis",
+      "source": "https://www.last.fm/music/Dan+Loomis/REVOLUTIONS",
+      "date": "2024-05-22",
+      "tracks": 18
+    },
+    {
+      "title": "Vivid Tales of a Blurry Self-Portrait",
+      "artist": "Nicola Caminiti",
+      "source": "https://www.last.fm/music/Nicola+Caminiti/Vivid+Tales+of+a+Blurry+Self-Portrait",
+      "date": "2024-05-22",
+      "tracks": 11
+    },
+    {
+      "title": "After Bach II",
+      "artist": "Brad Mehldau",
+      "source": "https://www.last.fm/music/Brad+Mehldau/After+Bach+II",
+      "date": "2024-05-27",
+      "tracks": 19
+    },
+    {
+      "title": "Perceive its Beauty, Acknowledge its Grace",
+      "artist": "Shabaka",
+      "source": "https://www.last.fm/music/Shabaka/Perceive+its+Beauty%2C+Acknowledge+its+Grace",
+      "date": "2024-05-27",
+      "tracks": 11
+    },
+    {
+      "title": "LéNo",
+      "artist": "Arnaud Dolmen & Leonardo Montana",
+      "source": "https://www.last.fm/music/Arnaud+Dolmen+%26+Leonardo+Montana/L%C3%A9No",
+      "date": "2024-05-28",
+      "tracks": 10
+    },
+    {
+      "title": "One More Car, One More Rider (Live on Tour 2001)",
+      "artist": "Eric Clapton",
+      "source": "https://www.last.fm/music/Eric+Clapton/One+More+Car%2C+One+More+Rider+(Live+on+Tour+2001)",
+      "date": "2024-05-28",
+      "tracks": 19
+    },
+    {
+      "title": "Seven Colors of the Universe",
+      "artist": "Nils Berg Cinemascope",
+      "source": "https://www.last.fm/music/Nils+Berg+Cinemascope/Seven+Colors+of+the+Universe",
+      "date": "2024-05-28",
+      "tracks": 13
+    },
+    {
+      "title": "Between Light and Shadow",
+      "artist": "Nick Biello",
+      "source": "https://www.last.fm/music/Nick+Biello/Between+Light+and+Shadow",
+      "date": "2024-05-29",
+      "tracks": 7
+    },
+    {
+      "title": "Cold Drinks, Hot Dreams",
+      "artist": "Atrás del Cosmos",
+      "source": "https://www.last.fm/music/Atr%C3%A1s+del+Cosmos/Cold+Drinks%2C+Hot+Dreams",
+      "date": "2024-05-29",
+      "tracks": 6
+    },
+    {
+      "title": "III",
+      "artist": "Nir Felder",
+      "source": "https://www.last.fm/music/Nir+Felder/III",
+      "date": "2024-05-29",
+      "tracks": 7
+    },
+    {
+      "title": "Long Distance",
+      "artist": "Sylvain Beuf",
+      "source": "https://www.last.fm/music/Sylvain+Beuf/Long+Distance",
+      "date": "2024-05-29",
+      "tracks": 9
+    },
+    {
+      "title": "Pilgrim",
+      "artist": "Eric Clapton",
+      "source": "https://www.last.fm/music/Eric+Clapton/Pilgrim",
+      "date": "2024-05-30",
+      "tracks": 12
+    },
+    {
+      "title": "Tokyo Live",
+      "artist": "Tony Williams",
+      "source": "https://www.last.fm/music/Tony+Williams/Tokyo+Live",
+      "date": "2024-05-30",
+      "tracks": 11
+    }
+  ],
+  "books": [
+    {
+      "title": "How Bad Are Bananas?: The carbon footprint of everything",
+      "author": "Mike Berners-Lee",
+      "date": "2024-05-25"
+    }
+  ],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2024-05-07",
+      "date": "2024-05-07",
+      "count": 6
+    },
+    {
+      "title": "contributions du 2024-05-14",
+      "date": "2024-05-14",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2024-05-16",
+      "date": "2024-05-16",
+      "count": 1
+    },
+    {
+      "title": "contributions du 2024-05-22",
+      "date": "2024-05-22",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2024-05-24",
+      "date": "2024-05-24",
+      "count": 3
+    },
+    {
+      "title": "contributions du 2024-05-29",
+      "date": "2024-05-29",
+      "count": 2
+    }
+  ]
+}

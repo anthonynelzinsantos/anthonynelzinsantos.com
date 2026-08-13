@@ -1,0 +1,202 @@
+{
+  "albums": [
+    {
+      "title": "A Few We Remember",
+      "artist": "Jonah Parzen-Johnson",
+      "source": "https://www.last.fm/music/Jonah+Parzen-Johnson/A+Few+We+Remember",
+      "date": "2025-12-04",
+      "tracks": 8
+    },
+    {
+      "title": "Simple Things",
+      "artist": "Britta Virves",
+      "source": "https://www.last.fm/music/Britta+Virves/Simple+Things",
+      "date": "2025-12-04",
+      "tracks": 12
+    },
+    {
+      "title": "The Copenhagen Session Vol. 2",
+      "artist": "Scandinavian Art Ensemble & Tomasz Stańko",
+      "source": "https://www.last.fm/music/Scandinavian+Art+Ensemble/The+Copenhagen+Session+Vol.+2",
+      "date": "2025-12-04",
+      "tracks": 6
+    },
+    {
+      "title": "Bright Sparkling Light",
+      "artist": "Matthew Halsall & The Gondwana Orchestra",
+      "source": "https://www.last.fm/music/Matthew+Halsall/Bright+Sparkling+Light",
+      "date": "2025-12-07",
+      "tracks": 3
+    },
+    {
+      "title": "Women in Jazz",
+      "artist": "women in jazz",
+      "source": "https://www.last.fm/music/women+in+jazz/Women+in+Jazz",
+      "date": "2025-12-07",
+      "tracks": 12
+    },
+    {
+      "title": "Christmas Interlude",
+      "artist": "Jeremy Pelt",
+      "source": "https://www.last.fm/music/Jeremy+Pelt/Christmas+Interlude",
+      "date": "2025-12-12",
+      "tracks": 5
+    },
+    {
+      "title": "Shadows",
+      "artist": "Magnus Carlson",
+      "source": "https://www.last.fm/music/Magnus+Carlson/Shadows",
+      "date": "2025-12-12",
+      "tracks": 8
+    },
+    {
+      "title": "Christmas Interlude",
+      "artist": "Jeremy Pelt",
+      "source": "https://www.last.fm/music/Jeremy+Pelt/Christmas+Interlude",
+      "date": "2025-12-13",
+      "tracks": 5
+    },
+    {
+      "title": "Motion II",
+      "artist": "Out Of/Into",
+      "source": "https://www.last.fm/music/Out+Of%2FInto/Motion+II",
+      "date": "2025-12-13",
+      "tracks": 6
+    },
+    {
+      "title": "A Charlie Brown Christmas",
+      "artist": "Cyrus Chestnut",
+      "date": "2025-12-15",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/Cyrus+Chestnut/A+Charlie+Brown+Christmas"
+    },
+    {
+      "title": "A Charlie Brown Christmas",
+      "artist": "Cyrus Chestnut",
+      "source": "https://www.last.fm/music/Cyrus+Chestnut/A+Charlie+Brown+Christmas",
+      "date": "2025-12-16",
+      "tracks": 7
+    },
+    {
+      "title": "A Charlie Brown Christmas",
+      "artist": "Vince Guaraldi Trio",
+      "source": "https://www.last.fm/music/Vince+Guaraldi+Trio/A+Charlie+Brown+Christmas",
+      "date": "2025-12-17",
+      "tracks": 14
+    },
+    {
+      "title": "Joy To The World",
+      "artist": "Ezra Collective",
+      "source": "https://www.last.fm/music/Ezra+Collective/Joy+To+The+World",
+      "date": "2025-12-18",
+      "tracks": 3
+    },
+    {
+      "title": "Lunarways",
+      "artist": "Cosmique Hypnotique",
+      "source": "https://www.last.fm/music/Cosmique+Hypnotique/Lunarways",
+      "date": "2025-12-18",
+      "tracks": 6
+    },
+    {
+      "title": "Flora and Fauna: 9 Preludes for Solo Piano",
+      "artist": "Joshua White",
+      "source": "https://www.last.fm/music/Joshua+White/Flora+and+Fauna%3A+9+Preludes+for+Solo+Piano",
+      "date": "2025-12-19",
+      "tracks": 9
+    },
+    {
+      "title": "Saudades",
+      "artist": "Nana Vasconcelos",
+      "source": "https://www.last.fm/music/Nana+Vasconcelos/Saudades",
+      "date": "2025-12-20",
+      "tracks": 5
+    },
+    {
+      "title": "HOUSE OF BIRDS",
+      "artist": "Veeko",
+      "source": "https://www.last.fm/music/Veeko/HOUSE+OF+BIRDS",
+      "date": "2025-12-21",
+      "tracks": 10
+    },
+    {
+      "title": "Gnu High",
+      "artist": "Kenny Wheeler, Lee Konitz, Dave Holland & Bill Frisell",
+      "source": "https://www.last.fm/music/Kenny+Wheeler/Gnu+High",
+      "date": "2025-12-23",
+      "tracks": 3
+    },
+    {
+      "title": "Music Maestro Please",
+      "artist": "Paul Whiteman & His Orchestra",
+      "source": "https://www.last.fm/music/Paul+Whiteman+%26+His+Orchestra/Music+Maestro+Please",
+      "date": "2025-12-23",
+      "tracks": 4
+    },
+    {
+      "title": "Codona",
+      "artist": "Don Cherry",
+      "source": "https://www.last.fm/music/Don+Cherry/Codona",
+      "date": "2025-12-28",
+      "tracks": 7
+    }
+  ],
+  "books": [
+    {
+      "title": "Le Fou de Dieu au bout du monde",
+      "author": "Javier Cercas",
+      "rating": 4,
+      "date": "2025-12-12"
+    },
+    {
+      "title": "Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered",
+      "author": "Austin Kleon",
+      "rating": 3,
+      "date": "2025-12-16"
+    },
+    {
+      "title": "Blank Space: A Cultural History of the Twenty-First Century",
+      "author": "W. David Marx",
+      "rating": 2,
+      "date": "2025-12-21"
+    },
+    {
+      "title": "The Impossible Fortune",
+      "author": "Richard Osman",
+      "rating": 3,
+      "date": "2025-12-25"
+    }
+  ],
+  "films": [
+    {
+      "title": "Wake Up Dead Man",
+      "year": 2025,
+      "rating": 4,
+      "source": "https://boxd.it/c258Sp",
+      "date": "2025-12-13",
+      "director": "Rian Johnson"
+    },
+    {
+      "title": "Treasure Hunters: On the Tracks of Khufu",
+      "year": 2025,
+      "rating": 3,
+      "source": "https://boxd.it/clGddh",
+      "date": "2025-12-31",
+      "director": "Barbara Schulz"
+    }
+  ],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": [
+    {
+      "title": "contributions du 2025-12-05",
+      "date": "2025-12-05",
+      "count": 4
+    },
+    {
+      "title": "contributions du 2025-12-06",
+      "date": "2025-12-06",
+      "count": 16
+    }
+  ]
+}

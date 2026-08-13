@@ -1,0 +1,443 @@
+{
+  "albums": [
+    {
+      "title": "Now, More Than Ever",
+      "artist": "Jim Guthrie",
+      "source": "https://www.last.fm/music/Jim+Guthrie/Now%2C+More+Than+Ever",
+      "date": "2013-08-01",
+      "tracks": 6
+    },
+    {
+      "title": "A Life In Film",
+      "artist": "Syriana",
+      "source": "https://www.last.fm/music/Syriana/A+Life+In+Film",
+      "date": "2013-08-16",
+      "tracks": 6
+    },
+    {
+      "title": "Anniversary",
+      "artist": "Stan Getz",
+      "source": "https://www.last.fm/music/Stan+Getz/Anniversary",
+      "date": "2013-08-16",
+      "tracks": 8
+    },
+    {
+      "title": "Born to Run",
+      "artist": "Bruce Springsteen",
+      "source": "https://www.last.fm/music/Bruce+Springsteen/Born+to+Run",
+      "date": "2013-08-16",
+      "tracks": 8
+    },
+    {
+      "title": "Live at Voce",
+      "artist": "Steve Gadd",
+      "source": "https://www.last.fm/music/Steve+Gadd/Live+at+Voce",
+      "date": "2013-08-16",
+      "tracks": 6
+    },
+    {
+      "title": "Our Version of Events",
+      "artist": "Emeli Sandé",
+      "source": "https://www.last.fm/music/Emeli+Sand%C3%A9/Our+Version+of+Events",
+      "date": "2013-08-16",
+      "tracks": 14
+    },
+    {
+      "title": "Gipsy unity",
+      "artist": "Angelo Debarre",
+      "source": "https://www.last.fm/music/Angelo+Debarre/Gipsy+unity",
+      "date": "2013-08-17",
+      "tracks": 13
+    },
+    {
+      "title": "Parsley, Sage, Rosemary And Thyme",
+      "artist": "Simon & Garfunkel",
+      "source": "https://www.last.fm/music/Simon+%26+Garfunkel/Parsley%2C+Sage%2C+Rosemary+And+Thyme",
+      "date": "2013-08-17",
+      "tracks": 12
+    },
+    {
+      "title": "Stan Getz & Bill Evans",
+      "artist": "Stan Getz / Bill Evans",
+      "source": "https://www.last.fm/music/Stan+Getz+%2F+Bill+Evans/Stan+Getz+%26+Bill+Evans",
+      "date": "2013-08-18",
+      "tracks": 11
+    },
+    {
+      "title": "The Concert in Central Park",
+      "artist": "Simon & Garfunkel",
+      "source": "https://www.last.fm/music/Simon+%26+Garfunkel/The+Concert+in+Central+Park",
+      "date": "2013-08-18",
+      "tracks": 21
+    },
+    {
+      "title": "Battle Studies",
+      "artist": "John Mayer",
+      "source": "https://www.last.fm/music/John+Mayer/Battle+Studies",
+      "date": "2013-08-19",
+      "tracks": 8
+    },
+    {
+      "title": "Didn't It Rain",
+      "artist": "Hugh Laurie",
+      "date": "2013-08-19",
+      "tracks": 4,
+      "source": "https://www.last.fm/music/Hugh+Laurie/Didn't+It+Rain"
+    },
+    {
+      "title": "Jazz Samba Encore!",
+      "artist": "Stan Getz / Luiz Bonfa",
+      "source": "https://www.last.fm/music/Stan+Getz+%2F+Luiz+Bonfa/Jazz+Samba+Encore!",
+      "date": "2013-08-19",
+      "tracks": 20
+    },
+    {
+      "title": "Berlioz — Symphonie fantastique",
+      "artist": "London Symphony Orchestra / Sir Colin Davis",
+      "source": "https://www.last.fm/music/London+Symphony+Orchestra+%2F+Sir+Colin+Davis/Berlioz+%E2%80%94+Symphonie+fantastique",
+      "date": "2013-08-20",
+      "tracks": 12
+    },
+    {
+      "title": "Didn't It Rain",
+      "artist": "Hugh Laurie",
+      "date": "2013-08-20",
+      "tracks": 13,
+      "source": "https://www.last.fm/music/Hugh+Laurie/Didn't+It+Rain"
+    },
+    {
+      "title": "Getz/Gilberto",
+      "artist": "Stan Getz / João Gilberto",
+      "source": "https://www.last.fm/music/Stan+Getz+%2F+Jo%C3%A3o+Gilberto/Getz%2FGilberto",
+      "date": "2013-08-20",
+      "tracks": 10
+    },
+    {
+      "title": "The greatest film scores of Dimitri Tiomkin",
+      "artist": "London Symphony Orchestra / Richard Kaufman",
+      "source": "https://www.last.fm/music/London+Symphony+Orchestra+%2F+Richard+Kaufman/The+greatest+film+scores+of+Dimitri+Tiomkin",
+      "date": "2013-08-20",
+      "tracks": 5
+    },
+    {
+      "title": "From the Cradle",
+      "artist": "Eric Clapton",
+      "date": "2013-08-21",
+      "tracks": 15,
+      "source": "https://www.last.fm/music/Eric+Clapton/From+the+Cradle"
+    },
+    {
+      "title": "Harmony of the Spheres",
+      "artist": "Neil Ardley",
+      "source": "https://www.last.fm/music/Neil+Ardley/Harmony+of+the+Spheres",
+      "date": "2013-08-21",
+      "tracks": 3
+    },
+    {
+      "title": "Pilgrim",
+      "artist": "Eric Clapton",
+      "source": "https://www.last.fm/music/Eric+Clapton/Pilgrim",
+      "date": "2013-08-21",
+      "tracks": 14
+    },
+    {
+      "title": "Stan Getz and The Oscar Peterson Trio",
+      "artist": "Stan Getz / The Oscar Peterson Trio",
+      "source": "https://www.last.fm/music/Stan+Getz+%2F+The+Oscar+Peterson+Trio/Stan+Getz+and+The+Oscar+Peterson+Trio",
+      "date": "2013-08-21",
+      "tracks": 11
+    },
+    {
+      "title": "A Wasteland Companion",
+      "artist": "M. Ward",
+      "source": "https://www.last.fm/music/M.+Ward/A+Wasteland+Companion",
+      "date": "2013-08-22",
+      "tracks": 4
+    },
+    {
+      "title": "Crossroads [Original Motion Picture Soundtrack]",
+      "artist": "Ry Cooder",
+      "date": "2013-08-22",
+      "tracks": 4,
+      "source": "https://www.last.fm/music/Ry+Cooder/Crossroads+%5BOriginal+Motion+Picture+Soundtrack%5D"
+    },
+    {
+      "title": "Mesabi",
+      "artist": "Tom Russell",
+      "source": "https://www.last.fm/music/Tom+Russell/Mesabi",
+      "date": "2013-08-22",
+      "tracks": 4
+    },
+    {
+      "title": "The Alternate Rubber Soul (2003 Edition)",
+      "artist": "The Beatles",
+      "source": "https://www.last.fm/music/The+Beatles/The+Alternate+Rubber+Soul+(2003+Edition)",
+      "date": "2013-08-22",
+      "tracks": 3
+    },
+    {
+      "title": "The Road To Escondido",
+      "artist": "J.J. Cale / Eric Clapton",
+      "date": "2013-08-22",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/J.J.+Cale+%2F+Eric+Clapton/The+Road+To+Escondido"
+    },
+    {
+      "title": "Racine carrée",
+      "artist": "Stromae",
+      "source": "https://www.last.fm/music/Stromae/Racine+carr%C3%A9e",
+      "date": "2013-08-23",
+      "tracks": 27
+    },
+    {
+      "title": "The Blues: A Musical Journey [Martin Scorsese Presents]",
+      "artist": "Chuck Berry",
+      "source": "https://www.last.fm/music/Chuck+Berry/The+Blues%3A+A+Musical+Journey+%5BMartin+Scorsese+Presents%5D",
+      "date": "2013-08-23",
+      "tracks": 4
+    },
+    {
+      "title": "The Complete 1957 Riverside Recordings",
+      "artist": "Thelonious Monk / John Coltrane",
+      "source": "https://www.last.fm/music/Thelonious+Monk+%2F+John+Coltrane/The+Complete+1957+Riverside+Recordings",
+      "date": "2013-08-23",
+      "tracks": 3
+    },
+    {
+      "title": "Thelonious Alone in San Francisco",
+      "artist": "Thelonious Monk",
+      "source": "https://www.last.fm/music/Thelonious+Monk/Thelonious+Alone+in+San+Francisco",
+      "date": "2013-08-23",
+      "tracks": 11
+    },
+    {
+      "title": "Love Over Gold",
+      "artist": "Dire Straits",
+      "source": "https://www.last.fm/music/Dire+Straits/Love+Over+Gold",
+      "date": "2013-08-24",
+      "tracks": 6
+    },
+    {
+      "title": "Wicked Game",
+      "artist": "Il Divo",
+      "source": "https://www.last.fm/music/Il+Divo/Wicked+Game",
+      "date": "2013-08-24",
+      "tracks": 6
+    },
+    {
+      "title": "A Collection",
+      "artist": "The Be Good Tanyas",
+      "source": "https://www.last.fm/music/The+Be+Good+Tanyas/A+Collection",
+      "date": "2013-08-26",
+      "tracks": 6
+    },
+    {
+      "title": "A Wasteland Companion",
+      "artist": "M. Ward",
+      "date": "2013-08-26",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/M.+Ward/A+Wasteland+Companion"
+    },
+    {
+      "title": "Blessed",
+      "artist": "Lucinda Williams",
+      "source": "https://www.last.fm/music/Lucinda+Williams/Blessed",
+      "date": "2013-08-26",
+      "tracks": 8
+    },
+    {
+      "title": "Bon Iver",
+      "artist": "Bon Iver",
+      "source": "https://www.last.fm/music/Bon+Iver/Bon+Iver",
+      "date": "2013-08-26",
+      "tracks": 4
+    },
+    {
+      "title": "For Emma, Forever Ago",
+      "artist": "Bon Iver",
+      "source": "https://www.last.fm/music/Bon+Iver/For+Emma%2C+Forever+Ago",
+      "date": "2013-08-26",
+      "tracks": 3
+    },
+    {
+      "title": "Get Lucky",
+      "artist": "Mark Knopfler",
+      "source": "https://www.last.fm/music/Mark+Knopfler/Get+Lucky",
+      "date": "2013-08-26",
+      "tracks": 7
+    },
+    {
+      "title": "Grasshopper",
+      "artist": "J.J. Cale",
+      "source": "https://www.last.fm/music/J.J.+Cale/Grasshopper",
+      "date": "2013-08-26",
+      "tracks": 8
+    },
+    {
+      "title": "I, Flathead",
+      "artist": "Ry Cooder",
+      "source": "https://www.last.fm/music/Ry+Cooder/I%2C+Flathead",
+      "date": "2013-08-26",
+      "tracks": 5
+    },
+    {
+      "title": "Jeff Bridges",
+      "artist": "Jeff Bridges",
+      "source": "https://www.last.fm/music/Jeff+Bridges/Jeff+Bridges",
+      "date": "2013-08-26",
+      "tracks": 7
+    },
+    {
+      "title": "Live At The Fillmore East 1970",
+      "artist": "Neil Young & Crazy Horse",
+      "source": "https://www.last.fm/music/Neil+Young+%26+Crazy+Horse/Live+At+The+Fillmore+East+1970",
+      "date": "2013-08-26",
+      "tracks": 3
+    },
+    {
+      "title": "Mesabi",
+      "artist": "Tom Russell",
+      "date": "2013-08-26",
+      "tracks": 10,
+      "source": "https://www.last.fm/music/Tom+Russell/Mesabi"
+    },
+    {
+      "title": "Paradise Valley",
+      "artist": "John Mayer",
+      "source": "https://www.last.fm/music/John+Mayer/Paradise+Valley",
+      "date": "2013-08-26",
+      "tracks": 24
+    },
+    {
+      "title": "Pull Up Some Dust and Sit Down",
+      "artist": "Ry Cooder",
+      "source": "https://www.last.fm/music/Ry+Cooder/Pull+Up+Some+Dust+and+Sit+Down",
+      "date": "2013-08-26",
+      "tracks": 5
+    },
+    {
+      "title": "Really",
+      "artist": "J.J. Cale",
+      "source": "https://www.last.fm/music/J.J.+Cale/Really",
+      "date": "2013-08-26",
+      "tracks": 4
+    },
+    {
+      "title": "Shades",
+      "artist": "J.J. Cale",
+      "source": "https://www.last.fm/music/J.J.+Cale/Shades",
+      "date": "2013-08-26",
+      "tracks": 3
+    },
+    {
+      "title": "The Blues: A Musical Journey [Martin Scorsese Presents]",
+      "artist": "Los Lobos",
+      "source": "https://www.last.fm/music/Los+Lobos/The+Blues%3A+A+Musical+Journey+%5BMartin+Scorsese+Presents%5D",
+      "date": "2013-08-26",
+      "tracks": 3
+    },
+    {
+      "title": "The Road To Escondido",
+      "artist": "J.J. Cale / Eric Clapton",
+      "date": "2013-08-26",
+      "tracks": 5,
+      "source": "https://www.last.fm/music/J.J.+Cale+%2F+Eric+Clapton/The+Road+To+Escondido"
+    },
+    {
+      "title": "The Wild Hunt",
+      "artist": "The Tallest Man on Earth",
+      "source": "https://www.last.fm/music/The+Tallest+Man+on+Earth/The+Wild+Hunt",
+      "date": "2013-08-26",
+      "tracks": 6
+    },
+    {
+      "title": "Casey Abrams",
+      "artist": "Casey Abrams",
+      "date": "2013-08-27",
+      "tracks": 4,
+      "source": "https://www.last.fm/music/Casey+Abrams/Casey+Abrams"
+    },
+    {
+      "title": "Didn't It Rain",
+      "artist": "Hugh Laurie",
+      "source": "https://www.last.fm/music/Hugh+Laurie/Didn't+It+Rain",
+      "date": "2013-08-27",
+      "tracks": 5
+    },
+    {
+      "title": "Grasshopper",
+      "artist": "J.J. Cale",
+      "date": "2013-08-27",
+      "tracks": 34,
+      "source": "https://www.last.fm/music/J.J.+Cale/Grasshopper"
+    },
+    {
+      "title": "La rime orpheline",
+      "artist": "Emilie Marsh",
+      "source": "https://www.last.fm/music/Emilie+Marsh/La+rime+orpheline",
+      "date": "2013-08-27",
+      "tracks": 12
+    },
+    {
+      "title": "Our Version of Events",
+      "artist": "Emeli Sandé",
+      "source": "https://www.last.fm/music/Emeli+Sand%C3%A9/Our+Version+of+Events",
+      "date": "2013-08-27",
+      "tracks": 6
+    },
+    {
+      "title": "Shades",
+      "artist": "J.J. Cale",
+      "source": "https://www.last.fm/music/J.J.+Cale/Shades",
+      "date": "2013-08-27",
+      "tracks": 20
+    },
+    {
+      "title": "The Drop",
+      "artist": "Pinkunoizu",
+      "source": "https://www.last.fm/music/Pinkunoizu/The+Drop",
+      "date": "2013-08-27",
+      "tracks": 16
+    },
+    {
+      "title": "Brothers in Arms",
+      "artist": "Dire Straits",
+      "source": "https://www.last.fm/music/Dire+Straits/Brothers+in+Arms",
+      "date": "2013-08-28",
+      "tracks": 27
+    },
+    {
+      "title": "La rime orpheline",
+      "artist": "Emilie Marsh",
+      "source": "https://www.last.fm/music/Emilie+Marsh/La+rime+orpheline",
+      "date": "2013-08-28",
+      "tracks": 15
+    },
+    {
+      "title": "Absolution",
+      "artist": "Muse",
+      "source": "https://www.last.fm/music/Muse/Absolution",
+      "date": "2013-08-29",
+      "tracks": 3
+    },
+    {
+      "title": "Behind the Sun",
+      "artist": "Eric Clapton",
+      "source": "https://www.last.fm/music/Eric+Clapton/Behind+the+Sun",
+      "date": "2013-08-29",
+      "tracks": 4
+    },
+    {
+      "title": "Blown Away",
+      "artist": "Carrie Underwood",
+      "date": "2013-08-31",
+      "tracks": 4,
+      "source": "https://www.last.fm/music/Carrie+Underwood/Blown+Away"
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}

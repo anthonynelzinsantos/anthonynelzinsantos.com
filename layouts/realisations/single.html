@@ -1,0 +1,26 @@
+{{ define "main" }}
+<article class="page case-page">
+	<header class="masthead">
+		<p class="masthead__years">{{ .Params.years }}</p>
+		<h1 class="masthead__title">{{ .Title }}</h1>
+		{{ with .Params.subtitle }}<p class="masthead__standfirst">{{ . }}</p>{{ end }}
+		{{ with .Params.context }}<p class="case-page__where"><span class="label"><span>Contexte</span></span> {{ . }}</p>{{ end }}
+	</header>
+
+	{{ if .Params.wip }}
+		<p class="wip">
+			Cette étude de cas est en chantier&nbsp;: le dispositif existe, son récit
+			pas encore. <a href="mailto:anthony@nelzin.fr">Écrivez-moi</a> si vous
+			voulez que je la raconte de vive voix en attendant.
+		</p>
+	{{ end }}
+
+	{{ with .Content }}<div class="prose">{{ . }}</div>{{ end }}
+
+	<nav class="siblings" aria-label="Autres réalisations">
+		{{ with .PrevInSection }}<a class="siblings__prev" href="{{ .RelPermalink }}"><i>←</i>{{ .Title }}</a>{{ end }}
+		<a class="siblings__all" href="{{ .Parent.RelPermalink }}">Toutes les réalisations</a>
+		{{ with .NextInSection }}<a class="siblings__next" href="{{ .RelPermalink }}">{{ .Title }}<i>→</i></a>{{ end }}
+	</nav>
+</article>
+{{ end }}

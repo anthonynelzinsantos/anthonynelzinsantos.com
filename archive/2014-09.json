@@ -1,0 +1,65 @@
+{
+  "albums": [
+    {
+      "title": "Angus & Julia Stone",
+      "artist": "Angus & Julia Stone",
+      "source": "https://www.last.fm/music/Angus+%26+Julia+Stone/Angus+%26+Julia+Stone",
+      "date": "2014-09-01",
+      "tracks": 8
+    },
+    {
+      "title": "Angus & Julia Stone",
+      "artist": "Angus & Julia Stone",
+      "source": "https://www.last.fm/music/Angus+%26+Julia+Stone/Angus+%26+Julia+Stone",
+      "date": "2014-09-02",
+      "tracks": 5
+    },
+    {
+      "title": "Songs of Innocence",
+      "artist": "U2",
+      "source": "https://www.last.fm/music/U2/Songs+of+Innocence",
+      "date": "2014-09-10",
+      "tracks": 11
+    },
+    {
+      "title": "Cheek to Cheek",
+      "artist": "Tony Bennett / Lady Gaga",
+      "source": "https://www.last.fm/music/Tony+Bennett+%2F+Lady+Gaga/Cheek+to+Cheek",
+      "date": "2014-09-23",
+      "tracks": 10
+    },
+    {
+      "title": "Nikki",
+      "artist": "Nikki Yanofsky",
+      "source": "https://www.last.fm/music/Nikki+Yanofsky/Nikki",
+      "date": "2014-09-23",
+      "tracks": 7
+    },
+    {
+      "title": "Partners",
+      "artist": "Barbra Streisand",
+      "source": "https://www.last.fm/music/Barbra+Streisand/Partners",
+      "date": "2014-09-23",
+      "tracks": 12
+    },
+    {
+      "title": "Nikki",
+      "artist": "Nikki Yanofsky",
+      "date": "2014-09-28",
+      "tracks": 12,
+      "source": "https://www.last.fm/music/Nikki+Yanofsky/Nikki"
+    },
+    {
+      "title": "Popular Problems",
+      "artist": "Leonard Cohen",
+      "source": "https://www.last.fm/music/Leonard+Cohen/Popular+Problems",
+      "date": "2014-09-29",
+      "tracks": 9
+    }
+  ],
+  "books": [],
+  "films": [],
+  "dispatches": [],
+  "architypes": [],
+  "contributions": []
+}
