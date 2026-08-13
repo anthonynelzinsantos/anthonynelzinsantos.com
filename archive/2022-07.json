@@ -95,5 +95,17 @@
       "date": "2022-07-27",
       "count": 2
     }
+  ],
+  "episodes": [
+    {
+      "title": "#46 — C’est dommage pour le développeur, c’est tant mieux pour nous",
+      "date": "2022-07-01",
+      "source": "https://abatonsrompus.fr/46/"
+    },
+    {
+      "title": "#47 — De l’importance d’être con(stant)",
+      "date": "2022-07-15",
+      "source": "https://abatonsrompus.fr/47/"
+    }
   ]
 }

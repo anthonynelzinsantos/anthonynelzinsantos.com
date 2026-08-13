@@ -653,5 +653,12 @@
       "date": "2023-12-31",
       "count": 3
     }
+  ],
+  "episodes": [
+    {
+      "title": "#72 — Le cinquième cavalier de l’Apocalypse est un *UX writer*",
+      "date": "2023-12-18",
+      "source": "https://abatonsrompus.fr/72/"
+    }
   ]
 }

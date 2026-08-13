@@ -5,7 +5,7 @@ monthName: "mai"
 year: 2026
 date: "2026-05-01T12:00:00.000Z"
 month: "2026-05"
-tally: {"livres":2,"albums":41,"films":3,"contributions":29,"dispatches":5}
+tally: {"livres":2,"albums":41,"films":3,"contributions":29,"dispatches":5,"épisodes":1}
 aliases: ["/maintenant/mai-2026/","/now/mai-2026/"]
 ---
 
@@ -16,4 +16,5 @@ aliases: ["/maintenant/mai-2026/","/now/mai-2026/"]
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _The Musicians_ de Grégory Magne, _Wicked: For Good_ de Jon M. Chu et _The Phoenician Scheme_ de Wes Anderson
 - j’ai fait vingt-neuf contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai publié cinq _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
+- j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->

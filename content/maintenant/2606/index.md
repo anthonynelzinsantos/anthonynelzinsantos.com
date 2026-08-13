@@ -5,7 +5,7 @@ monthName: "juin"
 year: 2026
 date: "2026-06-01T12:00:00.000Z"
 month: "2026-06"
-tally: {"livres":1,"albums":39,"films":3,"contributions":36,"dispatches":4,"architypes":10}
+tally: {"livres":1,"albums":39,"films":3,"contributions":36,"dispatches":4,"architypes":10,"épisodes":1}
 aliases: ["/maintenant/juin-2026/","/now/juin-2026/"]
 ---
 
@@ -17,4 +17,5 @@ aliases: ["/maintenant/juin-2026/","/now/juin-2026/"]
 - j’ai fait trente-six contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai publié quatre _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
 - j’ai publié dix architypes sur [_Architypes_](https://archityp.es/)
+- j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->

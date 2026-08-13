@@ -6,7 +6,7 @@ export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "
 export const ARCHIVE = path.join(ROOT, "archive");
 
 export const CREATOR = { books: "author", albums: "artist", films: "director" };
-export const SHELVES = [...Object.keys(CREATOR), "contributions", "dispatches", "architypes"];
+export const SHELVES = [...Object.keys(CREATOR), "contributions", "dispatches", "architypes", "episodes"];
 
 export const DRY_RUN = process.env.DRY_RUN === "1";
 

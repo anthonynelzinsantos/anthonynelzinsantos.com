@@ -5,10 +5,11 @@ monthName: "septembre"
 year: 2021
 date: "2021-09-01T12:00:00.000Z"
 month: "2021-09"
-tally: {"contributions":42}
+tally: {"contributions":42,"épisodes":5}
 aliases: ["/maintenant/septembre-2021/"]
 ---
 
 <!-- archive:début -->
 - j’ai fait quarante-deux contributions sur [GitHub](https://github.com/anthonynelzinsantos)
+- j’ai enregistré cinq épisodes de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->

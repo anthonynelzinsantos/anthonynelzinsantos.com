@@ -70,5 +70,32 @@
       "date": "2021-09-27",
       "count": 1
     }
+  ],
+  "episodes": [
+    {
+      "title": "#18 — Gödel, Escher, Drake",
+      "date": "2021-09-02",
+      "source": "https://abatonsrompus.fr/18/"
+    },
+    {
+      "title": "#19 — J’ai de vraies questions en tant que réac",
+      "date": "2021-09-09",
+      "source": "https://abatonsrompus.fr/19/"
+    },
+    {
+      "title": "#20 — C’est californien, donc c’est bien",
+      "date": "2021-09-16",
+      "source": "https://abatonsrompus.fr/20/"
+    },
+    {
+      "title": "#21 — Le métavers à moitié plein",
+      "date": "2021-09-23",
+      "source": "https://abatonsrompus.fr/21/"
+    },
+    {
+      "title": "#22 — La quadrature du cercle de la machine à écrire",
+      "date": "2021-09-30",
+      "source": "https://abatonsrompus.fr/22/"
+    }
   ]
 }

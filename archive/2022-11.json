@@ -50,5 +50,17 @@
       "date": "2022-11-27",
       "count": 4
     }
+  ],
+  "episodes": [
+    {
+      "title": "#55 — La technologie, c’est fait pour halluciner la réalité",
+      "date": "2022-11-13",
+      "source": "https://abatonsrompus.fr/55/"
+    },
+    {
+      "title": "#56 — Les amateurs font, les pro crastinent",
+      "date": "2022-11-27",
+      "source": "https://abatonsrompus.fr/56/"
+    }
   ]
 }

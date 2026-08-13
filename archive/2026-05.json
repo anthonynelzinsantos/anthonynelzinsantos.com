@@ -367,5 +367,12 @@
       "date": "2026-05-31",
       "count": 11
     }
+  ],
+  "episodes": [
+    {
+      "title": "#83 — 50 ans (encore) avec les technologies",
+      "date": "2026-05-31",
+      "source": "https://abatonsrompus.fr/83/"
+    }
   ]
 }

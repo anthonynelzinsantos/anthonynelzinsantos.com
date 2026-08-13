@@ -304,5 +304,12 @@
     }
   ],
   "architypes": [],
-  "contributions": []
+  "contributions": [],
+  "episodes": [
+    {
+      "title": "#82 — 50 ans (ou presque) avec Apple",
+      "date": "2026-04-23",
+      "source": "https://abatonsrompus.fr/82/"
+    }
+  ]
 }

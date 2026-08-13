@@ -90,5 +90,17 @@
       "date": "2022-05-29",
       "count": 5
     }
+  ],
+  "episodes": [
+    {
+      "title": "#43 — Les pharisiens du *quantified self*",
+      "date": "2022-05-13",
+      "source": "https://abatonsrompus.fr/43/"
+    },
+    {
+      "title": "#44 — Je préfère passer trente secondes à dérouler un câble",
+      "date": "2022-05-27",
+      "source": "https://abatonsrompus.fr/44/"
+    }
   ]
 }

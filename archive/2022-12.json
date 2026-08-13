@@ -69,5 +69,12 @@
       "date": "2022-12-31",
       "count": 3
     }
+  ],
+  "episodes": [
+    {
+      "title": "#57 — Et le meilleur album de pop de l’année est…",
+      "date": "2022-12-25",
+      "source": "https://abatonsrompus.fr/57/"
+    }
   ]
 }

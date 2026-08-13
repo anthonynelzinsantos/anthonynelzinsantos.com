@@ -5,7 +5,7 @@ monthName: "novembre"
 year: 2023
 date: "2023-11-01T12:00:00.000Z"
 month: "2023-11"
-tally: {"albums":73,"films":1,"contributions":63}
+tally: {"albums":73,"films":1,"contributions":63,"épisodes":1}
 aliases: ["/maintenant/novembre-2023/"]
 ---
 
@@ -14,4 +14,5 @@ aliases: ["/maintenant/novembre-2023/"]
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Movement_ de Daniel Santiago & Pedro Martins et huit autres albums
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _The Fabelmans_ de Steven Spielberg
 - j’ai fait soixante-trois contributions sur [GitHub](https://github.com/anthonynelzinsantos)
+- j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->

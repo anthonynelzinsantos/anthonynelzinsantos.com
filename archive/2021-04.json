@@ -70,5 +70,27 @@
       "date": "2021-04-28",
       "count": 1
     }
+  ],
+  "episodes": [
+    {
+      "title": "#1 — Mac OS X et les jeunes cons",
+      "date": "2021-04-01",
+      "source": "https://abatonsrompus.fr/1/"
+    },
+    {
+      "title": "#2 — Tim Apple",
+      "date": "2021-04-09",
+      "source": "https://abatonsrompus.fr/2/"
+    },
+    {
+      "title": "#3 — Machines à écrire",
+      "date": "2021-04-17",
+      "source": "https://abatonsrompus.fr/3/"
+    },
+    {
+      "title": "#4 — L’iMac ressort",
+      "date": "2021-04-23",
+      "source": "https://abatonsrompus.fr/4/"
+    }
   ]
 }

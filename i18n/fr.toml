@@ -22,6 +22,10 @@ other = "dispatches"
 one = "architype"
 other = "architypes"
 
+["épisodes"]
+one = "épisode"
+other = "épisodes"
+
 [photos]
 one = "photo"
 other = "photos"

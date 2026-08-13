@@ -60,5 +60,27 @@
       "date": "2021-10-31",
       "count": 3
     }
+  ],
+  "episodes": [
+    {
+      "title": "#23 — Steve Jobs est mort, vive Siri",
+      "date": "2021-10-08",
+      "source": "https://abatonsrompus.fr/23/"
+    },
+    {
+      "title": "#24 — Prendre le contrôle du temps",
+      "date": "2021-10-15",
+      "source": "https://abatonsrompus.fr/24/"
+    },
+    {
+      "title": "#25 — Ce n’est pas que tu es dans la minorité, c’est que tu as tort",
+      "date": "2021-10-22",
+      "source": "https://abatonsrompus.fr/25/"
+    },
+    {
+      "title": "#26 — On n’est pas encore tout à fait de vieux cons",
+      "date": "2021-10-29",
+      "source": "https://abatonsrompus.fr/26/"
+    }
   ]
 }

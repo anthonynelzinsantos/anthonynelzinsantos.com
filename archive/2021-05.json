@@ -55,5 +55,32 @@
       "date": "2021-05-31",
       "count": 1
     }
+  ],
+  "episodes": [
+    {
+      "title": "#5 — Les fruits du pommier",
+      "date": "2021-05-01",
+      "source": "https://abatonsrompus.fr/5/"
+    },
+    {
+      "title": "#6 — Socrate et le skeuomorphisme",
+      "date": "2021-05-07",
+      "source": "https://abatonsrompus.fr/6/"
+    },
+    {
+      "title": "#7 — La bicyclette de l’esprit",
+      "date": "2021-05-14",
+      "source": "https://abatonsrompus.fr/7/"
+    },
+    {
+      "title": "#8 — La fille aux cheveux colorés",
+      "date": "2021-05-22",
+      "source": "https://abatonsrompus.fr/8/"
+    },
+    {
+      "title": "#9 — L’ânalyste Gene Munster",
+      "date": "2021-05-29",
+      "source": "https://abatonsrompus.fr/9/"
+    }
   ]
 }

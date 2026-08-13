@@ -84,5 +84,12 @@
       "date": "2022-06-28",
       "count": 2
     }
+  ],
+  "episodes": [
+    {
+      "title": "#45 — Je n’ai pas du tout suivi la WWDC",
+      "date": "2022-06-17",
+      "source": "https://abatonsrompus.fr/45/"
+    }
   ]
 }

@@ -5,7 +5,7 @@ monthName: "décembre"
 year: 2024
 date: "2024-12-01T12:00:00.000Z"
 month: "2024-12"
-tally: {"livres":8,"albums":86,"films":3,"contributions":13}
+tally: {"livres":8,"albums":86,"films":3,"contributions":13,"épisodes":1}
 aliases: ["/maintenant/decembre-2024/"]
 ---
 
@@ -15,4 +15,5 @@ aliases: ["/maintenant/decembre-2024/"]
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Beyond the Double Bass_ de Renaud Garcia-Fons et cinq autres albums
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _Red One_ de Jake Kasdan, _Paddington 2_ de Paul King et _An Evening with Dua Lipa_ de Paul Dugdale
 - j’ai fait treize contributions sur [GitHub](https://github.com/anthonynelzinsantos)
+- j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->

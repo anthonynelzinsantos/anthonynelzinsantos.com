@@ -92,6 +92,10 @@ const PUBLISHED = [
 	{ shelf: "architypes", verb: "publié",
 		noun: ["architype", "architypes"],
 		where: "[_Architypes_](https://archityp.es/)" },
+	{ shelf: "episodes", verb: "enregistré",
+		noun: ["épisode", "épisodes"],
+		join: "de mon podcast",
+		where: "[_À bâtons rompus_](https://abatonsrompus.fr/)" },
 ];
 
 function name(shelf, item) {
@@ -149,7 +153,7 @@ function sentences(month) {
 		const n = count(month[p.shelf]);
 		if (!n) continue;
 		const noun = p.noun[n === 1 ? 0 : 1];
-		lines.push(`j’ai ${p.verb} ${spell(n, p.feminine)} ${noun} sur ${p.where}`);
+		lines.push(`j’ai ${p.verb} ${spell(n, p.feminine)} ${noun} ${p.join ?? "sur"} ${p.where}`);
 	}
 
 	return lines;
@@ -185,7 +189,7 @@ function head(old, keys) {
 }
 
 const OWN_TALLY = [...SHELVES, "photos"];
-const TALLY_LABEL = { books: "livres" };
+const TALLY_LABEL = { books: "livres", episodes: "épisodes" };
 
 function mergeTally(old, computed) {
 	let extra = {};

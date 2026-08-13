@@ -30,5 +30,17 @@
       "date": "2022-02-23",
       "count": 2
     }
+  ],
+  "episodes": [
+    {
+      "title": "#36 — Dis Siri, ta gueule",
+      "date": "2022-02-04",
+      "source": "https://abatonsrompus.fr/36/"
+    },
+    {
+      "title": "#37 — Perdu dans le métavers de Notion",
+      "date": "2022-02-18",
+      "source": "https://abatonsrompus.fr/37/"
+    }
   ]
 }

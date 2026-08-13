@@ -45,5 +45,17 @@
       "date": "2022-01-30",
       "count": 1
     }
+  ],
+  "episodes": [
+    {
+      "title": "#34 — Si je faisais la loi chez Apple",
+      "date": "2022-01-07",
+      "source": "https://abatonsrompus.fr/34/"
+    },
+    {
+      "title": "#35 — Qui possède le futur de la réalité ?",
+      "date": "2022-01-21",
+      "source": "https://abatonsrompus.fr/35/"
+    }
   ]
 }

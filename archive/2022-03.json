@@ -60,5 +60,17 @@
       "date": "2022-03-27",
       "count": 4
     }
+  ],
+  "episodes": [
+    {
+      "title": "#38 — La bataille pour Kiev et la guerre pour l’information",
+      "date": "2022-03-04",
+      "source": "https://abatonsrompus.fr/38/"
+    },
+    {
+      "title": "#39 — On parle de Tim Cook comme s’il était mort",
+      "date": "2022-03-18",
+      "source": "https://abatonsrompus.fr/39/"
+    }
   ]
 }

@@ -418,5 +418,12 @@
       "date": "2026-06-28",
       "count": 4
     }
+  ],
+  "episodes": [
+    {
+      "title": "#84 — L’épisode perdu",
+      "date": "2026-06-26",
+      "source": "https://abatonsrompus.fr/84/"
+    }
   ]
 }

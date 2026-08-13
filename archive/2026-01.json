@@ -127,5 +127,12 @@
       "date": "2026-01-31",
       "count": 2
     }
+  ],
+  "episodes": [
+    {
+      "title": "#79 — Un éloge de la paresse",
+      "date": "2026-01-14",
+      "source": "https://abatonsrompus.fr/79/"
+    }
   ]
 }

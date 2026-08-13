@@ -70,5 +70,27 @@
       "date": "2021-06-29",
       "count": 1
     }
+  ],
+  "episodes": [
+    {
+      "title": "#10 — Des *stories* dans Messages",
+      "date": "2021-06-05",
+      "source": "https://abatonsrompus.fr/10/"
+    },
+    {
+      "title": "#11 — Tu vois, tu vois",
+      "date": "2021-06-12",
+      "source": "https://abatonsrompus.fr/11/"
+    },
+    {
+      "title": "#12 — L’outil comme il ne va pas",
+      "date": "2021-06-18",
+      "source": "https://abatonsrompus.fr/12/"
+    },
+    {
+      "title": "#13 — Le futur parallèle du MiniDisc",
+      "date": "2021-06-26",
+      "source": "https://abatonsrompus.fr/13/"
+    }
   ]
 }

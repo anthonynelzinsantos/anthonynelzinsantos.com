@@ -494,5 +494,17 @@
       "date": "2023-06-23",
       "count": 1
     }
+  ],
+  "episodes": [
+    {
+      "title": "#66 — Je vois ça de manière cynique",
+      "date": "2023-06-04",
+      "source": "https://abatonsrompus.fr/66/"
+    },
+    {
+      "title": "#67 — On va casquer",
+      "date": "2023-06-18",
+      "source": "https://abatonsrompus.fr/67/"
+    }
   ]
 }

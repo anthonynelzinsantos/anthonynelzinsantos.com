@@ -45,5 +45,27 @@
       "date": "2021-07-29",
       "count": 1
     }
+  ],
+  "episodes": [
+    {
+      "title": "#14 — Windows 10+1",
+      "date": "2021-07-03",
+      "source": "https://abatonsrompus.fr/14/"
+    },
+    {
+      "title": "#15 — *Credo in unum Apple*",
+      "date": "2021-07-09",
+      "source": "https://abatonsrompus.fr/15/"
+    },
+    {
+      "title": "#16 — La maison conne(ctée)",
+      "date": "2021-07-16",
+      "source": "https://abatonsrompus.fr/16/"
+    },
+    {
+      "title": "#17 — Plus technocritiques que les pires technocritiques",
+      "date": "2021-07-23",
+      "source": "https://abatonsrompus.fr/17/"
+    }
   ]
 }

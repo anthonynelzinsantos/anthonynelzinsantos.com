@@ -4,6 +4,7 @@ import { loadArchive, writeArchive, add, report } from "./lib.mjs";
 const SITES = {
 	dispatches: { name: "Z1NZ0L1N", feed: "https://z1nz0l1n.com/feed" },
 	architypes: { name: "Architypes", feed: "https://archityp.es/index.xml" },
+	episodes: { name: "À bâtons rompus", feed: "https://abatonsrompus.fr/index.xml" },
 };
 
 const UA = "anthonynelzinsantos.com (archive personal)";
@@ -44,7 +45,7 @@ const tally = { added: 0, enriched: 0 };
 
 for (const shelf of wanted) {
 	const site = SITES[shelf];
-	if (!site) { console.warn(`[feed] shelf inconnu : ${shelf}`); continue; }
+	if (!site) { console.warn(`[feed] unknown shelf: ${shelf}`); continue; }
 	try {
 		const entries = await readFeed(site.feed);
 		for (const e of entries) {

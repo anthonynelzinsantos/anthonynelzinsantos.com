@@ -65,5 +65,27 @@
       "date": "2021-12-31",
       "count": 6
     }
+  ],
+  "episodes": [
+    {
+      "title": "#30 — 2021 en films et séries TV",
+      "date": "2021-12-03",
+      "source": "https://abatonsrompus.fr/30/"
+    },
+    {
+      "title": "#31 — 2021 en lectures",
+      "date": "2021-12-10",
+      "source": "https://abatonsrompus.fr/31/"
+    },
+    {
+      "title": "#32 — 2021 en musique",
+      "date": "2021-12-17",
+      "source": "https://abatonsrompus.fr/32/"
+    },
+    {
+      "title": "#33 — 2021 avec Apple",
+      "date": "2021-12-24",
+      "source": "https://abatonsrompus.fr/33/"
+    }
   ]
 }

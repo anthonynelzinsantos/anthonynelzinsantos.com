@@ -745,5 +745,22 @@
       "date": "2023-04-30",
       "count": 2
     }
+  ],
+  "episodes": [
+    {
+      "title": "#62 — …mais bon sang que je déteste la technologie",
+      "date": "2023-04-02",
+      "source": "https://abatonsrompus.fr/62/"
+    },
+    {
+      "title": "#63 — Le bureau de Thésée",
+      "date": "2023-04-16",
+      "source": "https://abatonsrompus.fr/63/"
+    },
+    {
+      "title": "#64 — Je suis une victime",
+      "date": "2023-04-30",
+      "source": "https://abatonsrompus.fr/64/"
+    }
   ]
 }

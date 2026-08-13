@@ -5,7 +5,7 @@ monthName: "aout"
 year: 2024
 date: "2024-08-01T12:00:00.000Z"
 month: "2024-08"
-tally: {"livres":5,"albums":70,"films":2,"contributions":1}
+tally: {"livres":5,"albums":70,"films":2,"contributions":1,"épisodes":1}
 aliases: ["/maintenant/aout-2024/"]
 ---
 
@@ -15,4 +15,5 @@ aliases: ["/maintenant/aout-2024/"]
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Será Una Noche_ de La Segunda et dix-huit autres albums
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _Kiki's Delivery Service_ de Hayao Miyazaki et _The Fugitives_ de Francis Veber
 - j’ai fait une contribution sur [GitHub](https://github.com/anthonynelzinsantos)
+- j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->

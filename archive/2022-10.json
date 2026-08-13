@@ -75,5 +75,17 @@
       "date": "2022-10-31",
       "count": 5
     }
+  ],
+  "episodes": [
+    {
+      "title": "#53 — L’art se fait avec les pieds",
+      "date": "2022-10-16",
+      "source": "https://abatonsrompus.fr/53/"
+    },
+    {
+      "title": "#54 — Je n’ai rien acheté, j’ai même vendu mon iMac",
+      "date": "2022-10-30",
+      "source": "https://abatonsrompus.fr/54/"
+    }
   ]
 }

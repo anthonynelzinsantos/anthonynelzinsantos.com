@@ -80,5 +80,22 @@
       "date": "2022-09-28",
       "count": 1
     }
+  ],
+  "episodes": [
+    {
+      "title": "#50 — Versailles c’est le comble du minimalisme",
+      "date": "2022-09-02",
+      "source": "https://abatonsrompus.fr/50/"
+    },
+    {
+      "title": "#51 — Plus Ultra Pro Max",
+      "date": "2022-09-16",
+      "source": "https://abatonsrompus.fr/51/"
+    },
+    {
+      "title": "#52 — L’écran toujours exhibitionniste",
+      "date": "2022-09-30",
+      "source": "https://abatonsrompus.fr/52/"
+    }
   ]
 }

@@ -100,5 +100,17 @@
       "date": "2022-08-31",
       "count": 2
     }
+  ],
+  "episodes": [
+    {
+      "title": "#48 — Les machines ont mauvais gout",
+      "date": "2022-08-05",
+      "source": "https://abatonsrompus.fr/48/"
+    },
+    {
+      "title": "#49 — Dall·e Da",
+      "date": "2022-08-19",
+      "source": "https://abatonsrompus.fr/49/"
+    }
   ]
 }

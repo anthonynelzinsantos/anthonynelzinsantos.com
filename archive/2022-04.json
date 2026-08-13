@@ -60,5 +60,22 @@
       "date": "2022-04-20",
       "count": 3
     }
+  ],
+  "episodes": [
+    {
+      "title": "#40 — Bref, tu m’as fait changer de marque de PQ",
+      "date": "2022-04-01",
+      "source": "https://abatonsrompus.fr/40/"
+    },
+    {
+      "title": "#41 — Le poids des photos, le choc des algos",
+      "date": "2022-04-15",
+      "source": "https://abatonsrompus.fr/41/"
+    },
+    {
+      "title": "#42 — La grande question sur la vie, l’univers et le reste",
+      "date": "2022-04-29",
+      "source": "https://abatonsrompus.fr/42/"
+    }
   ]
 }

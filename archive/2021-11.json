@@ -50,5 +50,22 @@
       "date": "2021-11-29",
       "count": 1
     }
+  ],
+  "episodes": [
+    {
+      "title": "#27 — Donc on a lu un livre",
+      "date": "2021-11-12",
+      "source": "https://abatonsrompus.fr/27/"
+    },
+    {
+      "title": "#28 — L’IA se couche de bonne heure",
+      "date": "2021-11-19",
+      "source": "https://abatonsrompus.fr/28/"
+    },
+    {
+      "title": "#29 — Le Mac est-il catholique ?",
+      "date": "2021-11-26",
+      "source": "https://abatonsrompus.fr/29/"
+    }
   ]
 }

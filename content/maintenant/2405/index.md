@@ -5,7 +5,7 @@ monthName: "mai"
 year: 2024
 date: "2024-05-01T12:00:00.000Z"
 month: "2024-05"
-tally: {"livres":1,"albums":55,"contributions":15}
+tally: {"livres":1,"albums":55,"contributions":15,"épisodes":1}
 aliases: ["/maintenant/mai-2024/"]
 ---
 
@@ -14,4 +14,5 @@ aliases: ["/maintenant/mai-2024/"]
 - [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Radical Optimism_ de Dua Lipa et trente-huit autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _But Who's Gonna Play the Melody?_ de Christian McBride & Edgar Meyer et quinze autres albums
 - j’ai fait quinze contributions sur [GitHub](https://github.com/anthonynelzinsantos)
+- j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->

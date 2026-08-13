@@ -762,5 +762,17 @@
       "date": "2023-02-26",
       "count": 2
     }
+  ],
+  "episodes": [
+    {
+      "title": "#60 — Il a l’air, mais il n’a pas la chanson",
+      "date": "2023-02-05",
+      "source": "https://abatonsrompus.fr/60/"
+    },
+    {
+      "title": "#61 — J’adore la technologie…",
+      "date": "2023-02-19",
+      "source": "https://abatonsrompus.fr/61/"
+    }
   ]
 }

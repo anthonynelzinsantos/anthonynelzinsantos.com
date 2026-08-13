@@ -680,5 +680,17 @@
       "date": "2023-01-31",
       "count": 1
     }
+  ],
+  "episodes": [
+    {
+      "title": "#58 — Un ChatGPT dans la gorge",
+      "date": "2023-01-08",
+      "source": "https://abatonsrompus.fr/58/"
+    },
+    {
+      "title": "#59 — J’en peux plus de cette putain de boite",
+      "date": "2023-01-22",
+      "source": "https://abatonsrompus.fr/59/"
+    }
   ]
 }

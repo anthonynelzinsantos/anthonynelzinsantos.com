@@ -5,7 +5,7 @@ monthName: "juillet"
 year: 2026
 date: "2026-07-01T12:00:00.000Z"
 month: "2026-07"
-tally: {"livres":1,"albums":28,"films":2,"contributions":68,"dispatches":4,"architypes":10, "villes": 3}
+tally: {"livres":1,"albums":28,"films":2,"contributions":68,"dispatches":4,"architypes":10,"épisodes":1,"villes":3}
 aliases: ["/maintenant/juillet-2026/","/now/juillet-2026/"]
 photos:
   "2607-1.jpg": "Ma première sortie officielle avec ce titre ."
@@ -22,6 +22,7 @@ photos:
 - j’ai fait soixante-huit contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai publié quatre _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
 - j’ai publié dix architypes sur [_Architypes_](https://archityp.es/)
+- j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->
 - j’ai parcouru 1 188 km en train entre Paris, Vienne et Grenoble
 - j’ai vu Terence Blanchard et Ravi Coltrane ; Marcus Miller ; James Andrews, Anne Paceo, Sélène Saint-Aimé & Tiss Rodriguez ; Jon Batiste ; ubaq ; The Fearless Flyers et enfin Vulfpeck en concert à [Jazz à Vienne](https://www.jazzavienne.com/fr)
