@@ -5,8 +5,13 @@ monthName: "juillet"
 year: 2026
 date: "2026-07-01T12:00:00.000Z"
 month: "2026-07"
-tally: {"livres":1,"albums":28,"films":2,"contributions":68,"dispatches":4,"architypes":10}
+tally: {"livres":1,"albums":28,"films":2,"contributions":68,"dispatches":4,"architypes":10, "villes": 3}
 aliases: ["/maintenant/juillet-2026/","/now/juillet-2026/"]
+photos:
+  "2607-1.jpg": "Ma première sortie officielle avec ce titre ."
+  "2607-2.jpg": "De 7 à 77 ans."
+  "2607-3.jpg": "Au concert de Jon Batiste."
+  "2607-4.jpg": "Bureau avec vue (sur [le Moucherotte](https://fr.wikipedia.org/wiki/Le_Moucherotte))."
 ---
 
 <!-- archive:début -->
@@ -18,3 +23,7 @@ aliases: ["/maintenant/juillet-2026/","/now/juillet-2026/"]
 - j’ai publié quatre _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
 - j’ai publié dix architypes sur [_Architypes_](https://archityp.es/)
 <!-- archive:fin -->
+- j’ai parcouru 1 188 km en train entre Paris, Vienne et Grenoble
+- j’ai vu Terence Blanchard et Ravi Coltrane ; Marcus Miller ; James Andrews, Anne Paceo, Sélène Saint-Aimé & Tiss Rodriguez ; Jon Batiste ; ubaq ; The Fearless Flyers et enfin Vulfpeck en concert à [Jazz à Vienne](https://www.jazzavienne.com/fr)
+- j’ai revu la maquette de *Z1NZ0L1N*
+- j’ai acheté un enregistreur [Zoom PodTrack P4](https://link.amazon/B06N0MBnP)
