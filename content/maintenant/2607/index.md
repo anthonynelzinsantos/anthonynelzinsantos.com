@@ -24,7 +24,7 @@ photos:
 - j’ai publié dix architypes sur [_Architypes_](https://archityp.es/)
 - j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->
-- j’ai parcouru 1 188 km en train entre Paris, Vienne et Grenoble
+- j’ai parcouru 1 188 km en train pour me rendre à Paris, Vienne et Grenoble
 - j’ai vu Terence Blanchard et Ravi Coltrane ; Marcus Miller ; James Andrews, Anne Paceo, Sélène Saint-Aimé & Tiss Rodriguez ; Jon Batiste ; ubaq ; The Fearless Flyers et enfin Vulfpeck en concert à [Jazz à Vienne](https://www.jazzavienne.com/fr)
 - j’ai revu la maquette de *Z1NZ0L1N*
 - j’ai acheté un enregistreur [Zoom PodTrack P4](https://link.amazon/B06N0MBnP)

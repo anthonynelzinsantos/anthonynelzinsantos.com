@@ -5,7 +5,7 @@ monthName: "juin"
 year: 2026
 date: "2026-06-01T12:00:00.000Z"
 month: "2026-06"
-tally: {"livres":1,"albums":39,"films":3,"contributions":36,"dispatches":4,"architypes":10,"épisodes":1}
+tally: {"livres":1,"albums":39,"films":3,"contributions":36,"dispatches":4,"architypes":10,"épisodes":1, "concerts": 1}
 aliases: ["/maintenant/juin-2026/","/now/juin-2026/"]
 ---
 
@@ -19,3 +19,5 @@ aliases: ["/maintenant/juin-2026/","/now/juin-2026/"]
 - j’ai publié dix architypes sur [_Architypes_](https://archityp.es/)
 - j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->
+- j’ai vu le *Concerto pour piano n° 3 en ut mineur* de Ludwig van Beethoven et *Ainsi parlait Zarathoustra* de Richard Strauss par l’Orchestre national de Lyon/Nikolaj Szeps-Znaider et Javier Perianes à l’auditorium de Lyon
+- je me suis réabonné à [*Monocle*](https://monocle.com/)

@@ -5,7 +5,7 @@ monthName: "janvier"
 year: 2026
 date: "2026-01-01T12:00:00.000Z"
 month: "2026-01"
-tally: {"livres":5,"albums":8,"films":3,"contributions":3,"épisodes":1}
+tally: {"livres":5,"albums":8,"films":3,"contributions":3,"épisodes":1, "concerts": 1}
 aliases: ["/maintenant/janvier-2026/","/now/janvier-2026/"]
 ---
 
@@ -16,3 +16,5 @@ aliases: ["/maintenant/janvier-2026/","/now/janvier-2026/"]
 - j’ai fait trois contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->
+- j’ai vu des extraits de la *Suite de Casse-noisette*, de la *Suite du Lac des cygnes* et de la *Suite de la Belle au bois dormant* de Piotr Ilyitch Tchaïkovski par l’Orchestre national de Lyon/Paul Connelly, Dorothée Gilbert et Thomas Docquir à l’Auditorium de Lyon
+- j’ai donné pour la dernière fois mon cours de sécurité opérationnelle pour les journalistes à l’Université Lumière-Lyon 2

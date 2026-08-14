@@ -5,7 +5,7 @@ monthName: "mai"
 year: 2026
 date: "2026-05-01T12:00:00.000Z"
 month: "2026-05"
-tally: {"livres":2,"albums":41,"films":3,"contributions":29,"dispatches":5,"épisodes":1}
+tally: {"livres":2,"albums":41,"films":3,"contributions":29,"dispatches":5,"épisodes":1, "villes": 1}
 aliases: ["/maintenant/mai-2026/","/now/mai-2026/"]
 ---
 
@@ -18,3 +18,5 @@ aliases: ["/maintenant/mai-2026/","/now/mai-2026/"]
 - j’ai publié cinq _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
 - j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->
+- j’ai parcours 860 km en train pour me rendre à Paris
+- j’ai visité le [musée Carnavalet](https://fr.wikipedia.org/wiki/Mus%C3%A9e_Carnavalet) et la [fondation Louis Vuitton](https://fr.wikipedia.org/wiki/Fondation_d%27entreprise_Louis-Vuitton) à Paris

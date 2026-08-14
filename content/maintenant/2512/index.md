@@ -5,7 +5,7 @@ monthName: "décembre"
 year: 2025
 date: "2025-12-01T12:00:00.000Z"
 month: "2025-12"
-tally: {"livres":4,"albums":20,"films":2,"contributions":20,"épisodes":1}
+tally: {"livres":4,"albums":20,"films":2,"contributions":20,"épisodes":1, "concerts": 2, "villes": 1}
 aliases: ["/maintenant/decembre-2025/","/now/decembre-2025/"]
 ---
 
@@ -17,3 +17,8 @@ aliases: ["/maintenant/decembre-2025/","/now/decembre-2025/"]
 - j’ai fait vingt contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->
+- j’ai cousu des vide-poches avec le reste du tissu de [mes expérimentations de reliure japonaise](/maintenant/2511/)
+- j’ai vu la Gospel Philharmonic Experience/Pascal Horecka en concert à la Bourse du travail de Lyon et *Les demoiselles de Rochefort* au Lido
+- j’ai parcouru 867 km en train pour me rendre à Paris
+- j’ai acheté un tirage original de Mateusz Urbanowicz [chez HIS Paris](https://mateuszurbanowicz.com/2025/10/08/events-in-november-2025/)
+- j’ai pris beaucoup de plaisir à assembler un [Lego Game Boy](https://www.lego.com/fr-fr/product/game-boy-72046)

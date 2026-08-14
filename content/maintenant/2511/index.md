@@ -16,5 +16,5 @@ aliases: ["/maintenant/novembre-2025/","/now/novembre-2025/"]
 - j’ai fait onze contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->
-- j’ai appris quelques motifs traditionnels de reliure japonaise (*watoji*)
+- j’ai appris quelques motifs traditionnels de reliure japonaise (*watoji*) pour fabriquer des carnets d’aquarelles
 - j’ai vu Arte dei Suonatori/Marcin Świątkiewicz et Krzysztof Firlus pour des pièces de J.S. Bach et Johann Gottlieb Goldber ; Salif Keita ; Vanessa Wagner ; ainsi que Le concert d’Astrée/Emmanuelle Haïm, Emőke Baráth et Carlo Vistoli pour le *Stabat Mater* de Giovanni Battista Pergolesi en concert à l’Auditorium de Lyon
