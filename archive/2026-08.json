@@ -137,8 +137,36 @@
       "title": "Incidentally",
       "artist": "Jamile",
       "date": "2026-08-13",
-      "tracks": 3,
+      "tracks": 7,
       "source": "https://www.last.fm/music/Jamile/Incidentally"
+    },
+    {
+      "title": "Tarabesque",
+      "artist": "Firas Zreik",
+      "date": "2026-08-13",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/Firas+Zreik/Tarabesque"
+    },
+    {
+      "title": "Coltrane (1967)",
+      "artist": "John Coltrane",
+      "date": "2026-08-14",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/John+Coltrane/Coltrane+(1967)"
+    },
+    {
+      "title": "Gilles Peterson presents Norma Winstone (Live at Maida Vale)",
+      "artist": "Norma Winstone",
+      "date": "2026-08-14",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Norma+Winstone/Gilles+Peterson+presents+Norma+Winstone+(Live+at+Maida+Vale)"
+    },
+    {
+      "title": "Loulu Gilberto",
+      "artist": "Loulu Gilberto",
+      "date": "2026-08-14",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/Loulu+Gilberto/Loulu+Gilberto"
     }
   ],
   "books": [],
@@ -150,6 +178,14 @@
       "rating": 4,
       "source": "https://letterboxd.com/z1nz0l1n/film/brand-new-landscape/",
       "director": "Yuiga Danzuka"
+    },
+    {
+      "title": "O Brother, Where Art Thou?",
+      "year": 2000,
+      "date": "2026-08-13",
+      "rating": 5,
+      "source": "https://letterboxd.com/z1nz0l1n/film/o-brother-where-art-thou/",
+      "director": "Joel Coen"
     }
   ],
   "dispatches": [
@@ -184,6 +220,11 @@
       "title": "Le point basque (Aix-les-Bains)",
       "date": "2026-08-10",
       "source": "https://archityp.es/le-point-basque-aix-les-bains/"
+    },
+    {
+      "title": "Hôtel de la paix (Aix-les-Bains)",
+      "date": "2026-08-13",
+      "source": "https://archityp.es/hotel-de-la-paix-aix-les-bains/"
     }
   ],
   "contributions": [
@@ -210,7 +251,12 @@
     {
       "title": "contributions du 2026-08-13",
       "date": "2026-08-13",
-      "count": 3
+      "count": 15
+    },
+    {
+      "title": "contributions du 2026-08-14",
+      "date": "2026-08-14",
+      "count": 4
     }
   ],
   "episodes": []

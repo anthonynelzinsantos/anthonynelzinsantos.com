@@ -5,7 +5,7 @@ monthName: "décembre"
 year: 2025
 date: "2025-12-01T12:00:00.000Z"
 month: "2025-12"
-tally: {"livres":4,"albums":20,"films":2,"contributions":20,"épisodes":1, "concerts": 2, "villes": 1}
+tally: {"livres":4,"albums":20,"films":2,"contributions":20,"épisodes":1,"concerts":2,"villes":1}
 aliases: ["/maintenant/decembre-2025/","/now/decembre-2025/"]
 ---
 

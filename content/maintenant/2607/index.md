@@ -5,7 +5,7 @@ monthName: "juillet"
 year: 2026
 date: "2026-07-01T12:00:00.000Z"
 month: "2026-07"
-tally: {"livres":1,"albums":28,"films":2,"contributions":68,"dispatches":4,"architypes":10,"épisodes":1,"concerts": 7, "villes":3}
+tally: {"livres":1,"albums":28,"films":2,"contributions":68,"dispatches":4,"architypes":10,"épisodes":1,"concerts":7,"villes":3}
 aliases: ["/maintenant/juillet-2026/","/now/juillet-2026/"]
 photos:
   "2607-1.jpg": "Ma première sortie officielle avec ce titre ."
