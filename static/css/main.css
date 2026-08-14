@@ -112,12 +112,12 @@ summary,
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	gap: .7em;
+	gap: var(--scale-l);
 	writing-mode: vertical-rl;
 	transform: rotate(180deg);
 	font-family: var(--mono);
 	font-size: var(--scale-xs);
-	letter-spacing: .22em;
+	letter-spacing: calc(var(--scale-xs) / 3 * 2);
 	text-transform: uppercase;
 	opacity: .8;
 }
@@ -715,8 +715,6 @@ summary,
 	.spine__inner {
 		writing-mode: horizontal-tb;
 		transform: none;
-		font-size: var(--scale-xs);
-		gap: .55em;
 	}
 	.spine__inner .logo { transform: none; }
 

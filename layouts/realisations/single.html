@@ -3,11 +3,7 @@
 	{{ partial "masthead.html" . }}
 
 	{{ if .Params.wip }}
-		<p class="wip">
-			Cette étude de cas est en chantier&#8239;: le dispositif existe, son récit
-			pas encore. <a href="mailto:anthony@nelzin.fr">Écrivez-moi</a> si vous
-			voulez que je la raconte de vive voix en attendant.
-		</p>
+		<p class="wip">Cette étude de cas est encore en chantier&#8239;: le dispositif existe, son récit pas encore. <a href="mailto:anthony@nelzin.fr">Écrivez-moi</a> si vous voulez que je vous la raconte en attendant.</p>
 	{{ end }}
 
 	{{ with .Content }}<div class="prose">{{ . }}</div>{{ end }}

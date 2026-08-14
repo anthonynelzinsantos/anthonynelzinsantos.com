@@ -40,4 +40,5 @@ photos:
 - j’ai visité l’[Apple Museum](https://applemuseum.nl/) à Utrecht
 - j’ai visité [Train World](https://trainworld.be/fr/) à Schaerbeek
 - j’ai acheté beaucoup trop de papèterie chez [Wunderkammer Stadt Leest](https://www.wunderkammer.be/en) à Anvers et [Nias](https://www.les-papeteries.be/fr/) à Bruxelles
-- j’ai complété ma collection de machines à écrire avec une Olivetti PTP 820 et une Olivetti Lettera 35
+- j’ai complété ma collection de machines à écrire avec une Olivetti Lettera 35
+- j’ai complètement revu [mon site personnel](https://anthonynelzinsantos.com/)
