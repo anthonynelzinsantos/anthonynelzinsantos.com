@@ -5,7 +5,7 @@ monthName: "novembre"
 year: 2025
 date: "2025-11-01T12:00:00.000Z"
 month: "2025-11"
-tally: {"livres":2,"albums":10,"films":6,"contributions":11,"épisodes":1}
+tally: {"livres":2,"albums":10,"films":6,"contributions":11,"épisodes":1, "concerts": 4}
 aliases: ["/maintenant/novembre-2025/","/now/novembre-2025/"]
 ---
 
@@ -16,5 +16,5 @@ aliases: ["/maintenant/novembre-2025/","/now/novembre-2025/"]
 - j’ai fait onze contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->
-- je me suis essayé aux reliures japonaises
-- j’ai assisté à quatre concerts
+- j’ai appris quelques motifs traditionnels de reliure japonaise (*watoji*)
+- j’ai vu Arte dei Suonatori/Marcin Świątkiewicz et Krzysztof Firlus pour des pièces de J.S. Bach et Johann Gottlieb Goldber ; Salif Keita ; Vanessa Wagner ; ainsi que Le concert d’Astrée/Emmanuelle Haïm, Emőke Baráth et Carlo Vistoli pour le *Stabat Mater* de Giovanni Battista Pergolesi en concert à l’Auditorium de Lyon
