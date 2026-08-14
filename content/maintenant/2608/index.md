@@ -35,7 +35,7 @@ photos:
 - j’ai publié deux _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
 - j’ai publié quatre architypes sur [_Architypes_](https://archityp.es/)
 <!-- archive:fin -->
-- j’ai parcouru 1 925 km en train entre Anvers, Utrecht, Schaerbeek et Bruxelles
+- j’ai parcouru 1 925 km en train pour me rendre à Anvers, Utrecht, Schaerbeek et Bruxelles
 - j’ai visité la [cathédrale Notre-Dame](https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame_d%27Anvers), les églises [Saint-Charles-Borromée](https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Charles-Borrom%C3%A9e_d%27Anvers) et [Saint-Paul](https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Paul_d%27Anvers), le [KMSKA](https://kmska.be/fr), le [MAS](https://mas.be/fr/content/bienvenue), le [MoMu](https://www.momu.be/), la [Nottebohmzaal](https://consciencebibliotheek.be/en/nottebohm-room) de la bibliothèque patrimoniale Hendrik Conscience et le [Red Star Line Museum](https://redstarline.be/fr/content/bienvenue) à Anvers
 - j’ai visité l’[Apple Museum](https://applemuseum.nl/) à Utrecht
 - j’ai visité [Train World](https://trainworld.be/fr/) à Schaerbeek

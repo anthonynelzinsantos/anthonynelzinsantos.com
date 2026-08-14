@@ -16,3 +16,4 @@ aliases: ["/maintenant/juin-2025/","/now/juin-2025/"]
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _Flow_ de Gints Zilbalodis et _F1_ de Joseph Kosinski
 - j’ai fait quatorze contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 <!-- archive:fin -->
+- j’ai consolidé ma collection de musique numérique sur un NAS [Synology DS925+](https://link.amazon/B05u70j6E) avec [Plex(amp)](https://www.plex.tv/fr/plexamp/) et [Bliss](https://www.blisshq.com/)

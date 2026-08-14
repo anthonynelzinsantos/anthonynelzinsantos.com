@@ -9,8 +9,6 @@ tally: {"livres":2,"albums":10,"films":6,"contributions":11,"épisodes":1}
 aliases: ["/maintenant/novembre-2025/","/now/novembre-2025/"]
 ---
 
-- j’ai repris l’enregistrement du podcast _À bâtons rompus_ avec Arnaud Jourdain
-
 <!-- archive:début -->
 - [j’ai lu](https://app.thestorygraph.com/profile/z1nz0l1n) _La Chute du British museum_ de David Lodge et _Le Comte de Monte-Cristo_ d’Alexandre Dumas
 - [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Phylipe Nunes Araújo_ de Phylipe Nunes Araújo et neuf autres albums
@@ -18,5 +16,5 @@ aliases: ["/maintenant/novembre-2025/","/now/novembre-2025/"]
 - j’ai fait onze contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->
-
+- je me suis essayé aux reliures japonaises
 - j’ai assisté à quatre concerts

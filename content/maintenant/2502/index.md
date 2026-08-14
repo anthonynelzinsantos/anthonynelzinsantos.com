@@ -16,3 +16,4 @@ aliases: ["/maintenant/fevrier-2025/"]
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _The Lego Batman Movie_ de Chris McKay et _The Gorge_ de Scott Derrickson
 - j’ai fait dix contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 <!-- archive:fin -->
+- j’ai décidé de quitter MacGeneration
