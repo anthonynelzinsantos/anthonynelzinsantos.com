@@ -30,7 +30,7 @@
 
 	{{ $years = sort $years }}
 	{{ $span := slice }}
-	{{ range seq (index $years 0) (index $years (sub (len $years) 1)) }}
+	{{ range seq (index $years (sub (len $years) 1)) (index $years 0) }}
 		{{ $span = $span | append . }}
 	{{ end }}
 
