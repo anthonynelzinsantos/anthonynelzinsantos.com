@@ -5,7 +5,7 @@ monthName: "mars"
 year: 2026
 date: "2026-03-01T12:00:00.000Z"
 month: "2026-03"
-tally: {"livres":1,"albums":30,"films":1,"contributions":25,"dispatches":5,"épisodes":1, "concerts": 1, "villes": 2}
+tally: {"livres":1,"albums":30,"films":1,"contributions":25,"dispatches":5,"épisodes":1,"concerts":1,"villes":2}
 aliases: ["/maintenant/mars-2026/","/now/mars-2026/"]
 ---
 
