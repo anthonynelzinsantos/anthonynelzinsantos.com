@@ -1,7 +1,7 @@
 ---
 title: "Mon parcours"
 layout: "parcours"
-summary: "Découvrez mon parcours professionnel et mes expériences pédagogiques."
+summary: "Explorez mon parcours professionnel et mes expériences pédagogiques."
 description: "La pédagogie comme fil rouge d’expériences diverses et variées."
 sections:
   - heading: "Apave"
@@ -90,7 +90,7 @@ sections:
         start: "2009"
         end: "2010"
         points:
-          - "Rédaction d’articles et de dossiers."
+          - "Rédaction d’articles et de dossiers pratiques."
       - org: "Apple France"
         position: "Chargé de communication"
         start: "2008"
@@ -105,6 +105,6 @@ sections:
         end: "2009"
         points:
           - "Conception du premier site de tutoriels vidéo en France."
-          - "Graphisme et communication d’entreprise"
+          - "Graphisme et communication d’entreprise."
           - "Intégration WordPress, Drupal et Joomla."
 ---

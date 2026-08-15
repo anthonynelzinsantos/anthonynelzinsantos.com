@@ -1,7 +1,7 @@
 ---
 title: "Mes projets"
-summary: "Ce que je fabrique en dehors des heures ouvrables."
-description: "Ce que je fabrique en dehors des heures ouvrables."
+summary: "Découvrez ce que je fabrique en dehors des heures ouvrables."
+description: "La curiosité est tout sauf un vilain défaut."
 projects:
   - name: "Z1NZ0L1N"
     what: "Mon blog en anglais."
