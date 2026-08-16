@@ -1,0 +1,34 @@
+{{- $page := .Page -}}
+{{- $match := .Get "images" | default "" -}}
+{{- $date := .Get "date" -}}
+{{- $title := .Get "title" -}}
+{{- $id := printf "piece-%d" .Ordinal -}}
+
+{{- $photos := slice -}}
+{{- with $match -}}
+	{{- range $page.Resources.Match . -}}
+		{{- if eq .ResourceType "image" -}}
+			{{- $photos = $photos | append . -}}
+		{{- end -}}
+	{{- end -}}
+{{- end -}}
+
+{{- $label := "Photos" -}}
+{{- with $title -}}
+	{{- $label = printf "Photos : %s" (. | markdownify | plainify) -}}
+{{- end -}}
+
+<section class="piece{{ if $photos }} piece--illustrated{{ end }}">
+	<div class="piece__body">
+		{{ with $date }}<p class="piece__date">{{ . }}</p>{{ end }}
+		{{ with $title }}<h2 class="piece__title">{{ . | markdownify }}</h2>{{ end }}
+		{{ with .Inner }}{{ $page.RenderString (dict "display" "block") . }}{{ end }}
+	</div>
+	{{ if $photos }}
+		{{ partial "gallery.html" (dict
+			"page" $page
+			"match" $match
+			"id" $id
+			"label" $label) }}
+	{{ end }}
+</section>

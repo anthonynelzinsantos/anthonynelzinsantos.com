@@ -11,6 +11,7 @@ My portfolio, in Hugo. No dependencies, no downloaded fonts, no build step beyon
 | Mes réalisations | `/realisations/` | `content/realisations/`                |
 | Mes projets      | `/projets/`      | `content/projets.md` (front matter)    |
 | Maintenant       | `/maintenant/`   | generated from `archive/`              |
+| Mon atelier      | `/atelier/`      | `content/atelier/`                     |
 
 My career and side projects live in front matter rather than body text: they are data.
 
@@ -183,6 +184,60 @@ photos:
 The caption doubles as alt text, with Markdown stripped. A photo without one gets an empty `alt`.
 
 The viewer is a `<dialog>`; without JavaScript the thumbnails remain images.
+
+## The atelier
+
+The colophon: this site, my computers, my writing machines. Cards on
+`/atelier/`, exactly like `realisations` — `years`, `description`, `context`,
+`wip`. It is in the main menu and the footer, but deliberately not in the home
+page's card index: `[menus.main.params] index = false` keeps it out.
+
+URLs are `/atelier/:slug/`, and `slug` is mine to declare in the front matter,
+as in the months. It is not optional: left out, Hugo slugifies the title, and
+`Mes machines à écrire` becomes an accented URL.
+
+Each page is a bundle, with the same photo pipeline as the months — JPEG in,
+AVIF out, captions keyed by filename under `photos`, source files never
+published.
+
+### Two ways to lay a page out
+
+**One subject, one page.** Drop images in the bundle and write. The layout puts
+the text on the left, the contact sheet on the right, and needs nothing in the
+Markdown:
+
+```
+content/atelier/site/
+├── index.md
+├── site-1.jpg
+└── site-2.jpg
+```
+
+**Several subjects, one page.** The `piece` shortcode repeats that device down
+the page, one block per machine, each with its own date, subtitle and photos:
+
+```markdown
+{{< piece date="1998-2004" title="iMac G3" images="imac-*" >}}
+Du texte sur cette machine.
+{{< /piece >}}
+
+{{< piece date="2021-2026" title="MacBook Pro 14 pouces" images="mbp-*" >}}
+Et sur celle-là.
+{{< /piece >}}
+```
+
+`images` is a glob over the bundle, so photos are grouped by filename prefix
+and ordered by their last run of digits, like everywhere else. All three
+attributes are optional: without `images` the block simply keeps the measure.
+
+The two are exclusive per page: `layouts/atelier/single.html` switches on
+`.HasShortcode "piece"`, so a page that uses the shortcode never also gets the
+automatic gallery.
+
+Galleries are no longer one-per-page. `gallery.html` takes an `id`, each
+gallery gets its own `<dialog>`, and the viewer script in `baseof.html` wires
+every `.viewer` it finds, pairing thumbnails to their dialog through
+`data-viewer`. Months pass their slug as the id and behave exactly as before.
 
 ## Deployment
 

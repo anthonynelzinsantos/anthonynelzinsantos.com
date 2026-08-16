@@ -44,10 +44,18 @@ enableEmoji = true
   pageRef = "/maintenant"
   weight = 50
 
+[[menus.main]]
+  name = "Mon atelier"
+  pageRef = "/atelier"
+  weight = 60
+  [menus.main.params]
+    index = false
+
 [permalinks]
   [permalinks.page]
     realisations = "/realisations/:slug/"
     maintenant   = "/maintenant/:slug/"
+    atelier      = "/atelier/:slug/"
 
 [markup.goldmark.renderer]
   unsafe = true

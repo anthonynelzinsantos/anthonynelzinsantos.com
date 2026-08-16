@@ -1,12 +1,23 @@
 {{ $page := .page }}
+{{ $match := .match | default "" }}
+{{ $id := .id | default "photos" }}
+{{ $label := .label | default "Photos" }}
+
+{{ $pool := $page.Resources.ByType "image" }}
+{{ with $match }}
+	{{ $pool = $page.Resources.Match . }}
+{{ end }}
+
 {{ $ranked := slice }}
-{{ range $page.Resources.ByType "image" }}
-	{{ $digits := findRE `[0-9]+` (path.BaseName .Name) }}
-	{{ $rank := 0 }}
-	{{ with $digits }}
-		{{ $rank = int (index . (sub (len .) 1)) }}
+{{ range $pool }}
+	{{ if eq .ResourceType "image" }}
+		{{ $digits := findRE `[0-9]+` (path.BaseName .Name) }}
+		{{ $rank := 0 }}
+		{{ with $digits }}
+			{{ $rank = int (index . (sub (len .) 1)) }}
+		{{ end }}
+		{{ $ranked = $ranked | append (dict "rank" $rank "name" .Name "file" .) }}
 	{{ end }}
-	{{ $ranked = $ranked | append (dict "rank" $rank "name" .Name "file" .) }}
 {{ end }}
 {{ $photos := slice }}
 {{ range sort $ranked "rank" }}
@@ -16,8 +27,7 @@
 {{ with $photos }}
 	{{ $captions := $page.Params.photos | default dict }}
 
-	<div class="gallery" role="group"
-	     aria-label="Photos de {{ $page.Params.monthName }} {{ $page.Params.year }}">
+	<div class="gallery" role="group" data-viewer="{{ $id }}" aria-label="{{ $label }}">
 		{{ range $i, $p := . }}
 			{{ $caption := index $captions $p.Name }}
 			{{ $plain := $caption | markdownify | plainify }}
@@ -25,7 +35,7 @@
 			{{ $t2 := $p.Fill "320x320 avif q60" }}
 			{{ $t3 := $p.Fill "480x480 avif q58" }}
 			{{ $tj := $p.Fill "320x320 jpg q78" }}
-			<button class="gallery__thumb" type="button" data-index="{{ $i }}"
+			<button class="gallery__thumb" type="button" data-viewer="{{ $id }}" data-index="{{ $i }}"
 			        aria-label="Agrandir la photo {{ add $i 1 }} sur {{ len $photos }}{{ with $plain }} : {{ . }}{{ end }}">
 				<picture>
 					<source type="image/avif"
@@ -38,7 +48,7 @@
 		{{ end }}
 	</div>
 
-	<dialog class="viewer" aria-label="Photos de {{ $page.Params.monthName }} {{ $page.Params.year }}">
+	<dialog class="viewer" data-viewer="{{ $id }}" aria-label="{{ $label }}">
 		<button class="viewer__close" type="button" aria-label="Fermer">
 			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="currentColor" aria-hidden="true" focusable="false"><path d="M205.66,194.34a8,8,0,0,1-11.32,11.32L128,139.31,61.66,205.66a8,8,0,0,1-11.32-11.32L116.69,128,50.34,61.66A8,8,0,0,1,61.66,50.34L128,116.69l66.34-66.35a8,8,0,0,1,11.32,11.32L139.31,128Z"></path></svg>
 		</button>

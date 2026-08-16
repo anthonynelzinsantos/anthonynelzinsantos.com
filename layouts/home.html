@@ -8,7 +8,7 @@
 <nav class="index" aria-label="Sommaire">
 	<ul class="cards">
 		{{ range .Site.Menus.main }}
-			{{ if ne .Page $expanded }}
+			{{ if and (ne .Page $expanded) (ne .Params.index false) }}
 				{{ partial "card.html" (dict
 					"url" .URL
 					"title" .Name

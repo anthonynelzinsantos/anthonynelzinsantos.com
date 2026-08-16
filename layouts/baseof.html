@@ -60,9 +60,9 @@
 	}
 }
 {
-	const box = document.querySelector('.viewer');
-	const rail = box && box.querySelector('.viewer__rail');
-	if (rail) {
+	const wire = (box) => {
+		const rail = box.querySelector('.viewer__rail');
+		if (!rail) return;
 		const views = [...rail.children];
 		const goTo = (i, smooth) => rail.scrollTo({
 			left: rail.clientWidth * i, behavior: smooth ? 'smooth' : 'instant',
@@ -85,6 +85,7 @@
 		const loadAround = (i) => { for (const j of [i, i - 1, i + 1]) if (views[j]) load(views[j]); };
 
 		for (const thumb of document.querySelectorAll('.gallery__thumb')) {
+			if (thumb.dataset.viewer !== box.dataset.viewer) continue;
 			thumb.onclick = () => {
 				const i = Number(thumb.dataset.index);
 				settle();
@@ -150,7 +151,8 @@
 		};
 		box.addEventListener('touchend', release);
 		box.addEventListener('touchcancel', release);
-	}
+	};
+	for (const box of document.querySelectorAll('.viewer')) wire(box);
 }
 </script>
 

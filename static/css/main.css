@@ -152,6 +152,7 @@ summary,
 .prose { max-width: var(--measure); }
 .prose p { margin: 0 0 1.15em; }
 .prose--note { font-family: var(--sans); font-size: var(--scale-s); line-height: 1.6; color: var(--muted); }
+.cards + .prose--note { margin-top: var(--scale-2xl); }
 
 .label {
 	display: flex;
@@ -555,15 +556,58 @@ summary,
 	color: var(--muted);
 }
 
-/* --------------------------------------------------- month photos */
+/* ----------------------------------------------------------- split */
 
-.month__layout { display: block; }
-.month__layout--illustrated {
+.month__layout,
+.split { display: block; }
+
+.month__layout--illustrated,
+.split--illustrated {
 	display: grid;
 	grid-template-columns: minmax(0, var(--measure)) 1fr;
 	gap: 0 var(--scale-2xl);
 }
-.month__layout--illustrated .month__body { max-width: none; }
+.month__layout--illustrated .month__body,
+.split--illustrated .split__body { max-width: none; }
+
+/* --------------------------------------------------------- pieces */
+
+.prose--blocks { max-width: none; }
+.prose--blocks > :not(.piece) { max-width: var(--measure); }
+
+.piece {
+	margin-top: var(--scale-2xl);
+	padding-top: var(--scale-2xl);
+	border-top: 1px solid var(--rule);
+}
+.piece:first-child { margin-top: 0; padding-top: 0; border-top: 0; }
+
+.piece--illustrated {
+	display: grid;
+	grid-template-columns: minmax(0, var(--measure)) 1fr;
+	gap: 0 var(--scale-2xl);
+}
+
+.piece__body { max-width: var(--measure); }
+.piece__body > :last-child { margin-bottom: 0; }
+
+.piece__date {
+	margin: 0 0 var(--scale-xs);
+	font-family: var(--mono);
+	font-size: var(--scale-s);
+	letter-spacing: .1em;
+	color: var(--accent);
+}
+.piece__title {
+	margin: 0 0 var(--scale-m);
+	font-weight: 400;
+	font-size: var(--scale-l);
+	line-height: 1.15;
+	letter-spacing: -.02em;
+	text-wrap: balance;
+}
+
+/* --------------------------------------------------- month photos */
 
 .gallery {
 	display: grid;
@@ -685,7 +729,11 @@ summary,
 /* ---------------------------------------------------------- narrow */
 
 @media (max-width: 900px) {
-	.month__layout--illustrated { display: block; }
+	.month__layout--illustrated,
+	.split--illustrated,
+	.piece--illustrated { display: block; }
+
+	.prose--blocks > :not(.piece) { max-width: none; }
 
 	.gallery {
 		display: flex;

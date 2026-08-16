@@ -1,0 +1,24 @@
+{{ define "main" }}
+{{ $auto := and (.Resources.ByType "image") (not (.HasShortcode "piece")) }}
+<article class="page">
+	{{ partial "masthead.html" . }}
+
+	{{ with .Content }}
+		<div class="split{{ if $auto }} split--illustrated{{ end }}">
+			<div class="split__body prose{{ if not $auto }} prose--blocks{{ end }}">{{ . }}</div>
+			{{ if $auto }}
+				{{ partial "gallery.html" (dict
+					"page" $
+					"id" "page"
+					"label" (printf "Photos : %s" $.Title)) }}
+			{{ end }}
+		</div>
+	{{ end }}
+
+	<nav class="siblings" aria-label="Autres pages de l’atelier">
+		{{ with .PrevInSection }}<a class="siblings__prev" href="{{ .RelPermalink }}"><i>←</i>{{ .Title }}</a>{{ end }}
+		<a class="siblings__all" href="{{ .Parent.RelPermalink }}">Tout l’atelier</a>
+		{{ with .NextInSection }}<a class="siblings__next" href="{{ .RelPermalink }}">{{ .Title }}<i>→</i></a>{{ end }}
+	</nav>
+</article>
+{{ end }}

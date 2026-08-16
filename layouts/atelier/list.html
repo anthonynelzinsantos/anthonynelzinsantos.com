@@ -1,0 +1,19 @@
+{{ define "main" }}
+<article class="page">
+	{{ partial "masthead.html" . }}
+
+	<ol class="cards">
+		{{ range .Pages.ByWeight }}
+			{{ partial "card.html" (dict
+				"url" .RelPermalink
+				"meta" .Params.years
+				"title" .Title
+				"what" .Description
+				"where" .Params.context
+				"flag" (cond .Params.wip "chantier" "")) }}
+		{{ end }}
+	</ol>
+
+	{{ with .Content }}<div class="prose prose--note">{{ . }}</div>{{ end }}
+</article>
+{{ end }}

@@ -13,5 +13,8 @@
 			<p class="month__more"><a href="{{ .url }}">{{ .text }} <span aria-hidden="true">→</span></a></p>
 		{{ end }}
 	</div>
-	{{ partial "gallery.html" (dict "page" $page) }}
+	{{ partial "gallery.html" (dict
+		"page" $page
+		"id" $page.Params.slug
+		"label" (printf "Photos de %s %v" $page.Params.monthName $page.Params.year)) }}
 </div>
