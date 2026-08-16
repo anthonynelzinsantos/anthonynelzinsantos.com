@@ -41,5 +41,6 @@ photos:
 - j’ai visité [Train World](https://trainworld.be/fr/) à Schaerbeek
 - j’ai acheté beaucoup trop de papèterie chez [Wunderkammer Stadt Leest](https://www.wunderkammer.be/en) à Anvers et [Nias](https://www.les-papeteries.be/fr/) à Bruxelles
 - j’ai complété ma collection de machines à écrire avec une Olivetti Lettera 35
+- j’ai assisté à [une éclipse solaire](https://fr.wikipedia.org/wiki/%C3%89clipse_solaire_du_12_ao%C3%BBt_2026) presque totale
 - j’ai développé un script pour [faciliter la gestion du cadre numérique Meural](https://github.com/anthonynelzinsantos/MeuralManager/)
 - j’ai complètement revu [mon site personnel](https://anthonynelzinsantos.com/)
