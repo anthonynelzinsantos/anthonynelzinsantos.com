@@ -38,15 +38,17 @@ enableEmoji = true
   name = "Mes projets"
   pageRef = "/projets"
   weight = 40
+  
+[[menus.main]]
+  name = "Mon atelier"
+  pageRef = "/atelier"
+  weight = 50
+  [menus.main.params]
+    index = false
 
 [[menus.main]]
   name = "Maintenant"
   pageRef = "/maintenant"
-  weight = 50
-
-[[menus.main]]
-  name = "Mon atelier"
-  pageRef = "/atelier"
   weight = 60
   [menus.main.params]
     index = false
