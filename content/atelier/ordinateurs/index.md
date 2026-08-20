@@ -10,14 +10,14 @@ photos:
 ---
 
 {{< piece date="2026" title="MacBook Air 13″ (M5)" images="tk-*" >}}
-À l’heure où j’écris ces lignes, cette machine n’est pas encore arrivée.
+Le premier ordinateur portable que j’achète sur mes deniers personnels [depuis mon MacBook Pro 17″ en 2011](/atelier/ordinateurs/#:~:text=MacBook%20Pro%2017%E2%80%B3%20%28Mid%202009%29). Ne serait-ce la couleur, ou plutôt l’absence de couleur, il possède une configuration tout à fait similaire au MacBook Air M2 qu’il remplace.
 {{< /piece >}}
 
 {{< piece date="depuis 2026 (PRO)" title="Lenovo ThinkPad P16s Gen 3" images="tk-*" >}}
-Si les Apaviens de terrain utilisent des tablettes Dell renforcées, les Apaviens de bureau utilisent des ordinateurs portables Lenovo. Voici donc ma toute première machine sous Windows, une "station de travail" avec une autonomie dépassant rarement les trois heures, alors que le système de gestion de l’énergie bride tant le processeur Intel Core Ultra 7 155H (déjà bien entamé par l’antivirus et le VPN) et la carte graphique Nvidia RTX 500 qu’il faut plusieurs minutes pour ouvrir Google Chrome. Heureusement que le design emblématique de Richard Sapper a été préservé !
+Si les Apaviens de terrain utilisent des tablettes Dell renforcées, les Apaviens de bureau utilisent des ordinateurs portables Lenovo ThinkPad. Voici donc ma toute première machine sous Windows, une "station de travail" avec une autonomie dépassant rarement les trois heures, alors que le système de gestion de l’énergie bride tant le processeur Intel Core Ultra 7 155H (déjà bien entamé par l’antivirus et le VPN) et la carte graphique Nvidia RTX 500 qu’il faut plusieurs minutes pour ouvrir Google Chrome. Heureusement que le design emblématique de Richard Sapper a été préservé !
 {{< /piece >}}
 
-{{< piece date="2022-2026 (PRO)" title="MacBook Air 13″ (M2)" images="tk-*" >}}
+{{< piece date="2022-2026 (PRO)" title="MacBook Air 13″ (M2)" images="mba-m2-*" >}}
 Ma première machine avec un clavier QWERTY, qui a motivé la création de [ma disposition QWeuRTY](https://qweurty.eu/). Avec sa puce M2 à huit cœurs et 16 Go de mémoire intégrée, son écran 13,6″ de grande qualité et son téraoctet de stockage, c’est le premier MacBook Air sans compromis. Sa robe bleu "minuit" est incroyablement salissante, mais il s’agit probablement de ma machine favorite après le PowerBook G3 Wallstreet II/PDQ et le MacBook Air 11″. Résultat : je l’ai remplacée par un autre MacBook Air 13″.
 {{< /piece >}}
 
@@ -58,7 +58,7 @@ Après un premier essai peu concluant, j’ai tenté de racheter un iMac 27″, 
 {{< /piece >}}
 
 {{< piece date="depuis 2011 (PRO)" title="MacBook Air 11″ (Late 2010)" images="tk-*" >}}
-Cet ordinateur est arrivé sur mon banc de test en juillet 2011… et n’est jamais reparti. Si je n’ai pas hésité à l’utiliser comme machine principale avec un LED Cinema Display 24″, c’est sur le terrain qu’il a fait ses preuves, m’accompagnant de salon en reportage jusqu’en 2015. Après avoir été emprunté par un collègue, il m’est revenu pour un dernier voyage, cette fois à Bobo-Dioulasso (Burkina Faso) pour créer le master de journalisme de l’Université Nazi Boni en 2017. Je l’utilise encore régulièrement pour garder un œil sur les évolutions d’Ubuntu et de [Fedora](https://fr.wikipedia.org/wiki/Fedora_(syst%C3%A8me_d%27exploitation).
+Cet ordinateur est arrivé sur mon banc de test en juillet 2011… et n’est jamais reparti. Si je n’ai pas hésité à l’utiliser comme machine principale avec un LED Cinema Display 24″, c’est sur le terrain qu’il a fait ses preuves, m’accompagnant de salon en reportage jusqu’en 2015. Après avoir été emprunté par un collègue, il m’est revenu pour un dernier voyage, cette fois à Bobo-Dioulasso (Burkina Faso) pour créer le master de journalisme de l’Université Nazi Boni en 2017. Je l’utilise encore régulièrement pour garder un œil sur les évolutions d’Ubuntu et de [Fedora](https://fr.wikipedia.org/wiki/Fedora_%28syst%C3%A8me_d%27exploitation%29).
 {{< /piece >}}
 
 {{< piece date="2011" title="MacBook Pro 17″ (Mid 2009)" images="tk-*" >}}

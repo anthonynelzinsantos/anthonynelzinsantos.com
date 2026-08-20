@@ -44,3 +44,4 @@ photos:
 - j’ai assisté à [une éclipse solaire](https://fr.wikipedia.org/wiki/%C3%89clipse_solaire_du_12_ao%C3%BBt_2026) presque totale
 - j’ai développé un script pour [faciliter la gestion du cadre numérique Meural](https://github.com/anthonynelzinsantos/MeuralManager/)
 - j’ai complètement revu [mon site personnel](https://anthonynelzinsantos.com/)
+- j’ai troqué [mon MacBook Air M2](/atelier/ordinateurs/#:~:text=MacBook%20Air%2013%E2%80%B3%20%28M2%29) contre [un MacBook Air M5](/atelier/ordinateurs/#:~:text=MacBook%20Air%2013%E2%80%B3%20%28M5%29)
