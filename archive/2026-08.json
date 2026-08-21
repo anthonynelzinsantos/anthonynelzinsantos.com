@@ -167,6 +167,55 @@
       "date": "2026-08-14",
       "tracks": 3,
       "source": "https://www.last.fm/music/Loulu+Gilberto/Loulu+Gilberto"
+    },
+    {
+      "title": "O Brother, Where Art Thou?",
+      "artist": "John Hartford",
+      "date": "2026-08-17",
+      "tracks": 4,
+      "source": "https://www.last.fm/music/John+Hartford/O+Brother%2C+Where+Art+Thou%3F"
+    },
+    {
+      "title": "O Brother, Where Art Thou?",
+      "artist": "The Cox Family",
+      "date": "2026-08-17",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/The+Cox+Family/O+Brother%2C+Where+Art+Thou%3F"
+    },
+    {
+      "title": "O Brother, Where Art Thou?",
+      "artist": "Norman Blake",
+      "date": "2026-08-17",
+      "tracks": 4,
+      "source": "https://www.last.fm/music/Norman+Blake/O+Brother%2C+Where+Art+Thou%3F"
+    },
+    {
+      "title": "O Brother, Where Art Thou?",
+      "artist": "The Soggy Bottom Boys",
+      "date": "2026-08-17",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/The+Soggy+Bottom+Boys/O+Brother%2C+Where+Art+Thou%3F"
+    },
+    {
+      "title": "You’re Exaggerating!",
+      "artist": "Paul Cornish",
+      "date": "2026-08-18",
+      "tracks": 4,
+      "source": "https://www.last.fm/music/Paul+Cornish/You%E2%80%99re+Exaggerating!"
+    },
+    {
+      "title": "Remedy",
+      "artist": "Zela Margossian Quintet",
+      "date": "2026-08-20",
+      "tracks": 10,
+      "source": "https://www.last.fm/music/Zela+Margossian+Quintet/Remedy"
+    },
+    {
+      "title": "You’re Exaggerating!",
+      "artist": "Paul Cornish",
+      "date": "2026-08-20",
+      "tracks": 5,
+      "source": "https://www.last.fm/music/Paul+Cornish/You%E2%80%99re+Exaggerating!"
     }
   ],
   "books": [],
@@ -198,6 +247,11 @@
       "title": "The Apple Museum is an ode to a company that doesn’t exist any more",
       "date": "2026-08-09",
       "source": "https://z1nz0l1n.com/26w32/"
+    },
+    {
+      "title": "Jazz impressions of Antwerpen (and other assorted places)",
+      "date": "2026-08-16",
+      "source": "https://z1nz0l1n.com/26w33/"
     }
   ],
   "architypes": [
@@ -225,23 +279,33 @@
       "title": "Hôtel de la paix (Aix-les-Bains)",
       "date": "2026-08-13",
       "source": "https://archityp.es/hotel-de-la-paix-aix-les-bains/"
+    },
+    {
+      "title": "Usine Landot (Virieu-le-Grand)",
+      "date": "2026-08-16",
+      "source": "https://archityp.es/usine-landot-virieu-le-grand/"
+    },
+    {
+      "title": "Parzini Fourrures (Genève)",
+      "date": "2026-08-19",
+      "source": "https://archityp.es/parzini-fourrures-geneve/"
     }
   ],
   "contributions": [
     {
       "title": "contributions du 2026-08-01",
       "date": "2026-08-01",
-      "count": 2
+      "count": 4
     },
     {
       "title": "contributions du 2026-08-09",
       "date": "2026-08-09",
-      "count": 2
+      "count": 4
     },
     {
       "title": "contributions du 2026-08-10",
       "date": "2026-08-10",
-      "count": 8
+      "count": 10
     },
     {
       "title": "contributions du 2026-08-11",
@@ -251,12 +315,27 @@
     {
       "title": "contributions du 2026-08-13",
       "date": "2026-08-13",
-      "count": 15
+      "count": 17
     },
     {
       "title": "contributions du 2026-08-14",
       "date": "2026-08-14",
       "count": 4
+    },
+    {
+      "title": "contributions du 2026-08-15",
+      "date": "2026-08-15",
+      "count": 4
+    },
+    {
+      "title": "contributions du 2026-08-16",
+      "date": "2026-08-16",
+      "count": 10
+    },
+    {
+      "title": "contributions du 2026-08-20",
+      "date": "2026-08-20",
+      "count": 2
     }
   ],
   "episodes": []
