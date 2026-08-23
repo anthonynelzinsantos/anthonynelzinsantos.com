@@ -36,15 +36,15 @@ photos:
 - j’ai publié trois _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
 - j’ai publié sept architypes sur [_Architypes_](https://archityp.es/)
 <!-- archive:fin -->
-- j’ai parcouru 1 925 km en train pour me rendre à Anvers, Utrecht, Schaerbeek et Bruxelles
+- j’ai parcouru 1 925 km en train pour me rendre à Anvers, Utrecht, Schaerbeek et Bruxelles
 - j’ai visité la [cathédrale Notre-Dame](https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame_d%27Anvers), les églises [Saint-Charles-Borromée](https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Charles-Borrom%C3%A9e_d%27Anvers) et [Saint-Paul](https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Paul_d%27Anvers), le [KMSKA](https://kmska.be/fr), le [MAS](https://mas.be/fr/content/bienvenue), le [MoMu](https://www.momu.be/), la [Nottebohmzaal](https://consciencebibliotheek.be/en/nottebohm-room) de la bibliothèque patrimoniale Hendrik Conscience et le [Red Star Line Museum](https://redstarline.be/fr/content/bienvenue) à Anvers
 - j’ai visité l’[Apple Museum](https://applemuseum.nl/) à Utrecht
 - j’ai visité [Train World](https://trainworld.be/fr/) à Schaerbeek
 - j’ai acheté beaucoup trop de papèterie chez [Wunderkammer Stadt Leest](https://www.wunderkammer.be/en) à Anvers et [Nias](https://www.les-papeteries.be/fr/) à Bruxelles
-- j’ai complété ma collection de machines à écrire avec une Olivetti Lettera 35
-- j’ai voulu restaurer l’Olivetti PTP 820 que j’ai acheté [le mois dernier](/maintenant/2607/), mais elle est tombée en panne avant que je n’en ai l’occasion
+- j’ai complété ma collection de machines à écrire avec une Olivetti Lettera 35
+- j’ai voulu restaurer l’Olivetti PTP 820 que j’ai acheté [le mois dernier](/maintenant/2607/), mais elle est tombée en panne avant que je n’en aie l’occasion
 - j’ai assisté à [une éclipse solaire](https://fr.wikipedia.org/wiki/%C3%89clipse_solaire_du_12_ao%C3%BBt_2026) presque totale
 - j’ai développé un script pour [faciliter la gestion du cadre numérique Meural Canvas](https://github.com/anthonynelzinsantos/MeuralManager/)
 - j’ai complètement revu [mon site personnel](https://anthonynelzinsantos.com/)
 - j’ai utilisé pour la première fois des *drip bags* individuels de café en découvrant [le *spring blend* de Muji Japan](https://www.muji.com/jp/ja/special-feature/food/coffee/?web_store=web_section_lv3_feature_01)
-- j’ai troqué [mon MacBook Air M2](/atelier/ordinateurs/#:~:text=MacBook%20Air%2013%E2%80%B3%20%28M2%29) contre [un MacBook Air M5](/atelier/ordinateurs/#:~:text=MacBook%20Air%2013%E2%80%B3%20%28M5%29)
+- j’ai troqué [mon MacBook Air M2](/atelier/ordinateurs/#:~:text=MacBook%20Air%2013%E2%80%B3%20%28M2%29) contre [un MacBook Air M5](/atelier/ordinateurs/#:~:text=MacBook%20Air%2013%E2%80%B3%20%28M5%29)
