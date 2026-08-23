@@ -5,7 +5,7 @@ monthName: "aout"
 year: 2026
 date: "2026-08-01T12:00:00.000Z"
 month: "2026-08"
-tally: {"albums":31,"films":2,"contributions":56,"dispatches":3,"architypes":7,"villes":4}
+tally: {"albums":31,"films":2,"contributions":56,"dispatches":3,"architypes":7,"villes":5}
 aliases: ["/maintenant/aout-2026/","/now/aout-2026/"]
 photos:
   "2608-1.jpg": "Need money for yarn ."
@@ -22,10 +22,11 @@ photos:
   "2608-12.jpg": "Dans le jardin du calvaire de l’église Saint-Paul."
   "2608-13.jpg": "Le chœur de l’église Saint-Paul."
   "2608-14.jpg": "À la gare centrale d’Anvers."
-  "2608-15.jpg": "Le mur d’iMac G3 à l’Apple Museum."
+  "2608-15.jpg": "Le mur d’iMac G3 à l’Apple Museum."
   "2608-16.jpg": "Dans les rues d’Anvers."
-  "2608-17.jpg": "Une automotrice AM 35 de la SNCB à Train World."
-  "2608-18.jpg": "L’éclipse éclipsée ."
+  "2608-17.jpg": "Une automotrice AM 35 de la SNCB à Train World."
+  "2608-18.jpg": "L’éclipse éclipsée."
+  "2608-19.jpg": "Des gaufres maison et un drip bag venu du Japon."
 ---
 
 <!-- archive:début -->
@@ -36,7 +37,7 @@ photos:
 - j’ai publié trois _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
 - j’ai publié sept architypes sur [_Architypes_](https://archityp.es/)
 <!-- archive:fin -->
-- j’ai parcouru 1 925 km en train pour me rendre à Anvers, Utrecht, Schaerbeek et Bruxelles
+- j’ai parcouru 2 786 km en train pour me rendre à Anvers, Utrecht, Schaerbeek, Bruxelles et Paris
 - j’ai visité la [cathédrale Notre-Dame](https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame_d%27Anvers), les églises [Saint-Charles-Borromée](https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Charles-Borrom%C3%A9e_d%27Anvers) et [Saint-Paul](https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Paul_d%27Anvers), le [KMSKA](https://kmska.be/fr), le [MAS](https://mas.be/fr/content/bienvenue), le [MoMu](https://www.momu.be/), la [Nottebohmzaal](https://consciencebibliotheek.be/en/nottebohm-room) de la bibliothèque patrimoniale Hendrik Conscience et le [Red Star Line Museum](https://redstarline.be/fr/content/bienvenue) à Anvers
 - j’ai visité l’[Apple Museum](https://applemuseum.nl/) à Utrecht
 - j’ai visité [Train World](https://trainworld.be/fr/) à Schaerbeek
