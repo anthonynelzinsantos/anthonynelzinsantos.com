@@ -27,6 +27,8 @@ photos:
   "2608-17.jpg": "Une automotrice AM 35 de la SNCB à Train World."
   "2608-18.jpg": "L’éclipse éclipsée."
   "2608-19.jpg": "Des gaufres maison et un drip bag venu du Japon."
+  "2608-20.jpg": "Les « traitements de texte » sont des ordinateurs, pas des machines à écrire — et je ne collectionne plus les ordinateurs."
+  "2608-21.jpg": "Sur les toits de Paris."
 ---
 
 <!-- archive:début -->
