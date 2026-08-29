@@ -216,6 +216,55 @@
       "date": "2026-08-20",
       "tracks": 5,
       "source": "https://www.last.fm/music/Paul+Cornish/You%E2%80%99re+Exaggerating!"
+    },
+    {
+      "title": "Members... Don’t!",
+      "artist": "Tyshawn Sorey",
+      "date": "2026-08-23",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/Tyshawn+Sorey/Members...+Don%E2%80%99t!"
+    },
+    {
+      "title": "Trio Grande: What’s Left",
+      "artist": "Will Vinson",
+      "date": "2026-08-23",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/Will+Vinson/Trio+Grande%3A+What%E2%80%99s+Left"
+    },
+    {
+      "title": "Underground",
+      "artist": "Jefferson Placido",
+      "date": "2026-08-24",
+      "tracks": 10,
+      "source": "https://www.last.fm/music/Jefferson+Placido/Underground"
+    },
+    {
+      "title": "Camino - Spanish and French repertoire for guitar",
+      "artist": "Sean Shibe",
+      "date": "2026-08-26",
+      "tracks": 21,
+      "source": "https://www.last.fm/music/Sean+Shibe/Camino+-+Spanish+and+French+repertoire+for+guitar"
+    },
+    {
+      "title": "Parabolico: Reflections on Giberto Gil, Vol. 1",
+      "artist": "Gaia Wilmer Large Ensemble & Mônica Salmaso",
+      "date": "2026-08-26",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/Gaia+Wilmer+Large+Ensemble+%26+M%C3%B4nica+Salmaso/Parabolico%3A+Reflections+on+Giberto+Gil%2C+Vol.+1"
+    },
+    {
+      "title": "Bass & Mandolin",
+      "artist": "Chris Thile & Michael Daves",
+      "date": "2026-08-27",
+      "tracks": 10,
+      "source": "https://www.last.fm/music/Chris+Thile/Bass+%26+Mandolin"
+    },
+    {
+      "title": "The Fiddle and the Drum",
+      "artist": "Renée Fleming & Béla Fleck",
+      "date": "2026-08-27",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/Ren%C3%A9e+Fleming+%26+B%C3%A9la+Fleck/The+Fiddle+and+the+Drum"
     }
   ],
   "books": [],
@@ -252,6 +301,11 @@
       "title": "Jazz impressions of Antwerpen (and other assorted places)",
       "date": "2026-08-16",
       "source": "https://z1nz0l1n.com/26w33/"
+    },
+    {
+      "title": "MeuralManager: i wrote a CLI so i never have to open the Meural app again",
+      "date": "2026-08-23",
+      "source": "https://z1nz0l1n.com/26w34/"
     }
   ],
   "architypes": [
@@ -289,6 +343,21 @@
       "title": "Parzini Fourrures (Genève)",
       "date": "2026-08-19",
       "source": "https://archityp.es/parzini-fourrures-geneve/"
+    },
+    {
+      "title": "Papèterie Brachard (Genève)",
+      "date": "2026-08-22",
+      "source": "https://archityp.es/papeterie-brachard-geneve/"
+    },
+    {
+      "title": "Choitel Opticien (Genève)",
+      "date": "2026-08-25",
+      "source": "https://archityp.es/choitel-opticien-geneve/"
+    },
+    {
+      "title": "Ciné 17 (Genève)",
+      "date": "2026-08-28",
+      "source": "https://archityp.es/cine-17-geneve/"
     }
   ],
   "contributions": [
@@ -336,7 +405,28 @@
       "title": "contributions du 2026-08-20",
       "date": "2026-08-20",
       "count": 2
+    },
+    {
+      "title": "contributions du 2026-08-23",
+      "date": "2026-08-23",
+      "count": 5
+    },
+    {
+      "title": "contributions du 2026-08-28",
+      "date": "2026-08-28",
+      "count": 2
+    },
+    {
+      "title": "contributions du 2026-08-29",
+      "date": "2026-08-29",
+      "count": 3
     }
   ],
-  "episodes": []
+  "episodes": [
+    {
+      "title": "#86 — La story de nos vacances",
+      "date": "2026-08-28",
+      "source": "https://abatonsrompus.fr/86/"
+    }
+  ]
 }
