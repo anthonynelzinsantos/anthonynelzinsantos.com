@@ -267,7 +267,22 @@
       "source": "https://www.last.fm/music/Ren%C3%A9e+Fleming+%26+B%C3%A9la+Fleck/The+Fiddle+and+the+Drum"
     }
   ],
-  "books": [],
+  "books": [
+    {
+      "title": "The Two Towers",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-08-13",
+      "rating": 2,
+      "format": "digital"
+    },
+    {
+      "title": "The Return of the King",
+      "author": "J.R.R. Tolkien",
+      "date": "2026-08-26",
+      "rating": 2,
+      "format": "digital"
+    }
+  ],
   "films": [
     {
       "title": "Brand New Landscape",

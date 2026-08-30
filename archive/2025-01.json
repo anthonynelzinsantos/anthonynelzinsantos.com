@@ -398,25 +398,29 @@
       "title": "Julia",
       "author": "Sandra Newman",
       "rating": 3,
-      "date": "2025-01-05"
+      "date": "2025-01-05",
+      "format": "digital"
     },
     {
       "title": "The Man Who Died Twice",
       "author": "Richard Osman",
       "rating": 4,
-      "date": "2025-01-10"
+      "date": "2025-01-10",
+      "format": "digital"
     },
     {
       "title": "City",
       "author": "Clifford D. Simak",
       "rating": 5,
-      "date": "2025-01-13"
+      "date": "2025-01-13",
+      "format": "digital"
     },
     {
       "title": "Reus, 2066",
       "author": "Pablo Martín Sánchez",
       "rating": 3,
-      "date": "2025-01-26"
+      "date": "2025-01-26",
+      "format": "paperback"
     }
   ],
   "films": [

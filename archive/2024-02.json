@@ -412,13 +412,15 @@
       "title": "Rental Person Who Does Nothing",
       "author": "Shoji Morimoto",
       "rating": 4,
-      "date": "2024-02-01"
+      "date": "2024-02-01",
+      "format": "digital"
     },
     {
       "title": "The Orwell Tour",
       "author": "Oliver Lewis",
       "rating": 3,
-      "date": "2024-02-21"
+      "date": "2024-02-21",
+      "format": "hardcover"
     }
   ],
   "films": [

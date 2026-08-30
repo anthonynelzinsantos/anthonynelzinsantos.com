@@ -265,19 +265,22 @@
       "title": "La vie en sourdine",
       "author": "David Lodge",
       "rating": 4,
-      "date": "2026-04-08"
+      "date": "2026-04-08",
+      "format": "paperback"
     },
     {
       "title": "We Solve Murders",
       "author": "Richard Osman",
       "rating": 3,
-      "date": "2026-04-25"
+      "date": "2026-04-25",
+      "format": "digital"
     },
     {
       "title": "La somme de nos folies",
       "author": "Shih-Li Kow",
       "rating": 3,
-      "date": "2026-04-26"
+      "date": "2026-04-26",
+      "format": "paperback"
     }
   ],
   "films": [],

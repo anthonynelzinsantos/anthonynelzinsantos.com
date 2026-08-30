@@ -62,30 +62,35 @@
       "title": "Could Should Might Don't: How We Think About the Future",
       "author": "Nick Foster",
       "rating": 3,
-      "date": "2026-01-03"
+      "date": "2026-01-03",
+      "format": "hardcover"
     },
     {
       "title": "Fluent Forever: How to Learn Any Language Fast and Never Forget It",
       "author": "Gabriel Wyner",
       "rating": 4,
-      "date": "2026-01-14"
+      "date": "2026-01-14",
+      "format": "digital"
     },
     {
       "title": "Du présentiel au e-learning efficient",
       "author": "Marc Poncin",
-      "date": "2026-01-18"
+      "date": "2026-01-18",
+      "format": "paperback"
     },
     {
       "title": "Ce Que Sait La Main",
       "author": "Richard Sennett",
       "rating": 4,
-      "date": "2026-01-21"
+      "date": "2026-01-21",
+      "format": "paperback"
     },
     {
       "title": "This Way Up: When Maps Go Wrong (and Why It Matters)",
       "author": "Jay Foreman, Mark Cooper-Jones",
       "rating": 4,
-      "date": "2026-01-25"
+      "date": "2026-01-25",
+      "format": "hardcover"
     }
   ],
   "films": [

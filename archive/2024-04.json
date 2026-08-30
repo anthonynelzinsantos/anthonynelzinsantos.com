@@ -363,39 +363,46 @@
       "title": "Le problème à trois corps",
       "author": "Cixin Liu",
       "rating": 5,
-      "date": "2024-04-04"
+      "date": "2024-04-04",
+      "format": "digital"
     },
     {
       "title": "Life in Code: A Personal History of Technology",
       "author": "Ellen Ullman",
-      "date": "2024-04-07"
+      "date": "2024-04-07",
+      "format": "digital"
     },
     {
       "title": "La Forêt sombre",
       "author": "Cixin Liu",
       "rating": 4,
-      "date": "2024-04-09"
+      "date": "2024-04-09",
+      "format": "digital"
     },
     {
       "title": "Death's End",
       "author": "Cixin Liu",
       "rating": 3,
-      "date": "2024-04-11"
+      "date": "2024-04-11",
+      "format": "hardcover"
     },
     {
       "title": "Burn Book",
       "author": "Kara Swisher",
-      "date": "2024-04-12"
+      "date": "2024-04-12",
+      "format": "digital"
     },
     {
       "title": "Good Omens",
       "author": "Terry Pratchett, Neil Gaiman",
-      "date": "2024-04-19"
+      "date": "2024-04-19",
+      "format": "digital"
     },
     {
       "title": "Un mois à Sienne",
       "author": "Hisham Matar",
-      "date": "2024-04-29"
+      "date": "2024-04-29",
+      "format": "paperback"
     }
   ],
   "films": [],

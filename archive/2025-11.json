@@ -76,13 +76,15 @@
       "title": "La Chute du British museum",
       "author": "David Lodge",
       "rating": 4,
-      "date": "2025-11-02"
+      "date": "2025-11-02",
+      "format": "paperback"
     },
     {
       "title": "Le Comte de Monte-Cristo (Bibliothèque de la Pléiade)",
       "author": "Alexandre Dumas",
       "rating": 5,
-      "date": "2025-11-30"
+      "date": "2025-11-30",
+      "format": "paperback"
     }
   ],
   "films": [

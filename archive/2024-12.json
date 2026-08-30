@@ -608,49 +608,57 @@
       "title": "Design de polices de caractères",
       "author": "Elizabeth Wilhide",
       "rating": 1,
-      "date": "2024-12-04"
+      "date": "2024-12-04",
+      "format": "paperback"
     },
     {
       "title": "L'Inconnue du portrait",
       "author": "Camille de Peretti",
       "rating": 4,
-      "date": "2024-12-10"
+      "date": "2024-12-10",
+      "format": "digital"
     },
     {
       "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
       "author": "James Clear",
       "rating": 4,
-      "date": "2024-12-15"
+      "date": "2024-12-15",
+      "format": "hardcover"
     },
     {
       "title": "The Creative Act",
       "author": "Rick Rubin",
       "rating": 4,
-      "date": "2024-12-20"
+      "date": "2024-12-20",
+      "format": "digital"
     },
     {
       "title": "Lessons",
       "author": "Ian McEwan",
       "rating": 4,
-      "date": "2024-12-23"
+      "date": "2024-12-23",
+      "format": "digital"
     },
     {
       "title": "All the Beauty in the World",
       "author": "Patrick Bringley",
       "rating": 5,
-      "date": "2024-12-30"
+      "date": "2024-12-30",
+      "format": "digital"
     },
     {
       "title": "Le plagiat par anticipation",
       "author": "Pierre Bayard",
       "rating": 4,
-      "date": "2024-12-30"
+      "date": "2024-12-30",
+      "format": "paperback"
     },
     {
       "title": "Pensées pour moi-même: suivi de Manuel d'Épictète",
       "author": "Marcus Aurelius",
       "rating": 4,
-      "date": "2024-12-31"
+      "date": "2024-12-31",
+      "format": "paperback"
     }
   ],
   "films": [

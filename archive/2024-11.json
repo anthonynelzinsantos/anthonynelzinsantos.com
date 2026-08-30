@@ -741,19 +741,22 @@
       "title": "The Thursday Murder Club",
       "author": "Richard Osman",
       "rating": 4,
-      "date": "2024-11-04"
+      "date": "2024-11-04",
+      "format": "digital"
     },
     {
       "title": "Le Pigeon",
       "author": "Patrick Süskind",
       "rating": 5,
-      "date": "2024-11-11"
+      "date": "2024-11-11",
+      "format": "paperback"
     },
     {
       "title": "The Color of Magic",
       "author": "Terry Pratchett",
       "rating": 5,
-      "date": "2024-11-30"
+      "date": "2024-11-30",
+      "format": "digital"
     }
   ],
   "films": [

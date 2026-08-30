@@ -237,25 +237,29 @@
       "title": "Coffeeland: A History",
       "author": "Augustine Sedgewick",
       "rating": 4,
-      "date": "2024-10-19"
+      "date": "2024-10-19",
+      "format": "digital"
     },
     {
       "title": "A Psalm for the Wild-Built",
       "author": "Becky Chambers",
       "rating": 5,
-      "date": "2024-10-20"
+      "date": "2024-10-20",
+      "format": "digital"
     },
     {
       "title": "A Prayer for the Crown-Shy",
       "author": "Becky Chambers",
       "rating": 4,
-      "date": "2024-10-21"
+      "date": "2024-10-21",
+      "format": "hardcover"
     },
     {
       "title": "Motherhood",
       "author": "Sheila Heti",
       "rating": 3,
-      "date": "2024-10-25"
+      "date": "2024-10-25",
+      "format": "digital"
     }
   ],
   "films": [

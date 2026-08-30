@@ -230,31 +230,36 @@
       "title": "Apple in China: The Capture of the World's Greatest Company",
       "author": "Patrick McGee",
       "rating": 2,
-      "date": "2025-10-06"
+      "date": "2025-10-06",
+      "format": "digital"
     },
     {
       "title": "Alphabetical Diaries",
       "author": "Sheila Heti",
       "rating": 1,
-      "date": "2025-10-11"
+      "date": "2025-10-11",
+      "format": "digital"
     },
     {
       "title": "Arsene Lupin Et Le Mystere D Arsonval",
       "author": "Michel Zink",
       "rating": 4,
-      "date": "2025-10-25"
+      "date": "2025-10-25",
+      "format": "paperback"
     },
     {
       "title": "Un Portefeuille Toulousain",
       "author": "Michel Zink",
       "rating": 4,
-      "date": "2025-10-30"
+      "date": "2025-10-30",
+      "format": "paperback"
     },
     {
       "title": "Bérets noirs bérets rouges",
       "author": "Michel Zink",
       "rating": 4,
-      "date": "2025-10-31"
+      "date": "2025-10-31",
+      "format": "paperback"
     }
   ],
   "films": [

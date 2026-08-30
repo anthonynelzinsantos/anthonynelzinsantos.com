@@ -356,31 +356,36 @@
       "title": "Livre et typographie",
       "author": "Jan Tschichold, Muriel Paris",
       "rating": 4,
-      "date": "2024-07-08"
+      "date": "2024-07-08",
+      "format": "paperback"
     },
     {
       "title": "The Bullet Journal Method: Track the Past, Order the Present, Design the Future",
       "author": "Ryder Carroll",
       "rating": 3,
-      "date": "2024-07-12"
+      "date": "2024-07-12",
+      "format": "digital"
     },
     {
       "title": "Le Café où vivent les souvenirs",
       "author": "Toshikazu Kawaguchi",
       "rating": 2,
-      "date": "2024-07-20"
+      "date": "2024-07-20",
+      "format": "paperback"
     },
     {
       "title": "Moonbound",
       "author": "Robin Sloan",
       "rating": 4,
-      "date": "2024-07-20"
+      "date": "2024-07-20",
+      "format": "digital"
     },
     {
       "title": "Amour, sexe et terre promise",
       "author": "Deloupy, Salomé Parent-Rachdi",
       "rating": 3,
-      "date": "2024-07-21"
+      "date": "2024-07-21",
+      "format": "hardcover"
     }
   ],
   "films": [

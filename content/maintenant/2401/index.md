@@ -10,7 +10,7 @@ aliases: ["/maintenant/janvier-2024/"]
 ---
 
 <!-- archive:début -->
-- [j’ai lu](https://app.thestorygraph.com/profile/z1nz0l1n) _Jazz Covers_ de Joaquim Paulo, _Cantique de la critique_ d’Arnaud Viviant et _Station Goncourt_ d’Arnaud Viviant
+- [j’ai lu](https://app.thestorygraph.com/profile/z1nz0l1n) _Jazz Covers_ de Joaquim Paulo, _Cantique de la critique_ et _Station Goncourt_ d’Arnaud Viviant
 - [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Initio_ de Mark Priore Trio et quarante-deux autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Torque_ de Tourismo et six autres albums
 - j’ai fait vingt-trois contributions sur [GitHub](https://github.com/anthonynelzinsantos)

@@ -643,13 +643,15 @@
       "title": "The Marriage Portrait",
       "author": "Maggie O'Farrell",
       "rating": 4,
-      "date": "2025-02-09"
+      "date": "2025-02-09",
+      "format": "paperback"
     },
     {
       "title": "Essays One",
       "author": "Lydia Davis",
       "rating": 4,
-      "date": "2025-02-16"
+      "date": "2025-02-16",
+      "format": "digital"
     }
   ],
   "films": [

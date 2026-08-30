@@ -10,7 +10,7 @@ aliases: ["/maintenant/aout-2024/"]
 ---
 
 <!-- archive:début -->
-- [j’ai lu](https://app.thestorygraph.com/profile/z1nz0l1n) _Deep Work_ de Cal Newport, _3 Shades of Blue_ de James Kaplan, _Apostille Au Nom de La Rose_ d’Umberto Eco, _Le Nom de la rose_ d’Umberto Eco et _Filterworld_ de Kyle Chayka
+- [j’ai lu](https://app.thestorygraph.com/profile/z1nz0l1n) _Deep Work_ de Cal Newport, _3 Shades of Blue_ de James Kaplan, _Apostille Au Nom de La Rose_ et _Le Nom de la rose_ d’Umberto Eco et _Filterworld_ de Kyle Chayka
 - [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _HIROISEKAITOSMAISEKAI_ de Rei Harakami et cinquante autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Será Una Noche_ de La Segunda et dix-huit autres albums
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _Kiki's Delivery Service_ de Hayao Miyazaki et _The Fugitives_ de Francis Veber

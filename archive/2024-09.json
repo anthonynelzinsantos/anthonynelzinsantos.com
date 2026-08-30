@@ -699,25 +699,29 @@
       "title": "Le café suspendu",
       "author": "Amanda Sthers",
       "rating": 2,
-      "date": "2024-09-05"
+      "date": "2024-09-05",
+      "format": "digital"
     },
     {
       "title": "Sunny",
       "author": "Colin O'Sullivan",
       "rating": 4,
-      "date": "2024-09-12"
+      "date": "2024-09-12",
+      "format": "digital"
     },
     {
       "title": "Le restaurant des recettes oubliées",
       "author": "Hisashi Kashiwai",
       "rating": 4,
-      "date": "2024-09-18"
+      "date": "2024-09-18",
+      "format": "paperback"
     },
     {
       "title": "Vider les lieux",
       "author": "Olivier Rolin",
       "rating": 3,
-      "date": "2024-09-27"
+      "date": "2024-09-27",
+      "format": "paperback"
     }
   ],
   "films": [

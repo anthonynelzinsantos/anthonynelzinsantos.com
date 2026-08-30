@@ -293,13 +293,15 @@
       "title": "Can Socialists Be Happy?",
       "author": "George Orwell",
       "rating": 4,
-      "date": "2026-05-06"
+      "date": "2026-05-06",
+      "format": "paperback"
     },
     {
       "title": "Steve Jobs in Exile",
       "author": "Geoffrey Cain",
       "rating": 4,
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "format": "hardcover"
     }
   ],
   "films": [

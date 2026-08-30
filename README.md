@@ -111,6 +111,8 @@ Reads `archive/`, writes one page bundle per month into `content/maintenant/`. S
   `de Hayao Miyazaki` and `de Yorgos Lanthimos`;
 - coordination (`A, B et C`, never `A, B, C`);
 - co-authors (`de Jay Foreman et Mark Cooper-Jones`);
+- a creator named once for several titles (`_La Forêt sombre_ et _Death's End_ de
+  Cixin Liu`), whose own `et` carries the list when the group ends it;
 - repeat verbs: `j'ai relu`, `j'ai revu`, `j'ai réécouté`;
 - singular and plural (`un dispatch`, `deux dispatches`).
 

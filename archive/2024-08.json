@@ -496,31 +496,36 @@
       "title": "Deep Work: Rules for Focused Success in a Distracted World",
       "author": "Cal Newport",
       "rating": 3,
-      "date": "2024-08-09"
+      "date": "2024-08-09",
+      "format": "digital"
     },
     {
       "title": "3 Shades of Blue: Miles Davis, John Coltrane, Bill Evans, and the Lost Empire of Cool",
       "author": "James Kaplan",
       "rating": 3,
-      "date": "2024-08-14"
+      "date": "2024-08-14",
+      "format": "digital"
     },
     {
       "title": "Apostille Au Nom de La Rose",
       "author": "Umberto Eco",
       "rating": 4,
-      "date": "2024-08-17"
+      "date": "2024-08-17",
+      "format": "paperback"
     },
     {
       "title": "Le Nom de la rose",
       "author": "Umberto Eco",
       "rating": 4,
-      "date": "2024-08-17"
+      "date": "2024-08-17",
+      "format": "paperback"
     },
     {
       "title": "Filterworld: How Algorithms Flattened Culture",
       "author": "Kyle Chayka",
       "rating": 3,
-      "date": "2024-08-28"
+      "date": "2024-08-28",
+      "format": "digital"
     }
   ],
   "films": [

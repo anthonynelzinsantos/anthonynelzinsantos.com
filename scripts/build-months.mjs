@@ -98,11 +98,24 @@ const PUBLISHED = [
 		where: "[_À bâtons rompus_](https://abatonsrompus.fr/)" },
 ];
 
-function name(shelf, item) {
-	const t = TITLE[shelf](item.title);
-	const who = item[CREATOR[shelf]];
-	return who ? `${t} ${ofPeople(who)}` : t;
+function names(shelf, items) {
+	const groups = [];
+	for (const item of items) {
+		const who = item[CREATOR[shelf]];
+		const key = who ? String(who).trim().toLowerCase() : null;
+		const same = key && groups.find((g) => g.key === key);
+		if (same) same.titles.push(TITLE[shelf](item.title));
+		else groups.push({ key, who, titles: [TITLE[shelf](item.title)] });
+	}
+	return groups.map((g) => ({
+		text: g.who ? `${join(g.titles)} ${ofPeople(g.who)}` : join(g.titles),
+		coordinated: g.titles.length > 1,
+	}));
 }
+
+const joinNames = (parts) => parts.at(-1)?.coordinated
+	? parts.map((p) => p.text).join(", ")
+	: join(parts.map((p) => p.text));
 
 function weigh(albums) {
 	const table = new Map();
@@ -138,11 +151,12 @@ function sentences(month) {
 
 			const cap = shelf === "albums" ? ALBUMS_NAMED : lot.length;
 			const order = shelf === "albums" ? mostPlayed(lot) : lot;
-			const named = order.slice(0, cap).map((x) => name(shelf, x));
-			const rest = lot.length - named.length;
+			const chosen = order.slice(0, cap);
+			const named = names(shelf, chosen);
+			const rest = lot.length - chosen.length;
 
 			const head = PROFILES[shelf] ? `[j’ai ${verb}](${PROFILES[shelf]})` : `j’ai ${verb}`;
-			let line = `${head} ` + join(named);
+			let line = `${head} ` + joinNames(named);
 			if (rest === 1) line += " et un autre album";
 			else if (rest > 1) line += ` et ${spell(rest)} autres albums`;
 			lines.push(line);

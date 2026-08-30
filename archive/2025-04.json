@@ -265,19 +265,22 @@
       "title": "The Bullet That Missed",
       "author": "Richard Osman",
       "rating": 5,
-      "date": "2025-04-11"
+      "date": "2025-04-11",
+      "format": "digital"
     },
     {
       "title": "Y2K: How the 2000s Became Everything",
       "author": "Colette Shade",
       "rating": 3,
-      "date": "2025-04-24"
+      "date": "2025-04-24",
+      "format": "audio"
     },
     {
       "title": "Le verre vivant",
       "author": "Bettina Tschumi, Musée de design et d'arts appliqués contemporains (Lausanne), Chantal Prod'hom",
       "rating": 3,
-      "date": "2025-04-29"
+      "date": "2025-04-29",
+      "format": "hardcover"
     }
   ],
   "films": [

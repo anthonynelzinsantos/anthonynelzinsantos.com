@@ -356,19 +356,22 @@
       "title": "Jazz Covers",
       "author": "Joaquim Paulo",
       "rating": 2,
-      "date": "2024-01-05"
+      "date": "2024-01-05",
+      "format": "hardcover"
     },
     {
       "title": "Cantique de la critique",
       "author": "Arnaud Viviant",
       "rating": 2,
-      "date": "2024-01-09"
+      "date": "2024-01-09",
+      "format": "paperback"
     },
     {
       "title": "Station Goncourt: 120 ans de prix littéraires",
       "author": "Arnaud Viviant",
       "rating": 3,
-      "date": "2024-01-16"
+      "date": "2024-01-16",
+      "format": "paperback"
     }
   ],
   "films": [],

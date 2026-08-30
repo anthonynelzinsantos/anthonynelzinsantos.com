@@ -881,13 +881,15 @@
       "title": "Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist",
       "author": "Liz Pelly",
       "rating": 3,
-      "date": "2025-06-01"
+      "date": "2025-06-01",
+      "format": "digital"
     },
     {
       "title": "Bibliophobia: A Memoir",
       "author": "Sarah Chihaya",
       "rating": 4,
-      "date": "2025-06-17"
+      "date": "2025-06-17",
+      "format": "digital"
     }
   ],
   "films": [
