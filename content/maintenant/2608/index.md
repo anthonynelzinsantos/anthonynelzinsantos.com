@@ -5,7 +5,7 @@ monthName: "aout"
 year: 2026
 date: "2026-08-01T12:00:00.000Z"
 month: "2026-08"
-tally: {"livres":2,"albums":38,"films":2,"contributions":66,"dispatches":4,"architypes":10,"épisodes":1,"villes":5}
+tally: {"livres":2,"albums":43,"films":2,"contributions":68,"dispatches":5,"architypes":10,"épisodes":1,"villes":5}
 aliases: ["/maintenant/aout-2026/","/now/aout-2026/"]
 photos:
   "2608-1.jpg": "Need money for yarn ."
@@ -33,11 +33,11 @@ photos:
 
 <!-- archive:début -->
 - [j’ai lu](https://app.thestorygraph.com/profile/z1nz0l1n) _The Two Towers_ et _The Return of the King_ de J.R.R. Tolkien
-- [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Camino - Spanish and French repertoire for guitar_ de Sean Shibe et trente-quatre autres albums
-- [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _You’re Exaggerating!_ de Paul Cornish et deux autres albums
+- [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Camino - Spanish and French repertoire for guitar_ de Sean Shibe et trente-huit autres albums
+- [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _You’re Exaggerating!_ de Paul Cornish et trois autres albums
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _Brand New Landscape_ de Yuiga Danzuka et _O Brother, Where Art Thou?_ de Joel Coen
-- j’ai fait soixante-six contributions sur [GitHub](https://github.com/anthonynelzinsantos)
-- j’ai publié quatre _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
+- j’ai fait soixante-huit contributions sur [GitHub](https://github.com/anthonynelzinsantos)
+- j’ai publié cinq _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
 - j’ai publié dix architypes sur [_Architypes_](https://archityp.es/)
 - j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->

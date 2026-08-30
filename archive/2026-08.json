@@ -265,6 +265,41 @@
       "date": "2026-08-27",
       "tracks": 11,
       "source": "https://www.last.fm/music/Ren%C3%A9e+Fleming+%26+B%C3%A9la+Fleck/The+Fiddle+and+the+Drum"
+    },
+    {
+      "title": "A Funk Odyssey",
+      "artist": "Jamiroquai",
+      "date": "2026-08-30",
+      "tracks": 9,
+      "source": "https://www.last.fm/music/Jamiroquai/A+Funk+Odyssey"
+    },
+    {
+      "title": "Bird's Grass",
+      "artist": "Idrees Sulieman Quintet",
+      "date": "2026-08-30",
+      "tracks": 5,
+      "source": "https://www.last.fm/music/Idrees+Sulieman+Quintet/Bird's+Grass"
+    },
+    {
+      "title": "Breathe",
+      "artist": "Miki Yamanaka",
+      "date": "2026-08-30",
+      "tracks": 9,
+      "source": "https://www.last.fm/music/Miki+Yamanaka/Breathe"
+    },
+    {
+      "title": "Cut You Where You Was",
+      "artist": "Henry Threadgill’s Zooid",
+      "date": "2026-08-30",
+      "tracks": 10,
+      "source": "https://www.last.fm/music/Henry+Threadgill%E2%80%99s+Zooid/Cut+You+Where+You+Was"
+    },
+    {
+      "title": "Paintbox",
+      "artist": "Emma Rawicz",
+      "date": "2026-08-30",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Emma+Rawicz/Paintbox"
     }
   ],
   "books": [
@@ -321,6 +356,11 @@
       "title": "MeuralManager: i wrote a CLI so i never have to open the Meural app again",
       "date": "2026-08-23",
       "source": "https://z1nz0l1n.com/26w34/"
+    },
+    {
+      "title": "Bits and bobs (2026.08)",
+      "date": "2026-08-30",
+      "source": "https://z1nz0l1n.com/26w35/"
     }
   ],
   "architypes": [
@@ -435,6 +475,11 @@
       "title": "contributions du 2026-08-29",
       "date": "2026-08-29",
       "count": 3
+    },
+    {
+      "title": "contributions du 2026-08-30",
+      "date": "2026-08-30",
+      "count": 2
     }
   ],
   "episodes": [
