@@ -5,7 +5,7 @@ monthName: "aout"
 year: 2026
 date: "2026-08-01T12:00:00.000Z"
 month: "2026-08"
-tally: {"livres":2,"albums":44,"films":2,"contributions":68,"dispatches":5,"architypes":10,"épisodes":1,"villes":5}
+tally: {"livres":2,"albums":44,"films":2,"contributions":68,"dispatches":5,"architypes":11,"épisodes":1,"villes":5}
 aliases: ["/maintenant/aout-2026/","/now/aout-2026/"]
 photos:
   "2608-1.jpg": "Need money for yarn ."
@@ -38,7 +38,7 @@ photos:
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _Brand New Landscape_ de Yuiga Danzuka et _O Brother, Where Art Thou?_ de Joel Coen
 - j’ai fait soixante-huit contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai publié cinq _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
-- j’ai publié dix architypes sur [_Architypes_](https://archityp.es/)
+- j’ai publié onze architypes sur [_Architypes_](https://archityp.es/)
 - j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->
 - j’ai parcouru 2 786 km en train pour me rendre à Anvers, Utrecht, Schaerbeek, Bruxelles et Paris
