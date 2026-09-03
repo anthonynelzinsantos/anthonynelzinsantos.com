@@ -5,10 +5,10 @@ monthName: "septembre"
 year: 2026
 date: "2026-09-01T12:00:00.000Z"
 month: "2026-09"
-tally: {"albums":1}
+tally: {"albums":2}
 aliases: ["/maintenant/septembre-2026/","/now/septembre-2026/"]
 ---
 
 <!-- archive:début -->
-- [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Endless_ d’Adam Bałdych
+- [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Beneath Lifted Skies_ de Linda May Han Oh & Melissa Aldana et un autre album
 <!-- archive:fin -->
