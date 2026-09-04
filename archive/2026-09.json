@@ -14,11 +14,31 @@
       "date": "2026-09-03",
       "tracks": 15,
       "source": "https://www.last.fm/music/Linda+May+Han+Oh+%26+Melissa+Aldana/Beneath+Lifted+Skies"
+    },
+    {
+      "title": "Read My Lips",
+      "artist": "Sophie Ellis-Bextor",
+      "date": "2026-09-03",
+      "tracks": 4,
+      "source": "https://www.last.fm/music/Sophie+Ellis-Bextor/Read+My+Lips"
+    },
+    {
+      "title": "SPACE 1.8",
+      "artist": "Nala Sinephro",
+      "date": "2026-09-03",
+      "tracks": 8,
+      "source": "https://www.last.fm/music/Nala+Sinephro/SPACE+1.8"
     }
   ],
   "films": [],
   "contributions": [],
   "dispatches": [],
-  "architypes": [],
+  "architypes": [
+    {
+      "title": "Art Vidéo (Genève)",
+      "date": "2026-09-03",
+      "source": "https://archityp.es/art-video-geneve/"
+    }
+  ],
   "episodes": []
 }
