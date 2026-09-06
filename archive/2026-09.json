@@ -98,11 +98,37 @@
       "date": "2026-09-05",
       "tracks": 8,
       "source": "https://www.last.fm/music/Emmet+Cohen/Universal+Truth"
+    },
+    {
+      "title": "Beacon of Hope - EP",
+      "artist": "Patrick Bartley's DREAMWEAVER",
+      "date": "2026-09-06",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/Patrick+Bartley's+DREAMWEAVER/Beacon+of+Hope+-+EP"
+    },
+    {
+      "title": "Hayfever",
+      "artist": "Mali Sheard",
+      "date": "2026-09-06",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/Mali+Sheard/Hayfever"
     }
   ],
   "films": [],
-  "contributions": [],
-  "dispatches": [],
+  "contributions": [
+    {
+      "title": "contributions du 2026-09-06",
+      "date": "2026-09-06",
+      "count": 1
+    }
+  ],
+  "dispatches": [
+    {
+      "title": "Practising resurrection in the Shire",
+      "date": "2026-09-05",
+      "source": "https://z1nz0l1n.com/26w36/"
+    }
+  ],
   "architypes": [
     {
       "title": "Art Vidéo (Genève)",
