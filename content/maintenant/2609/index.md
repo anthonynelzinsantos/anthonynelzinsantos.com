@@ -5,14 +5,14 @@ monthName: "septembre"
 year: 2026
 date: "2026-09-01T12:00:00.000Z"
 month: "2026-09"
-tally: {"albums":18,"contributions":2,"dispatches":1,"architypes":2}
+tally: {"albums":19,"contributions":2,"dispatches":1,"architypes":3}
 aliases: ["/maintenant/septembre-2026/","/now/septembre-2026/"]
 ---
 
 <!-- archive:début -->
-- [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Beneath Lifted Skies_ de Linda May Han Oh & Melissa Aldana et dix autres albums
+- [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Beneath Lifted Skies_ de Linda May Han Oh & Melissa Aldana et onze autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Read My Lips_ de Sophie Ellis-Bextor et six autres albums
 - j’ai fait deux contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai publié un _dispatch_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
-- j’ai publié deux architypes sur [_Architypes_](https://archityp.es/)
+- j’ai publié trois architypes sur [_Architypes_](https://archityp.es/)
 <!-- archive:fin -->

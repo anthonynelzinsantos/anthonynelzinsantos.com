@@ -126,6 +126,13 @@
       "date": "2026-09-08",
       "tracks": 11,
       "source": "https://www.last.fm/music/Sam+Greenfield/here's+some+stuff"
+    },
+    {
+      "title": "Child's Play (feat. Teis Semey, Jasper Høiby & Niek De Bruijn)",
+      "artist": "Teus Nobel",
+      "date": "2026-09-10",
+      "tracks": 9,
+      "source": "https://www.last.fm/music/Teus+Nobel/Child's+Play+(feat.+Teis+Semey%2C+Jasper+H%C3%B8iby+%26+Niek+De+Bruijn)"
     }
   ],
   "films": [],
@@ -153,6 +160,11 @@
       "title": "Imprimerie générale lyonnaise (Lyon)",
       "date": "2026-09-06",
       "source": "https://archityp.es/imprimerie-generale-lyonnaise-lyon/"
+    },
+    {
+      "title": "L. Bourduge artisan paysagiste (Fontaines-sur-Saône)",
+      "date": "2026-09-09",
+      "source": "https://archityp.es/l-bourduge-artisan-paysagiste-fontaines-sur-saone/"
     }
   ],
   "episodes": []
