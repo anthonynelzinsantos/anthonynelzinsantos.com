@@ -1,5 +1,13 @@
 {
-  "books": [],
+  "books": [
+    {
+      "title": "Do Walk: Navigate Earth, Mind and Body. Step by Step.",
+      "author": "Libby DeLana",
+      "date": "2026-09-11",
+      "rating": 4,
+      "format": "paperback"
+    }
+  ],
   "albums": [
     {
       "title": "Endless",

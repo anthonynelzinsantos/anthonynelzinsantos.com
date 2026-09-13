@@ -60,7 +60,7 @@ const ofPeople = (raw) => of(join(String(raw).split(",").map((n) => n.trim()).fi
 const withoutEdition = (t) => t.replace(/\s*[([][^)\]]*[)\]]\s*$/, "").trim() || t;
 const withoutSubtitle = (t) => {
 	const cut = t.split(/\s*:\s+/)[0].trim();
-	return cut.length >= 8 ? cut : t;
+	return /\s/.test(cut) || cut.length >= 8 ? cut : t;
 };
 
 const italic = (t) => `_${t}_`;

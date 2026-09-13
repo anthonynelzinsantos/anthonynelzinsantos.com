@@ -8,7 +8,7 @@ month: "2026-08"
 tally: {"livres":2,"albums":44,"films":2,"contributions":68,"dispatches":5,"architypes":11,"épisodes":1,"villes":5}
 aliases: ["/maintenant/aout-2026/","/now/aout-2026/"]
 photos:
-  "2608-1.jpg": "Need money for yarn ."
+  "2608-1.jpg": "Need money for yarn."
   "2608-2.jpg": "La bataille pour la lumière."
   "2608-3.jpg": "5G protection."
   "2608-4.jpg": "Les vélos sont rarement attachés à Anvers, et quand ils le sont, c’est seulement pour arrêter les gens honnêtes."
