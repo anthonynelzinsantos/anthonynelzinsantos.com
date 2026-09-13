@@ -163,6 +163,11 @@
       "title": "contributions du 2026-09-06",
       "date": "2026-09-06",
       "count": 2
+    },
+    {
+      "title": "contributions du 2026-09-13",
+      "date": "2026-09-13",
+      "count": 1
     }
   ],
   "dispatches": [
@@ -170,6 +175,11 @@
       "title": "Practising resurrection in the Shire",
       "date": "2026-09-05",
       "source": "https://z1nz0l1n.com/26w36/"
+    },
+    {
+      "title": "Existential marketing",
+      "date": "2026-09-13",
+      "source": "https://z1nz0l1n.com/26w37/"
     }
   ],
   "architypes": [
@@ -187,6 +197,11 @@
       "title": "L. Bourduge artisan paysagiste (Fontaines-sur-Saône)",
       "date": "2026-09-09",
       "source": "https://archityp.es/l-bourduge-artisan-paysagiste-fontaines-sur-saone/"
+    },
+    {
+      "title": "Établissements Ceci (Lyon)",
+      "date": "2026-09-12",
+      "source": "https://archityp.es/etablissements-ceci-lyon/"
     }
   ],
   "episodes": []
