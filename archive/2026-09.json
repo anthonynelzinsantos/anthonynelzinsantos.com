@@ -162,6 +162,13 @@
       "date": "2026-09-15",
       "tracks": 4,
       "source": "https://www.last.fm/music/Jack+Wyllie/Eternal+Spring"
+    },
+    {
+      "title": "Ryu's Bar Kimama ni Ii Yoru",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "date": "2026-09-16",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/Tsuyoshi+Yamamoto+Trio/Ryu's+Bar+Kimama+ni+Ii+Yoru"
     }
   ],
   "films": [],
@@ -209,6 +216,11 @@
       "title": "Établissements Ceci (Lyon)",
       "date": "2026-09-12",
       "source": "https://archityp.es/etablissements-ceci-lyon/"
+    },
+    {
+      "title": "Arc-en-ciel carrosserie mécanique (Lyon)",
+      "date": "2026-09-15",
+      "source": "https://archityp.es/arc-en-ciel-carrosserie-mecanique-lyon/"
     }
   ],
   "episodes": []
