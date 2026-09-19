@@ -21,3 +21,6 @@ photos:
 <!-- archive:fin -->
 - j’ai découvert que je possédais plus de 40 stylos-plume en remplissant [une pochette Esterbrook](https://appelboom.com/esterbrook-40-slot-canvas-zipper-pen-case-tan/)
 - j’ai terminé [un carnet Clairefontaine Flying Spirit A5](https://www.clairefontaine.com/fr/3044-19254-flying-spirit-carnet-102506c.html#/1584-nombre_de_pages-96/1585-reliure-piqure_textile/1592-couleur_produit-rouge/1595-dimension-148_x_21_cm)
+- j’ai vu la *Turangalîla-Symphonie* d’Olivier Messiaen par l’Orchestre national de Lyon/Nikolaj Szeps-Znaider, avec Cécile Lartigau aux ondes Martenot et Pierre Thibout au piano, à l’auditorium de Lyon 
+- j’ai continué mon exploration des *drip bags* japonais avec [le *blend* Hida Takayama](https://www.midorinoyakata.com/goods/drip09.html) de Midori no Yakata
+- j’ai acheté un iPhone 18 Pro dans le coloris « bordeaux » qui est étonamment proche du pourpre que j’utilise sur ce site
