@@ -5,7 +5,7 @@ monthName: "septembre"
 year: 2026
 date: "2026-09-01T12:00:00.000Z"
 month: "2026-09"
-tally: {"livres":1,"albums":24,"contributions":6,"dispatches":3,"architypes":6}
+tally: {"livres":1,"albums":26,"contributions":6,"dispatches":3,"architypes":6}
 aliases: ["/maintenant/septembre-2026/","/now/septembre-2026/"]
 photos:
   "2609-1.jpg": "J’ai un type."
@@ -13,7 +13,7 @@ photos:
 
 <!-- archive:début -->
 - [j’ai lu](https://app.thestorygraph.com/profile/z1nz0l1n) _Do Walk_ de Libby DeLana
-- [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Beneath Lifted Skies_ de Linda May Han Oh & Melissa Aldana et seize autres albums
+- [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Here Because of Hope_ d’Ezra Collective et dix-huit autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Read My Lips_ de Sophie Ellis-Bextor et six autres albums
 - j’ai fait six contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai publié trois _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
