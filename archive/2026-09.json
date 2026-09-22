@@ -190,6 +190,20 @@
       "date": "2026-09-21",
       "tracks": 4,
       "source": "https://www.last.fm/music/Ezra+Collective/Here+Because+of+Hope"
+    },
+    {
+      "title": "Gold Soundz",
+      "artist": "James Carter, Cyrus Chestnut, Ali Jackson & Reginald Veal",
+      "date": "2026-09-22",
+      "tracks": 16,
+      "source": "https://www.last.fm/music/James+Carter%2C+Cyrus+Chestnut%2C+Ali+Jackson+%26+Reginald+Veal/Gold+Soundz"
+    },
+    {
+      "title": "Hamilton: An American Musical (Original Broadway Cast Recording)",
+      "artist": "Lin-Manuel Miranda",
+      "date": "2026-09-22",
+      "tracks": 46,
+      "source": "https://www.last.fm/music/Lin-Manuel+Miranda/Hamilton%3A+An+American+Musical+(Original+Broadway+Cast+Recording)"
     }
   ],
   "films": [],
@@ -262,6 +276,11 @@
       "title": "Serrurrerie Silvera (Paris)",
       "date": "2026-09-18",
       "source": "https://archityp.es/serrurrerie-silvera-paris/"
+    },
+    {
+      "title": "Tétrel (Paris)",
+      "date": "2026-09-21",
+      "source": "https://archityp.es/tetrel-paris/"
     }
   ],
   "episodes": []
