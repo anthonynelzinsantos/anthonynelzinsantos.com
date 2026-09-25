@@ -211,9 +211,25 @@
       "date": "2026-09-24",
       "tracks": 14,
       "source": "https://www.last.fm/music/Tigran+Hamasyan/Manifeste"
+    },
+    {
+      "title": "Live at The Keystone Korner",
+      "artist": "Keystone Trumpet Project, Rex Richardson, Sean Jones & Dave Ballou",
+      "date": "2026-09-25",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Keystone+Trumpet+Project%2C+Rex+Richardson%2C+Sean+Jones+%26+Dave+Ballou/Live+at+The+Keystone+Korner"
     }
   ],
-  "films": [],
+  "films": [
+    {
+      "title": "Comédie-Française",
+      "year": 2026,
+      "date": "2026-09-25",
+      "rating": 4,
+      "source": "https://letterboxd.com/z1nz0l1n/film/comedie-francaise/",
+      "director": "Bertrand Usclat, Martin Darondeau"
+    }
+  ],
   "contributions": [
     {
       "title": "contributions du 2026-09-06",
@@ -288,6 +304,11 @@
       "title": "Tétrel (Paris)",
       "date": "2026-09-21",
       "source": "https://archityp.es/tetrel-paris/"
+    },
+    {
+      "title": "Feydeau Bourse Numismatique (Paris)",
+      "date": "2026-09-24",
+      "source": "https://archityp.es/feydeau-bourse-numismatique-paris/"
     }
   ],
   "episodes": []
