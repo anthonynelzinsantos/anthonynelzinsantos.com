@@ -514,7 +514,8 @@
       "rating": 2,
       "source": "https://boxd.it/8Zv99L",
       "date": "2025-03-01",
-      "director": "Gene Stupnitsky"
+      "director": "Gene Stupnitsky",
+      "originalTitle": null
     },
     {
       "title": "Robin and Marian",
@@ -522,7 +523,8 @@
       "rating": 3,
       "source": "https://boxd.it/93YXgB",
       "date": "2025-03-08",
-      "director": "Richard Lester"
+      "director": "Richard Lester",
+      "originalTitle": null
     },
     {
       "title": "Breakfast at Tiffany's",
@@ -530,7 +532,8 @@
       "rating": 4,
       "source": "https://boxd.it/94L4Wb",
       "date": "2025-03-09",
-      "director": "Blake Edwards"
+      "director": "Blake Edwards",
+      "originalTitle": null
     },
     {
       "title": "Hercules",
@@ -538,7 +541,8 @@
       "rating": 4,
       "source": "https://boxd.it/9d2pDF",
       "date": "2025-03-23",
-      "director": "Ron Clements, John Musker"
+      "director": "Ron Clements, John Musker",
+      "originalTitle": null
     }
   ],
   "dispatches": [],

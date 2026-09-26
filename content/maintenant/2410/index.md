@@ -13,5 +13,5 @@ aliases: ["/maintenant/octobre-2024/"]
 - [j’ai lu](https://app.thestorygraph.com/profile/z1nz0l1n) _Coffeeland_ d’Augustine Sedgewick, _A Psalm for the Wild-Built_ et _A Prayer for the Crown-Shy_ de Becky Chambers et _Motherhood_ de Sheila Heti
 - [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Chance_ de Miki Yamanaka et vingt-huit autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Made in USA: Gershwin, Beach & Barber_ de Claire Huangci et trois autres albums
-- [j’ai vu](https://letterboxd.com/z1nz0l1n/) _Howl's Moving Castle_ de Hayao Miyazaki
+- [j’ai vu](https://letterboxd.com/z1nz0l1n/) _ハウルの動く城_ de Hayao Miyazaki
 <!-- archive:fin -->

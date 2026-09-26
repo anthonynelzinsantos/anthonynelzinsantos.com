@@ -290,7 +290,8 @@
       "rating": 5,
       "source": "https://boxd.it/eH7P9V",
       "date": "2026-06-07",
-      "director": "Peter Weir"
+      "director": "Peter Weir",
+      "originalTitle": null
     },
     {
       "title": "The Big Short",
@@ -298,7 +299,8 @@
       "rating": 5,
       "source": "https://boxd.it/eRUEFT",
       "date": "2026-06-20",
-      "director": "Adam McKay"
+      "director": "Adam McKay",
+      "originalTitle": null
     },
     {
       "title": "Honey Don't!",
@@ -306,7 +308,8 @@
       "rating": 3,
       "source": "https://boxd.it/eXkhIR",
       "date": "2026-06-26",
-      "director": "Ethan Coen"
+      "director": "Ethan Coen",
+      "originalTitle": null
     }
   ],
   "dispatches": [

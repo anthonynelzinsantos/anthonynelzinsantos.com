@@ -766,7 +766,8 @@
       "rating": 2,
       "source": "https://boxd.it/8B4mql",
       "date": "2024-11-22",
-      "director": "Jacques Mitsch"
+      "director": "Jacques Mitsch",
+      "originalTitle": null
     },
     {
       "title": "Buy Now! The Shopping Conspiracy",
@@ -774,7 +775,8 @@
       "rating": 1,
       "source": "https://boxd.it/8BS7Fv",
       "date": "2024-11-25",
-      "director": "Nic Stacey"
+      "director": "Nic Stacey",
+      "originalTitle": null
     }
   ],
   "dispatches": [],

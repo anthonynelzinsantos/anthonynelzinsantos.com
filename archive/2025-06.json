@@ -899,7 +899,8 @@
       "rating": 4,
       "source": "https://boxd.it/a4BaiJ",
       "date": "2025-06-21",
-      "director": "Gints Zilbalodis"
+      "director": "Gints Zilbalodis",
+      "originalTitle": "Straume"
     },
     {
       "title": "F1",
@@ -907,7 +908,8 @@
       "rating": 4,
       "source": "https://boxd.it/aa3lxr",
       "date": "2025-06-29",
-      "director": "Joseph Kosinski"
+      "director": "Joseph Kosinski",
+      "originalTitle": null
     }
   ],
   "dispatches": [],

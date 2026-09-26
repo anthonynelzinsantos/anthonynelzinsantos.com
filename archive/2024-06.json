@@ -380,7 +380,8 @@
       "rating": 5,
       "source": "https://boxd.it/8BSanf",
       "date": "2024-06-03",
-      "director": "Wes Anderson"
+      "director": "Wes Anderson",
+      "originalTitle": null
     },
     {
       "title": "Inside Out 2",
@@ -388,7 +389,8 @@
       "rating": 4,
       "source": "https://boxd.it/8B4ab9",
       "date": "2024-06-23",
-      "director": "Kelsey Mann"
+      "director": "Kelsey Mann",
+      "originalTitle": null
     }
   ],
   "dispatches": [],

@@ -332,7 +332,8 @@
       "date": "2026-08-12",
       "rating": 4,
       "source": "https://letterboxd.com/z1nz0l1n/film/brand-new-landscape/",
-      "director": "Yuiga Danzuka"
+      "director": "Yuiga Danzuka",
+      "originalTitle": "見はらし世代"
     },
     {
       "title": "O Brother, Where Art Thou?",
@@ -340,7 +341,8 @@
       "date": "2026-08-13",
       "rating": 5,
       "source": "https://letterboxd.com/z1nz0l1n/film/o-brother-where-art-thou/",
-      "director": "Joel Coen"
+      "director": "Joel Coen",
+      "originalTitle": null
     }
   ],
   "dispatches": [

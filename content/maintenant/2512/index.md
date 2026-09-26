@@ -13,7 +13,7 @@ aliases: ["/maintenant/decembre-2025/","/now/decembre-2025/"]
 - [j’ai lu](https://app.thestorygraph.com/profile/z1nz0l1n) _Le Fou de Dieu au bout du monde_ de Javier Cercas, _Show Your Work!_ d’Austin Kleon, _Blank Space_ de W. David Marx et _The Impossible Fortune_ de Richard Osman
 - [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _A Charlie Brown Christmas_ de Vince Guaraldi Trio et dix-sept autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _A Charlie Brown Christmas_ de Cyrus Chestnut et un autre album
-- [j’ai vu](https://letterboxd.com/z1nz0l1n/) _Wake Up Dead Man_ de Rian Johnson et _Treasure Hunters: On the Tracks of Khufu_ de Barbara Schulz
+- [j’ai vu](https://letterboxd.com/z1nz0l1n/) _Wake Up Dead Man_ de Rian Johnson et _Le Secret de Khéops_ de Barbara Schulz
 - j’ai fait vingt contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->

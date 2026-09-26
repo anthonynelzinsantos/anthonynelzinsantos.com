@@ -10,6 +10,6 @@ aliases: ["/maintenant/septembre-2018/"]
 ---
 
 <!-- archive:début -->
-- [j’ai vu](https://letterboxd.com/z1nz0l1n/) _One Nation, One King_ de Pierre Schoeller
+- [j’ai vu](https://letterboxd.com/z1nz0l1n/) _Un peuple et son roi_ de Pierre Schoeller
 - j’ai fait neuf contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 <!-- archive:fin -->

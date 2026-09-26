@@ -395,7 +395,8 @@
       "rating": 4,
       "source": "https://boxd.it/8B4b6f",
       "date": "2024-07-14",
-      "director": "Hayao Miyazaki"
+      "director": "Hayao Miyazaki",
+      "originalTitle": "千と千尋の神隠し"
     },
     {
       "title": "My Neighbor Totoro",
@@ -403,7 +404,8 @@
       "rating": 5,
       "source": "https://boxd.it/8B4bJh",
       "date": "2024-07-18",
-      "director": "Hayao Miyazaki"
+      "director": "Hayao Miyazaki",
+      "originalTitle": "となりのトトロ"
     },
     {
       "title": "BlackBerry",
@@ -411,7 +413,8 @@
       "rating": 2,
       "source": "https://boxd.it/8B4cop",
       "date": "2024-07-20",
-      "director": "Matt Johnson"
+      "director": "Matt Johnson",
+      "originalTitle": null
     },
     {
       "title": "The Trouble with Jessica",
@@ -419,7 +422,8 @@
       "rating": 3,
       "source": "https://boxd.it/8B4d9F",
       "date": "2024-07-21",
-      "director": "Matt Winn"
+      "director": "Matt Winn",
+      "originalTitle": null
     },
     {
       "title": "Puan",
@@ -427,7 +431,8 @@
       "rating": 3,
       "source": "https://boxd.it/8B4dF7",
       "date": "2024-07-28",
-      "director": "María Alché, Benjamín Naishtat"
+      "director": "María Alché, Benjamín Naishtat",
+      "originalTitle": null
     }
   ],
   "dispatches": [],

@@ -744,7 +744,8 @@
       "rating": 3,
       "source": "https://boxd.it/b7Q9hZ",
       "date": "2025-09-20",
-      "director": "David Leitch"
+      "director": "David Leitch",
+      "originalTitle": null
     },
     {
       "title": "The Marching Band",
@@ -752,7 +753,8 @@
       "rating": 2,
       "source": "https://boxd.it/b9R2Iz",
       "date": "2025-09-23",
-      "director": "Emmanuel Courcol"
+      "director": "Emmanuel Courcol",
+      "originalTitle": "En fanfare"
     },
     {
       "title": "Bridget Jones: Mad About the Boy",
@@ -760,7 +762,8 @@
       "rating": 3,
       "source": "https://boxd.it/bbsoIp",
       "date": "2025-09-26",
-      "director": "Michael Morris"
+      "director": "Michael Morris",
+      "originalTitle": null
     },
     {
       "title": "KPop Demon Hunters",
@@ -768,7 +771,8 @@
       "rating": 3,
       "source": "https://boxd.it/bcNLUT",
       "date": "2025-09-28",
-      "director": "Chris Appelhans, Maggie Kang"
+      "director": "Chris Appelhans, Maggie Kang",
+      "originalTitle": null
     },
     {
       "title": "Black Bag",
@@ -776,7 +780,8 @@
       "rating": 4,
       "source": "https://boxd.it/bdvJQX",
       "date": "2025-09-29",
-      "director": "Steven Soderbergh"
+      "director": "Steven Soderbergh",
+      "originalTitle": null
     }
   ],
   "dispatches": [],

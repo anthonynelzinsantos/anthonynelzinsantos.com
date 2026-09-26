@@ -731,7 +731,8 @@
       "rating": 1,
       "source": "https://boxd.it/8B4gLd",
       "date": "2024-09-07",
-      "director": "Yorgos Lanthimos"
+      "director": "Yorgos Lanthimos",
+      "originalTitle": null
     },
     {
       "title": "California Typewriter",
@@ -739,7 +740,8 @@
       "rating": 3,
       "source": "https://boxd.it/8B4hAP",
       "date": "2024-09-08",
-      "director": "Doug Nichol"
+      "director": "Doug Nichol",
+      "originalTitle": null
     },
     {
       "title": "Hit Man",
@@ -747,7 +749,8 @@
       "rating": 3,
       "source": "https://boxd.it/8B4igL",
       "date": "2024-09-14",
-      "director": "Richard Linklater"
+      "director": "Richard Linklater",
+      "originalTitle": null
     },
     {
       "title": "An Impossible Project",
@@ -755,7 +758,8 @@
       "rating": 2,
       "source": "https://boxd.it/8B4iTj",
       "date": "2024-09-15",
-      "director": "Jens Meurer"
+      "director": "Jens Meurer",
+      "originalTitle": null
     },
     {
       "title": "Argylle",
@@ -763,7 +767,8 @@
       "rating": 1,
       "source": "https://boxd.it/8B4jJf",
       "date": "2024-09-15",
-      "director": "Matthew Vaughn"
+      "director": "Matthew Vaughn",
+      "originalTitle": null
     },
     {
       "title": "Wonka",
@@ -771,7 +776,8 @@
       "rating": 4,
       "source": "https://boxd.it/8B4kdp",
       "date": "2024-09-21",
-      "director": "Paul King"
+      "director": "Paul King",
+      "originalTitle": null
     },
     {
       "title": "Robot Dreams",
@@ -779,7 +785,8 @@
       "rating": 5,
       "source": "https://boxd.it/8B4kVh",
       "date": "2024-09-22",
-      "director": "Pablo Berger"
+      "director": "Pablo Berger",
+      "originalTitle": null
     }
   ],
   "dispatches": [],

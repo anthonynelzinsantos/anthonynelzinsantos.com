@@ -13,7 +13,7 @@ aliases: ["/maintenant/octobre-2025/","/now/octobre-2025/"]
 - [j’ai lu](https://app.thestorygraph.com/profile/z1nz0l1n) _Apple in China_ de Patrick McGee, _Alphabetical Diaries_ de Sheila Heti, _Arsene Lupin Et Le Mystere D Arsonval_, _Un Portefeuille Toulousain_ et _Bérets noirs bérets rouges_ de Michel Zink
 - [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Roulette_ d’Alfa Mist et vingt-cinq autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _MALIK_ de Venna et cinq autres albums
-- [j’ai vu](https://letterboxd.com/z1nz0l1n/) _Maigret and the St. Fiacre Case_ de Jean Delannoy et _The Belgian Job_ de Christian Merret-Palmair
+- [j’ai vu](https://letterboxd.com/z1nz0l1n/) _Maigret et l'Affaire Saint-Fiacre_ de Jean Delannoy et _Il était une fois, une fois_ de Christian Merret-Palmair
 - j’ai fait une contribution sur [GitHub](https://github.com/anthonynelzinsantos)
 <!-- archive:fin -->
 - j’ai parcouru 2 069 km en train pour me rendre à Paray-le-Monial, Bruxelles, Liège et Aachen

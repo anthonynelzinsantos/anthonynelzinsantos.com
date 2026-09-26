@@ -13,7 +13,7 @@ aliases: ["/maintenant/aout-2024/"]
 - [j’ai lu](https://app.thestorygraph.com/profile/z1nz0l1n) _Deep Work_ de Cal Newport, _3 Shades of Blue_ de James Kaplan, _Apostille Au Nom de La Rose_ et _Le Nom de la rose_ d’Umberto Eco et _Filterworld_ de Kyle Chayka
 - [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _HIROISEKAITOSMAISEKAI_ de Rei Harakami et cinquante autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Será Una Noche_ de La Segunda et dix-huit autres albums
-- [j’ai vu](https://letterboxd.com/z1nz0l1n/) _Kiki's Delivery Service_ de Hayao Miyazaki et _The Fugitives_ de Francis Veber
+- [j’ai vu](https://letterboxd.com/z1nz0l1n/) _魔女の宅急便_ de Hayao Miyazaki et _Les Fugitifs_ de Francis Veber
 - j’ai fait une contribution sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->

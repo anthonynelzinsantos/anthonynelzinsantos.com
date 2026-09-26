@@ -13,7 +13,7 @@ aliases: ["/maintenant/mai-2026/","/now/mai-2026/"]
 - [j’ai lu](https://app.thestorygraph.com/profile/z1nz0l1n) _Can Socialists Be Happy?_ de George Orwell et _Steve Jobs in Exile_ de Geoffrey Cain
 - [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Ram_ de Paul McCartney et trente-neuf autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Triological_ de Ben Allison et Steve Cardenas & Ted Nash
-- [j’ai vu](https://letterboxd.com/z1nz0l1n/) _The Musicians_ de Grégory Magne, _Wicked: For Good_ de Jon M. Chu et _The Phoenician Scheme_ de Wes Anderson
+- [j’ai vu](https://letterboxd.com/z1nz0l1n/) _Les Musiciens_ de Grégory Magne, _Wicked: For Good_ de Jon M. Chu et _The Phoenician Scheme_ de Wes Anderson
 - j’ai fait trente-six contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai publié cinq _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
 - j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)

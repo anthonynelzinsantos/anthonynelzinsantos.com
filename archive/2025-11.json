@@ -94,7 +94,8 @@
       "rating": 2,
       "source": "https://boxd.it/bEFKJB",
       "date": "2025-11-09",
-      "director": "Bong Joon Ho"
+      "director": "Bong Joon Ho",
+      "originalTitle": null
     },
     {
       "title": "The Woman in Cabin 10",
@@ -102,7 +103,8 @@
       "rating": 1,
       "source": "https://boxd.it/bEN4p1",
       "date": "2025-11-09",
-      "director": "Simon Stone"
+      "director": "Simon Stone",
+      "originalTitle": null
     },
     {
       "title": "A House of Dynamite",
@@ -110,7 +112,8 @@
       "rating": 4,
       "source": "https://boxd.it/bFGorh",
       "date": "2025-11-10",
-      "director": "Kathryn Bigelow"
+      "director": "Kathryn Bigelow",
+      "originalTitle": null
     },
     {
       "title": "Maria",
@@ -118,7 +121,8 @@
       "rating": 2,
       "source": "https://boxd.it/bOGd2L",
       "date": "2025-11-23",
-      "director": "Pablo Larraín"
+      "director": "Pablo Larraín",
+      "originalTitle": null
     },
     {
       "title": "A Minecraft Movie",
@@ -126,7 +130,8 @@
       "rating": 2,
       "source": "https://boxd.it/bSCWgV",
       "date": "2025-11-29",
-      "director": "Jared Hess"
+      "director": "Jared Hess",
+      "originalTitle": null
     },
     {
       "title": "The Count of Monte Cristo",
@@ -134,7 +139,8 @@
       "rating": 3,
       "source": "https://boxd.it/bTg7sB",
       "date": "2025-11-30",
-      "director": "Alexandre de La Patellière, Matthieu Delaporte"
+      "director": "Alexandre de La Patellière, Matthieu Delaporte",
+      "originalTitle": "Le Comte de Monte-Cristo"
     }
   ],
   "dispatches": [],

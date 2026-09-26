@@ -311,7 +311,8 @@
       "rating": 3,
       "source": "https://boxd.it/ecOnxH",
       "date": "2026-05-02",
-      "director": "Grégory Magne"
+      "director": "Grégory Magne",
+      "originalTitle": "Les Musiciens"
     },
     {
       "title": "Wicked: For Good",
@@ -319,7 +320,8 @@
       "rating": 2,
       "source": "https://boxd.it/eue1Jh",
       "date": "2026-05-23",
-      "director": "Jon M. Chu"
+      "director": "Jon M. Chu",
+      "originalTitle": null
     },
     {
       "title": "The Phoenician Scheme",
@@ -327,7 +329,8 @@
       "rating": 4,
       "source": "https://boxd.it/evDhRZ",
       "date": "2026-05-25",
-      "director": "Wes Anderson"
+      "director": "Wes Anderson",
+      "originalTitle": null
     }
   ],
   "dispatches": [

@@ -213,7 +213,8 @@
       "rating": 2,
       "source": "https://letterboxd.com/z1nz0l1n/film/the-odyssey-2026/",
       "date": "2026-07-25",
-      "director": "Christopher Nolan"
+      "director": "Christopher Nolan",
+      "originalTitle": null
     },
     {
       "title": "The Dink",
@@ -221,7 +222,8 @@
       "date": "2026-07-26",
       "rating": 4,
       "source": "https://letterboxd.com/z1nz0l1n/film/the-dink/",
-      "director": "Josh Greenbaum"
+      "director": "Josh Greenbaum",
+      "originalTitle": null
     }
   ],
   "dispatches": [

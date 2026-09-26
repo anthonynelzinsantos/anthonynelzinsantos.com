@@ -178,7 +178,8 @@
       "rating": 4,
       "source": "https://boxd.it/c258Sp",
       "date": "2025-12-13",
-      "director": "Rian Johnson"
+      "director": "Rian Johnson",
+      "originalTitle": null
     },
     {
       "title": "Treasure Hunters: On the Tracks of Khufu",
@@ -186,7 +187,8 @@
       "rating": 3,
       "source": "https://boxd.it/clGddh",
       "date": "2025-12-31",
-      "director": "Barbara Schulz"
+      "director": "Barbara Schulz",
+      "originalTitle": "Le Secret de Khéops"
     }
   ],
   "dispatches": [],

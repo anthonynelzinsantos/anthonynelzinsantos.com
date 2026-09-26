@@ -35,7 +35,7 @@ photos:
 - [j’ai lu](https://app.thestorygraph.com/profile/z1nz0l1n) _The Two Towers_ et _The Return of the King_ de J.R.R. Tolkien
 - [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Camino - Spanish and French repertoire for guitar_ de Sean Shibe et trente-neuf autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _You’re Exaggerating!_ de Paul Cornish et trois autres albums
-- [j’ai vu](https://letterboxd.com/z1nz0l1n/) _Brand New Landscape_ de Yuiga Danzuka et _O Brother, Where Art Thou?_ de Joel Coen
+- [j’ai vu](https://letterboxd.com/z1nz0l1n/) _見はらし世代_ de Yuiga Danzuka et _O Brother, Where Art Thou?_ de Joel Coen
 - j’ai fait soixante-huit contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai publié cinq _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
 - j’ai publié onze architypes sur [_Architypes_](https://archityp.es/)

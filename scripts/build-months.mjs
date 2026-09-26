@@ -98,14 +98,17 @@ const PUBLISHED = [
 		where: "[_À bâtons rompus_](https://abatonsrompus.fr/)" },
 ];
 
+const displayTitle = (shelf, item) => shelf === "films" ? (item.originalTitle || item.title) : item.title;
+
 function names(shelf, items) {
 	const groups = [];
 	for (const item of items) {
 		const who = item[CREATOR[shelf]];
 		const key = who ? String(who).trim().toLowerCase() : null;
 		const same = key && groups.find((g) => g.key === key);
-		if (same) same.titles.push(TITLE[shelf](item.title));
-		else groups.push({ key, who, titles: [TITLE[shelf](item.title)] });
+		const title = TITLE[shelf](displayTitle(shelf, item));
+		if (same) same.titles.push(title);
+		else groups.push({ key, who, titles: [title] });
 	}
 	return groups.map((g) => ({
 		text: g.who ? `${join(g.titles)} ${ofPeople(g.who)}` : join(g.titles),

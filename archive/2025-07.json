@@ -472,7 +472,8 @@
       "rating": 2,
       "source": "https://boxd.it/abudu3",
       "date": "2025-07-01",
-      "director": "Jon M. Chu"
+      "director": "Jon M. Chu",
+      "originalTitle": null
     },
     {
       "title": "Dora and the Search for Sol Dorado",
@@ -480,7 +481,8 @@
       "rating": 2,
       "source": "https://boxd.it/apq6IP",
       "date": "2025-07-20",
-      "director": "Alberto Belli"
+      "director": "Alberto Belli",
+      "originalTitle": null
     }
   ],
   "dispatches": [],

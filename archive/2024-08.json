@@ -535,7 +535,8 @@
       "rating": 5,
       "source": "https://boxd.it/8B4euz",
       "date": "2024-08-18",
-      "director": "Hayao Miyazaki"
+      "director": "Hayao Miyazaki",
+      "originalTitle": "魔女の宅急便"
     },
     {
       "title": "The Fugitives",
@@ -543,7 +544,8 @@
       "rating": 3,
       "source": "https://boxd.it/8B4fh7",
       "date": "2024-08-26",
-      "director": "Francis Veber"
+      "director": "Francis Veber",
+      "originalTitle": "Les Fugitifs"
     }
   ],
   "dispatches": [],
