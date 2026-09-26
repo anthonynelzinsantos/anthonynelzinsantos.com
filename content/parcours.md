@@ -14,7 +14,7 @@ sections:
           - "Responsable du pôle « Création multimédia » du service « Ingénierie et innovation pédagogiques » (S2iP)."
           - "Management d’une équipe de neuf personnes."
           - "Gestion de projets de formation pour des clients grands comptes."
-          - "Chef de projets pédagogiques."
+          - "Chef de projets pédagogiques (cybersécurité, électricité, SST)."
           - "Formation de formateurs."
   - heading: "Enseignement"
     roles:
