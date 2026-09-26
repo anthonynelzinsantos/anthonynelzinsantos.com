@@ -225,6 +225,20 @@
       "date": "2026-09-25",
       "tracks": 6,
       "source": "https://www.last.fm/music/Keystone+Trumpet+Project%2C+Rex+Richardson%2C+Sean+Jones+%26+Dave+Ballou/Live+at+The+Keystone+Korner"
+    },
+    {
+      "title": "Beacon of Hope - EP",
+      "artist": "Patrick Bartley's DREAMWEAVER",
+      "date": "2026-09-26",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/Patrick+Bartley's+DREAMWEAVER/Beacon+of+Hope+-+EP"
+    },
+    {
+      "title": "Mabui (feat. Yusei Takahashi, Marty Holoubek & Tomoaki Baba)",
+      "artist": "Shun Ishiwaka",
+      "date": "2026-09-26",
+      "tracks": 4,
+      "source": "https://www.last.fm/music/Shun+Ishiwaka/Mabui+(feat.+Yusei+Takahashi%2C+Marty+Holoubek+%26+Tomoaki+Baba)"
     }
   ],
   "films": [
@@ -258,6 +272,11 @@
       "title": "contributions du 2026-09-20",
       "date": "2026-09-20",
       "count": 2
+    },
+    {
+      "title": "contributions du 2026-09-26",
+      "date": "2026-09-26",
+      "count": 4
     }
   ],
   "dispatches": [

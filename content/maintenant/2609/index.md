@@ -5,7 +5,7 @@ monthName: "septembre"
 year: 2026
 date: "2026-09-01T12:00:00.000Z"
 month: "2026-09"
-tally: {"livres":2,"albums":30,"films":1,"contributions":6,"dispatches":3,"architypes":8}
+tally: {"livres":2,"albums":32,"films":1,"contributions":10,"dispatches":3,"architypes":8}
 aliases: ["/maintenant/septembre-2026/","/now/septembre-2026/"]
 photos:
   "2609-1.jpg": "J’ai un type."
@@ -13,10 +13,10 @@ photos:
 
 <!-- archive:début -->
 - [j’ai lu](https://app.thestorygraph.com/profile/z1nz0l1n) _Do Walk_ de Libby DeLana et _I Am Not a Robot_ de Joanna Stern
-- [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Hamilton: An American Musical_ de Lin-Manuel Miranda et vingt-deux autres albums
+- [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Hamilton: An American Musical_ de Lin-Manuel Miranda et vingt-quatre autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Read My Lips_ de Sophie Ellis-Bextor et six autres albums
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _De la Comédie-Française_ de Bertrand Usclat et Martin Darondeau
-- j’ai fait six contributions sur [GitHub](https://github.com/anthonynelzinsantos)
+- j’ai fait dix contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai publié trois _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
 - j’ai publié huit architypes sur [_Architypes_](https://archityp.es/)
 <!-- archive:fin -->
