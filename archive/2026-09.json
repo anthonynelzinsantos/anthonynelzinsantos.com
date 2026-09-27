@@ -239,6 +239,20 @@
       "date": "2026-09-26",
       "tracks": 4,
       "source": "https://www.last.fm/music/Shun+Ishiwaka/Mabui+(feat.+Yusei+Takahashi%2C+Marty+Holoubek+%26+Tomoaki+Baba)"
+    },
+    {
+      "title": "Almost There",
+      "artist": "Espen Eriksen Trio",
+      "date": "2026-09-27",
+      "tracks": 8,
+      "source": "https://www.last.fm/music/Espen+Eriksen+Trio/Almost+There"
+    },
+    {
+      "title": "Sangam & Friends",
+      "artist": "Charles Lloyd, Zakir Hussain, Eric Harland",
+      "date": "2026-09-27",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/Charles+Lloyd%2C+Zakir+Hussain%2C+Eric+Harland/Sangam+%26+Friends"
     }
   ],
   "films": [
@@ -277,6 +291,11 @@
       "title": "contributions du 2026-09-26",
       "date": "2026-09-26",
       "count": 4
+    },
+    {
+      "title": "contributions du 2026-09-27",
+      "date": "2026-09-27",
+      "count": 3
     }
   ],
   "dispatches": [
@@ -294,6 +313,11 @@
       "title": "I don’t get two-handed foldables",
       "date": "2026-09-20",
       "source": "https://z1nz0l1n.com/26w38/"
+    },
+    {
+      "title": "Bits and bobs (2026.09)",
+      "date": "2026-09-27",
+      "source": "https://z1nz0l1n.com/26w39/"
     }
   ],
   "architypes": [
@@ -336,6 +360,11 @@
       "title": "Feydeau Bourse Numismatique (Paris)",
       "date": "2026-09-24",
       "source": "https://archityp.es/feydeau-bourse-numismatique-paris/"
+    },
+    {
+      "title": "Cat’Laine (Paris)",
+      "date": "2026-09-27",
+      "source": "https://archityp.es/catlaine-paris/"
     }
   ],
   "episodes": []
