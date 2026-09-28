@@ -5,7 +5,7 @@ monthName: "septembre"
 year: 2026
 date: "2026-09-01T12:00:00.000Z"
 month: "2026-09"
-tally: {"livres":2,"albums":34,"films":1,"contributions":13,"dispatches":4,"architypes":9}
+tally: {"livres":2,"albums":34,"films":1,"contributions":14,"dispatches":4,"architypes":9}
 aliases: ["/maintenant/septembre-2026/","/now/septembre-2026/"]
 photos:
   "2609-1.jpg": "J’ai un type."
@@ -16,7 +16,7 @@ photos:
 - [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Hamilton: An American Musical_ de Lin-Manuel Miranda et vingt-six autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Read My Lips_ de Sophie Ellis-Bextor et six autres albums
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _De la Comédie-Française_ de Bertrand Usclat et Martin Darondeau
-- j’ai fait treize contributions sur [GitHub](https://github.com/anthonynelzinsantos)
+- j’ai fait quatorze contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai publié quatre _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
 - j’ai publié neuf architypes sur [_Architypes_](https://archityp.es/)
 <!-- archive:fin -->
