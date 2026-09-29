@@ -27,3 +27,4 @@ photos:
 - j’ai vu la *Turangalîla-Symphonie* d’Olivier Messiaen par l’Orchestre national de Lyon/Nikolaj Szeps-Znaider, avec Cécile Lartigau aux ondes Martenot et Pierre Thibout au piano, à l’auditorium de Lyon 
 - j’ai continué mon exploration des *drip bags* japonais avec [le *blend* Hida Takayama](https://www.midorinoyakata.com/goods/drip09.html) de Midori no Yakata
 - j’ai acheté un iPhone 18 Pro dans le coloris « bordeaux » qui est étonamment proche du pourpre que j’utilise sur ce site
+- j’ai conçu une interface pour faciliter la publication de [mes architypes](https://archityp.es/)
