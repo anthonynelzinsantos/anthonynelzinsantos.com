@@ -8,7 +8,9 @@ month: "2026-09"
 tally: {"livres":2,"albums":34,"films":1,"contributions":14,"dispatches":4,"architypes":9}
 aliases: ["/maintenant/septembre-2026/","/now/septembre-2026/"]
 photos:
-  "2609-1.jpg": "J’ai un type."
+  "2609-1.jpg": "C’est probablement un joueur de foot, mais j’ai décidé de le prendre pour moi."
+  "2609-2.jpg": "J’ai un type."
+  "2609-3.jpg": "Un *changelog* sur papier !"
 ---
 
 <!-- archive:début -->
