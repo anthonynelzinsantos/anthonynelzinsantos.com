@@ -258,7 +258,7 @@
       "title": "Salt Catchers",
       "artist": "Andy Sheppard, Rita Marcotulli & Michel Benita",
       "date": "2026-09-29",
-      "tracks": 4,
+      "tracks": 5,
       "source": "https://www.last.fm/music/Andy+Sheppard%2C+Rita+Marcotulli+%26+Michel+Benita/Salt+Catchers"
     },
     {
@@ -267,6 +267,20 @@
       "date": "2026-09-29",
       "tracks": 9,
       "source": "https://www.last.fm/music/Calida+Ray/There+Might+Be+Light+Above+The+Surface+(pt.+one)"
+    },
+    {
+      "title": "Fun Machine - EP",
+      "artist": "Lake Street Dive",
+      "date": "2026-09-30",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Lake+Street+Dive/Fun+Machine+-+EP"
+    },
+    {
+      "title": "Live at Madison Square Garden (Live)",
+      "artist": "Vulfpeck",
+      "date": "2026-09-30",
+      "tracks": 19,
+      "source": "https://www.last.fm/music/Vulfpeck/Live+at+Madison+Square+Garden+(Live)"
     }
   ],
   "films": [
@@ -320,6 +334,11 @@
       "title": "contributions du 2026-09-29",
       "date": "2026-09-29",
       "count": 2
+    },
+    {
+      "title": "contributions du 2026-09-30",
+      "date": "2026-09-30",
+      "count": 1
     }
   ],
   "dispatches": [
