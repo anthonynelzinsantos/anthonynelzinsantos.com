@@ -279,7 +279,7 @@
       "title": "Live at Madison Square Garden (Live)",
       "artist": "Vulfpeck",
       "date": "2026-09-30",
-      "tracks": 19,
+      "tracks": 28,
       "source": "https://www.last.fm/music/Vulfpeck/Live+at+Madison+Square+Garden+(Live)"
     }
   ],
@@ -408,6 +408,11 @@
       "title": "Cat’Laine (Paris)",
       "date": "2026-09-27",
       "source": "https://archityp.es/catlaine-paris/"
+    },
+    {
+      "title": "Imprimerie (Paris)",
+      "date": "2026-09-30",
+      "source": "https://archityp.es/imprimerie-paris/"
     }
   ],
   "episodes": []

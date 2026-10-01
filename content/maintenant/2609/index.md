@@ -5,7 +5,7 @@ monthName: "septembre"
 year: 2026
 date: "2026-09-01T12:00:00.000Z"
 month: "2026-09"
-tally: {"livres":2,"albums":38,"films":1,"contributions":17,"dispatches":4,"architypes":9}
+tally: {"livres":2,"albums":38,"films":1,"contributions":17,"dispatches":4,"architypes":10}
 aliases: ["/maintenant/septembre-2026/","/now/septembre-2026/"]
 photos:
   "2609-1.jpg": "C’est probablement un joueur de foot, mais j’ai décidé de le prendre pour moi."
@@ -20,7 +20,7 @@ photos:
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _De la Comédie-Française_ de Bertrand Usclat et Martin Darondeau
 - j’ai fait dix-sept contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai publié quatre _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
-- j’ai publié neuf architypes sur [_Architypes_](https://archityp.es/)
+- j’ai publié dix architypes sur [_Architypes_](https://archityp.es/)
 <!-- archive:fin -->
 - j’ai découvert que je possédais plus de 40 stylos-plume en remplissant [une pochette Esterbrook](https://appelboom.com/esterbrook-40-slot-canvas-zipper-pen-case-tan/)
 - j’ai terminé [un carnet Clairefontaine Flying Spirit A5](https://www.clairefontaine.com/fr/3044-19254-flying-spirit-carnet-102506c.html#/1584-nombre_de_pages-96/1585-reliure-piqure_textile/1592-couleur_produit-rouge/1595-dimension-148_x_21_cm)
