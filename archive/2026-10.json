@@ -15,9 +15,26 @@
       "title": "contributions du 2026-10-02",
       "date": "2026-10-02",
       "count": 1
+    },
+    {
+      "title": "contributions du 2026-10-04",
+      "date": "2026-10-04",
+      "count": 2
     }
   ],
-  "dispatches": [],
-  "architypes": [],
+  "dispatches": [
+    {
+      "title": "Allowing myself some grace",
+      "date": "2026-10-04",
+      "source": "https://z1nz0l1n.com/26w40/"
+    }
+  ],
+  "architypes": [
+    {
+      "title": "SARP Artisan Serrurier Plombier (Paris)",
+      "date": "2026-10-03",
+      "source": "https://archityp.es/sarp-artisan-serrurier-plombier-paris/"
+    }
+  ],
   "episodes": []
 }
