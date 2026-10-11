@@ -33,7 +33,7 @@
       "title": "here i am no i",
       "artist": "Patrick Shiroishi & Jason Nazary",
       "date": "2026-10-08",
-      "tracks": 7,
+      "tracks": 8,
       "source": "https://www.last.fm/music/Patrick+Shiroishi+%26+Jason+Nazary/here+i+am+no+i"
     },
     {
@@ -42,6 +42,48 @@
       "date": "2026-10-09",
       "tracks": 5,
       "source": "https://www.last.fm/music/John+Coltrane/John+Coltrane+with+the+Red+Garland+Trio"
+    },
+    {
+      "title": "Dedicated To You",
+      "artist": "Branford Marsalis Quartet",
+      "date": "2026-10-11",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Branford+Marsalis+Quartet/Dedicated+To+You"
+    },
+    {
+      "title": "Dedicated To You",
+      "artist": "Branford Marsalis Quartet & Dianne Reeves",
+      "date": "2026-10-11",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Branford+Marsalis+Quartet+%26+Dianne+Reeves/Dedicated+To+You"
+    },
+    {
+      "title": "Eternal Spring",
+      "artist": "Jack Wyllie",
+      "date": "2026-10-11",
+      "tracks": 8,
+      "source": "https://www.last.fm/music/Jack+Wyllie/Eternal+Spring"
+    },
+    {
+      "title": "Part 1 (feat. Last Nubian)",
+      "artist": "Ships of the Pharaohs",
+      "date": "2026-10-11",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/Ships+of+the+Pharaohs/Part+1+(feat.+Last+Nubian)"
+    },
+    {
+      "title": "Super Button Masher",
+      "artist": "Button Masher",
+      "date": "2026-10-11",
+      "tracks": 10,
+      "source": "https://www.last.fm/music/Button+Masher/Super+Button+Masher"
+    },
+    {
+      "title": "Too Late to Quit",
+      "artist": "Chris McCarthy",
+      "date": "2026-10-11",
+      "tracks": 12,
+      "source": "https://www.last.fm/music/Chris+McCarthy/Too+Late+to+Quit"
     }
   ],
   "films": [],
