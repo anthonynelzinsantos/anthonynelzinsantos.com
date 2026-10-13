@@ -5,7 +5,7 @@ monthName: "octobre"
 year: 2026
 date: "2026-10-01T12:00:00.000Z"
 month: "2026-10"
-tally: {"albums":12,"contributions":3,"dispatches":1,"architypes":3}
+tally: {"albums":12,"contributions":3,"dispatches":1,"architypes":4}
 aliases: ["/maintenant/octobre-2026/","/now/octobre-2026/"]
 ---
 
@@ -14,5 +14,5 @@ aliases: ["/maintenant/octobre-2026/","/now/octobre-2026/"]
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Eternal Spring_ de Jack Wyllie
 - j’ai fait trois contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai publié un _dispatch_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
-- j’ai publié trois architypes sur [_Architypes_](https://archityp.es/)
+- j’ai publié quatre architypes sur [_Architypes_](https://archityp.es/)
 <!-- archive:fin -->
