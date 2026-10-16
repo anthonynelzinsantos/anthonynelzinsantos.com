@@ -96,7 +96,7 @@
       "title": "Live at Madison Square Garden (Live)",
       "artist": "Vulfpeck",
       "date": "2026-10-14",
-      "tracks": 20,
+      "tracks": 29,
       "source": "https://www.last.fm/music/Vulfpeck/Live+at+Madison+Square+Garden+(Live)"
     },
     {
@@ -154,6 +154,11 @@
       "title": "Maroquinerie sellerie (Cluny)",
       "date": "2026-10-12",
       "source": "https://archityp.es/maroquinerie-sellerie-cluny/"
+    },
+    {
+      "title": "Justice de paix (Cluny)",
+      "date": "2026-10-15",
+      "source": "https://archityp.es/justice-de-paix-cluny/"
     }
   ],
   "episodes": []
