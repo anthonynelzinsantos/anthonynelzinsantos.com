@@ -57,7 +57,7 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add archive content/maintenant
-          git diff --staged --quiet || git commit -m "chore: weekly harvest"
+          git diff --staged --quiet || git commit -m "Daily harvest"
           git push
 
       - name: Cache resources
