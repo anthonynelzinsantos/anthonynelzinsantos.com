@@ -19,5 +19,5 @@ aliases: ["/maintenant/juin-2026/","/now/juin-2026/"]
 - j’ai publié dix architypes sur [_Architypes_](https://archityp.es/)
 - j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->
-- j’ai vu le *Concerto pour piano n° 3 en ut mineur* de Ludwig van Beethoven et *Ainsi parlait Zarathoustra* de Richard Strauss par l’Orchestre national de Lyon/Nikolaj Szeps-Znaider et Javier Perianes à l’auditorium de Lyon
+- j’ai vu le *Concerto pour piano n° 3 en ut mineur* de Ludwig van Beethoven et *Ainsi parlait Zarathoustra* de Richard Strauss interprétés par Javier Perianes accompagné de l’Orchestre national de Lyon/Nikolaj Szeps-Znaider à l’auditorium de Lyon
 - je me suis réabonné à [*Monocle*](https://monocle.com/)

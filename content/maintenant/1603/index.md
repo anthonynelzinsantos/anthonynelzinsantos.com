@@ -5,7 +5,7 @@ monthName: "mars"
 year: 2016
 date: "2016-03-01T12:00:00.000Z"
 month: "2016-03"
-tally: {"albums":20}
+tally: {"albums":20,"concerts":1}
 aliases: ["/maintenant/mars-2016/"]
 ---
 
@@ -13,3 +13,4 @@ aliases: ["/maintenant/mars-2016/"]
 - [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Live at the Village Vanguard_ de Christian McBride Trio et dix-huit autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Troubadour_ de J.J. Cale
 <!-- archive:fin -->
+- j’ai vu Salif Keïta, Djessou Mory Kanté, Sory Kandia Kouyaté, Souleymane Kouyaté, Bah Kouyaté, Aminata Dante et Guy Nwogang en concert à l’auditorium de Lyon

@@ -5,7 +5,7 @@ monthName: "juillet"
 year: 2015
 date: "2015-07-01T12:00:00.000Z"
 month: "2015-07"
-tally: {"albums":47,"films":1}
+tally: {"albums":47,"films":1,"concerts":1}
 aliases: ["/maintenant/juillet-2015/"]
 ---
 
@@ -14,3 +14,4 @@ aliases: ["/maintenant/juillet-2015/"]
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Albert King With Stevie Ray Vaughan: In Session_ d’Albert King & Stevie Ray Vaughan et dix autres albums
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _Inside Out_ de Pete Docter
 <!-- archive:fin -->
+- j’ai vu Chick Corea et Herbie Hancock en concert aux Nuits de Fourvière

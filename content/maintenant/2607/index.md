@@ -25,7 +25,13 @@ photos:
 - j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->
 - j’ai parcouru 1 188 km en train pour me rendre à Paris, Vienne et Grenoble
-- j’ai vu Terence Blanchard et Ravi Coltrane ; Marcus Miller ; James Andrews, Anne Paceo, Sélène Saint-Aimé & Tiss Rodriguez ; Jon Batiste ; ubaq ; The Fearless Flyers et enfin Vulfpeck en concert à [Jazz à Vienne](https://www.jazzavienne.com/fr)
+- j’ai vu Terence Blanchard et Ravi Coltrane accompagnés par Tom Oren, Charles Altura, David Ginyard et Jaylen Petinaud en concert à Jazz à Vienne
+- j’ai vu Marcus Miller, Bill Evans, Mike Stern, Mino Cinelu, Russell Gunn, Brett Williams et Anwar Marshall en concert à Jazz à Vienne
+- j’ai vu James Andrews, Anne Paceo, Sélène Saint-Aimé et Tiss Rodriguez en concert à Jazz à Vienne
+- j’ai vu Jon Batiste, DeSz, Joe Saylor, Max Townsley, Nick Waterhouse et Nêgah Santos en concert à Jazz à Vienne
+- j’ai vu ubaq en concert à Jazz à Vienne
+- j’ai vu The Fearless Flyers en concert à Jazz à Vienne
+- j’ai vu Vulfpeck en concert à Jazz à Vienne
 - j’ai revu la maquette de *Z1NZ0L1N*
 - j’ai acheté un enregistreur [Zoom PodTrack P4](https://link.amazon/B06N0MBnP)
 - j’ai complété ma collection de machines à écrire avec une Olivetti PTP 820.

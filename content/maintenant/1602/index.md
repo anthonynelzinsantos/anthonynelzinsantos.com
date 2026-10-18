@@ -5,7 +5,7 @@ monthName: "février"
 year: 2016
 date: "2016-02-01T12:00:00.000Z"
 month: "2016-02"
-tally: {"albums":28,"films":1,"contributions":1}
+tally: {"albums":28,"films":1,"contributions":1,"concerts":1}
 aliases: ["/maintenant/fevrier-2016/"]
 ---
 
@@ -15,3 +15,4 @@ aliases: ["/maintenant/fevrier-2016/"]
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _Steve Jobs_ de Danny Boyle
 - j’ai fait une contribution sur [GitHub](https://github.com/anthonynelzinsantos)
 <!-- archive:fin -->
+- j’ai vu Wynton Marsalis et le Jazz at Lincoln Center Orchestra en concert à l’auditorium de Lyon

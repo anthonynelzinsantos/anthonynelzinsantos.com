@@ -18,7 +18,8 @@ aliases: ["/maintenant/decembre-2025/","/now/decembre-2025/"]
 - j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->
 - j’ai cousu des vide-poches avec le reste du tissu de [mes expérimentations de reliure japonaise](/maintenant/2511/)
-- j’ai vu la Gospel Philharmonic Experience/Pascal Horecka en concert à la Bourse du travail de Lyon et *Les demoiselles de Rochefort* au Lido
+- j’ai vu la Gospel Philharmonic Experience/Pascal Horecka en concert à la Bourse du travail de Lyon
+- j’ai vu *Les demoiselles de Rochefort* au Lido
 - j’ai parcouru 867 km en train pour me rendre à Paris
 - j’ai acheté un tirage original de Mateusz Urbanowicz [chez HIS Paris](https://mateuszurbanowicz.com/2025/10/08/events-in-november-2025/)
 - j’ai pris beaucoup de plaisir à assembler un [Lego Game Boy](https://www.lego.com/fr-fr/product/game-boy-72046)

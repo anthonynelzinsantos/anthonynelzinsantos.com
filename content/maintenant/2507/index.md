@@ -17,7 +17,12 @@ aliases: ["/maintenant/juillet-2025/","/now/juillet-2025/"]
 - j’ai fait une contribution sur [GitHub](https://github.com/anthonynelzinsantos)
 <!-- archive:fin -->
 - j’ai parcouru 124 km en train pour me rendre plusieurs fois à Vienne
-- j’ai vu Arooj Aftab ; Rabih Abou-Khalil ; Dhafer Youssef ; Donny McCaslin et Ishkero ; Meshell Ndegeocello ; et enfin Kamasi Washington en concert à ["Jazz à Vienne"](https://jazzavienne.com/)
+- j’ai vu Arooj Aftab, Michael Haldeman, Petros Klampanis et Engin Gunaydin en concert à Jazz à Vienne
+- j’ai vu Rabih Abou-Khalil, Mateusz Smoczyński, Krzysztof Lenczowski et Jarrod Cagwinen en concert à Jazz à Vienne
+- j’ai vu Dhafer Youssef, Mario Rom, Daniel Garcia, Swaéli Mbappé et Tao Ehrlich en concert à Jazz à Vienne
+- j’ai vu Donny McCaslin et Ishkero en concert à Jazz à Vienne
+- j’ai vu Meshell Ndegeocello, Chris Bruce, Jake Sherman, Abe Rounds, Jebin Bruni, Staceyann Chin, Carl Hancock Rux et Mina Cho en concert à Jazz à Vienne
+- j’ai vu Kamasi Washington, Rickey Washington, Ryan Porter, Cameron Graves, Joshua Crumbly, Tony Austin, DJ Battlecat et Patrice Quinn en concert à Jazz à Vienne
 - j’ai restauré une machine à coudre Singer 99K et cousu une veste
 - j’ai bouclé le magazine des 25 ans de MacGeneration
 - j’ai commencé à préparer la suite de ma carrière en ouvrant [mon site personnel](https://anthonynelzinsantos.com)
