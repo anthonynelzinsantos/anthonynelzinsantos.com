@@ -6,6 +6,7 @@ year: 2026
 date: "2026-09-01T12:00:00.000Z"
 month: "2026-09"
 tally: {"livres":2,"albums":38,"films":1,"contributions":17,"dispatches":4,"architypes":10,"épisodes":1,"concerts":1}
+aliases: ["/maintenant/septembre-2026/","/now/septembre-2026/"]
 photos:
   "2609-1.jpg": "C’est probablement un joueur de foot, mais j’ai décidé de le prendre pour moi."
   "2609-2.jpg": "J’ai un type."

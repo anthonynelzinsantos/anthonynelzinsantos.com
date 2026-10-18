@@ -110,8 +110,36 @@
       "title": "Against the Fall of Night",
       "artist": "Sungazer",
       "date": "2026-10-15",
-      "tracks": 5,
+      "tracks": 6,
       "source": "https://www.last.fm/music/Sungazer/Against+the+Fall+of+Night"
+    },
+    {
+      "title": "Kevin Sun, I",
+      "artist": "Kevin Sun",
+      "date": "2026-10-18",
+      "tracks": 4,
+      "source": "https://www.last.fm/music/Kevin+Sun/Kevin+Sun%2C+I"
+    },
+    {
+      "title": "Lost in Geneva (feat. Robert Hurst & Johnathan Blake)",
+      "artist": "Kris Davis Trio",
+      "date": "2026-10-18",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/Kris+Davis+Trio/Lost+in+Geneva+(feat.+Robert+Hurst+%26+Johnathan+Blake)"
+    },
+    {
+      "title": "Oncle Jazz",
+      "artist": "Men I Trust",
+      "date": "2026-10-18",
+      "tracks": 24,
+      "source": "https://www.last.fm/music/Men+I+Trust/Oncle+Jazz"
+    },
+    {
+      "title": "Today May Be Tomorrow",
+      "artist": "Rymden",
+      "date": "2026-10-18",
+      "tracks": 8,
+      "source": "https://www.last.fm/music/Rymden/Today+May+Be+Tomorrow"
     }
   ],
   "films": [],
@@ -129,7 +157,12 @@
     {
       "title": "contributions du 2026-10-17",
       "date": "2026-10-17",
-      "count": 10
+      "count": 15
+    },
+    {
+      "title": "contributions du 2026-10-18",
+      "date": "2026-10-18",
+      "count": 7
     }
   ],
   "dispatches": [

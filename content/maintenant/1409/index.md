@@ -5,7 +5,7 @@ monthName: "septembre"
 year: 2014
 date: "2014-09-01T12:00:00.000Z"
 month: "2014-09"
-tally: {"albums":8, "concerts":1}
+tally: {"albums":8,"concerts":1}
 aliases: ["/maintenant/septembre-2014/"]
 ---
 
