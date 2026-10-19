@@ -117,32 +117,49 @@
       "title": "Kevin Sun, I",
       "artist": "Kevin Sun",
       "date": "2026-10-18",
-      "tracks": 4,
+      "tracks": 6,
       "source": "https://www.last.fm/music/Kevin+Sun/Kevin+Sun%2C+I"
     },
     {
       "title": "Lost in Geneva (feat. Robert Hurst & Johnathan Blake)",
       "artist": "Kris Davis Trio",
       "date": "2026-10-18",
-      "tracks": 11,
+      "tracks": 17,
       "source": "https://www.last.fm/music/Kris+Davis+Trio/Lost+in+Geneva+(feat.+Robert+Hurst+%26+Johnathan+Blake)"
     },
     {
       "title": "Oncle Jazz",
       "artist": "Men I Trust",
       "date": "2026-10-18",
-      "tracks": 24,
+      "tracks": 36,
       "source": "https://www.last.fm/music/Men+I+Trust/Oncle+Jazz"
     },
     {
       "title": "Today May Be Tomorrow",
       "artist": "Rymden",
       "date": "2026-10-18",
-      "tracks": 8,
+      "tracks": 12,
       "source": "https://www.last.fm/music/Rymden/Today+May+Be+Tomorrow"
+    },
+    {
+      "title": "Kevin Sun, I",
+      "artist": "Kevin Sun",
+      "date": "2026-10-19",
+      "tracks": 4,
+      "source": "https://www.last.fm/music/Kevin+Sun/Kevin+Sun%2C+I"
     }
   ],
-  "films": [],
+  "films": [
+    {
+      "title": "Splitsville",
+      "year": 2025,
+      "date": "2026-10-18",
+      "rating": 3,
+      "source": "https://letterboxd.com/z1nz0l1n/film/splitsville/",
+      "director": "Michael Angelo Covino",
+      "originalTitle": null
+    }
+  ],
   "contributions": [
     {
       "title": "contributions du 2026-10-02",
@@ -197,6 +214,11 @@
       "title": "Justice de paix (Cluny)",
       "date": "2026-10-15",
       "source": "https://archityp.es/justice-de-paix-cluny/"
+    },
+    {
+      "title": "Daniel Cambie artisan ébéniste (Cluny)",
+      "date": "2026-10-18",
+      "source": "https://archityp.es/daniel-cambie-artisan-ebeniste-cluny/"
     }
   ],
   "episodes": []
