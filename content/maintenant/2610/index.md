@@ -5,7 +5,7 @@ monthName: "octobre"
 year: 2026
 date: "2026-10-01T12:00:00.000Z"
 month: "2026-10"
-tally: {"albums":21,"films":1,"contributions":25,"dispatches":1,"architypes":6}
+tally: {"albums":25,"films":1,"contributions":25,"dispatches":1,"architypes":6}
 aliases: ["/maintenant/octobre-2026/","/now/octobre-2026/"]
 photos:
   "2610-1.jpg": "Un tirage de Mateusz Urbanowicz."
@@ -14,7 +14,7 @@ photos:
 ---
 
 <!-- archive:début -->
-- [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Oncle Jazz_ de Men I Trust et dix-huit autres albums
+- [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Oncle Jazz_ de Men I Trust et vingt-deux autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Live at Madison Square Garden_ de Vulfpeck et un autre album
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _Splitsville_ de Michael Angelo Covino
 - j’ai fait vingt-cinq contributions sur [GitHub](https://github.com/anthonynelzinsantos)
