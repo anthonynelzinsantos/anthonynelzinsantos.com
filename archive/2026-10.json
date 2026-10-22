@@ -175,6 +175,20 @@
       "date": "2026-10-20",
       "tracks": 7,
       "source": "https://www.last.fm/music/Kevin+Sun/Kevin+Sun%2C+II"
+    },
+    {
+      "title": "BEAT MUSIC 2.0",
+      "artist": "Mark Guiliana",
+      "date": "2026-10-22",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Mark+Guiliana/BEAT+MUSIC+2.0"
+    },
+    {
+      "title": "Plays Coltrane (feat. Jorge Rossy, Rasmus Sørensen & Pär-Ola Landin)",
+      "artist": "Gustav Lundgren",
+      "date": "2026-10-22",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/Gustav+Lundgren/Plays+Coltrane+(feat.+Jorge+Rossy%2C+Rasmus+S%C3%B8rensen+%26+P%C3%A4r-Ola+Landin)"
     }
   ],
   "films": [
@@ -247,6 +261,11 @@
       "title": "Daniel Cambie artisan ébéniste (Cluny)",
       "date": "2026-10-18",
       "source": "https://archityp.es/daniel-cambie-artisan-ebeniste-cluny/"
+    },
+    {
+      "title": "Livres anciens (Cluny)",
+      "date": "2026-10-21",
+      "source": "https://archityp.es/livres-anciens-cluny/"
     }
   ],
   "episodes": []
