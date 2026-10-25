@@ -1,127 +1,71 @@
 # anthonynelzinsantos.com
 
-My portfolio, in Hugo. No dependencies, no downloaded fonts, no build step beyond Hugo itself. Five sections, plus one auto-generated "maintenant" page per month that doubles as my media archive.
+My portfolio, in Hugo. No dependencies, no downloaded fonts, no build step beyond Hugo itself. Its "maintenant" pages double as my media archive: one per month, generated from what i read, listened to, watched and published.
 
 ## Pages
 
-| Page             | URL              | Source                                |
-| ---------------- | ---------------- | ------------------------------------- |
-| Ma mission       | `/mission/`      | `content/mission.md`                   |
-| Mon parcours     | `/parcours/`     | `content/parcours.md` (front matter)   |
-| Mes réalisations | `/realisations/` | `content/realisations/`                |
-| Mes projets      | `/projets/`      | `content/projets.md` (front matter)    |
-| Maintenant       | `/maintenant/`   | generated from `archive/`              |
-| Mon atelier      | `/atelier/`      | `content/atelier/`                     |
-
-My career and side projects live in front matter rather than body text: they are data.
+| Page             | URL              | Source                               |
+| ---------------- | ---------------- | ------------------------------------ |
+| Ma mission       | `/mission/`      | `content/mission.md`                 |
+| Mon parcours     | `/parcours/`     | `content/parcours.md` (front matter) |
+| Mes réalisations | `/realisations/` | `content/realisations/`              |
+| Mes projets      | `/projets/`      | `content/projets.md` (front matter)  |
+| Maintenant       | `/maintenant/`   | `content/maintenant/`                |
+| Mon atelier      | `/atelier/`      | `content/atelier/`                   |
 
 ## Running it
 
 ```bash
-hugo server                          # preview on :1313
-node scripts/build-months.mjs        # regenerate month pages
-hugo --minify                        # build into ./public
+hugo server                        # preview on :1313
+node scripts/build-months.mjs      # regenerate month pages
+hugo --minify                      # build into ./public
 ```
 
 ## The archive
 
-One JSON file per month: `archive/<YYYY-MM>.json`, six shelves.
+One JSON file per month, `archive/<YYYY-MM>.json`, with one shelf per source:
 
-```json
-{
-  "books":         [ { "title": "…", "author": "…", "date": "…", "rating": 4 } ],
-  "albums":        [ { "title": "…", "artist": "…", "date": "…", "tracks": 11,
-                       "source": "https://www.last.fm/…" } ],
-  "films":         [ { "title": "…", "director": "…", "year": 2025,
-                       "date": "…", "rating": 3 } ],
-  "contributions": [ { "title": "…", "date": "…", "count": 13 } ],
-  "dispatches":    [ { "title": "…", "date": "…", "source": "https://z1nz0l1n.com/…" } ],
-  "architypes":    [ { "title": "…", "date": "…", "source": "https://archityp.es/…" } ]
-}
-```
+| Shelf                                  | Source                | Script                   |
+| -------------------------------------- | --------------------- | ------------------------ |
+| `books`                                | StoryGraph CSV export | `harvest-storygraph.mjs` |
+| `albums`                               | Last.fm               | `harvest-lastfm.mjs`     |
+| `films`                                | Letterboxd            | `harvest-letterboxd.mjs` |
+| `contributions`                        | GitHub                | `harvest-github.mjs`     |
+| `dispatches`, `architypes`, `episodes` | RSS feeds             | `harvest-feeds.mjs`      |
 
-That shelf order matters and is defined once, in `SHELVES` in `scripts/lib.mjs`. It drives the sentence order, the counter order, and the front-matter key order. `layouts/_partials/tally-order.html` mirrors it for the templates. If i reorder one, i reorder both.
+The shelf order is set once, in `SHELVES` in `scripts/lib.mjs`, and mirrored in `layouts/_partials/tally-order.html`. If i reorder one, i reorder both.
 
-Every harvester is idempotent: the same item on the same day is never counted twice, and a later run that brings something the earlier one lacked (a rating, a director) fills the gap without overwriting.
+Harvesters can be re-run safely: the same item on the same day is never counted twice, and a later run fills in what an earlier one lacked. Repeats (`relu`, `revu`, `réécouté`) aren't stored; they're worked out from the whole archive.
 
-Repeats are not stored. Nothing in the JSON says "reread". The generator looks at every occurrence of an item across the whole archive: the earliest is the original, the rest are repeats. Harvest order is therefore irrelevant.
-
-## Harvesting
+### Harvesting
 
 ```bash
 LASTFM_API_KEY=… LASTFM_USER=…  node scripts/harvest-lastfm.mjs
 LETTERBOXD_USER=…               node scripts/harvest-letterboxd.mjs
-node scripts/harvest-feeds.mjs
-node scripts/harvest-github.mjs
+node scripts/harvest-feeds.mjs                       # or: dispatches | architypes | episodes
+node scripts/harvest-github.mjs                      # or: 2011 2012 … (one year at a time)
 node scripts/harvest-storygraph.mjs ~/Downloads/export.csv
-node scripts/enrich-films.mjs
+node scripts/enrich-films.mjs                        # director and original title
 ```
 
-`DRY_RUN=1` harvests, counts and writes nothing. i use it before any bulk backfill — an import that "adds" where it should "enrich" would silently double ten years of counters.
+Last.fm and Letterboxd also take a full export (a CSV, a folder) as an argument, for a one-shot catch-up. `DRY_RUN=1` writes nothing; i use it before any bulk backfill. The scripts don't read `.env`, so locally: `node --env-file=.env scripts/harvest-lastfm.mjs`.
 
-```bash
-DRY_RUN=1 node scripts/harvest-lastfm.mjs ~/Downloads/recenttracks.csv
-```
+Things to know:
 
-Last.fm and Letterboxd also take a full export as an argument, for a one-shot catch-up:
-
-```bash
-node scripts/harvest-lastfm.mjs     ~/Downloads/recenttracks.csv
-node scripts/harvest-letterboxd.mjs ~/Downloads/letterboxd-export/
-```
-
-The scripts don't read `.env` themselves, so locally i pass it to Node:
-
-```bash
-node --env-file=.env scripts/harvest-lastfm.mjs
-```
-
-### What each source can and can't do
-
-**StoryGraph has no API.** Books only ever arrive from a CSV export i pass by hand. This is the one thing the weekly job cannot do for me.
-
-**Music is albums, not tracks.** Plays are grouped by album, then cut into sessions: a run with no gap longer than `LASTFM_GAP_HOURS` (6) counts as one listen, from `LASTFM_MIN_TRACKS` (3) tracks up. `tracks` keeps the session length, which is the only real measure of what i actually listened to — and it decides which album the month's sentence names.
-
-**My two other sites come in via RSS**, and both feeds serve 24 items, so a harvest only sees the last few weeks. Fine as long as i run it regularly, but a month older than the feed will not backfill itself. To reach further back, raise `services.rss.limit` in those sites' Hugo config for one run. The feed URLs are in `SITES` in `scripts/harvest-feeds.mjs`; passing `dispatches` or `architypes` as an argument harvests just that one.
-
-**GitHub counts contributions, not commits** Commits on the default branch *plus* issues, pull requests and reviews. The calendar reads without a token, but then only shows public activity unless "Include private contributions on my profile" is ticked. History goes back to December 2011, harvested year by year:
-
-```bash
-node scripts/harvest-github.mjs 2011 2012 2013 2014 2015
-node scripts/harvest-github.mjs
-```
-
-**Directors are fetched separately.** Neither the Letterboxd RSS feed nor `diary.csv` carries the director; it is only on the film's page. `enrich-films.mjs` scrapes it, for films that lack one and only those. Separate pass on purpose: if Letterboxd changes its markup, the rest of the harvest keeps working.
-
-**Dates are when things happened, not when i logged them.** Letterboxd uses `Watched Date`, StoryGraph the finish date. A backlog entered in one evening spreads across the months it belongs to.
+- **StoryGraph has no API.** Books only arrive from a CSV i pass by hand.
+- **Albums, not tracks.** A run of plays with no gap over `LASTFM_GAP_HOURS` (6) and at least `LASTFM_MIN_TRACKS` (3) tracks counts as one listen.
+- **RSS feeds only go back so far** (24 items for Z1NZ0L1N and Architypes). Older months don't backfill themselves.
+- **Dates are when things happened**, not when i logged them.
 
 ## The month pages
 
-```bash
-node scripts/build-months.mjs
-```
+`node scripts/build-months.mjs` reads `archive/` and writes one page bundle per month into `content/maintenant/`, e.g. `/maintenant/2511/` for November 2025. Variables: `SINCE` (`SINCE=2025-05`), `ALBUMS_NAMED` (`1`), `DRY_RUN=1`.
 
-Reads `archive/`, writes one page bundle per month into `content/maintenant/`. Separate from harvesting so i can read what was collected before publishing it. Variables: `SINCE` (`SINCE=2025-05` to publish only from the site's first page), `ALBUMS_NAMED` (`1`), `DRY_RUN=1`.
+Earlier months keep their old URLs (`/maintenant/novembre-2025/`, `/now/novembre-2025/`) through `aliases` in their front matter.
 
-### The French it handles
+### Hand-written lines
 
-- number words and their traps (`soixante-et-onze`, `quatre-vingts`);
-- gender agreement on a trailing one (`vingt-et-une contributions`);
-- elision before a vowel and only a vowel: `d'Alexandre Dumas`, but
-  `de Hayao Miyazaki` and `de Yorgos Lanthimos`;
-- coordination (`A, B et C`, never `A, B, C`);
-- co-authors (`de Jay Foreman et Mark Cooper-Jones`);
-- a creator named once for several titles (`_La Forêt sombre_ et _Death's End_ de
-  Cixin Liu`), whose own `et` carries the list when the group ends it;
-- repeat verbs: `j'ai relu`, `j'ai revu`, `j'ai réécouté`;
-- singular and plural (`un dispatch`, `deux dispatches`).
-
-It does not punctuate the list. i write my own lines bare or terminated however i like; the layout strips trailing punctuation and adds its own, without doubling an abbreviation's full stop. The `;` on each line and the final `.`
-depend on the *final* order of lines, and i add lines by hand between runs — so `layouts/_partials/enumeration.html` owns punctuation, and it always wins.
-
-### Hand-written lines survive
-
-Generated lines live between the markers. Anything outside them is mine and is never touched:
+Generated lines live between the markers. Anything outside them is mine and is never touched, and neither is any front matter key the generator doesn't compute:
 
 ```markdown
 - j’ai repris l’enregistrement du podcast _À bâtons rompus_ avec Arnaud Jourdain
@@ -129,40 +73,26 @@ Generated lines live between the markers. Anything outside them is mine and is n
 <!-- archive:début -->
 - j’ai lu _La chute du British Museum_ de David Lodge
 - j’ai écouté _Fourth Generation_ de Juan Chiavassa et neuf autres albums
-- j’ai vu _A House of Dynamite_, _Maria_ et _A Minecraft Movie_
 <!-- archive:fin -->
 
 - j’ai assisté à quatre concerts
 ```
 
-Front matter works the same way: the generator rewrites the keys it computes and copies anything else through unchanged.
-
-A month can be 129 albums, so i name `ALBUMS_NAMED` of them and count the rest. The one named is the month's most played, summing tracks across all its sessions, discoveries and repeats together; failing tracks, session count, then date.
-
-An item discovered *and* repeated in the same month gets only one verb — "j'ai écouté X ; j'ai réécouté X" is nonsense. Only repeats of something known from an earlier month earn the re- verb.
-
-Books lose their subtitle (`Could Should Might Don't`), films keep theirs, or `Mission: Impossible` wouldn't get far.
-
-### URLs
-
-A month's URL is its position in the calendar: `/maintenant/2511/` for November 2025. Four digits that sort themselves, in the address bar and in `content/maintenant/` alike. Every URL a month has ever had still works, via `aliases`: the spelled-out form (`/maintenant/novembre-2025/`) for all months, plus `/now/novembre-2025/` for those published back on WordPress.
+Punctuation is added by the layout, so my own lines can go bare.
 
 ### The counter
 
-The month banner renders `tally` and knows no field names. Computed keys come first in shelf order, then `photos`, then anything i add by hand, alphabetically:
+The month banner shows `tally`. I add my own counters by hand, on one line, as JSON:
 
 ```yaml
-tally: {"livres":1,"albums":39,"films":3,"contributions":36,"photos":18,"villes":4}
+tally: {"albums":39,"films":3,"contributions":36,"villes":4}
 ```
 
-`villes` shows up in the banner and in the record's density without touching a template, and survives the next harvest: the generator rewrites the keys it computes and copies the rest. Keep it on one line, as JSON — that's how it's
-read back. A count of 1 goes singular.
+Photos are counted at build time.
 
-`photos` is never stored. `layouts/_partials/tally.html` counts the bundle's images at build time and merges the result in, so adding or removing a JPEG is enough — no script run, no front-matter edit. The generator strips any `photos` key it finds.
+### Photos
 
-## Photos
-
-Each month is a page bundle. i drop JPEGs next to `index.md`:
+Each month is a page bundle. i drop JPEGs next to `index.md`, numbered in order:
 
 ```
 content/maintenant/2511/
@@ -171,104 +101,39 @@ content/maintenant/2511/
 └── 2511-2.jpg
 ```
 
-They appear as a contact sheet in the right-hand column on wide screens, and as a scrolling strip under 900 px. Order is by the last run of digits in the filename.
-
-The JPEG is the source: it's what i archive, and it never ships — the cascade in `content/maintenant/_index.md` sets `build.publishResources: false`. What's served is AVIF in several widths, with a resized JPEG fallback. Hugo caches the
-derivatives in `resources/`.
-
-Captions are optional, declared per filename, and render Markdown:
+The JPEGs are the source and never ship; the site serves AVIF. Captions are optional, per filename, in Markdown, and double as alt text:
 
 ```yaml
 photos:
   "2511-1.jpg": "The restoration of *The Adoration of the Magi*"
 ```
 
-The caption doubles as alt text, with Markdown stripped. A photo without one gets an empty `alt`.
-
-The viewer is a `<dialog>`; without JavaScript the thumbnails remain images.
-
 ## The atelier
 
-The colophon: this site, my computers, my writing machines. Cards on
-`/atelier/`, exactly like `realisations` — `years`, `description`, `context`,
-`wip`. It is in the main menu and the footer, but deliberately not in the home
-page's card index: `[menus.main.params] index = false` keeps it out.
+The colophon: this site, my computers, my writing machines. Pages live in `content/atelier/` as bundles, with photos and captions like the months. They need a `slug` in the front matter, or Hugo slugifies the title into an accented URL.
 
-URLs are `/atelier/:slug/`, and `slug` is mine to declare in the front matter,
-as in the months. It is not optional: left out, Hugo slugifies the title, and
-`Mes machines à écrire` becomes an accented URL.
-
-Each page is a bundle, with the same photo pipeline as the months — JPEG in,
-AVIF out, captions keyed by filename under `photos`, source files never
-published.
-
-### Two ways to lay a page out
-
-**One subject, one page.** Drop images in the bundle and write. The layout puts
-the text on the left, the contact sheet on the right, and needs nothing in the
-Markdown:
-
-```
-content/atelier/site/
-├── index.md
-├── site-1.jpg
-└── site-2.jpg
-```
-
-**Several subjects, one page.** The `piece` shortcode repeats that device down
-the page, one block per machine, each with its own date, subtitle and photos:
+For one subject, drop images in the bundle and write. For several on one page, use the `piece` shortcode, one block per machine; `images` is a glob over the bundle, and all three attributes are optional:
 
 ```markdown
 {{< piece date="1998-2004" title="iMac G3" images="imac-*" >}}
 Du texte sur cette machine.
 {{< /piece >}}
-
-{{< piece date="2021-2026" title="MacBook Pro 14 pouces" images="mbp-*" >}}
-Et sur celle-là.
-{{< /piece >}}
 ```
 
-`images` is a glob over the bundle, so photos are grouped by filename prefix
-and ordered by their last run of digits, like everywhere else. All three
-attributes are optional: without `images` the block simply keeps the measure.
-
-The two are exclusive per page: `layouts/atelier/single.html` switches on
-`.HasShortcode "piece"`, so a page that uses the shortcode never also gets the
-automatic gallery.
-
-Galleries are no longer one-per-page. `gallery.html` takes an `id`, each
-gallery gets its own `<dialog>`, and the viewer script in `baseof.html` wires
-every `.viewer` it finds, pairing thumbnails to their dialog through
-`data-viewer`. Months pass their slug as the id and behave exactly as before.
+A page that uses `piece` doesn't also get the automatic gallery.
 
 ## Deployment
 
-`.github/workflows/months.yml` does both jobs:
+`.github/workflows/months.yml`:
 
-- on push to `main`: build and deploy only;
-- on Fridays evenings: harvest, enrich, regenerate, commit, then build and deploy.
+- on push to `main`: build and deploy;
+- every day at 17:00 UTC, or on manual dispatch: harvest, enrich, regenerate, commit, build and deploy.
 
-The harvest steps are gated on `github.event_name != 'push'` so an ordinary edit doesn't hammer every API. The scheduled run's own commit does not retrigger the workflow, because pushes made with `GITHUB_TOKEN` don't fire triggers.
-
-Deploy is FTPS to Infomaniak. Secrets i set on the repo:
-
-| Secret            | Use                                |
-| ----------------- | ---------------------------------- |
-| `FTP_SERVER`      | Infomaniak host                    |
-| `FTP_USERNAME`    | FTP account                        |
-| `FTP_PASSWORD`    | FTP password                       |
-| `FTP_REMOTE_DIR`  | target directory                   |
-| `LASTFM_API_KEY`  | Last.fm API                        |
-| `LASTFM_USER`     | Last.fm account                    |
-| `LETTERBOXD_USER` | Letterboxd account                 |
+Deploy is FTPS to Infomaniak. Secrets set on the repo: `FTP_SERVER`, `FTP_USERNAME`, `FTP_PASSWORD`, `FTP_REMOTE_DIR`, `LASTFM_API_KEY`, `LASTFM_USER`, `LETTERBOXD_USER`.
 
 ## Icons
 
-```bash
-node scripts/build-icons.mjs
-```
-
-Rasterises `assets/icon.svg` via `qlmanage` into the touch icons, favicon and web manifest in `static/`. macOS only, and only needed when the icon changes.
+`node scripts/build-icons.mjs` rasterises `assets/icon.svg` into the touch icons, favicon and web manifest in `static/`. macOS only (`qlmanage`), and only needed when the icon changes.
 
 ## Licence
 

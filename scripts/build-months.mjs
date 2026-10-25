@@ -5,7 +5,6 @@ import { loadArchive, identity, count, ROOT, CREATOR, SHELVES, DRY_RUN } from ".
 const OUT = path.join(ROOT, "content", "maintenant");
 const SINCE = process.env.SINCE || "";
 const ALBUMS_NAMED = Number(process.env.ALBUMS_NAMED || 1);
-const FIRST_PUBLISHED = "2025-05";
 
 const START = "<!-- archive:début -->";
 const END = "<!-- archive:fin -->";
@@ -245,7 +244,6 @@ for (const [month, contents] of [...archive.entries()].sort()) {
 	const [year, m] = month.split("-").map(Number);
 	const monthName = MONTHS[m - 1];
 	const slug = `${String(year).slice(2)}${String(m).padStart(2, "0")}`;
-	const spelled = `${monthName}-${year}`.normalize("NFD").replace(/[̀-ͯ]/g, "");
 
 	const dir = path.join(OUT, slug);
 	const file = path.join(dir, "index.md");
@@ -267,9 +265,7 @@ for (const [month, contents] of [...archive.entries()].sort()) {
 		date: new Date(Date.UTC(year, m - 1, 1, 12)).toISOString(),
 		month,
 		tally: mergeTally(old, computed),
-		aliases: [`/maintenant/${spelled}/`],
 	};
-	if (month >= FIRST_PUBLISHED) keys.aliases.push(`/now/${spelled}/`);
 
 	const body = old ? frontMatter(old).body : "";
 	const next = `${head(old, keys)}\n\n${merge(body.trim(), sentences(contents))}`.replace(/\n*$/, "\n");
