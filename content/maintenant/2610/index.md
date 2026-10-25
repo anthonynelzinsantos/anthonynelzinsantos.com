@@ -5,12 +5,21 @@ monthName: "octobre"
 year: 2026
 date: "2026-10-01T12:00:00.000Z"
 month: "2026-10"
-tally: {"albums":29,"films":1,"contributions":25,"dispatches":1,"architypes":7}
-aliases: ["/maintenant/octobre-2026/","/now/octobre-2026/"]
+tally: {"albums":29,"films":1,"contributions":25,"dispatches":1,"architypes":7, "villes": 3}
 photos:
   "2610-1.jpg": "Un tirage de Mateusz Urbanowicz."
   "2610-2.jpg": "Cela devrait nous tenir quelques… semaines ?"
   "2610-3.jpg": "Un grain de maragogype (à gauche) comparé à un grain d’arabica (à droite)."
+  "2610-4.jpg": "Répétez après moi : « les produits laitiers sont vos amis pour la vie »."
+  "2610-5.jpg": "Pas besoin de préciser laquelle."
+  "2610-6.jpg": "Parfois, la matrice rame."
+  "2610-7.jpg": "Un Magicarpe sauvage apparait !"
+  "2610-8.jpg": "Sortie de route."
+  "2610-9.jpg": "Sur le lac d’Annecy."
+  "2610-10.jpg": "Et fier de l’être !"
+  "2610-11.jpg": "Sur les hauteurs d’Annecy."
+  "2610-12.jpg": "C’est vraiment la mort de la TV."
+  "2610-13.jpg": "Quel plaisir de retrouver les bonnes vieilles voitures Corail, surtout quand elles sont tractées par [une BB 7208](https://fr.wikipedia.org/wiki/Locomotives_Nez_cass%C3%A9s) dans sa magnifique livrée « gris fantôme », après avoir souffert dans une affreuse bétaillère [Regio 2N](https://fr.wikipedia.org/wiki/Regio_2N) !"
 ---
 
 <!-- archive:début -->
@@ -24,5 +33,7 @@ photos:
 - j’ai enfin accroché le tirage de [Mateusz Urbanowicz](https://mateuszurbanowicz.com) que j’avais acheté lors de son exposition « Flavors of Timeless Tokyo » chez [HIS Paris](https://www.hisparis.com/)
 - j’ai commandé une cargaison de conserves Minerva, une marque de la conserverie portugaise [A Poveira](https://www.apoveira.pt/blog/nova-sardinha-azeite-virgem-extra-minerva/), qui appartient elle-même au groupe galicien [Frinsa](https://fr.grupofrinsa.com/). Les conserves aromatisées de [Nuri](https://shop.conservaspinhais.com/collections/nuri) sont délicieuses, les *sardinillas* et *picantonas* galiciennes ([Ar de Arte](https://ardearte.es/), [Cabo de Peñas](https://cabodepe%C3%B1as.com/), [Cambados](http://www.conservasdecambados.com/), [Cuca](https://www.conservascuca.com/), [Luliña](https://lulina.es/), Matiz, [Ramon Peña](https://ramonpena.es)) ont le gout de mon enfance, mais je n’ai pas encore trouvé de meilleures sardines à l’huile que celles de Minerva, surtout quand elles sont dégustées au bord du Douro
 - j’ai acheté [un casque Sonos Ace Ultra](https://www.sonos.com/fr-fr/shop/sonos-ace-ultra). Il est aussi confortable que son prédécesseur, son système de réduction active du bruit rivalise avec ceux de Bose et Sony, son autonomie est excellente, son profil acoustique est extrêmement plaisant et peut être ajusté avec un égaliseur à huit bandes, ses boutons sont pratiques et surtout, ses mousses et sa batterie peuvent être remplacées
-- j’ai gouté un café [maragogype](https://fr.wikipedia.org/wiki/Maragogype_%28caf%C3%A9%29) de la région de San Rafael del Norte au Nicaragua. Mon moulin a beaucoup moins apprécié la torréfaction claire des énormes grains que moi. En poussant le ratio à 1:20 et l’infusion à huit minutes, comme je le fais de plus en plus souvent dans [ma cafetière à piston](https://espro.com/products/coffee-french-press-p5?variant=40619340529843), les notes épicées et boisées sont rejointes par une pointe de sirop d’érable. Lorsque la tasse refroidit, une belle acidité critique l’emporte, avec une finition qui rappelle étonamment le jus de pamplemousse. Comme les « micro-filtres » d’Espro laissent passer les huiles que les filtres papier retiennent, la texture est onctueuse, voire soyeuse.
+- j’ai gouté un café [maragogype](https://fr.wikipedia.org/wiki/Maragogype_%28caf%C3%A9%29) de la région de San Rafael del Norte au Nicaragua. Mon moulin a beaucoup moins apprécié la torréfaction claire des énormes grains que moi. En poussant le ratio à 1:20 et l’infusion à huit minutes, comme je le fais de plus en plus souvent dans [ma cafetière à piston](https://espro.com/products/coffee-french-press-p5?variant=40619340529843), les notes épicées et boisées sont rejointes par une pointe de sirop d’érable. Lorsque la tasse refroidit, une belle acidité critique l’emporte, avec une finition qui rappelle étonnamment le jus de pamplemousse. Comme les « micro-filtres » d’Espro laissent passer les huiles que les filtres papier retiennent, la texture est onctueuse, voire soyeuse.
 - j’ai donné un coup de jeune au site de [mon podcast *À bâtons rompus*](https://abatonsrompus.fr/)
+- j’ai parcouru 1 188 km en train pour me rendre à Paris, Saint-Ouen et Annecy
+- j’ai visité le [CIAP](https://musees.annecy.fr/les-3-lieux/palais-de-lile/le-ciap) et le [Musée-Château](https://musees.annecy.fr/les-3-lieux/musee-chateau) d’Annecy
