@@ -250,8 +250,22 @@
       "title": "The Empty Mirror - Solo Piano",
       "artist": "Carsten Dahl Experience",
       "date": "2026-10-27",
-      "tracks": 9,
+      "tracks": 14,
       "source": "https://www.last.fm/music/Carsten+Dahl+Experience/The+Empty+Mirror+-+Solo+Piano"
+    },
+    {
+      "title": "SÖWT",
+      "artist": "JD Allen",
+      "date": "2026-10-28",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/JD+Allen/S%C3%96WT"
+    },
+    {
+      "title": "Utility Modern (feat. Bill Frisell, Rashaan Carter & Marcus Gilmore)",
+      "artist": "Brandon Seabrook",
+      "date": "2026-10-28",
+      "tracks": 9,
+      "source": "https://www.last.fm/music/Brandon+Seabrook/Utility+Modern+(feat.+Bill+Frisell%2C+Rashaan+Carter+%26+Marcus+Gilmore)"
     }
   ],
   "films": [
@@ -339,6 +353,11 @@
       "title": "Voyages Just (Firminy)",
       "date": "2026-10-24",
       "source": "https://archityp.es/voyages-just-firminy/"
+    },
+    {
+      "title": "Machines à coudre mercerie (Firminy)",
+      "date": "2026-10-27",
+      "source": "https://archityp.es/machines-a-coudre-mercerie-firminy/"
     }
   ],
   "episodes": []
