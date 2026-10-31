@@ -19,7 +19,10 @@ photos:
   "2610-10.jpg": "Et fier de l’être !"
   "2610-11.jpg": "Sur les hauteurs d’Annecy."
   "2610-12.jpg": "C’est vraiment la mort de la TV."
-  "2610-13.jpg": "Quel plaisir de retrouver les bonnes vieilles voitures Corail, surtout quand elles sont tractées par [une BB 7208](https://fr.wikipedia.org/wiki/Locomotives_Nez_cass%C3%A9s) dans sa magnifique livrée « gris fantôme », après avoir souffert dans une affreuse bétaillère [Regio 2N](https://fr.wikipedia.org/wiki/Regio_2N) !"
+  "2610-13.jpg": "Quel plaisir de retrouver les bonnes vieilles voitures Corail, surtout quand elles sont tractées par [une BB 7208](https://fr.wikipedia.org/wiki/Locomotives_Nez_cass%C3%A9s) dans sa magnifique livrée « gris fantôme », après avoir souffert dans une affreuse bétaillère [Regio 2N](https://fr.wikipedia.org/wiki/Regio_2N) !"
+  "2610-14.jpg": "Dire que certains se contentent de poivre."
+  "2610-15.jpg": "Un couteau avec une âme en acier trempé Proterial GIN #3 recouverte d’un acier doux avec une finition *nashiji*."
+  "2610-16.jpg": "Mon moulin avait bien besoin d’une petite maintenance."
 ---
 
 <!-- archive:début -->
@@ -37,3 +40,5 @@ photos:
 - j’ai donné un coup de jeune au site de [mon podcast *À bâtons rompus*](https://abatonsrompus.fr/)
 - j’ai parcouru 1 188 km en train pour me rendre à Paris, Saint-Ouen et Annecy
 - j’ai visité le [CIAP](https://musees.annecy.fr/les-3-lieux/palais-de-lile/le-ciap) et le [Musée-Château](https://musees.annecy.fr/les-3-lieux/musee-chateau) d’Annecy
+- j’ai commencé à remplacer le rouleau à couteaux que j’avais acheté lorsque je travaillais en cuisine par des couteaux de manufacture japonaise
+- j’ai réalisé la maintenance annuelle de mon moulin [Technivorm Moccamaster KM5](https://www.moccamaster.be/km5-moulin-a-cafe). Je reste ambivalent à son sujet : il est deux fois plus cher que l’Eureka Mignon Filtro, dont il partage les caractéristiques et probablement les composants, et surtout que mon ancien Wilfa Svart Aroma, qui n’était pas moins performant. Disons que c’est le prix de l’accord esthétique parfait avec [ma cafetière](https://www.moccamaster.be/machines-a-cafe/kbgt)
