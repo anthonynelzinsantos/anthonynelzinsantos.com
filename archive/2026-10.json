@@ -294,6 +294,20 @@
       "date": "2026-10-29",
       "tracks": 5,
       "source": "https://www.last.fm/music/Us3/Snap%2C+Crackle+%26+Bop!"
+    },
+    {
+      "title": "A JAMARICAN IN PARIS",
+      "artist": "Monty Alexander",
+      "date": "2026-10-31",
+      "tracks": 12,
+      "source": "https://www.last.fm/music/Monty+Alexander/A+JAMARICAN+IN+PARIS"
+    },
+    {
+      "title": "Trombonastics",
+      "artist": "Joseph Alessi",
+      "date": "2026-10-31",
+      "tracks": 12,
+      "source": "https://www.last.fm/music/Joseph+Alessi/Trombonastics"
     }
   ],
   "films": [
@@ -332,6 +346,11 @@
       "title": "contributions du 2026-10-25",
       "date": "2026-10-25",
       "count": 2
+    },
+    {
+      "title": "contributions du 2026-10-31",
+      "date": "2026-10-31",
+      "count": 14
     }
   ],
   "dispatches": [
@@ -386,6 +405,11 @@
       "title": "Machines à coudre mercerie (Firminy)",
       "date": "2026-10-27",
       "source": "https://archityp.es/machines-a-coudre-mercerie-firminy/"
+    },
+    {
+      "title": "Maroquinerie (Firminy)",
+      "date": "2026-10-30",
+      "source": "https://archityp.es/maroquinerie-firminy/"
     }
   ],
   "episodes": []
