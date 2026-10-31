@@ -1,0 +1,2 @@
+{{ $c := replaceRE `(?s)<!--\s*archive:début\s*-->.*?<!--\s*archive:fin\s*-->` "" .RawContent }}
+{{ return (len (findRE `(?m)^[-*+][ \t]` $c)) }}

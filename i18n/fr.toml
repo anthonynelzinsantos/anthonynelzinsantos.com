@@ -38,6 +38,10 @@ other = "villes"
 one = "concert"
 other = "concerts"
 
+[notes]
+one = "note"
+other = "notes"
+
 [entries]
 one = "entrée"
 other = "entrées"

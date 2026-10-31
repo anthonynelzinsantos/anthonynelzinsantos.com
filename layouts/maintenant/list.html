@@ -22,7 +22,9 @@
 		{{ $t := 0 }}
 		{{ $c := partial "tally.html" . }}
 		{{ range $c }}{{ $t = add $t (int .) }}{{ end }}
-		{{ $byMonth = merge $byMonth (dict .Params.month (dict "p" . "n" $t)) }}
+		{{ $h := partial "hand-written-count.html" . }}
+		{{ $t = add $t $h }}
+		{{ $byMonth = merge $byMonth (dict .Params.month (dict "p" . "n" $t "h" $h)) }}
 		{{ if gt $t $max }}{{ $max = $t }}{{ end }}
 		{{ $y := int (substr .Params.month 0 4) }}
 		{{ if not (in $years $y) }}{{ $years = $years | append $y }}{{ end }}
@@ -58,7 +60,11 @@
 										{{ $parts = $parts | append (printf "%v %s" $v (partial "tally-label.html" (dict "key" . "count" $v))) }}
 									{{ end }}
 								{{ end }}
-								{{ $detail := printf "%s — %v %s : %s" .p.Title .n (i18n "entries" .n) (delimit $parts ", ") }}
+								{{ if .h }}
+									{{ $parts = $parts | append (printf "%v %s" .h (partial "tally-label.html" (dict "key" "notes" "count" .h))) }}
+								{{ end }}
+								{{ $detail :=printf "%s — %v %s" .p.Title .n (i18n "entries" .n) }}
+								{{ with $parts }}{{ $detail = printf "%s : %s" $detail (delimit . ", ") }}{{ end }}
 								<td class="record__cell{{ if lt $d 0.45 }} record__cell--light{{ end }}" style="--d: {{ $d }}">
 									<a href="{{ .p.RelPermalink }}" title="{{ $detail }}">
 										<span aria-hidden="true">{{ .n }}</span>
