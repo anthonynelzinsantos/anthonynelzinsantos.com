@@ -5,7 +5,7 @@ monthName: "octobre"
 year: 2026
 date: "2026-10-01T12:00:00.000Z"
 month: "2026-10"
-tally: {"albums":44,"films":1,"contributions":41,"dispatches":1,"architypes":10,"villes":3}
+tally: {"albums":44,"films":1,"contributions":48,"dispatches":1,"architypes":10,"villes":3}
 photos:
   "2610-1.jpg": "Un tirage de Mateusz Urbanowicz."
   "2610-2.jpg": "Cela devrait nous tenir quelques… semaines ?"
@@ -29,7 +29,7 @@ photos:
 - [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Oncle Jazz_ de Men I Trust et quarante autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Live at Madison Square Garden_ de Vulfpeck et deux autres albums
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _Splitsville_ de Michael Angelo Covino
-- j’ai fait quarante-et-une contributions sur [GitHub](https://github.com/anthonynelzinsantos)
+- j’ai fait quarante-huit contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai publié un _dispatch_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
 - j’ai publié dix architypes sur [_Architypes_](https://archityp.es/)
 <!-- archive:fin -->
