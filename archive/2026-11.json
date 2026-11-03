@@ -12,6 +12,11 @@
       "title": "contributions du 2026-11-02",
       "date": "2026-11-02",
       "count": 12
+    },
+    {
+      "title": "contributions du 2026-11-03",
+      "date": "2026-11-03",
+      "count": 9
     }
   ],
   "dispatches": [
@@ -21,6 +26,12 @@
       "source": "https://z1nz0l1n.com/26w44/"
     }
   ],
-  "architypes": [],
+  "architypes": [
+    {
+      "title": "Cuisine actuelle (Lyon)",
+      "date": "2026-11-02",
+      "source": "https://archityp.es/cuisine-actuelle-lyon/"
+    }
+  ],
   "episodes": []
 }
