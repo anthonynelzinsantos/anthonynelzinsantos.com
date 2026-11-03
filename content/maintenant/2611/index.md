@@ -12,3 +12,4 @@ tally: {"contributions":47,"dispatches":1}
 - j’ai fait quarante-sept contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai publié un _dispatch_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
 <!-- archive:fin -->
+- j’ai vu l’Orchestre arabo-andalou du Maroc/Mohamed Briouel accompagné par Noureddine Tahiri et Sanaa Marahati en concert à l’auditorium de Lyon
