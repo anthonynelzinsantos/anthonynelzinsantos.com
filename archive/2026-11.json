@@ -1,6 +1,21 @@
 {
   "books": [],
-  "albums": [],
+  "albums": [
+    {
+      "title": "Snap, Crackle & Bop!",
+      "artist": "Us3",
+      "date": "2026-11-05",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/Us3/Snap%2C+Crackle+%26+Bop!"
+    },
+    {
+      "title": "Vila",
+      "artist": "Fabiano Do Nascimento & Vittor Santos E Orquestra",
+      "date": "2026-11-05",
+      "tracks": 9,
+      "source": "https://www.last.fm/music/Fabiano+Do+Nascimento+%26+Vittor+Santos+E+Orquestra/Vila"
+    }
+  ],
   "films": [],
   "contributions": [
     {
@@ -16,7 +31,7 @@
     {
       "title": "contributions du 2026-11-03",
       "date": "2026-11-03",
-      "count": 9
+      "count": 10
     }
   ],
   "dispatches": [
@@ -31,6 +46,11 @@
       "title": "Cuisine actuelle (Lyon)",
       "date": "2026-11-02",
       "source": "https://archityp.es/cuisine-actuelle-lyon/"
+    },
+    {
+      "title": "Serrurerie ferronnerie (Lyon)",
+      "date": "2026-11-05",
+      "source": "https://archityp.es/serrurerie-ferronnerie-lyon/"
     }
   ],
   "episodes": []
