@@ -5,7 +5,7 @@ monthName: "novembre"
 year: 2026
 date: "2026-11-01T12:00:00.000Z"
 month: "2026-11"
-tally: {"albums":2,"contributions":73,"dispatches":1,"architypes":2}
+tally: {"albums":6,"films":1,"contributions":76,"dispatches":2,"architypes":2}
 photos:
   "2611-1.jpg": "Citroën DS."
   "2611-2.jpg": "Fiat Abarth 595."
@@ -30,10 +30,11 @@ photos:
 ---
 
 <!-- archive:début -->
-- [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Vila_ de Fabiano Do Nascimento & Vittor Santos E Orquestra
+- [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Vila_ de Fabiano Do Nascimento & Vittor Santos E Orquestra et quatre autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Snap, Crackle & Bop!_ d’Us3
-- j’ai fait soixante-treize contributions sur [GitHub](https://github.com/anthonynelzinsantos)
-- j’ai publié un _dispatch_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
+- [j’ai vu](https://letterboxd.com/z1nz0l1n/) _The Super Mario Galaxy Movie_ d’Aaron Horvath et Michael Jelenic
+- j’ai fait soixante-seize contributions sur [GitHub](https://github.com/anthonynelzinsantos)
+- j’ai publié deux _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
 - j’ai publié deux architypes sur [_Architypes_](https://archityp.es/)
 <!-- archive:fin -->
 - j’ai vu l’Orchestre arabo-andalou du Maroc/Mohamed Briouel accompagné par Noureddine Tahiri et Sanaa Marahati en concert à l’auditorium de Lyon

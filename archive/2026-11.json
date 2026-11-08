@@ -14,9 +14,47 @@
       "date": "2026-11-05",
       "tracks": 9,
       "source": "https://www.last.fm/music/Fabiano+Do+Nascimento+%26+Vittor+Santos+E+Orquestra/Vila"
+    },
+    {
+      "title": "Freedom Call: Prism - Freedom",
+      "artist": "Dave Holland",
+      "date": "2026-11-08",
+      "tracks": 5,
+      "source": "https://www.last.fm/music/Dave+Holland/Freedom+Call%3A+Prism+-+Freedom"
+    },
+    {
+      "title": "Freedom Call: Quintet - Synergism",
+      "artist": "Dave Holland",
+      "date": "2026-11-08",
+      "tracks": 6,
+      "source": "https://www.last.fm/music/Dave+Holland/Freedom+Call%3A+Quintet+-+Synergism"
+    },
+    {
+      "title": "Freedom Call: Sextet - Unity",
+      "artist": "Dave Holland",
+      "date": "2026-11-08",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/Dave+Holland/Freedom+Call%3A+Sextet+-+Unity"
+    },
+    {
+      "title": "Traces of Light (feat. Carl-Henri Morisset, Riccardo del Fra & Zhitong Xu)",
+      "artist": "Jan Prax",
+      "date": "2026-11-08",
+      "tracks": 9,
+      "source": "https://www.last.fm/music/Jan+Prax/Traces+of+Light+(feat.+Carl-Henri+Morisset%2C+Riccardo+del+Fra+%26+Zhitong+Xu)"
     }
   ],
-  "films": [],
+  "films": [
+    {
+      "title": "The Super Mario Galaxy Movie",
+      "year": 2026,
+      "date": "2026-11-08",
+      "rating": 2,
+      "source": "https://letterboxd.com/z1nz0l1n/film/the-super-mario-galaxy-movie/",
+      "director": "Aaron Horvath, Michael Jelenic",
+      "originalTitle": null
+    }
+  ],
   "contributions": [
     {
       "title": "contributions du 2026-11-01",
@@ -41,7 +79,12 @@
     {
       "title": "contributions du 2026-11-07",
       "date": "2026-11-07",
-      "count": 6
+      "count": 8
+    },
+    {
+      "title": "contributions du 2026-11-08",
+      "date": "2026-11-08",
+      "count": 1
     }
   ],
   "dispatches": [
@@ -49,6 +92,11 @@
       "title": "Where you at?",
       "date": "2026-11-01",
       "source": "https://z1nz0l1n.com/26w44/"
+    },
+    {
+      "title": "Where you at? The Lyon edition",
+      "date": "2026-11-08",
+      "source": "https://z1nz0l1n.com/26w45/"
     }
   ],
   "architypes": [
