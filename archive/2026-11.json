@@ -5,14 +5,14 @@
       "title": "Snap, Crackle & Bop!",
       "artist": "Us3",
       "date": "2026-11-05",
-      "tracks": 7,
+      "tracks": 10,
       "source": "https://www.last.fm/music/Us3/Snap%2C+Crackle+%26+Bop!"
     },
     {
       "title": "Vila",
       "artist": "Fabiano Do Nascimento & Vittor Santos E Orquestra",
       "date": "2026-11-05",
-      "tracks": 9,
+      "tracks": 14,
       "source": "https://www.last.fm/music/Fabiano+Do+Nascimento+%26+Vittor+Santos+E+Orquestra/Vila"
     },
     {
@@ -84,7 +84,12 @@
     {
       "title": "contributions du 2026-11-08",
       "date": "2026-11-08",
-      "count": 1
+      "count": 11
+    },
+    {
+      "title": "contributions du 2026-11-09",
+      "date": "2026-11-09",
+      "count": 3
     }
   ],
   "dispatches": [
@@ -109,6 +114,11 @@
       "title": "Serrurerie ferronnerie (Lyon)",
       "date": "2026-11-05",
       "source": "https://archityp.es/serrurerie-ferronnerie-lyon/"
+    },
+    {
+      "title": "Tabac presse (Lyon)",
+      "date": "2026-11-08",
+      "source": "https://archityp.es/tabac-presse-lyon/"
     }
   ],
   "episodes": []
