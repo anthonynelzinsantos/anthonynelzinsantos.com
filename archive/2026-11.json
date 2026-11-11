@@ -26,14 +26,14 @@
       "title": "Freedom Call: Quintet - Synergism",
       "artist": "Dave Holland",
       "date": "2026-11-08",
-      "tracks": 6,
+      "tracks": 10,
       "source": "https://www.last.fm/music/Dave+Holland/Freedom+Call%3A+Quintet+-+Synergism"
     },
     {
       "title": "Freedom Call: Sextet - Unity",
       "artist": "Dave Holland",
       "date": "2026-11-08",
-      "tracks": 7,
+      "tracks": 10,
       "source": "https://www.last.fm/music/Dave+Holland/Freedom+Call%3A+Sextet+-+Unity"
     },
     {
@@ -44,32 +44,46 @@
       "source": "https://www.last.fm/music/Jan+Prax/Traces+of+Light+(feat.+Carl-Henri+Morisset%2C+Riccardo+del+Fra+%26+Zhitong+Xu)"
     },
     {
+      "title": "Vila",
+      "artist": "Fabiano Do Nascimento & Vittor Santos E Orquestra",
+      "date": "2026-11-08",
+      "tracks": 3,
+      "source": "https://www.last.fm/music/Fabiano+Do+Nascimento+%26+Vittor+Santos+E+Orquestra/Vila"
+    },
+    {
       "title": "Continuum",
       "artist": "Bobby Watson",
       "date": "2026-11-10",
-      "tracks": 9,
+      "tracks": 12,
       "source": "https://www.last.fm/music/Bobby+Watson/Continuum"
     },
     {
       "title": "Freedom Call: Prism - Freedom",
       "artist": "Dave Holland",
       "date": "2026-11-10",
-      "tracks": 4,
+      "tracks": 13,
       "source": "https://www.last.fm/music/Dave+Holland/Freedom+Call%3A+Prism+-+Freedom"
     },
     {
       "title": "North Meets West Trio - Between Then and Now (Deluxe Version)",
       "artist": "Christian Sands, Thomas Fonnesbæk & Rasmus Kihlberg",
       "date": "2026-11-10",
-      "tracks": 11,
+      "tracks": 18,
       "source": "https://www.last.fm/music/Christian+Sands%2C+Thomas+Fonnesb%C3%A6k+%26+Rasmus+Kihlberg/North+Meets+West+Trio+-+Between+Then+and+Now+(Deluxe+Version)"
     },
     {
       "title": "Traces of Light (feat. Carl-Henri Morisset, Riccardo del Fra & Zhitong Xu)",
       "artist": "Jan Prax",
       "date": "2026-11-10",
-      "tracks": 9,
+      "tracks": 24,
       "source": "https://www.last.fm/music/Jan+Prax/Traces+of+Light+(feat.+Carl-Henri+Morisset%2C+Riccardo+del+Fra+%26+Zhitong+Xu)"
+    },
+    {
+      "title": "Access All Areas",
+      "artist": "Karate Boogaloo",
+      "date": "2026-11-11",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/Karate+Boogaloo/Access+All+Areas"
     }
   ],
   "films": [
@@ -123,6 +137,11 @@
       "title": "contributions du 2026-11-10",
       "date": "2026-11-10",
       "count": 2
+    },
+    {
+      "title": "contributions du 2026-11-11",
+      "date": "2026-11-11",
+      "count": 28
     }
   ],
   "dispatches": [

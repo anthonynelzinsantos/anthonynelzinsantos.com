@@ -5,7 +5,7 @@ monthName: "novembre"
 year: 2026
 date: "2026-11-01T12:00:00.000Z"
 month: "2026-11"
-tally: {"albums":10,"films":1,"contributions":91,"dispatches":2,"architypes":3}
+tally: {"albums":12,"films":1,"contributions":119,"dispatches":2,"architypes":3}
 photos:
   "2611-1.jpg": "Citroën DS."
   "2611-2.jpg": "Fiat Abarth 595."
@@ -30,10 +30,10 @@ photos:
 ---
 
 <!-- archive:début -->
-- [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Traces of Light_ de Jan Prax et huit autres albums
+- [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Traces of Light_ de Jan Prax et dix autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Snap, Crackle & Bop!_ d’Us3
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _The Super Mario Galaxy Movie_ d’Aaron Horvath et Michael Jelenic
-- j’ai fait quatre-vingt-onze contributions sur [GitHub](https://github.com/anthonynelzinsantos)
+- j’ai fait cent-dix-neuf contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai publié deux _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
 - j’ai publié trois architypes sur [_Architypes_](https://archityp.es/)
 <!-- archive:fin -->
