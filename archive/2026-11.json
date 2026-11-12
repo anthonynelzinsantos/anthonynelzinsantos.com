@@ -84,6 +84,13 @@
       "date": "2026-11-11",
       "tracks": 11,
       "source": "https://www.last.fm/music/Karate+Boogaloo/Access+All+Areas"
+    },
+    {
+      "title": "Music Is Invisible (Pentimento Volume Three)",
+      "artist": "Jon Hassell",
+      "date": "2026-11-12",
+      "tracks": 4,
+      "source": "https://www.last.fm/music/Jon+Hassell/Music+Is+Invisible+(Pentimento+Volume+Three)"
     }
   ],
   "films": [
@@ -141,7 +148,12 @@
     {
       "title": "contributions du 2026-11-11",
       "date": "2026-11-11",
-      "count": 28
+      "count": 32
+    },
+    {
+      "title": "contributions du 2026-11-12",
+      "date": "2026-11-12",
+      "count": 8
     }
   ],
   "dispatches": [
@@ -171,6 +183,11 @@
       "title": "Tabac presse (Lyon)",
       "date": "2026-11-08",
       "source": "https://archityp.es/tabac-presse-lyon/"
+    },
+    {
+      "title": "Sup’Copy (Lyon)",
+      "date": "2026-11-11",
+      "source": "https://archityp.es/supcopy-lyon/"
     }
   ],
   "episodes": []
