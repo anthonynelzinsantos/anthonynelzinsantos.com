@@ -82,15 +82,22 @@
       "title": "Access All Areas",
       "artist": "Karate Boogaloo",
       "date": "2026-11-11",
-      "tracks": 11,
+      "tracks": 16,
       "source": "https://www.last.fm/music/Karate+Boogaloo/Access+All+Areas"
     },
     {
       "title": "Music Is Invisible (Pentimento Volume Three)",
       "artist": "Jon Hassell",
       "date": "2026-11-12",
-      "tracks": 4,
+      "tracks": 7,
       "source": "https://www.last.fm/music/Jon+Hassell/Music+Is+Invisible+(Pentimento+Volume+Three)"
+    },
+    {
+      "title": "Scenes From Above (feat. John Medeski, Jorge Roeder & Kenny Wollesen)",
+      "artist": "Julian Lage",
+      "date": "2026-11-13",
+      "tracks": 9,
+      "source": "https://www.last.fm/music/Julian+Lage/Scenes+From+Above+(feat.+John+Medeski%2C+Jorge+Roeder+%26+Kenny+Wollesen)"
     }
   ],
   "films": [
@@ -153,7 +160,12 @@
     {
       "title": "contributions du 2026-11-12",
       "date": "2026-11-12",
-      "count": 8
+      "count": 13
+    },
+    {
+      "title": "contributions du 2026-11-13",
+      "date": "2026-11-13",
+      "count": 32
     }
   ],
   "dispatches": [
