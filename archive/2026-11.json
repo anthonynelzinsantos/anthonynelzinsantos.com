@@ -98,6 +98,27 @@
       "date": "2026-11-13",
       "tracks": 9,
       "source": "https://www.last.fm/music/Julian+Lage/Scenes+From+Above+(feat.+John+Medeski%2C+Jorge+Roeder+%26+Kenny+Wollesen)"
+    },
+    {
+      "title": "ECLIPSE",
+      "artist": "Blair / Huber",
+      "date": "2026-11-14",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/Blair+%2F+Huber/ECLIPSE"
+    },
+    {
+      "title": "Eternal Spring",
+      "artist": "Jack Wyllie",
+      "date": "2026-11-14",
+      "tracks": 9,
+      "source": "https://www.last.fm/music/Jack+Wyllie/Eternal+Spring"
+    },
+    {
+      "title": "Fanfares",
+      "artist": "GoGo Penguin",
+      "date": "2026-11-14",
+      "tracks": 7,
+      "source": "https://www.last.fm/music/GoGo+Penguin/Fanfares"
     }
   ],
   "films": [
@@ -109,6 +130,15 @@
       "source": "https://letterboxd.com/z1nz0l1n/film/the-super-mario-galaxy-movie/",
       "director": "Aaron Horvath, Michael Jelenic",
       "originalTitle": null
+    },
+    {
+      "title": "River",
+      "year": 2023,
+      "date": "2026-11-14",
+      "rating": 5,
+      "source": "https://letterboxd.com/z1nz0l1n/film/river-2023-1/",
+      "director": "Junta Yamaguchi",
+      "originalTitle": "リバー、流れないでよ"
     }
   ],
   "contributions": [
@@ -166,6 +196,11 @@
       "title": "contributions du 2026-11-13",
       "date": "2026-11-13",
       "count": 32
+    },
+    {
+      "title": "contributions du 2026-11-14",
+      "date": "2026-11-14",
+      "count": 28
     }
   ],
   "dispatches": [
