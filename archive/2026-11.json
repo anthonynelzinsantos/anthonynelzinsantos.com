@@ -103,7 +103,7 @@
       "title": "ECLIPSE",
       "artist": "Blair / Huber",
       "date": "2026-11-14",
-      "tracks": 7,
+      "tracks": 14,
       "source": "https://www.last.fm/music/Blair+%2F+Huber/ECLIPSE"
     },
     {
@@ -119,6 +119,41 @@
       "date": "2026-11-14",
       "tracks": 7,
       "source": "https://www.last.fm/music/GoGo+Penguin/Fanfares"
+    },
+    {
+      "title": "Finding Home",
+      "artist": "Finn Carter",
+      "date": "2026-11-15",
+      "tracks": 8,
+      "source": "https://www.last.fm/music/Finn+Carter/Finding+Home"
+    },
+    {
+      "title": "Flight",
+      "artist": "The Seven Ups",
+      "date": "2026-11-15",
+      "tracks": 11,
+      "source": "https://www.last.fm/music/The+Seven+Ups/Flight"
+    },
+    {
+      "title": "Proud of Me",
+      "artist": "ALA.NI & Adrian Younge",
+      "date": "2026-11-15",
+      "tracks": 9,
+      "source": "https://www.last.fm/music/ALA.NI+%26+Adrian+Younge/Proud+of+Me"
+    },
+    {
+      "title": "Tales & Chronicles, Pt. 5 - EP",
+      "artist": "Enzo Orefice Trio",
+      "date": "2026-11-15",
+      "tracks": 4,
+      "source": "https://www.last.fm/music/Enzo+Orefice+Trio/Tales+%26+Chronicles%2C+Pt.+5+-+EP"
+    },
+    {
+      "title": "Whatchu Bringing? — Ingredients",
+      "artist": "Dinner Party",
+      "date": "2026-11-15",
+      "tracks": 8,
+      "source": "https://www.last.fm/music/Dinner+Party/Whatchu+Bringing%3F+%E2%80%94+Ingredients"
     }
   ],
   "films": [
@@ -170,17 +205,17 @@
     {
       "title": "contributions du 2026-11-08",
       "date": "2026-11-08",
-      "count": 11
+      "count": 12
     },
     {
       "title": "contributions du 2026-11-09",
       "date": "2026-11-09",
-      "count": 3
+      "count": 4
     },
     {
       "title": "contributions du 2026-11-10",
       "date": "2026-11-10",
-      "count": 2
+      "count": 3
     },
     {
       "title": "contributions du 2026-11-11",
@@ -195,12 +230,17 @@
     {
       "title": "contributions du 2026-11-13",
       "date": "2026-11-13",
-      "count": 32
+      "count": 33
     },
     {
       "title": "contributions du 2026-11-14",
       "date": "2026-11-14",
-      "count": 28
+      "count": 31
+    },
+    {
+      "title": "contributions du 2026-11-15",
+      "date": "2026-11-15",
+      "count": 15
     }
   ],
   "dispatches": [
@@ -213,6 +253,11 @@
       "title": "Where you at? The Lyon edition",
       "date": "2026-11-08",
       "source": "https://z1nz0l1n.com/26w45/"
+    },
+    {
+      "title": "Where you at? The IndieWeb edition",
+      "date": "2026-11-15",
+      "source": "https://z1nz0l1n.com/26w46/"
     }
   ],
   "architypes": [
@@ -235,6 +280,11 @@
       "title": "Sup’Copy (Lyon)",
       "date": "2026-11-11",
       "source": "https://archityp.es/supcopy-lyon/"
+    },
+    {
+      "title": "Autos Ollier (Lyon)",
+      "date": "2026-11-14",
+      "source": "https://archityp.es/autos-ollier-lyon/"
     }
   ],
   "episodes": []
