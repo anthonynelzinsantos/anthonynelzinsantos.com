@@ -154,6 +154,13 @@
       "date": "2026-11-15",
       "tracks": 8,
       "source": "https://www.last.fm/music/Dinner+Party/Whatchu+Bringing%3F+%E2%80%94+Ingredients"
+    },
+    {
+      "title": "Touching the Invisible",
+      "artist": "Olga Amelchenko",
+      "date": "2026-11-19",
+      "tracks": 5,
+      "source": "https://www.last.fm/music/Olga+Amelchenko/Touching+the+Invisible"
     }
   ],
   "films": [
@@ -251,6 +258,11 @@
       "title": "contributions du 2026-11-17",
       "date": "2026-11-17",
       "count": 5
+    },
+    {
+      "title": "contributions du 2026-11-20",
+      "date": "2026-11-20",
+      "count": 4
     }
   ],
   "dispatches": [
