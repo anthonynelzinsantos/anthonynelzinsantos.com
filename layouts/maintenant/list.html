@@ -16,7 +16,6 @@
 	{{ $names := slice "janvier" "février" "mars" "avril" "mai" "juin" "juillet" "aout" "septembre" "octobre" "novembre" "décembre" }}
 
 	{{ $byMonth := dict }}
-	{{ $max := 1 }}
 	{{ $years := slice }}
 	{{ range $pages }}
 		{{ $t := 0 }}
@@ -25,9 +24,24 @@
 		{{ $h := partial "hand-written-count.html" . }}
 		{{ $t = add $t $h }}
 		{{ $byMonth = merge $byMonth (dict .Params.month (dict "p" . "n" $t "h" $h)) }}
-		{{ if gt $t $max }}{{ $max = $t }}{{ end }}
 		{{ $y := int (substr .Params.month 0 4) }}
 		{{ if not (in $years $y) }}{{ $years = $years | append $y }}{{ end }}
+	{{ end }}
+
+	{{/* Shade by percentile rank, not by share of the biggest month: one huge month
+	     would otherwise wash out everything else. Ties share their middle rank. */}}
+	{{ $totals := slice }}
+	{{ range $byMonth }}{{ $totals = $totals | append .n }}{{ end }}
+	{{ $shade := dict }}
+	{{ range $totals }}
+		{{ $n := . }}
+		{{ if not (isset $shade (string $n)) }}
+			{{ $below := 0 }}{{ $same := 0 }}
+			{{ range $totals }}
+				{{ if lt . $n }}{{ $below = add $below 1 }}{{ else if eq . $n }}{{ $same = add $same 1 }}{{ end }}
+			{{ end }}
+			{{ $shade = merge $shade (dict (string $n) (div (add $below (mul $same 0.5)) (mul (len $totals) 1.0))) }}
+		{{ end }}
 	{{ end }}
 
 	{{ $years = sort $years }}
@@ -51,7 +65,7 @@
 						{{ range $m := seq 1 12 }}
 							{{ $key := printf "%d-%02d" $year $m }}
 							{{ with index $byMonth $key }}
-								{{ $d := div (mul .n 1.0) $max }}
+								{{ $d := index $shade (string .n) }}
 								{{ $tally := partial "tally.html" .p }}
 								{{ $parts := slice }}
 								{{ range partial "tally-order.html" $tally }}
@@ -65,7 +79,7 @@
 								{{ end }}
 								{{ $detail :=printf "%s — %v %s" .p.Title .n (i18n "entries" .n) }}
 								{{ with $parts }}{{ $detail = printf "%s : %s" $detail (delimit . ", ") }}{{ end }}
-								<td class="record__cell{{ if lt $d 0.45 }} record__cell--light{{ end }}" style="--d: {{ $d }}">
+								<td class="record__cell{{ if lt $d 0.5 }} record__cell--light{{ end }}" style="--d: {{ $d }}">
 									<a href="{{ .p.RelPermalink }}" title="{{ $detail }}">
 										<span aria-hidden="true">{{ .n }}</span>
 										<span class="sr">{{ $detail }}</span>
