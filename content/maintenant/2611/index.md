@@ -28,7 +28,7 @@ photos:
   "2611-19.jpg": "Renault Twingo."
   "2611-20.jpg": "Citröen 2 CV Concept."
   "2611-21.jpg": "La drogue(rie)."
-  "2611-22.jpg": "Un *petty* (11 cm) et un *bunka* (14,8 cm) de Hatsukokoro en acier avec une âme en acier trempé Proterial GIN #3 recouverte d’un acier doux avec une finition *nashiji*, ainsi qu’un *nakiri* (16 cm) de Masutani avec une âme en acier trempé VG10 recouverte de plusieurs couches d’acier doux avec une finition *tsuchime*."
+  "2611-22.jpg": "Un *petty* (11 cm) et un *bunka* (14,8 cm) de Hatsukokoro avec une âme en acier trempé Proterial GIN #3 recouverte d’un acier doux avec une finition *nashiji*, ainsi qu’un *nakiri* (16 cm) de Masutani avec une âme en acier trempé VG10 recouverte de plusieurs couches d’acier doux avec une finition *tsuchime*."
   "2611-23.jpg": "Vincent Ségal."
 ---
 
