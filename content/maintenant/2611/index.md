@@ -28,6 +28,8 @@ photos:
   "2611-19.jpg": "Renault Twingo."
   "2611-20.jpg": "Citröen 2 CV Concept."
   "2611-21.jpg": "La drogue(rie)."
+  "2611-22.jpg": "Un *petty* (11 cm) et un *bunka* (14,8 cm) de Hatsukokoro en acier avec une âme en acier trempé Proterial GIN #3 recouverte d’un acier doux avec une finition *nashiji*, ainsi qu’un *nakiri* (16 cm) de Masutani avec une âme en acier trempé VG10 recouverte de plusieurs couches d’acier doux avec une finition *tsuchime*."
+  "2611-23.jpg": "Vincent Ségal."
 ---
 
 <!-- archive:début -->
@@ -41,3 +43,5 @@ photos:
 - j’ai vu l’Orchestre arabo-andalou du Maroc/Mohamed Briouel accompagné par Noureddine Tahiri et Sanaa Marahati en concert à l’auditorium de Lyon
 - j’ai visité [le salon Époqu’auto](https://epoquauto.com/) pour la troisième et probablement dernière fois. Les passionnés ont été relégués au fin fond du centre Eurexpo pour laisser la place aux revendeurs de bolides surcotés et aux camelots écoulant des chinoiseries. Les circulations entre les halls semblent avoir été savamment étudiées pour créer des goulots d’étranglement, mais je suppose que les embouteillages font partie de la culture bagnolarde
 - j’ai gouté le café « Lucie Royale » du Zimbwawe. Bien qu’il soit présenté comme « l’un des cinq meilleurs cafés au monde », la torréfaction traditionnelle — voire conservatrice —  pratiquée par [Méo](https://www.meo.fr/produit/zimbabwe-la-lucie-royale-grains-250g/) efface toute marque du terroir. Malgré tous mes efforts, je n’en ai jamais tiré autre chose que le gout de la couleur marron
+- j’ai agrandi ma collection de couteaux japonais et je crois que ça va devenir un problème
+- j’ai vu Roberto Fonseca et Vincent Ségal en concert à l’Opéra national de Lyon
