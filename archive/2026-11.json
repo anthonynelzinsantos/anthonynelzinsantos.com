@@ -124,14 +124,14 @@
       "title": "Finding Home",
       "artist": "Finn Carter",
       "date": "2026-11-15",
-      "tracks": 8,
+      "tracks": 16,
       "source": "https://www.last.fm/music/Finn+Carter/Finding+Home"
     },
     {
       "title": "Flight",
       "artist": "The Seven Ups",
       "date": "2026-11-15",
-      "tracks": 11,
+      "tracks": 22,
       "source": "https://www.last.fm/music/The+Seven+Ups/Flight"
     },
     {
@@ -145,15 +145,22 @@
       "title": "Tales & Chronicles, Pt. 5 - EP",
       "artist": "Enzo Orefice Trio",
       "date": "2026-11-15",
-      "tracks": 4,
+      "tracks": 8,
       "source": "https://www.last.fm/music/Enzo+Orefice+Trio/Tales+%26+Chronicles%2C+Pt.+5+-+EP"
     },
     {
       "title": "Whatchu Bringing? — Ingredients",
       "artist": "Dinner Party",
       "date": "2026-11-15",
-      "tracks": 8,
+      "tracks": 17,
       "source": "https://www.last.fm/music/Dinner+Party/Whatchu+Bringing%3F+%E2%80%94+Ingredients"
+    },
+    {
+      "title": "The Center Eye - EP",
+      "artist": "Telemakus",
+      "date": "2026-11-16",
+      "tracks": 4,
+      "source": "https://www.last.fm/music/Telemakus/The+Center+Eye+-+EP"
     },
     {
       "title": "Touching the Invisible",
@@ -161,6 +168,13 @@
       "date": "2026-11-19",
       "tracks": 5,
       "source": "https://www.last.fm/music/Olga+Amelchenko/Touching+the+Invisible"
+    },
+    {
+      "title": "Impress-Express",
+      "artist": "Loni Cornelis",
+      "date": "2026-11-21",
+      "tracks": 9,
+      "source": "https://www.last.fm/music/Loni+Cornelis/Impress-Express"
     }
   ],
   "films": [
@@ -263,6 +277,11 @@
       "title": "contributions du 2026-11-20",
       "date": "2026-11-20",
       "count": 4
+    },
+    {
+      "title": "contributions du 2026-11-21",
+      "date": "2026-11-21",
+      "count": 11
     }
   ],
   "dispatches": [
@@ -312,6 +331,11 @@
       "title": "Coiffure (Lyon)",
       "date": "2026-11-17",
       "source": "https://archityp.es/coiffure-lyon/"
+    },
+    {
+      "title": "Le carrefour (Lyon)",
+      "date": "2026-11-20",
+      "source": "https://archityp.es/le-carrefour-lyon/"
     }
   ],
   "episodes": []

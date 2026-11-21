@@ -5,7 +5,7 @@ monthName: "novembre"
 year: 2026
 date: "2026-11-01T12:00:00.000Z"
 month: "2026-11"
-tally: {"albums":23,"films":2,"contributions":246,"dispatches":3,"architypes":6}
+tally: {"albums":25,"films":2,"contributions":257,"dispatches":3,"architypes":7}
 photos:
   "2611-1.jpg": "Citroën DS."
   "2611-2.jpg": "Fiat Abarth 595."
@@ -33,12 +33,12 @@ photos:
 ---
 
 <!-- archive:début -->
-- [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Traces of Light_ de Jan Prax et dix-neuf autres albums
+- [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Traces of Light_ de Jan Prax et vingt-et-un autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Snap, Crackle & Bop!_ d’Us3 et deux autres albums
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _The Super Mario Galaxy Movie_ d’Aaron Horvath et Michael Jelenic et _リバー、流れないでよ_ de Junta Yamaguchi
-- j’ai fait deux-cent-quarante-six contributions sur [GitHub](https://github.com/anthonynelzinsantos)
+- j’ai fait deux-cent-cinquante-sept contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai publié trois _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
-- j’ai publié six architypes sur [_Architypes_](https://archityp.es/)
+- j’ai publié sept architypes sur [_Architypes_](https://archityp.es/)
 <!-- archive:fin -->
 - j’ai vu l’Orchestre arabo-andalou du Maroc/Mohamed Briouel accompagné par Noureddine Tahiri et Sanaa Marahati en concert à l’auditorium de Lyon
 - j’ai visité [le salon Époqu’auto](https://epoquauto.com/) pour la troisième et probablement dernière fois. Les passionnés ont été relégués au fin fond du centre Eurexpo pour laisser la place aux revendeurs de bolides surcotés et aux camelots écoulant des chinoiseries. Les circulations entre les halls semblent avoir été savamment étudiées pour créer des goulots d’étranglement, mais je suppose que les embouteillages font partie de la culture bagnolarde
