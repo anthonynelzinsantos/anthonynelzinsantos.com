@@ -7,6 +7,8 @@ date: "2026-06-01T12:00:00.000Z"
 month: "2026-06"
 tally: {"livres":1,"albums":39,"films":3,"contributions":62,"dispatches":4,"architypes":10,"épisodes":1,"concerts":1}
 aliases: ["/maintenant/juin-2026/","/now/juin-2026/"]
+photos:
+  "2606-1.jpg": "Je suis au regret de vous annoncer que le Uniball Zento Signature est un excellent stylo."
 ---
 
 <!-- archive:début -->

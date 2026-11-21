@@ -7,6 +7,13 @@ date: "2026-05-01T12:00:00.000Z"
 month: "2026-05"
 tally: {"livres":2,"albums":41,"films":3,"contributions":36,"dispatches":5,"épisodes":1,"villes":1}
 aliases: ["/maintenant/mai-2026/","/now/mai-2026/"]
+photos:
+  "2605-1.jpg": "Parce que pourquoi pas."
+  "2605-2.jpg": "Une jeunesse française."
+  "2605-3.jpg": "Le vaisseau amiral."
+  "2605-4.jpg": "L’attraction dans l’attraction."
+  "2605-5.jpg": "Musée ou centre commercial ?"
+  "2605-6.jpg": "Rêver en équilibre."
 ---
 
 <!-- archive:début -->
