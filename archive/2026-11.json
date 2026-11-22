@@ -173,7 +173,7 @@
       "title": "Impress-Express",
       "artist": "Loni Cornelis",
       "date": "2026-11-21",
-      "tracks": 9,
+      "tracks": 18,
       "source": "https://www.last.fm/music/Loni+Cornelis/Impress-Express"
     }
   ],
@@ -195,6 +195,15 @@
       "source": "https://letterboxd.com/z1nz0l1n/film/river-2023-1/",
       "director": "Junta Yamaguchi",
       "originalTitle": "リバー、流れないでよ"
+    },
+    {
+      "title": "When Morning Comes, I Feel Empty",
+      "year": 2022,
+      "date": "2026-11-22",
+      "rating": 3,
+      "source": "https://letterboxd.com/z1nz0l1n/film/when-morning-comes-i-feel-empty/",
+      "director": "Yuho Ishibashi",
+      "originalTitle": "朝がくるとむなしくなる"
     }
   ],
   "contributions": [
@@ -282,6 +291,11 @@
       "title": "contributions du 2026-11-21",
       "date": "2026-11-21",
       "count": 11
+    },
+    {
+      "title": "contributions du 2026-11-22",
+      "date": "2026-11-22",
+      "count": 9
     }
   ],
   "dispatches": [
@@ -299,6 +313,11 @@
       "title": "Where you at? The IndieWeb edition",
       "date": "2026-11-15",
       "source": "https://z1nz0l1n.com/26w46/"
+    },
+    {
+      "title": "Where you at? The life edition",
+      "date": "2026-11-22",
+      "source": "https://z1nz0l1n.com/26w47/"
     }
   ],
   "architypes": [

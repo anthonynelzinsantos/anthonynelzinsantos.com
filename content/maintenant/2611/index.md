@@ -5,7 +5,7 @@ monthName: "novembre"
 year: 2026
 date: "2026-11-01T12:00:00.000Z"
 month: "2026-11"
-tally: {"albums":25,"films":2,"contributions":257,"dispatches":3,"architypes":7}
+tally: {"albums":25,"films":3,"contributions":266,"dispatches":4,"architypes":7}
 photos:
   "2611-1.jpg": "Citroën DS."
   "2611-2.jpg": "Fiat Abarth 595."
@@ -35,9 +35,9 @@ photos:
 <!-- archive:début -->
 - [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Traces of Light_ de Jan Prax et vingt-et-un autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Snap, Crackle & Bop!_ d’Us3 et deux autres albums
-- [j’ai vu](https://letterboxd.com/z1nz0l1n/) _The Super Mario Galaxy Movie_ d’Aaron Horvath et Michael Jelenic et _リバー、流れないでよ_ de Junta Yamaguchi
-- j’ai fait deux-cent-cinquante-sept contributions sur [GitHub](https://github.com/anthonynelzinsantos)
-- j’ai publié trois _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
+- [j’ai vu](https://letterboxd.com/z1nz0l1n/) _The Super Mario Galaxy Movie_ d’Aaron Horvath et Michael Jelenic, _リバー、流れないでよ_ de Junta Yamaguchi et _朝がくるとむなしくなる_ de Yuho Ishibashi
+- j’ai fait deux-cent-soixante-six contributions sur [GitHub](https://github.com/anthonynelzinsantos)
+- j’ai publié quatre _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
 - j’ai publié sept architypes sur [_Architypes_](https://archityp.es/)
 <!-- archive:fin -->
 - j’ai vu l’Orchestre arabo-andalou du Maroc/Mohamed Briouel accompagné par Noureddine Tahiri et Sanaa Marahati en concert à l’auditorium de Lyon
