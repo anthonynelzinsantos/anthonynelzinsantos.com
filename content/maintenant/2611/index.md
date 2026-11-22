@@ -45,3 +45,5 @@ photos:
 - j’ai gouté le café « Lucie Royale » du Zimbwawe. Bien qu’il soit présenté comme « l’un des cinq meilleurs cafés au monde », la torréfaction traditionnelle — voire conservatrice —  pratiquée par [Méo](https://www.meo.fr/produit/zimbabwe-la-lucie-royale-grains-250g/) efface toute marque du terroir. Malgré tous mes efforts, je n’en ai jamais tiré autre chose que le gout de la couleur marron
 - j’ai agrandi ma collection de couteaux japonais et je crois que ça va devenir un problème
 - j’ai vu Roberto Fonseca et Vincent Ségal en concert à l’Opéra national de Lyon
+- j’ai compris pourquoi les vendeurs de couteaux japonais glissaient des pansements dans leurs colis
+- j’ai gouté un café provenant de la région du [lac Tanganyika](https://fr.wikipedia.org/wiki/Lac_Tanganyika) en Zambie. Une nouvelle fois, la torréfaction de [Méo](https://www.meo.fr/produit/zambie-lac-tanganyica-grains-250g/) prévient toute subtilité, mais j’ai tout de même réussi à dégager une certaine acidité fruitée, quelque part entre la cerise cueillie trop tôt et la quetsche
