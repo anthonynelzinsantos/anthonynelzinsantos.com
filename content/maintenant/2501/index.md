@@ -5,7 +5,7 @@ monthName: "janvier"
 year: 2025
 date: "2025-01-01T12:00:00.000Z"
 month: "2025-01"
-tally: {"livres":4,"albums":56,"films":6,"contributions":3}
+tally: {"livres":4,"albums":56,"films":6,"séries":1,"contributions":3}
 aliases: ["/maintenant/janvier-2025/"]
 ---
 
@@ -14,5 +14,6 @@ aliases: ["/maintenant/janvier-2025/"]
 - [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Song Symbiosis_ de Shugo Tokumaru et trente-six autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Go Get Ice Cream and Listen to Jazz_ de Kassa Overall et dix-huit autres albums
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _劇場版 SPY×FAMILY CODE: White_ de Takashi Katagiri, _Don't Die: The Man Who Wants to Live Forever_ de Chris Smith, _Wallace & Gromit: Vengeance Most Fowl_ de Nick Park et Merlin Crossingham, _Cunk on Life_ d’Al Campbell, _Bis Repetita_ d’Émilie Noblet et _Los delincuentes_ de Rodrigo Moreno
+- [j’ai vu](https://serializd.com/user/z1nz0l1n/diary) la saison 1 de _SPY x FAMILY_
 - j’ai fait trois contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 <!-- archive:fin -->

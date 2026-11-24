@@ -438,6 +438,13 @@
   ],
   "shows": [
     {
+      "title": "A Man in Full",
+      "season": 1,
+      "date": "2024-05-09",
+      "rating": 8,
+      "showId": 225120
+    },
+    {
       "title": "Archer",
       "season": 14,
       "date": "2024-05-15",

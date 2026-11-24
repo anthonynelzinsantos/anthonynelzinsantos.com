@@ -726,5 +726,20 @@
       "source": "https://abatonsrompus.fr/76/"
     }
   ],
-  "shows": []
+  "shows": [
+    {
+      "title": "Murder Mindfully",
+      "season": 1,
+      "date": "2024-12-01",
+      "rating": 8,
+      "showId": 252372
+    },
+    {
+      "title": "No Good Deed",
+      "season": 1,
+      "date": "2024-12-16",
+      "rating": 2,
+      "showId": 241112
+    }
+  ]
 }

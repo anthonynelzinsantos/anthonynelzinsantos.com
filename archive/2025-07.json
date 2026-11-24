@@ -495,5 +495,20 @@
     }
   ],
   "episodes": [],
-  "shows": []
+  "shows": [
+    {
+      "title": "Ghosts",
+      "season": 1,
+      "date": "2025-07-06",
+      "rating": 6,
+      "showId": 126027
+    },
+    {
+      "title": "Somebody Feed Phil",
+      "season": 8,
+      "date": "2025-07-18",
+      "rating": 6,
+      "showId": 76305
+    }
+  ]
 }

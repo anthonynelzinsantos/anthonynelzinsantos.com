@@ -277,5 +277,20 @@
   "architypes": [],
   "contributions": [],
   "episodes": [],
-  "shows": []
+  "shows": [
+    {
+      "title": "Nobody Wants This",
+      "season": 1,
+      "date": "2024-10-23",
+      "rating": 6,
+      "showId": 250923
+    },
+    {
+      "title": "Chef's Table: Noodles",
+      "season": 1,
+      "date": "2024-10-24",
+      "rating": 6,
+      "showId": 270480
+    }
+  ]
 }

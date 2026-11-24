@@ -298,5 +298,20 @@
   "architypes": [],
   "contributions": [],
   "episodes": [],
-  "shows": []
+  "shows": [
+    {
+      "title": "Resident Alien",
+      "season": 2,
+      "date": "2025-04-06",
+      "rating": 6,
+      "showId": 96580
+    },
+    {
+      "title": "The Residence",
+      "season": 1,
+      "date": "2025-04-17",
+      "rating": 10,
+      "showId": 242054
+    }
+  ]
 }

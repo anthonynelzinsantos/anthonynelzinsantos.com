@@ -794,5 +794,27 @@
     }
   ],
   "episodes": [],
-  "shows": []
+  "shows": [
+    {
+      "title": "The Diplomat",
+      "season": 2,
+      "date": "2024-11-17",
+      "rating": 8,
+      "showId": 203857
+    },
+    {
+      "title": "The Future Of",
+      "season": 1,
+      "date": "2024-11-18",
+      "rating": 6,
+      "showId": 203688
+    },
+    {
+      "title": "A Man on the Inside",
+      "season": 1,
+      "date": "2024-11-25",
+      "rating": 8,
+      "showId": 245312
+    }
+  ]
 }

@@ -494,5 +494,13 @@
     }
   ],
   "episodes": [],
-  "shows": []
+  "shows": [
+    {
+      "title": "SPY x FAMILY",
+      "season": 1,
+      "date": "2025-01-18",
+      "rating": 8,
+      "showId": 120089
+    }
+  ]
 }

@@ -793,5 +793,20 @@
   "architypes": [],
   "contributions": [],
   "episodes": [],
-  "shows": []
+  "shows": [
+    {
+      "title": "KAOS",
+      "season": 1,
+      "date": "2024-09-01",
+      "rating": 8,
+      "showId": 102621
+    },
+    {
+      "title": "Emily in Paris",
+      "season": 4,
+      "date": "2024-09-19",
+      "rating": 2,
+      "showId": 82596
+    }
+  ]
 }

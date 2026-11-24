@@ -171,6 +171,13 @@
   ],
   "shows": [
     {
+      "title": "The Diplomat",
+      "season": 3,
+      "date": "2025-11-01",
+      "rating": 8,
+      "showId": 203857
+    },
+    {
       "title": "Nobody Wants This",
       "season": 2,
       "date": "2025-11-06",

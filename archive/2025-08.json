@@ -384,5 +384,33 @@
     }
   ],
   "episodes": [],
-  "shows": []
+  "shows": [
+    {
+      "title": "Dept. Q",
+      "season": 1,
+      "date": "2025-08-12",
+      "rating": 10,
+      "showId": 245703
+    },
+    {
+      "title": "The Four Seasons",
+      "season": 1,
+      "date": "2025-08-17",
+      "rating": 4,
+      "showId": 243316
+    },
+    {
+      "title": "The Four Seasons",
+      "date": "2025-08-17",
+      "rating": 4,
+      "showId": 243316
+    },
+    {
+      "title": "Fisk",
+      "season": 3,
+      "date": "2025-08-23",
+      "rating": 8,
+      "showId": 121040
+    }
+  ]
 }

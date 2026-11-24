@@ -595,5 +595,13 @@
     }
   ],
   "episodes": [],
-  "shows": []
+  "shows": [
+    {
+      "title": "Chef's Table: Legends",
+      "season": 1,
+      "date": "2025-05-29",
+      "rating": 4,
+      "showId": 273212
+    }
+  ]
 }

@@ -549,5 +549,20 @@
   "architypes": [],
   "contributions": [],
   "episodes": [],
-  "shows": []
+  "shows": [
+    {
+      "title": "Zero Day",
+      "season": 1,
+      "date": "2025-03-02",
+      "rating": 6,
+      "showId": 216082
+    },
+    {
+      "title": "Resident Alien",
+      "season": 1,
+      "date": "2025-03-23",
+      "rating": 6,
+      "showId": 96580
+    }
+  ]
 }

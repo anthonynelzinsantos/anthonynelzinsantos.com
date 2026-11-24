@@ -5,7 +5,7 @@ monthName: "octobre"
 year: 2024
 date: "2024-10-01T12:00:00.000Z"
 month: "2024-10"
-tally: {"livres":4,"albums":33,"films":1}
+tally: {"livres":4,"albums":33,"films":1,"séries":2}
 aliases: ["/maintenant/octobre-2024/"]
 ---
 
@@ -14,4 +14,5 @@ aliases: ["/maintenant/octobre-2024/"]
 - [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Chance_ de Miki Yamanaka et vingt-huit autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Made in USA: Gershwin, Beach & Barber_ de Claire Huangci et trois autres albums
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _ハウルの動く城_ de Hayao Miyazaki
+- [j’ai vu](https://serializd.com/user/z1nz0l1n/diary) la saison 1 de _Nobody Wants This_ et la saison 1 de _Chef's Table: Noodles_
 <!-- archive:fin -->

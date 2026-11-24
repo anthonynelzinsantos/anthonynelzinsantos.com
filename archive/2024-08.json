@@ -564,5 +564,13 @@
       "source": "https://abatonsrompus.fr/75/"
     }
   ],
-  "shows": []
+  "shows": [
+    {
+      "title": "Exploding Kittens",
+      "season": 1,
+      "date": "2024-08-16",
+      "rating": 6,
+      "showId": 219532
+    }
+  ]
 }
