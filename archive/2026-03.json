@@ -302,5 +302,23 @@
       "date": "2026-03-25",
       "source": "https://abatonsrompus.fr/81/"
     }
+  ],
+  "shows": [
+    {
+      "title": "Bones",
+      "season": 3,
+      "date": "2026-03-01",
+      "rating": 6,
+      "rewatch": true,
+      "showId": 1911
+    },
+    {
+      "title": "Bones",
+      "season": 4,
+      "date": "2026-03-23",
+      "rating": 6,
+      "rewatch": true,
+      "showId": 1911
+    }
   ]
 }

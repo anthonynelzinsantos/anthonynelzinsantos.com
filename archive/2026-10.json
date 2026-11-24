@@ -412,5 +412,49 @@
       "source": "https://archityp.es/maroquinerie-firminy/"
     }
   ],
-  "episodes": []
+  "episodes": [],
+  "shows": [
+    {
+      "title": "Ghosts",
+      "season": 2,
+      "date": "2026-10-07",
+      "rating": 6,
+      "showId": 126027
+    },
+    {
+      "title": "Ghosts",
+      "season": 3,
+      "date": "2026-10-27",
+      "rating": 6,
+      "showId": 126027
+    },
+    {
+      "title": "Rick and Morty",
+      "season": 1,
+      "date": "2026-10-27",
+      "rating": 8,
+      "showId": 60625
+    },
+    {
+      "title": "Rick and Morty",
+      "season": 2,
+      "date": "2026-10-29",
+      "rating": 8,
+      "showId": 60625
+    },
+    {
+      "title": "Rick and Morty",
+      "season": 3,
+      "date": "2026-10-30",
+      "rating": 8,
+      "showId": 60625
+    },
+    {
+      "title": "Rick and Morty",
+      "season": 4,
+      "date": "2026-10-30",
+      "rating": 8,
+      "showId": 60625
+    }
+  ]
 }

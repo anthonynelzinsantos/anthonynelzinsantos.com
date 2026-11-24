@@ -10,6 +10,10 @@ other = "livres"
 one = "film"
 other = "films"
 
+["séries"]
+one = "série"
+other = "séries"
+
 [contributions]
 one = "contribution"
 other = "contributions"

@@ -6,7 +6,7 @@ export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "
 export const ARCHIVE = path.join(ROOT, "archive");
 
 export const CREATOR = { books: "author", albums: "artist", films: "director" };
-export const SHELVES = [...Object.keys(CREATOR), "contributions", "dispatches", "architypes", "episodes"];
+export const SHELVES = [...Object.keys(CREATOR), "shows", "contributions", "dispatches", "architypes", "episodes"];
 
 export const DRY_RUN = process.env.DRY_RUN === "1";
 
@@ -40,6 +40,7 @@ const flatten = (s) => String(s ?? "").toLowerCase().normalize("NFKD")
 	.replace(/[\s-]+/g, "-").replace(/^-+|-+$/g, "");
 
 export function identity(shelf, item) {
+	if (shelf === "shows") return `shows:${item.showId ?? flatten(item.title)}-s${item.season ?? 0}`;
 	if (!CREATOR[shelf]) return `${shelf}:${item.source || item.date || flatten(item.title)}`;
 
 	const key = shelf === "films" ? item.year : item[CREATOR[shelf]];

@@ -142,5 +142,42 @@
       "date": "2026-01-14",
       "source": "https://abatonsrompus.fr/79/"
     }
+  ],
+  "shows": [
+    {
+      "title": "Solar Opposites",
+      "season": 3,
+      "date": "2026-01-01",
+      "rating": 8,
+      "showId": 97645
+    },
+    {
+      "title": "Solar Opposites",
+      "season": 4,
+      "date": "2026-01-03",
+      "rating": 6,
+      "showId": 97645
+    },
+    {
+      "title": "Solar Opposites",
+      "season": 5,
+      "date": "2026-01-07",
+      "rating": 6,
+      "showId": 97645
+    },
+    {
+      "title": "Zoey's Extraordinary Playlist",
+      "season": 1,
+      "date": "2026-01-19",
+      "rating": 8,
+      "showId": 95941
+    },
+    {
+      "title": "Zoey's Extraordinary Playlist",
+      "season": 2,
+      "date": "2026-01-24",
+      "rating": 6,
+      "showId": 95941
+    }
   ]
 }

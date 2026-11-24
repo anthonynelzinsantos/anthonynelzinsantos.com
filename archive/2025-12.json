@@ -211,5 +211,60 @@
       "date": "2025-12-17",
       "source": "https://abatonsrompus.fr/78/"
     }
+  ],
+  "shows": [
+    {
+      "title": "The Good Place",
+      "season": 1,
+      "date": "2025-12-10",
+      "rating": 10,
+      "rewatch": true,
+      "showId": 66573
+    },
+    {
+      "title": "The Good Place",
+      "season": 2,
+      "date": "2025-12-10",
+      "rating": 8,
+      "rewatch": true,
+      "showId": 66573
+    },
+    {
+      "title": "The Good Place",
+      "season": 3,
+      "date": "2025-12-11",
+      "rating": 6,
+      "rewatch": true,
+      "showId": 66573
+    },
+    {
+      "title": "The Good Place",
+      "season": 4,
+      "date": "2025-12-12",
+      "rating": 8,
+      "rewatch": true,
+      "showId": 66573
+    },
+    {
+      "title": "Man vs Baby",
+      "season": 1,
+      "date": "2025-12-17",
+      "rating": 6,
+      "showId": 279601
+    },
+    {
+      "title": "Solar Opposites",
+      "season": 1,
+      "date": "2025-12-21",
+      "rating": 8,
+      "showId": 97645
+    },
+    {
+      "title": "Solar Opposites",
+      "season": 2,
+      "date": "2025-12-31",
+      "rating": 8,
+      "showId": 97645
+    }
   ]
 }

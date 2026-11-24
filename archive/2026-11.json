@@ -357,5 +357,56 @@
       "source": "https://archityp.es/le-carrefour-lyon/"
     }
   ],
-  "episodes": []
+  "episodes": [],
+  "shows": [
+    {
+      "title": "The Diplomat",
+      "season": 4,
+      "date": "2026-11-01",
+      "rating": 10,
+      "showId": 203857
+    },
+    {
+      "title": "Rick and Morty",
+      "season": 5,
+      "date": "2026-11-02",
+      "rating": 8,
+      "showId": 60625
+    },
+    {
+      "title": "Rick and Morty",
+      "season": 6,
+      "date": "2026-11-02",
+      "rating": 6,
+      "showId": 60625
+    },
+    {
+      "title": "Rick and Morty",
+      "season": 7,
+      "date": "2026-11-03",
+      "rating": 6,
+      "showId": 60625
+    },
+    {
+      "title": "Rick and Morty",
+      "season": 8,
+      "date": "2026-11-04",
+      "rating": 6,
+      "showId": 60625
+    },
+    {
+      "title": "Ghosts",
+      "season": 4,
+      "date": "2026-11-12",
+      "rating": 6,
+      "showId": 126027
+    },
+    {
+      "title": "Black Doves",
+      "season": 2,
+      "date": "2026-11-18",
+      "rating": 8,
+      "showId": 225385
+    }
+  ]
 }

@@ -421,5 +421,14 @@
       "date": "2026-09-30",
       "source": "https://abatonsrompus.fr/87/"
     }
+  ],
+  "shows": [
+    {
+      "title": "Murder Mindfully",
+      "season": 2,
+      "date": "2026-09-27",
+      "rating": 8,
+      "showId": 252372
+    }
   ]
 }

@@ -502,5 +502,14 @@
       "date": "2026-08-28",
       "source": "https://abatonsrompus.fr/86/"
     }
+  ],
+  "shows": [
+    {
+      "title": "SPY x FAMILY",
+      "season": 3,
+      "date": "2026-08-23",
+      "rating": 8,
+      "showId": 120089
+    }
   ]
 }

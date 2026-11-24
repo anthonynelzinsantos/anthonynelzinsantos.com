@@ -5,7 +5,7 @@ monthName: "mars"
 year: 2026
 date: "2026-03-01T12:00:00.000Z"
 month: "2026-03"
-tally: {"livres":1,"albums":30,"films":1,"contributions":25,"dispatches":5,"épisodes":1,"concerts":2,"villes":2}
+tally: {"livres":1,"albums":30,"films":1,"séries":1,"contributions":25,"dispatches":5,"épisodes":1,"concerts":2,"villes":2}
 aliases: ["/maintenant/mars-2026/","/now/mars-2026/"]
 ---
 
@@ -14,6 +14,7 @@ aliases: ["/maintenant/mars-2026/","/now/mars-2026/"]
 - [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _The Mountain_ de Gorillaz et vingt-huit autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Two_ de Chick Corea & Béla Fleck
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _Superman_ de James Gunn
+- [j’ai revu](https://serializd.com/user/z1nz0l1n/diary) les saisons 3 et 4 de _Bones_
 - j’ai fait vingt-cinq contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai publié cinq _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
 - j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)

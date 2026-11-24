@@ -435,5 +435,14 @@
       "date": "2024-05-24",
       "source": "https://abatonsrompus.fr/74/"
     }
+  ],
+  "shows": [
+    {
+      "title": "Archer",
+      "season": 14,
+      "date": "2024-05-15",
+      "rating": 8,
+      "showId": 10283
+    }
   ]
 }

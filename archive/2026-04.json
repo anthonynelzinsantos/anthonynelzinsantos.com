@@ -314,5 +314,22 @@
       "date": "2026-04-23",
       "source": "https://abatonsrompus.fr/82/"
     }
+  ],
+  "shows": [
+    {
+      "title": "Bones",
+      "season": 5,
+      "date": "2026-04-11",
+      "rating": 6,
+      "rewatch": true,
+      "showId": 1911
+    },
+    {
+      "title": "Bones",
+      "season": 6,
+      "date": "2026-04-25",
+      "rating": 6,
+      "showId": 1911
+    }
   ]
 }

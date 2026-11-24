@@ -383,5 +383,14 @@
       "date": "2026-07-30",
       "source": "https://abatonsrompus.fr/85/"
     }
+  ],
+  "shows": [
+    {
+      "title": "Resident Alien",
+      "season": 3,
+      "date": "2026-07-14",
+      "rating": 4,
+      "showId": 96580
+    }
   ]
 }

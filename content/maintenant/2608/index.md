@@ -5,7 +5,7 @@ monthName: "aout"
 year: 2026
 date: "2026-08-01T12:00:00.000Z"
 month: "2026-08"
-tally: {"livres":2,"albums":44,"films":2,"contributions":76,"dispatches":5,"architypes":11,"épisodes":1,"villes":5}
+tally: {"livres":2,"albums":44,"films":2,"séries":1,"contributions":76,"dispatches":5,"architypes":11,"épisodes":1,"villes":5}
 aliases: ["/maintenant/aout-2026/","/now/aout-2026/"]
 photos:
   "2608-1.jpg": "Need money for yarn."
@@ -36,6 +36,7 @@ photos:
 - [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Camino - Spanish and French repertoire for guitar_ de Sean Shibe et trente-neuf autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _You’re Exaggerating!_ de Paul Cornish et trois autres albums
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _見はらし世代_ de Yuiga Danzuka et _O Brother, Where Art Thou?_ de Joel Coen
+- [j’ai vu](https://serializd.com/user/z1nz0l1n/diary) la saison 3 de _SPY x FAMILY_
 - j’ai fait soixante-seize contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai publié cinq _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
 - j’ai publié onze architypes sur [_Architypes_](https://archityp.es/)

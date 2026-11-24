@@ -5,7 +5,7 @@ monthName: "septembre"
 year: 2026
 date: "2026-09-01T12:00:00.000Z"
 month: "2026-09"
-tally: {"livres":2,"albums":38,"films":1,"contributions":24,"dispatches":4,"architypes":10,"épisodes":1,"concerts":1}
+tally: {"livres":2,"albums":38,"films":1,"séries":1,"contributions":24,"dispatches":4,"architypes":10,"épisodes":1,"concerts":1}
 aliases: ["/maintenant/septembre-2026/","/now/septembre-2026/"]
 photos:
   "2609-1.jpg": "C’est probablement un joueur de foot, mais j’ai décidé de le prendre pour moi."
@@ -18,6 +18,7 @@ photos:
 - [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Hamilton: An American Musical_ de Lin-Manuel Miranda et trente autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Read My Lips_ de Sophie Ellis-Bextor et six autres albums
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _De la Comédie-Française_ de Bertrand Usclat et Martin Darondeau
+- [j’ai vu](https://serializd.com/user/z1nz0l1n/diary) la saison 2 de _Murder Mindfully_
 - j’ai fait vingt-quatre contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai publié quatre _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
 - j’ai publié dix architypes sur [_Architypes_](https://archityp.es/)

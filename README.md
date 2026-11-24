@@ -30,6 +30,7 @@ One JSON file per month, `archive/<YYYY-MM>.json`, with one shelf per source:
 | `books`                                | StoryGraph CSV export | `harvest-storygraph.mjs` |
 | `albums`                               | Last.fm               | `harvest-lastfm.mjs`     |
 | `films`                                | Letterboxd            | `harvest-letterboxd.mjs` |
+| `shows`                                | Serializd             | `harvest-serializd.mjs`  |
 | `contributions`                        | GitHub                | `harvest-github.mjs`     |
 | `dispatches`, `architypes`, `episodes` | RSS feeds             | `harvest-feeds.mjs`      |
 
@@ -42,6 +43,7 @@ Harvesters can be re-run safely: the same item on the same day is never counted 
 ```bash
 LASTFM_API_KEY=… LASTFM_USER=…  node scripts/harvest-lastfm.mjs
 LETTERBOXD_USER=…               node scripts/harvest-letterboxd.mjs
+node scripts/harvest-serializd.mjs
 node scripts/harvest-feeds.mjs                       # or: dispatches | architypes | episodes
 node scripts/harvest-github.mjs                      # or: 2011 2012 … (one year at a time)
 node scripts/harvest-storygraph.mjs ~/Downloads/export.csv
@@ -53,6 +55,7 @@ Last.fm and Letterboxd also take a full export (a CSV, a folder) as an argument,
 Things to know:
 
 - **StoryGraph has no API.** Books only arrive from a CSV i pass by hand.
+- **Serializd has no official API.** The harvester uses the one its own apps use, so it can break without notice; when it does, the daily run carries on without shows. It logs seasons: a month says "j’ai vu la saison 2 de _Severance_", a season marked as a rewatch says "j’ai revu", and the counter counts shows, not seasons.
 - **Albums, not tracks.** A run of plays with no gap over `LASTFM_GAP_HOURS` (6) and at least `LASTFM_MIN_TRACKS` (3) tracks counts as one listen.
 - **RSS feeds only go back so far** (24 items for Z1NZ0L1N and Architypes). Older months don't backfill themselves.
 - **Dates are when things happened**, not when i logged them.

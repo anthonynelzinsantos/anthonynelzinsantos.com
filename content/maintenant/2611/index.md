@@ -5,7 +5,7 @@ monthName: "novembre"
 year: 2026
 date: "2026-11-01T12:00:00.000Z"
 month: "2026-11"
-tally: {"albums":25,"films":3,"contributions":266,"dispatches":4,"architypes":7, "concerts": 3}
+tally: {"albums":25,"films":3,"séries":4,"contributions":266,"dispatches":4,"architypes":7,"concerts":3}
 photos:
   "2611-1.jpg": "Citroën DS."
   "2611-2.jpg": "Fiat Abarth 595."
@@ -36,6 +36,7 @@ photos:
 - [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _Traces of Light_ de Jan Prax et vingt-et-un autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _Snap, Crackle & Bop!_ d’Us3 et deux autres albums
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _The Super Mario Galaxy Movie_ d’Aaron Horvath et Michael Jelenic, _リバー、流れないでよ_ de Junta Yamaguchi et _朝がくるとむなしくなる_ de Yuho Ishibashi
+- [j’ai vu](https://serializd.com/user/z1nz0l1n/diary) la saison 4 de _The Diplomat_, les saisons 5 à 8 de _Rick and Morty_, la saison 4 de _Ghosts_ et la saison 2 de _Black Doves_
 - j’ai fait deux-cent-soixante-six contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai publié quatre _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
 - j’ai publié sept architypes sur [_Architypes_](https://archityp.es/)

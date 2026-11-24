@@ -456,5 +456,14 @@
       "date": "2024-04-19",
       "source": "https://abatonsrompus.fr/73/"
     }
+  ],
+  "shows": [
+    {
+      "title": "3 Body Problem",
+      "season": 1,
+      "date": "2024-04-07",
+      "rating": 8,
+      "showId": 108545
+    }
   ]
 }

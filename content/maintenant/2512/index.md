@@ -5,7 +5,7 @@ monthName: "décembre"
 year: 2025
 date: "2025-12-01T12:00:00.000Z"
 month: "2025-12"
-tally: {"livres":4,"albums":20,"films":2,"contributions":20,"épisodes":1,"concerts":2,"villes":1}
+tally: {"livres":4,"albums":20,"films":2,"séries":3,"contributions":20,"épisodes":1,"concerts":2,"villes":1}
 aliases: ["/maintenant/decembre-2025/","/now/decembre-2025/"]
 ---
 
@@ -14,6 +14,8 @@ aliases: ["/maintenant/decembre-2025/","/now/decembre-2025/"]
 - [j’ai écouté](https://www.last.fm/user/z1nz0l1n) _A Charlie Brown Christmas_ de Vince Guaraldi Trio et dix-sept autres albums
 - [j’ai réécouté](https://www.last.fm/user/z1nz0l1n) _A Charlie Brown Christmas_ de Cyrus Chestnut et un autre album
 - [j’ai vu](https://letterboxd.com/z1nz0l1n/) _Wake Up Dead Man_ de Rian Johnson et _Le Secret de Khéops_ de Barbara Schulz
+- [j’ai vu](https://serializd.com/user/z1nz0l1n/diary) la saison 1 de _Man vs Baby_ et les saisons 1 et 2 de _Solar Opposites_
+- [j’ai revu](https://serializd.com/user/z1nz0l1n/diary) les saisons 1 à 4 de _The Good Place_
 - j’ai fait vingt contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai enregistré un épisode de mon podcast [_À bâtons rompus_](https://abatonsrompus.fr/)
 <!-- archive:fin -->

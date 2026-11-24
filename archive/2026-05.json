@@ -379,5 +379,54 @@
       "date": "2026-05-31",
       "source": "https://abatonsrompus.fr/83/"
     }
+  ],
+  "shows": [
+    {
+      "title": "Bones",
+      "season": 7,
+      "date": "2026-05-02",
+      "rating": 2,
+      "showId": 1911
+    },
+    {
+      "title": "30 Rock",
+      "season": 1,
+      "date": "2026-05-08",
+      "rating": 10,
+      "rewatch": true,
+      "showId": 4608
+    },
+    {
+      "title": "30 Rock",
+      "season": 2,
+      "date": "2026-05-10",
+      "rating": 8,
+      "rewatch": true,
+      "showId": 4608
+    },
+    {
+      "title": "30 Rock",
+      "season": 3,
+      "date": "2026-05-19",
+      "rating": 8,
+      "rewatch": true,
+      "showId": 4608
+    },
+    {
+      "title": "30 Rock",
+      "season": 4,
+      "date": "2026-05-27",
+      "rating": 8,
+      "rewatch": true,
+      "showId": 4608
+    },
+    {
+      "title": "30 Rock",
+      "season": 5,
+      "date": "2026-05-31",
+      "rating": 8,
+      "rewatch": true,
+      "showId": 4608
+    }
   ]
 }

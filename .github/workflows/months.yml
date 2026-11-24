@@ -43,6 +43,11 @@ jobs:
           node scripts/harvest-feeds.mjs
           node scripts/harvest-github.mjs
 
+      - name: Harvest shows
+        if: github.event_name != 'push'
+        continue-on-error: true
+        run: node scripts/harvest-serializd.mjs
+
       - name: Enrich films
         if: github.event_name != 'push'
         run: node scripts/enrich-films.mjs

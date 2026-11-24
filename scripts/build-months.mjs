@@ -72,12 +72,14 @@ const TITLE = {
 const VERBS = {
 	books: ["lu", "relu"],
 	films: ["vu", "revu"],
+	shows: ["vu", "revu"],
 	albums: ["écouté", "réécouté"],
 };
 
 const PROFILES = {
 	books: "https://app.thestorygraph.com/profile/z1nz0l1n",
 	films: "https://letterboxd.com/z1nz0l1n/",
+	shows: "https://serializd.com/user/z1nz0l1n/diary",
 	albums: "https://www.last.fm/user/z1nz0l1n",
 };
 
@@ -96,6 +98,28 @@ const PUBLISHED = [
 		join: "de mon podcast",
 		where: "[_À bâtons rompus_](https://abatonsrompus.fr/)" },
 ];
+
+const showOf = (item) => item.showId ?? item.title.trim().toLowerCase();
+
+function seasons(numbers) {
+	const n = [...new Set(numbers)].sort((a, b) => a - b);
+	if (n.length === 1) return `la saison ${n[0]}`;
+	const run = n.length > 2 && n.every((v, i) => !i || v === n[i - 1] + 1);
+	return run ? `les saisons ${n[0]} à ${n.at(-1)}` : `les saisons ${join(n)}`;
+}
+
+function shows(items) {
+	const groups = new Map();
+	for (const item of items) {
+		const key = showOf(item);
+		if (!groups.has(key)) groups.set(key, { title: withoutEdition(item.title), seasons: [] });
+		if (Number.isInteger(item.season)) groups.get(key).seasons.push(item.season);
+	}
+	return join([...groups.values()].map(({ title, seasons: s }) => {
+		if (!s.length) return `la série ${italic(title)}`;
+		return `${seasons(s)} ${VOWEL.test(title) ? "d’" : "de "}${italic(title)}`;
+	}));
+}
 
 const displayTitle = (shelf, item) => shelf === "films" ? (item.originalTitle || item.title) : item.title;
 
@@ -139,7 +163,7 @@ function sentences(month) {
 		return B.tracks - A.tracks || B.sessions - A.sessions || a.date.localeCompare(b.date);
 	});
 
-	for (const shelf of ["books", "albums", "films"]) {
+	for (const shelf of ["books", "albums", "films", "shows"]) {
 		const all = month[shelf] ?? [];
 		const fresh = new Set(all.filter((x) => !x.repeat).map((x) => identity(shelf, x)));
 		const groups = [
@@ -151,13 +175,15 @@ function sentences(month) {
 			const lot = groups[i].sort((a, b) => a.date.localeCompare(b.date));
 			if (!lot.length) continue;
 
+			const head = PROFILES[shelf] ? `[j’ai ${verb}](${PROFILES[shelf]})` : `j’ai ${verb}`;
+			if (shelf === "shows") { lines.push(`${head} ${shows(lot)}`); continue; }
+
 			const cap = shelf === "albums" ? ALBUMS_NAMED : lot.length;
 			const order = shelf === "albums" ? mostPlayed(lot) : lot;
 			const chosen = order.slice(0, cap);
 			const named = names(shelf, chosen);
 			const rest = lot.length - chosen.length;
 
-			const head = PROFILES[shelf] ? `[j’ai ${verb}](${PROFILES[shelf]})` : `j’ai ${verb}`;
 			let line = `${head} ` + joinNames(named);
 			if (rest === 1) line += " et un autre album";
 			else if (rest > 1) line += ` et ${spell(rest)} autres albums`;
@@ -205,7 +231,7 @@ function head(old, keys) {
 }
 
 const OWN_TALLY = [...SHELVES, "photos"];
-const TALLY_LABEL = { books: "livres", episodes: "épisodes" };
+const TALLY_LABEL = { books: "livres", shows: "séries", episodes: "épisodes" };
 
 function mergeTally(old, computed) {
 	let extra = {};
@@ -223,7 +249,7 @@ if (!archive.size) {
 
 const occurrences = new Map();
 for (const contents of archive.values()) {
-	for (const shelf of ["albums", "books", "films"]) {
+	for (const shelf of ["albums", "books", "films", "shows"]) {
 		for (const item of contents[shelf] ?? []) {
 			const id = identity(shelf, item);
 			if (!occurrences.has(id)) occurrences.set(id, []);
@@ -233,7 +259,7 @@ for (const contents of archive.values()) {
 }
 for (const list of occurrences.values()) {
 	list.sort((a, b) => a.date.localeCompare(b.date));
-	list.forEach((item, i) => { item.repeat = i > 0; });
+	list.forEach((item, i) => { item.repeat = i > 0 || item.rewatch === true; });
 }
 
 await mkdir(OUT, { recursive: true });
@@ -253,7 +279,9 @@ for (const [month, contents] of [...archive.entries()].sort()) {
 
 	const computed = {};
 	for (const shelf of SHELVES) {
-		const n = count(contents[shelf]);
+		const n = shelf === "shows"
+			? new Set((contents.shows ?? []).map(showOf)).size
+			: count(contents[shelf]);
 		if (n) computed[TALLY_LABEL[shelf] ?? shelf] = n;
 	}
 

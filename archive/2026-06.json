@@ -429,5 +429,30 @@
       "date": "2026-06-26",
       "source": "https://abatonsrompus.fr/84/"
     }
+  ],
+  "shows": [
+    {
+      "title": "30 Rock",
+      "season": 6,
+      "date": "2026-06-06",
+      "rating": 6,
+      "rewatch": true,
+      "showId": 4608
+    },
+    {
+      "title": "30 Rock",
+      "season": 7,
+      "date": "2026-06-10",
+      "rating": 6,
+      "rewatch": true,
+      "showId": 4608
+    },
+    {
+      "title": "Good Cop/Bad Cop",
+      "season": 1,
+      "date": "2026-06-20",
+      "rating": 8,
+      "showId": 248752
+    }
   ]
 }

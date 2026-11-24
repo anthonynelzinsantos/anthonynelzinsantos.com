@@ -168,5 +168,28 @@
       "date": "2025-11-19",
       "source": "https://abatonsrompus.fr/77/"
     }
+  ],
+  "shows": [
+    {
+      "title": "Nobody Wants This",
+      "season": 2,
+      "date": "2025-11-06",
+      "rating": 6,
+      "showId": 250923
+    },
+    {
+      "title": "Death by Lightning",
+      "season": 1,
+      "date": "2025-11-16",
+      "rating": 10,
+      "showId": 245219
+    },
+    {
+      "title": "A Man on the Inside",
+      "season": 2,
+      "date": "2025-11-23",
+      "rating": 6,
+      "showId": 245312
+    }
   ]
 }

@@ -176,5 +176,23 @@
       "date": "2026-02-25",
       "source": "https://abatonsrompus.fr/80/"
     }
+  ],
+  "shows": [
+    {
+      "title": "Bones",
+      "season": 1,
+      "date": "2026-02-12",
+      "rating": 6,
+      "rewatch": true,
+      "showId": 1911
+    },
+    {
+      "title": "Bones",
+      "season": 2,
+      "date": "2026-02-23",
+      "rating": 6,
+      "rewatch": true,
+      "showId": 1911
+    }
   ]
 }
