@@ -5,7 +5,7 @@ monthName: "novembre"
 year: 2026
 date: "2026-11-01T12:00:00.000Z"
 month: "2026-11"
-tally: {"albums":25,"films":3,"contributions":266,"dispatches":4,"architypes":7}
+tally: {"albums":25,"films":3,"contributions":266,"dispatches":4,"architypes":7, "concerts": 3}
 photos:
   "2611-1.jpg": "Citroën DS."
   "2611-2.jpg": "Fiat Abarth 595."
@@ -47,3 +47,4 @@ photos:
 - j’ai vu Roberto Fonseca et Vincent Ségal en concert à l’Opéra national de Lyon
 - j’ai compris pourquoi les vendeurs de couteaux japonais glissaient des pansements dans leurs colis
 - j’ai gouté un café provenant de la région du [lac Tanganyika](https://fr.wikipedia.org/wiki/Lac_Tanganyika) en Zambie. Une nouvelle fois, la torréfaction de [Méo](https://www.meo.fr/produit/zambie-lac-tanganyica-grains-250g/) prévient toute subtilité, mais j’ai tout de même réussi à dégager une certaine acidité fruitée, quelque part entre la cerise cueillie trop tôt et la quetsche
+- j’ai vu Tigran Hamasyan accompagné par Yessaï Karapetian, Marc Karapetian et Arman Mnatsakanyan en concert à l’auditorium de Lyon
