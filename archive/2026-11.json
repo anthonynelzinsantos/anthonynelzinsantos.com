@@ -96,7 +96,7 @@
       "title": "Scenes From Above (feat. John Medeski, Jorge Roeder & Kenny Wollesen)",
       "artist": "Julian Lage",
       "date": "2026-11-13",
-      "tracks": 9,
+      "tracks": 12,
       "source": "https://www.last.fm/music/Julian+Lage/Scenes+From+Above+(feat.+John+Medeski%2C+Jorge+Roeder+%26+Kenny+Wollesen)"
     },
     {
@@ -175,6 +175,13 @@
       "date": "2026-11-21",
       "tracks": 18,
       "source": "https://www.last.fm/music/Loni+Cornelis/Impress-Express"
+    },
+    {
+      "title": "Elf Traps",
+      "artist": "Elf Traps",
+      "date": "2026-11-24",
+      "tracks": 8,
+      "source": "https://www.last.fm/music/Elf+Traps/Elf+Traps"
     }
   ],
   "films": [
@@ -296,6 +303,11 @@
       "title": "contributions du 2026-11-22",
       "date": "2026-11-22",
       "count": 9
+    },
+    {
+      "title": "contributions du 2026-11-24",
+      "date": "2026-11-24",
+      "count": 5
     }
   ],
   "dispatches": [
@@ -355,6 +367,11 @@
       "title": "Le carrefour (Lyon)",
       "date": "2026-11-20",
       "source": "https://archityp.es/le-carrefour-lyon/"
+    },
+    {
+      "title": "Au bon accueil (Lyon)",
+      "date": "2026-11-23",
+      "source": "https://archityp.es/au-bon-accueil-lyon/"
     }
   ],
   "episodes": [],

@@ -283,7 +283,17 @@
       "format": "paperback"
     }
   ],
-  "films": [],
+  "films": [
+    {
+      "title": "Sarah Millican: Late Bloomer",
+      "year": 2025,
+      "date": "2026-04-02",
+      "rating": 3,
+      "source": "https://letterboxd.com/z1nz0l1n/film/sarah-millican-late-bloomer/",
+      "director": "Brian Klein",
+      "originalTitle": null
+    }
+  ],
   "dispatches": [
     {
       "title": "Milestones",
