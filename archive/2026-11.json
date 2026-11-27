@@ -182,6 +182,20 @@
       "date": "2026-11-24",
       "tracks": 8,
       "source": "https://www.last.fm/music/Elf+Traps/Elf+Traps"
+    },
+    {
+      "title": "Reflections - EP",
+      "artist": "Charles Overton",
+      "date": "2026-11-25",
+      "tracks": 5,
+      "source": "https://www.last.fm/music/Charles+Overton/Reflections+-+EP"
+    },
+    {
+      "title": "The Midnight Hour: Lost Tapes JID028",
+      "artist": "Adrian Younge & Ali Shaheed Muhammad",
+      "date": "2026-11-25",
+      "tracks": 8,
+      "source": "https://www.last.fm/music/Adrian+Younge+%26+Ali+Shaheed+Muhammad/The+Midnight+Hour%3A+Lost+Tapes+JID028"
     }
   ],
   "films": [
@@ -308,6 +322,11 @@
       "title": "contributions du 2026-11-24",
       "date": "2026-11-24",
       "count": 5
+    },
+    {
+      "title": "contributions du 2026-11-26",
+      "date": "2026-11-26",
+      "count": 1
     }
   ],
   "dispatches": [
