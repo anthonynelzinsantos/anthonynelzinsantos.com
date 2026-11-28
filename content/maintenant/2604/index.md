@@ -7,6 +7,9 @@ date: "2026-04-01T12:00:00.000Z"
 month: "2026-04"
 tally: {"livres":3,"albums":37,"films":1,"séries":1,"dispatches":4,"épisodes":1,"concerts":1}
 aliases: ["/maintenant/avril-2026/","/now/avril-2026/"]
+photos:
+  "2604-1.jpg": "Olivetti Lettera 36."
+  "2604-2.jpg": "Il y a des matins comme ça…"
 ---
 
 <!-- archive:début -->
