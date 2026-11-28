@@ -5,7 +5,7 @@ monthName: "novembre"
 year: 2026
 date: "2026-11-01T12:00:00.000Z"
 month: "2026-11"
-tally: {"albums":28,"films":3,"séries":5,"contributions":272,"dispatches":4,"architypes":8,"concerts":3}
+tally: {"albums":28,"films":3,"séries":5,"contributions":272,"dispatches":4,"architypes":9,"concerts":3}
 photos:
   "2611-1.jpg": "Citroën DS."
   "2611-2.jpg": "Fiat Abarth 595."
@@ -39,7 +39,7 @@ photos:
 - [j’ai vu](https://serializd.com/user/z1nz0l1n/diary) la saison 4 de _The Diplomat_, les saisons 5 à 8 de _Rick and Morty_, la saison 4 de _Ghosts_, la saison 2 de _Black Doves_ et la saison 3 de _Nobody Wants This_
 - j’ai fait deux-cent-soixante-douze contributions sur [GitHub](https://github.com/anthonynelzinsantos)
 - j’ai publié quatre _dispatches_ sur [_Z1NZ0L1N_](https://z1nz0l1n.com/)
-- j’ai publié huit architypes sur [_Architypes_](https://archityp.es/)
+- j’ai publié neuf architypes sur [_Architypes_](https://archityp.es/)
 <!-- archive:fin -->
 - j’ai vu l’Orchestre arabo-andalou du Maroc/Mohamed Briouel accompagné par Noureddine Tahiri et Sanaa Marahati en concert à l’auditorium de Lyon
 - j’ai visité [le salon Époqu’auto](https://epoquauto.com/) pour la troisième et probablement dernière fois. Les passionnés ont été relégués au fin fond du centre Eurexpo pour laisser la place aux revendeurs de bolides surcotés et aux camelots écoulant des chinoiseries. Les circulations entre les halls semblent avoir été savamment étudiées pour créer des goulots d’étranglement, mais je suppose que les embouteillages font partie de la culture bagnolarde
